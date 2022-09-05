@@ -1,4 +1,4 @@
-# CancerDB: A public domain csv file to help build a cure
+# CancerDB: A public domain csv file to help build the next great cure
 
 ## Launching November 1st, 2022
 
@@ -6,7 +6,7 @@ CancerDB is a public domain database and website containing facts about all type
 
 Who knows, maybe we are just eight insights away from building a cure. CancerDB can help us figure out what those 8 missing insights are.
 
-CancerDB is build for Cancer Researchers to help them build a cure. It is also built for those beautiful human beings affected by cancer and their loved ones. We want to provide you with the _absolute_ best data on cancer. We will deliver that information to you quickly, cheaply, and you will be able to trust it 100%.
+CancerDB is build for Cancer Researchers to help them _build the next great cure_. It is also built for those beautiful human beings affected by cancer and their loved ones. We want to provide you with the _absolute_ best data on cancer. We will deliver that information to you quickly, cheaply, and you will be able to trust it 100%.
 
 This repo contains the entire database and website for https://cancerdb.com.
 
@@ -14,8 +14,8 @@ This repo contains the entire database and website for https://cancerdb.com.
 
 The CancerDB database will be freely available:
 
--   As CSV:
--   As JSON:
+- As CSV:
+- As JSON:
 
 Documentation for the CSV will be available here: https://cancerdb.com/docs/csv.html.
 
@@ -61,13 +61,13 @@ https://cancerdb.com
 ```
 
 ```
-Breck Yunits et al. (2022) - "CancerDB: A public domain csv file to help build a cure". Retrieved from: 'https://cancerdb.com' [Online Resource]
+Breck Yunits et al. (2022) - "CancerDB: A public domain csv file to help build the next great cure". Retrieved from: 'https://cancerdb.com' [Online Resource]
 ```
 
 ```
 @article{pldb,
   author = {Breck Yunits et al.},
-  title = {CancerDB: A public domain csv file to help build a cure},
+  title = {CancerDB: A public domain csv file to help build the next great cure},
   journal = {CancerDB},
   year = {2022},
   note = {https://cancerdb.com}
