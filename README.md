@@ -2,11 +2,11 @@
 
 ## Launching November 1st, 2022
 
-CancerDB is a public domain database and website containing facts about all types of cancers and structured information on things related to cancers and the quest for a cure.
+CancerDB is a public domain database and website containing facts about all types of cancers and related entities.
 
-Who knows, maybe we are just eight insights away from building a cure. CancerDB can help us figure out what those 8 missing insights are.
+Someone's project could by just 2 insights away from being the next great cure. CancerDB can help builders figure out what those 2 missing insights are.
 
-CancerDB is build for Cancer Researchers to help them _build the next great cure_. It is also built for those beautiful human beings affected by cancer and their loved ones. We want to provide you with the _absolute_ best data on cancer. We will deliver that information to you quickly, cheaply, and you will be able to trust it 100%.
+CancerDB is built for Cancer Researchers to help them _build the next great cure_. It is also built for those beautiful human beings affected by cancer and their loved ones. We want to provide you with the _absolute_ best data on cancer. We will deliver that information to you quickly, cheaply, and you will be able to trust it 100%.
 
 This repo contains the entire database and website for https://cancerdb.com.
 
