@@ -19,10 +19,10 @@ scrollFooter
    href #COMINGSOON
   span ·
   a Traffic Today
-   href #COMINGSOON
+   href BASE_URL/nginxDaily.html
   span ·
   a Traffic Trends
-   href #COMINGSOON
+   href BASE_URL/nginxDailyAll.html
   span ·
   a Mirrors
    href #COMINGSOON
