@@ -1,0 +1,10 @@
+.DS_Store
+ignore/
+node_modules/
+package-lock.json
+*Imports.scroll
+site/scroll.css
+*.html
+*.csv
+*.json
+*.xml
