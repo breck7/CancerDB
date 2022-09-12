@@ -1,0 +1,14 @@
+import settings.scroll
+
+css
+ .scrollFilePageComponent { text-align: center;}
+
+import searchForm.scroll
+
+replace BASE_URL .
+
+html
+ <br><br><br>
+
+maxColumns 1
+columnWidth 160
