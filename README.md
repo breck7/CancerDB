@@ -1,7 +1,5 @@
 # CancerDB: A public domain csv file to help build the next great cure
 
-## Launching November 1st, 2022
-
 CancerDB is a public domain database and website containing facts about all types of cancers and related entities.
 
 Someone's project could by just 2 insights away from being the next great cure. CancerDB can help builders figure out what those 2 missing insights are.
