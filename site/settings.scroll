@@ -13,4 +13,4 @@ scrollCss
 maxColumns 2
 import header.scroll
 import footer.scroll
-import scrollExtensions.scroll
+import ../../pldb/site/scrollExtensions.scroll
