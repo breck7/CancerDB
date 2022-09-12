@@ -1,0 +1,34 @@
+importOnly
+scrollFooter
+ div
+  class pldbFooter
+  a CancerDB
+   href BASE_URL/index.html
+   class logoFont
+  span - #AccelerateTheCures · <a title="This page was built in BUILT_IN_YEAR from commit LAST_HASH" href="https://github.com/breck7/CancerDB/commit/LAST_HASH">vBUILT_IN_YEAR</a> · 
+  a Day DAYS_SINCE_LAUNCH
+   href BASE_URL/pages/about.html
+  span ·
+  a Docs
+   href BASE_URL/docs/csv.html
+  span ·
+  a Build
+   href BUILD_URL
+  span ·
+  a Acknowledgements
+   href BASE_URL/pages/acknowledgements.html
+  span ·
+  a Traffic Today
+   href BASE_URL/nginxDaily.html
+  span ·
+  a Traffic Trends
+   href BASE_URL/nginxDailyAll.html
+  span ·
+  a Mirrors
+   href BASE_URL/pages/mirrors.html
+  span ·
+  a Email
+   href mailto:breck7+cancerdb@gmail.com
+  span ·
+  a GitHub
+   href https://github.com/breck7/CancerDB
