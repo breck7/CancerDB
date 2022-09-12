@@ -5,27 +5,27 @@ scrollFooter
   a CancerDB
    href BASE_URL/index.html
    class logoFont
-  span - #AccelerateTheCures · <a title="This page was built in BUILT_IN_YEAR from commit LAST_HASH" href="https://github.com/breck7/CancerDB/commit/LAST_HASH">vBUILT_IN_YEAR</a> · 
-  a Day DAYS_SINCE_LAUNCH
-   href BASE_URL/pages/about.html
+  span - #AccelerateTheCures · <a title="This page was built in BUILT_IN_YEAR from commit LAST_HASH" href="https://github.com/breck7/CancerDB/commit/LAST_HASH">v2022</a> · 
+  a Day 1
+   href #COMINGSOON
   span ·
   a Docs
-   href BASE_URL/docs/csv.html
+   href #COMINGSOON
   span ·
   a Build
-   href BUILD_URL
+   href #COMINGSOON
   span ·
   a Acknowledgements
-   href BASE_URL/pages/acknowledgements.html
+   href #COMINGSOON
   span ·
   a Traffic Today
-   href BASE_URL/nginxDaily.html
+   href #COMINGSOON
   span ·
   a Traffic Trends
-   href BASE_URL/nginxDailyAll.html
+   href #COMINGSOON
   span ·
   a Mirrors
-   href BASE_URL/pages/mirrors.html
+   href #COMINGSOON
   span ·
   a Email
    href mailto:breck7+cancerdb@gmail.com
