@@ -1,0 +1,22 @@
+{
+  "name": "cancerdb",
+  "version": "1.0.0",
+  "description": "accelerate the cures",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "echo 'Rsyncing site/ to /var/www/html on George'; rsync -vr site/* cancerdb.com:/var/www/html/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breck7/CancerDB.git"
+  },
+  "keywords": [
+    "cancer",
+    "data"
+  ],
+  "author": "Breck Yunits et al.",
+  "bugs": {
+    "url": "https://github.com/breck7/CancerDB/issues"
+  },
+  "homepage": "https://github.com/breck7/CancerDB#readme"
+}
