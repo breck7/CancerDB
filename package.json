@@ -4,6 +4,7 @@
   "description": "accelerate the cures",
   "main": "index.js",
   "scripts": {
+    "fire": "npm build && npm test && npm deploy",
     "build": "cd site; scroll build",
     "deploy": "echo 'Rsyncing site/ to /var/www/html on George'; rsync -vr site/* cancerdb.com:/var/www/html/",
     "test": "cd site && scroll check"
