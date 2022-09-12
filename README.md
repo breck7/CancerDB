@@ -59,12 +59,12 @@ https://cancerdb.com
 ```
 
 ```
-Breck Yunits et al. (2022) - "CancerDB: A public domain csv file to help build the next great cure". Retrieved from: 'https://cancerdb.com' [Online Resource]
+Yunits + Zhu + et al (2022) - "CancerDB: A public domain csv file to help build the next great cure". Retrieved from: 'https://cancerdb.com' [Online Resource]
 ```
 
 ```
 @article{pldb,
-  author = {Breck Yunits et al.},
+  author = {Yunits + Zhu + et al},
   title = {CancerDB: A public domain csv file to help build the next great cure},
   journal = {CancerDB},
   year = {2022},
@@ -74,6 +74,6 @@ Breck Yunits et al. (2022) - "CancerDB: A public domain csv file to help build t
 
 ## Funding
 
-The budget for Year for CancerDB is $6,315. $6,195 was used to purchase CancerDB.com and we expect $840 in Digital Ocean server costs. Funding so far is provided from Breck Yunits. If you are not a programmer or cancer researcher but want to contribute, there will be important ways you can both help sponsor us and help us decide what to do next. Please keep monitoring this page. If you would like to contribute anything now: https://giving.uhfoundation.org/funds/12388504.
+The budget for Year for CancerDB is $6,315. $6,195 was used to purchase CancerDB.com and we expect $840 in Digital Ocean server costs. Funding so far is provided from Breck Yunits. If you are not a programmer or cancer researcher but want to contribute, there will be important ways you can both help sponsor us and help us decide what to do next. Please keep monitoring this page. If you would like to contribute anything now: https://giving.uhfoundation.org/funds/12388504 or https://www.stjude.org/donate/donate-to-st-jude.html.
 
 All sources for CancerDB you will be able to find here: https://cancerdb.com/pages/acknowledgements.html
