@@ -5,7 +5,7 @@ scrollFooter
   a CancerDB
    href BASE_URL/index.html
    class logoFont
-  span - #AccelerateTheCures · <a title="This page was built in BUILT_IN_YEAR from commit LAST_HASH" href="https://github.com/breck7/CancerDB/commit/LAST_HASH">v2022</a> · 
+  span - <a href="https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/12/remarks-by-president-biden-on-the-cancer-moonshot-initiative/">#CancerMoonshot</a> · <a title="This page was built in BUILT_IN_YEAR from commit LAST_HASH" href="https://github.com/breck7/CancerDB/commit/LAST_HASH">v2022</a> · 
   a Day 1
    href #COMINGSOON
   span ·
