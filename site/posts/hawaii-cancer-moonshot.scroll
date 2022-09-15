@@ -11,7 +11,7 @@ html
 
 * If we build a public domain real-time collaborative spreadsheet of ~100,000 rows (one row for each existing cancer treament or idea), and ~1,000 columns (sparse features like appeared, location, team, type, clinical trial status...), for a total of a spreadsheet of ~100,000,000 cells, we can radically accelerate the cures for cancers.
 
-* How? Because we may have novel treaments that are one or two iterations away from being breakthroughs; we may have old treaments that are one or two iterations away from being breakthroughs; and we may have misapplied treaments that are one or two iterations away from figuring out when _not_ to use them.
+* How? Because we may have novel treaments that are one or two iterations away from being breakthroughs; we may have old treaments that are one or two iterations away from being breakthroughs; and we may have misapplied treaments that are one or two iterations away from figuring out when _not_ to use them. This spreadsheet(s), build in real-time by researchers, care givers, and programmers around the world, will help everyone make better decisions.
 
 # Ask
 
