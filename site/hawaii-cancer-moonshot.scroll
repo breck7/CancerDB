@@ -1,0 +1,44 @@
+title The Hawai'i #CancerMoonshot - how you can help 
+date 09-15-2022
+
+html
+ <center>
+
+
+# Theory
+
+* The pen is mightier than the sword. _The CSV is mightier than the pen_.
+
+* If we build a public domain real-time collaborative spreadsheet of ~100,000 rows (one row for each existing cancer treament or idea), and ~1,000 columns (sparse features like appeared, location, team, type, clinical trial status...), for a total of a spreadsheet of ~100,000,000 cells, we can radically accelerate the cures for cancers.
+
+# Ask
+
+* We should have as many backups as feaisble in case the Hawai'i led effort implodes (highly likely given our leader, call sign _liability_).
+
+* 1. Fork our repo: https://github.com/breck7/CancerDB
+
+* 2. Share a message on the social media of your choice: "I just forked CancerDB.com. #CancerMoonshot"
+
+# <a href="https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/12/remarks-by-president-biden-on-the-cancer-moonshot-initiative/">Unwilling to postpone</a>
+
+quote
+ I was asked by Xi Jinping — who I’ve met with more than any other world leader — in the Tibetan Plateau, and he turned to me and he said, “Can you define America for me?” And I said, “Yes.” And I was sincere. I said, “One word: possibilities.” In America, we believe anything is possible. (Applause.) And I mean it.
+ And in choosing to go to the Moon, President Kennedy said America was doing so, quote, “not because [it was] easy, but because [it was] hard, because [the] goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are” willing — not — “one we are unwilling to postpone, and one which we intend to win.”
+ “Unwilling to postpone.” President Kennedy. “Unwilling to postpone.” President Kennedy set a goal to win the Space Race against Russia and advance science and technology for all of humanity. And when he set that goal, he established a national purpose that could rally the American people in a common cause. And he succeeded.
+ Now, in our time, on the 60th anniversary of his clarion call, we face another inflection point. And together, we can choose to move forward with unity, hope, and optimism.
+ And I believe we can usher in the same unwillingness to postpone, the same national purpose that will serve to organize and measure the best of our energies and skills to end cancer as we know it and even cure cancers once and for all.
+ - President Joe Biden
+
+groups index
+
+html
+ <br><br></center>
+
+import settings.scroll
+groups index
+scrollHeader
+scrollFooter
+maxColumns 1
+columnWidth 53
+keyboardNav
+scrollCss ../scroll.css
