@@ -8,6 +8,9 @@ import searchForm.scroll
 replace BASE_URL .
 
 html
+ <br><a href="./posts/hawaii-cancer-moonshot.html">The Hawai'i #CancerMoonshot - how you can help </a>
+
+html
  <br><br><br>
 
 maxColumns 1
