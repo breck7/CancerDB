@@ -209,4 +209,4 @@ class HealServerCommands {
 export { HealServer };
 
 if (!module.parent)
-	runCommand(new HealServer(), process.argv[2], process.argv[3]);
+	runCommand(new HealServerCommands(), process.argv[2], process.argv[3]);
