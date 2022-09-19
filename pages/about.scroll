@@ -1,0 +1,55 @@
+title About
+import settings.scroll
+groups index
+
+# _never ever give up_
+
+* CancerDB is a public domain knowledge graph about cancer treatments that compiles to a CSV file. The focus is on
+ *cancer treatments*, but the database also includes entities connected to cancer treatments in some way--from
+ cancer types to organizations and more.
+
+* CancerDB is for two groups of people:
+
+* 1. <b>Cancer treatment researchers.</b> CancerDB is organized big data
+ to help you create great new treatments and improve
+ existing ones. When making design decisions, quickly look up
+ what features other treatments have tried. Benefit from the experiences
+ of millions that have built treatments before you. If you are researching something and can't
+ find what you need here, open an issue and explain what you need.
+ https://github.com/breck7/CancerDB/issues/new open an issue
+
+* 2. <b>Those battling cancer right now.</b> CancerDB provides a
+ data-driven view of the cancer treatment universe, to
+ demystify the world of cancer treatments for you, and
+ provide sound strategic and tactical advice to help you in
+ your fight. If you have a question not answered
+ by the data here, open an issue and explain what you need.
+ https://github.com/breck7/CancerDB/issues/new open an issue
+
+subsection Open source
+
+* All data and source code used to generate this site are on GitHub and public domain.
+ https://github.com/breck7/CancerDB GitHub
+
+subsection History
+
+* CancerDB.com was purchased by Breck Yunits on September 3, 2022.
+
+subsection Citation
+
+* CancerDB content is published to the public domain and you can use it freely. If needed, here are 3 options for citing PLDB:
+
+quote
+ https://cancerdb.com
+
+quote
+ CancerDB team. (2022) - "CancerDB: A public domain knowledge graph about cancer treatments that compiles to a CSV file.". Retrieved from: 'https://cancerdb.com' [Online Resource]
+
+code
+ @article{cancerdb,
+   author = {CancerDB team},
+   title = {CancerDB: A public domain knowledge graph about cancer treatments that compiles to a CSV file.},
+   journal = {CancerDB},
+   year = {2022},
+   note = {https://cancerdb.com}
+  }
