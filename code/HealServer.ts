@@ -13,7 +13,7 @@ const { TreeNode } = jtree;
 const { Disk } = require("jtree/products/Disk.node.js");
 const { ScrollFile, getFullyExpandedFile } = require("scroll-cli");
 
-const baseFolder = path.join(__dirname, "..", "..");
+const baseFolder = path.join(__dirname, "..");
 const ignoreFolder = path.join(baseFolder, "ignore");
 const builtSiteFolder = path.join(baseFolder, "site");
 

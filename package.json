@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/breck7/CancerDB#readme",
   "dependencies": {
+    "numeral": "^2.0.6",
     "scroll-cli": "^31.6.0"
   },
   "devDependencies": {
