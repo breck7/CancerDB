@@ -2,9 +2,9 @@ title About
 import settings.scroll
 groups index
 
-* _never ever give up_
+# _never ever give up_
 
-* CancerDB is apublic domain knowledge graph about cancer treatments that compiles to a CSV file. The focus is on
+* CancerDB is a public domain knowledge graph about cancer treatments that compiles to a CSV file. The focus is on
  *cancer treatments*, but the database also includes entities connected to cancer treatments in some way--from
  cancer types to organizations and more.
 
