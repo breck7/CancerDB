@@ -5,27 +5,15 @@ scrollFooter
   a CancerDB
    href BASE_URL/index.html
    class logoFont
-  span - <a href="https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/12/remarks-by-president-biden-on-the-cancer-moonshot-initiative/">#CancerMoonshot</a> · <a title="This page was built in BUILT_IN_YEAR from commit LAST_HASH" href="https://github.com/breck7/CancerDB/commit/LAST_HASH">v2022</a> · 
-  a Day 1
-   href #COMINGSOON
   span ·
-  a Docs
-   href #COMINGSOON
-  span ·
-  a Build
-   href #COMINGSOON
-  span ·
-  a Acknowledgements
-   href #COMINGSOON
+  a #CancerMoonshot
+   href https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/12/remarks-by-president-biden-on-the-cancer-moonshot-initiative/
   span ·
   a Traffic Today
-   href BASE_URL/nginxDaily.html
+   href https://cancerdb.com/nginxDaily.html
   span ·
   a Traffic Trends
-   href BASE_URL/nginxDailyAll.html
-  span ·
-  a Mirrors
-   href #COMINGSOON
+   href https://cancerdb.com/nginxDailyAll.html
   span ·
   a Email
    href mailto:liability@cancerdb.com
