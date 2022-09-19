@@ -30,7 +30,7 @@ bashCode
  cp /etc/letsencrypt/live/heal.cancerdb.com/privkey.pem ignore
  cp /etc/letsencrypt/live/heal.cancerdb.com/fullchain.pem ignore
  # Now start with pm2 over http2
- pm2 start ./code/heal/PLDBBuildServer.js -- startProdServer
+ pm2 start ./code/HealServer.js -- startProdServer
  pm2 startup systemd
 
 subsection Deploying Heal Server
