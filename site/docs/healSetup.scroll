@@ -1,0 +1,45 @@
+importOnly
+
+subsection Heal Server Setup
+
+bashCode
+ apt update
+ apt upgrade
+ apt install git cloc
+ curl -L https://raw.githubusercontent.com/tj/n/master/bin/n -o n
+ bash n lts
+ # Now node and npm are available
+ npm install -g n
+ npm install -g pm2 typescript jtree
+ # Generate keys
+ # ssh-keygen -t rsa
+ # git clone git@github.com:breck7/CancerDB.git
+ git clone https://github.com/breck7/CancerDB
+ cd CancerDB
+ npm install .
+ npm run tsc
+ npm run build
+ # Test that it works over http
+ node ./code/heal/HealServer.js startDevServer 80
+ # Now get SSL cert for https
+ snap install core
+ snap refresh core
+ snap install --classic certbot
+ certbot certonly --standalone
+ mkdir ignore
+ cp /etc/letsencrypt/live/heal.cancerdb.com/privkey.pem ignore
+ cp /etc/letsencrypt/live/heal.cancerdb.com/fullchain.pem ignore
+ # Now start with pm2 over http2
+ pm2 start ./code/heal/PLDBBuildServer.js -- startProdServer
+ pm2 startup systemd
+
+subsection Deploying Heal Server
+
+bashCode
+ ssh heal.cancerdb.com
+ cd CancerDB
+ git pull
+ npm install .
+ npm run tsc
+ npm run build
+ pm2 restart 0
