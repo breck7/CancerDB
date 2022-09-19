@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-import { htmlEscaped } from "./utils";
+import { htmlEscaped, runCommand } from "./utils";
 
 const path = require("path");
 const fs = require("fs");
@@ -8,8 +8,6 @@ const https = require("https");
 const express = require("express");
 const bodyParser = require("body-parser");
 const numeral = require("numeral");
-const { jtree } = require("jtree");
-const { TreeNode } = jtree;
 const { Disk } = require("jtree/products/Disk.node.js");
 const { ScrollFile, getFullyExpandedFile } = require("scroll-cli");
 
