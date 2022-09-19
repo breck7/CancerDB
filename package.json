@@ -13,6 +13,9 @@
     "type": "git",
     "url": "git+https://github.com/breck7/CancerDB.git"
   },
+  "prettier": {
+    "semi": false
+  },
   "keywords": [
     "cancer",
     "data"
