@@ -52,20 +52,20 @@ The website content is in the `site` folder.
 
 ## To cite CancerDB
 
-CancerDB content is published to the public domain and you can use it freely. If needed, here are 3 options for citing PLDB:
+CancerDB content is published to the public domain and you can use it freely. If needed, here are 3 options for citing CancerDB:
 
 ```
 https://cancerdb.com
 ```
 
 ```
-Yunits + Zhu + et al (2022) - "CancerDB: A public domain csv file to help build the next great cure". Retrieved from: 'https://cancerdb.com' [Online Resource]
+CancerDB team. (2022) - "CancerDB: A public domain knowledge graph about cancer treatments that compiles to a CSV file.". Retrieved from: 'https://cancerdb.com' [Online Resource]
 ```
 
 ```
-@article{pldb,
-  author = {Yunits + Zhu + et al},
-  title = {CancerDB: A public domain csv file to help build the next great cure},
+@article{cancerdb,
+  author = {CancerDB team},
+  title = {CancerDB: A public domain knowledge graph about cancer treatments that compiles to a CSV file.},
   journal = {CancerDB},
   year = {2022},
   note = {https://cancerdb.com}
@@ -74,6 +74,6 @@ Yunits + Zhu + et al (2022) - "CancerDB: A public domain csv file to help build 
 
 ## Funding
 
-The budget for Year for CancerDB is $6,315. $6,195 was used to purchase CancerDB.com and we expect $840 in Digital Ocean server costs. Funding so far is provided from Breck Yunits. If you are not a programmer or cancer researcher but want to contribute, there will be important ways you can both help sponsor us and help us decide what to do next. Please keep monitoring this page. If you would like to contribute anything now: https://giving.uhfoundation.org/funds/12388504 or https://www.stjude.org/donate/donate-to-st-jude.html.
+The budget for Year for CancerDB is $6,315. $6,195 was used to purchase CancerDB.com and we expect \$840 in Digital Ocean server costs. Funding so far is provided from Breck Yunits. If you are not a programmer or cancer researcher but want to contribute, there will be important ways you can both help sponsor us and help us decide what to do next. Please keep monitoring this page. If you would like to contribute anything now: https://giving.uhfoundation.org/funds/12388504 or https://www.stjude.org/donate/donate-to-st-jude.html.
 
 All sources for CancerDB you will be able to find here: https://cancerdb.com/pages/acknowledgements.html
