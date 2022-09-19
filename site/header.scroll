@@ -24,10 +24,6 @@ scrollHeader
     id headerSearch
     placeholder Search
     autocomplete off
-  a Treatments
-   href BASE_URL/lists/treatments.html
-  a CSV
-   href BASE_URL/docs/csv.html
   a Blog
    href BASE_URL/posts/index.html
   a About
