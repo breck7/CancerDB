@@ -1,10 +1,10 @@
-# CancerDB: A public domain csv file to help build the next great cure
+# CancerDB: A public domain knowledge graph focused on cancer treatments distributed as a CSV file.
 
-CancerDB is a public domain database and website containing facts about all types of cancers and related entities.
+CancerDB is a public domain database and website containing facts about all cancer treaments and related entities.
 
-Someone's project could by just 2 insights away from being the next great cure. CancerDB can help builders figure out what those 2 missing insights are.
+Someone's new treatment could by just 2 insights away from being the next great cure. CancerDB can help them figure out what those 2 missing insights are.
 
-CancerDB is built for Cancer Researchers to help them _build the next great cure_. It is also built for those beautiful human beings affected by cancer and their loved ones. We want to provide you with the _absolute_ best data on cancer. We will deliver that information to you quickly, cheaply, and you will be able to trust it 100%.
+For cancer patients and their loved ones, we want to provide you with the _absolute_ best data on cancer. We will deliver that information to you quickly, freely, and you will be able to trust it 100%.
 
 This repo contains the entire database and website for https://cancerdb.com.
 
@@ -17,15 +17,15 @@ The CancerDB database will be freely available:
 
 Documentation for the CSV will be available here: https://cancerdb.com/docs/csv.html.
 
-## To add a new entity
+## To add a new tool (treatment)
 
-Easy method: https://edit.cancerdb.com/create
+Easy method:
 
 Advanced method: Create a new file in `database/things` with a unique URL friendly filename ending in `.cancerdb` and send a pull request.
 
 ## To update an entity
 
-Easy method: https://edit.cancerdb.com
+Easy method:
 
 Advanced method: Edit the corresponding `database/things/*.cancerdb` file and send a pull request.
 
