@@ -30,7 +30,7 @@ scrollHeader
    href BASE_URL/posts/index.html
   a About
    href BASE_URL/pages/about.html
-  a Sponsor a Fact
+  a Sponsor Research
    href mailto:liability@cancerdb.com?subject=SponsorAFact
   a Add Tool
    href mailto:liability@cancerdb.com?subject=AddTreatment
