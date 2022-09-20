@@ -7,7 +7,7 @@
     "fire": "npm build && npm test && npm deploy",
     "build": "cd site; scroll build; cd lists; scroll build; cd ../pages; scroll build; cd ../posts/; scroll build; cd ..; open index.html",
     "deploy": "echo 'Rsyncing site/ to /var/www/html on George'; rsync -vr site/* cancerdb.com:/var/www/html/",
-    "test": "cd site && scroll check"
+    "test": "./code/test.js"
   },
   "repository": {
     "type": "git",
