@@ -8,7 +8,8 @@
     "build": "cd site; scroll build; cd lists; scroll build; cd ../pages; scroll build; cd ../posts/; scroll build",
     "deploy": "echo 'Rsyncing site/ to /var/www/html on George'; rsync -vr site/* cancerdb.com:/var/www/html/",
     "test": "./code/test.js",
-    "tsc": "cd code; tsc; chmod +x test.js"
+    "tsc": "cd code; tsc; chmod +x test.js",
+    "open": "open site/index.html"
   },
   "repository": {
     "type": "git",
