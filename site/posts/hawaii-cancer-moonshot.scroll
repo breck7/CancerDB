@@ -1,5 +1,6 @@
 title The Hawai'i #CancerMoonshot - how you can help 
 date 09-15-2022
+openGraphImage https://cancerdb.com/posts/japan.jpeg
 
 html
  <center>
@@ -22,8 +23,6 @@ endSnippet
 
 
 # Ask: just 30 seconds and will cost you nothing
-
-openGraphImage https://cancerdb.com/posts/japan.jpeg
 
 image japan.jpeg
  caption In case we fail, we need people to organize other efforts around the world.
