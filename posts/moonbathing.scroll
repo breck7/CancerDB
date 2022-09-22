@@ -1,0 +1,9 @@
+title Moonbathing
+date 09-22-2022
+
+html
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/D3xyu0eY4G4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+groups index
+import settings.scroll
+keyboardNav
