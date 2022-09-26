@@ -10,7 +10,8 @@
     "test": "./code/test.js",
     "tsc": "cd code; tsc; chmod +x test.js",
     "open": "open site/index.html",
-    "restart": "pm2 restart 0"
+    "restart": "pm2 restart 0",
+    "push": "git push"
   },
   "repository": {
     "type": "git",
