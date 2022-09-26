@@ -9,7 +9,7 @@ replace BASE_URL .
 
 html
  <a href="./posts/moonbathing.html">Moonbathing</a>
- <br><a href="./posts/hawaii-cancer-moonshot.html">The Hawai'i #CancerMoonshot - how you can help</a>
+ <br><a href="./posts/hawaii-cancer-moonshot.html">The Hawai'i #CancerMoonshot</a>
 
 html
  <br><br>
