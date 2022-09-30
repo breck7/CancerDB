@@ -1,6 +1,6 @@
 # CancerDB: A public domain knowledge graph focused on cancer treatments distributed as a CSV file.
 
-<a href="https://github.com/breck7/CancerDB/actions/workflows/didTheTestsPass.yml"><img src="https://github.com/breck7/CancerDB/actions/workflows/didTheTestsPass.yml/badge.svg"/></a>
+<a href="https://github.com/breck7/CancerDB/actions/workflows/didTheTestsPass.yaml"><img src="https://github.com/breck7/CancerDB/actions/workflows/didTheTestsPass.yaml/badge.svg"/></a>
 
 CancerDB is a public domain database and website containing facts about all cancer treaments and related entities.
 
