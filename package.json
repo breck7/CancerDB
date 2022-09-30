@@ -4,8 +4,8 @@
   "description": "accelerate the cures",
   "main": "index.js",
   "scripts": {
-    "fire": "npm build && npm test && npm deploy",
-    "build": "cd site; scroll build; cd lists; scroll build; cd ../pages; scroll build; cd ../posts/; scroll build",
+    "fire": "npm run build && npm run test && npm run deploy",
+    "build": "scroll list | scroll build",
     "deploy": "echo 'Rsyncing site/ to /var/www/html on George'; rsync -vr site/* cancerdb.com:/var/www/html/",
     "test": "./code/test.js",
     "tsc": "cd code; tsc; chmod +x test.js",
@@ -31,7 +31,7 @@
   "homepage": "https://github.com/breck7/CancerDB#readme",
   "dependencies": {
     "numeral": "^2.0.6",
-    "scroll-cli": "^31.6.0"
+    "scroll-cli": "^34.0.2"
   },
   "devDependencies": {
     "@types/node": "^18.7.18"
