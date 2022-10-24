@@ -12,34 +12,38 @@ html {
   font-size: 14px;
   hyphens: auto;
 }
-.scrollHeaderComponent {
-  border-bottom: 1px solid rgb(204,204,204);
-  text-align: center;
-  padding-bottom: 8px;
-}
-.scrollNameComponent a {
-  text-decoration: none;
-  color: #000;
-}
-.scrollTopRightBarComponent {
-  text-align: right;
-  position: absolute;
-  right: 25px;
-  top: 3px;
-}
-.scrollSocialMediaIconsComponent svg {
+.scrollHeaderComponent svg {
   width: 30px;
   fill: rgba(204,204,204, .5);
-  margin-left: 15px;
 }
-.scrollSocialMediaIconsComponent svg:hover {
+.scrollHeaderComponent svg:hover {
   fill: #333;
+}
+.scrollHeaderComponent a {
+  position: absolute;
+  display: block;
+}
+.scrollHeaderComponent .scrollTopLeftBarComponent {
+  text-align: left;
+  left: 20px;
+}
+.scrollHeaderComponent .scrollTopRightBarComponent {
+  text-align: right;
+  right: 20px;
 }
 .scrollFooterComponent {
   border-top: 1px solid rgb(204,204,204);
   margin-top: 8px;
   padding-top: 8px;
   text-align: center;
+}
+.scrollFooterComponent svg {
+  width: 30px;
+  fill: rgba(204,204,204, .5);
+  padding: 0 7px;
+}
+.scrollFooterComponent svg:hover {
+  fill: #333;
 }
 .scrollCommunityLinkComponent {
   display: block;
