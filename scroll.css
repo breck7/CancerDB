@@ -14,7 +14,7 @@ html {
 }
 .scrollHeaderComponent svg {
   width: 30px;
-  fill: rgba(204,204,204, .5);
+  fill: rgba(204,204,204,.8);
 }
 .scrollHeaderComponent svg:hover {
   fill: #333;
