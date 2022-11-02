@@ -5,7 +5,6 @@ openGraphImage https://cancerdb.com/posts/japan.jpeg
 html
  <center>
 
-
 # Theory
 
 * The pen is mightier than the sword. _The CSV is mightier than the pen_.
@@ -20,7 +19,6 @@ endSnippet
 
 * We've done this once before. We are the team behind PLDB.com. We are applying what we learned building PLDB.com to build CancerDB.com.
  https://pldb.com/ PLDB.com
-
 
 # Attention Programmers: how you can help
 

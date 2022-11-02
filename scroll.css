@@ -20,16 +20,28 @@ html {
   fill: #333;
 }
 .scrollHeaderComponent a {
+  color: rgba(204,204,204,.8);
   position: absolute;
-  display: block;
+  font-size: 30px;
+  line-height: 30px;
+  text-decoration: none;
+}
+.scrollHeaderComponent a:hover {
+  color: #333;
 }
 .scrollHeaderComponent .scrollTopLeftBarComponent {
   text-align: left;
-  left: 20px;
+  left: 25px;
 }
 .scrollHeaderComponent .scrollTopRightBarComponent {
   text-align: right;
-  right: 20px;
+  right: 25px;
+}
+.scrollHeaderComponent a.scrollPrevPageLink {
+  left: 3px;
+}
+.scrollHeaderComponent a.scrollNextPageLink {
+  right: 3px;
 }
 .scrollFooterComponent {
   border-top: 1px solid rgb(204,204,204);
@@ -75,6 +87,8 @@ html {
   text-align: center;
   margin-top: 8px;
   margin-bottom: 8px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 .scrollFilePageTitle a {
   text-decoration: none;
@@ -113,7 +127,7 @@ html {
   white-space: pre-line;
   border-left: .5em solid rgba(204,204,204,.8);
 }
-.scrollSectionComponent,.scrollSubsectionComponent {
+.scrollSectionComponent {
   text-align: center;
   margin-top: 1em;
 }
@@ -181,12 +195,6 @@ code {
 .scrollKpiTable span {
   font-size: 20p;;
   display: block;
-}
-.scrollUnorderedListComponent,.scrollOrderedListComponent {
-  text-align: left;
-  line-height: 1.4em;
-  padding-left: 1em;
-  margin-top: 0.4em;
 }
 .scrollFileViewSourceUrlComponent {
   text-align: center;

@@ -10,7 +10,7 @@ groups index
 
 * CancerDB is for two groups of people:
 
-* 1. <b>Cancer treatment researchers.</b> CancerDB is organized big data
+* 1. *Cancer treatment researchers.* CancerDB is organized big data
  to help you create great new treatments and improve
  existing ones. When making design decisions, quickly look up
  what features other treatments have tried. Benefit from the experiences
@@ -18,7 +18,7 @@ groups index
  find what you need here, open an issue and explain what you need.
  https://github.com/breck7/CancerDB/issues/new open an issue
 
-* 2. <b>Those battling cancer right now.</b> CancerDB provides a
+* 2. *Those battling cancer right now.* CancerDB provides a
  data-driven view of the cancer treatment universe, to
  demystify the world of cancer treatments for you, and
  provide sound strategic and tactical advice to help you in

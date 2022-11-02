@@ -1,6 +1,6 @@
 importOnly
 
-subsection Heal Server Setup
+## Heal Server Setup
 
 bashCode
  apt update
@@ -33,7 +33,7 @@ bashCode
  pm2 start ./code/HealServer.js -- startProdServer
  pm2 startup systemd
 
-subsection Deploying Heal Server
+## Deploying Heal Server
 
 bashCode
  ssh heal.cancerdb.com
