@@ -106,11 +106,9 @@ html
  <div class="pldbSearchForm"><form style="display:inline;" method="get" action="https://heal.cancerdb.com/search"><input name="q" placeholder="Search" autocomplete="off" type="search" id="searchFormInput"><input class="pldbSearchButton" type="submit" value="Search"></form></div>
  <script>document.addEventListener("DOMContentLoaded", evt => initSearchAutocomplete("searchFormInput"))</script>
 
-paragraph
- <p class="searchResultsHeader">Searched ${numeral(0).format(
-		"0,0"
- )} treatments and entities for "${escapedQuery}" in ${time}s.</p>
- <hr>
+* <p class="searchResultsHeader">Searched ${numeral(0).format(
+			"0,0"
+		)} treatments and entities for "${escapedQuery}" in ${time}s.</p><hr>
 
 html
  <p class="searchResultsHeader">Showing ${
@@ -121,10 +119,9 @@ html
 ${nameResults}
 <hr>
 
-paragraph
- <p class="searchResultsHeader">Showing ${
-		hits.length
- } files who matched on a full text search.</p>
+* <p class="searchResultsHeader">Showing ${
+			hits.length
+		} files who matched on a full text search.</p>
 
 html
  ${fullTextSearchResults}`

@@ -11,6 +11,7 @@
     "tsc": "cd code; tsc; chmod +x test.js",
     "open": "open site/index.html",
     "restart": "pm2 restart 0",
+    "local": "./code/HealServer.js startDevServer",
     "push": "git push"
   },
   "repository": {
