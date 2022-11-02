@@ -9,6 +9,9 @@ scrollFooter
   a #CancerMoonshot
    href https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/12/remarks-by-president-biden-on-the-cancer-moonshot-initiative/
   span ·
+  a Day 1
+   href https://github.com/breck7/CancerDB/commit/3c73594deacc83cfe48dd507e58c4c0520ee5e90
+  span ·
   a Traffic Today
    href https://cancerdb.com/nginxDaily.html
   span ·
