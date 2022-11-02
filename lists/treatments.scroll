@@ -1,0 +1,6 @@
+title Treatments
+import settings.scroll
+groups index
+
+* CancerDB is a public domain knowledge graph focused on cancer treatments.
+
