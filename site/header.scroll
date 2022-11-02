@@ -24,8 +24,8 @@ scrollHeader
     id headerSearch
     placeholder Search
     autocomplete off
-  a Tools
-   href BASE_URL/lists/tools.html
+  a Treatments
+   href BASE_URL/lists/treatments.html
   a Blog
    href BASE_URL/posts/index.html
   a About
