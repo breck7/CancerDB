@@ -19,7 +19,7 @@ The CancerDB database will be freely available:
 
 Documentation for the CSV will be available here: https://cancerdb.com/docs/csv.html.
 
-## To add a new tool (treatment)
+## To add a new treatment
 
 Easy method:
 
