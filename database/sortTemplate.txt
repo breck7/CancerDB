@@ -1,0 +1,12 @@
+title
+type
+appeared
+author
+description
+
+website
+wikipedia
+amazon
+twitter
+country
+standsFor

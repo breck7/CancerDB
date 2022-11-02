@@ -3,6 +3,42 @@ cancerdbNode
  description A database about cancer treatments and related concepts.
  catchAllNodeType errorNode
  todo Should not have to manually list each node type here, but should be able to mark some tag as inscope. Should be fixed upstream in Jtree.
- inScope blankLineNode descriptionNode wikipediaNode creatorsNode appearedNode countryNode titleNode standsForNode akaNode  referenceNode twitterNode typeNode websiteNode meetupNode subredditNode originCommunityNode cheatSheetUrlNode isOpenSourceNode abstractRelationshipNode conferenceNode documentationNode funFactNode factSponsorsNode
- cells fileNameCell
+ inScope blankLineNode abstractTopLevelNode
  string fileExtension cancerdb
+abstractTopLevelNode
+ cruxFromId
+ cells keywordCell
+ catchAllCellType stringCell
+stringCell
+ highlightScope string
+titleNode
+ extends abstractTopLevelNode
+descriptionNode
+ extends abstractTopLevelNode
+authorNode
+ extends abstractTopLevelNode
+websiteNode
+ extends abstractTopLevelNode
+appearedNode
+ extends abstractTopLevelNode
+wikipediaNode
+ extends abstractTopLevelNode
+twitterNode
+ extends abstractTopLevelNode
+countryNode
+ extends abstractTopLevelNode
+standsForNode
+ extends abstractTopLevelNode
+blankCell
+blankLineNode
+ description Blank lines compile to nothing in the HTML.
+ cells blankCell
+ compiler
+  stringTemplate 
+ pattern ^$
+ tags doNotSynthesize
+ boolean shouldSerialize false
+errorNode
+ baseNodeType errorNode
+keywordCell
+ highlightScope keyword

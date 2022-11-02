@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
 import { htmlEscaped, runCommand } from "./utils"
+import { jtree } from "jtree"
 
 const path = require("path")
 const fs = require("fs")
@@ -9,11 +10,19 @@ const express = require("express")
 const bodyParser = require("body-parser")
 const numeral = require("numeral")
 const { Disk } = require("jtree/products/Disk.node.js")
+const { TreeNode } = jtree
+const { TreeBaseFolder } = require("jtree/products/treeBase.node.js")
 const { ScrollFile, getFullyExpandedFile } = require("scroll-cli")
 
 const baseFolder = path.join(__dirname, "..")
+const databaseFolder = path.join(baseFolder, "database")
 const ignoreFolder = path.join(baseFolder, "ignore")
 const builtSiteFolder = path.join(baseFolder, "site")
+
+const base = new TreeBaseFolder()
+	.setDir(path.join(databaseFolder, "things"))
+	.setGrammarDir(path.join(databaseFolder, "grammar"))
+	.loadFolder()
 
 const searchLogPath = path.join(ignoreFolder, "searchLog.tree")
 Disk.touch(searchLogPath)
@@ -51,26 +60,38 @@ class HealServer {
 		app.use(express.static(__dirname))
 		app.use(express.static(builtSiteFolder))
 
+		const searchCache = {}
+
 		app.get("/search", (req, res) => {
+			const originalQuery = req.query.q ?? ""
 			const tree = `search
  time ${Date.now()}
  ip ${req.ip}
  query
-  ${req.query.q.replace(/\n/g, "\n  ")} 
+  ${originalQuery.replace(/\n/g, "\n  ")} 
 `
 			fs.appendFile(searchLogPath, tree, function() {})
-			res.send(this.scrollToHtml(this.search(decodeURIComponent(req.query.q))))
+
+			if (searchCache[originalQuery]) {
+				res.send(searchCache[originalQuery])
+				return
+			}
+			searchCache[originalQuery] = this.scrollToHtml(
+				this.search(decodeURIComponent(originalQuery))
+			)
+
+			res.send(searchCache[originalQuery])
 		})
 	}
 
 	search(query): string {
 		const startTime = Date.now()
 		// Todo: allow advanced search. case sensitive/insensitive, regex, et cetera.
-		const testFn = str => str.includes(query)
+		const testFn = str => str?.includes(query)
 
 		const escapedQuery = htmlEscaped(query)
-		const hits = []
-		const nameHits = []
+		const hits = base.filter(file => testFn(file.toString()))
+		const nameHits = [] // base.filter(file => file.lowercaseNames.some(testFn))
 		const baseUrl = "https://cancerdb.com/treatments/"
 
 		const highlightHit = file => {
