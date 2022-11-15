@@ -30,6 +30,8 @@ scrollHeader
    href BASE_URL/posts/index.html
   a About
    href BASE_URL/pages/about.html
+  a Lists
+   href BASE_URL/lists/lists.html
   a Sponsor
    href BASE_URL/pages/sponsor.html
   a Add Treatment
