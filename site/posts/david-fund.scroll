@@ -1,3 +1,4 @@
+import settings.scroll
 title Albert Einstein and the #DavidFund
 date 11-10-2022
 openGraphImage https://cancerdb.com/posts/theoryOfRelativitySignedFirstEdition.jpg
@@ -34,7 +35,6 @@ author https://github.com/breck7 Breck Yunits
 html
  <iframe width="325" height="330" src="https://www.youtube.com/embed/-z4NS2zdrZc" title="Apple Steve Jobs Heres To The Crazy Ones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-import settings.scroll
 groups index
 keyboardNav
 scrollCss ../scroll.css

@@ -1,0 +1,78 @@
+# CancerDB: A public domain knowledge graph focused on cancer treatments distributed as a CSV file.
+
+html
+ <a href="https://github.com/breck7/CancerDB/actions/workflows/didTheTestsPass.yaml"><img src="https://github.com/breck7/CancerDB/actions/workflows/didTheTestsPass.yaml/badge.svg"/></a>
+
+* CancerDB is a public domain database and website containing facts about all cancer treaments and related entities.
+
+* Someone's new treatment could by just 2 insights away from being the next great cure. CancerDB can help them figure out what those 2 missing insights are.
+
+* For cancer patients and their loved ones, we want to provide you with the _absolute_ best data on cancer. We will deliver that information to you quickly, freely, and you will be able to trust it 100%.
+
+* This repo contains the entire database and website for https://cancerdb.com.
+
+## To analyze the data
+
+* The CancerDB database will be freely available:
+
+- As CSV:
+- As JSON:
+
+* Documentation for the CSV will be available here: https://cancerdb.com/docs/csv.html.
+
+## To add a new treatment
+
+* Easy method:
+
+* Advanced method: Create a new file in `database/things` with a unique URL friendly filename ending in `.cancerdb` and send a pull request.
+
+## To update an entity
+
+* Easy method:
+
+* Advanced method: Edit the corresponding `database/things/*.cancerdb` file and send a pull request.
+
+## To add a new column
+
+* Advanced method: Edit or create a new file in `database/grammar` and add at least 1 example to an entity in `database/things` and send a pull request.
+
+## To build the full site locally
+
+code
+ git clone https://github.com/breck7/CancerDB
+ cd CancerDB
+ npm install .
+ npm run tsc
+ npm run build
+ open site/index.html
+
+## To explore this repo
+
+* The most important folder is `database/things/`, which contains a file for each entity. The folder `database/grammar/` contains the grammar files (schema) for the database.
+
+* The website content is in the `site` folder.
+
+## To cite CancerDB
+
+* CancerDB content is published to the public domain and you can use it freely. If needed, here are 3 options for citing CancerDB:
+
+code
+ https://cancerdb.com
+
+code
+ CancerDB team. (2022) - "CancerDB: A public domain knowledge graph about cancer treatments that compiles to a CSV file.". Retrieved from: 'https://cancerdb.com' [Online Resource]
+
+code
+ @article{cancerdb,
+  author = {CancerDB team},
+  title = {CancerDB: A public domain knowledge graph about cancer treatments that compiles to a CSV file.},
+  journal = {CancerDB},
+  year = {2022},
+  note = {https://cancerdb.com}
+ }
+
+## Funding
+
+* The budget for Year for CancerDB is $6,315. $6,195 was used to purchase CancerDB.com and we expect \$840 in Digital Ocean server costs. Funding so far is provided from Breck Yunits. If you are not a programmer or cancer researcher but want to contribute, there will be important ways you can both help sponsor us and help us decide what to do next. Please keep monitoring this page. If you would like to contribute anything now: https://giving.uhfoundation.org/funds/12388504 or https://www.stjude.org/donate/donate-to-st-jude.html.
+
+* All sources for CancerDB you will be able to find here: https://cancerdb.com/pages/acknowledgements.html

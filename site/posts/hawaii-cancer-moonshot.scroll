@@ -1,3 +1,4 @@
+import settings.scroll
 title The Hawai'i #CancerMoonshot
 date 2022.09.15
 openGraphImage https://cancerdb.com/posts/japan.jpeg
@@ -50,7 +51,6 @@ quote
 html
  <br><br></center>
 
-import settings.scroll
 groups index
 maxColumns 1
 columnWidth 53
