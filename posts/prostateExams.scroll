@@ -1,3 +1,4 @@
+import settings.scroll
 title Prostate Exams
 date 11-22-2022
 openGraphImage https://cancerdb.com/posts/prostate.jpg
@@ -6,5 +7,4 @@ html
  <iframe width="300" height="315" src="https://www.youtube.com/embed/1JMd3H54ies" title="Prostate Exams" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 groups index
-import settings.scroll
 keyboardNav
