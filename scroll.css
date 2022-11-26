@@ -135,6 +135,9 @@ html {
   text-align: left;
   margin-top: 2em;
 }
+.scrollNoteLink {
+  text-decoration: none;
+}
 code {
   font-size: 90%;
   background-color: rgba(204,204,204,.5);
