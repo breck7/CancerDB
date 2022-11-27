@@ -1,6 +1,5 @@
+import header.scroll
 title Common Cancer Types by CDC
-import settings.scroll
-columnWidth 60
 
 * A list of common cancer types by Centers of disease control and prevention(CDC).
 
@@ -25,3 +24,5 @@ pipeTable
  Thyroid Cancer|https://www.cdc.gov/cancer/thyroid/|Thyroid_cancer|https://en.wikipedia.org/wiki/Thyroid_cancer
  Uterine Cancer|https://www.cdc.gov/cancer/uterine/|Uterine_cancer|https://en.wikipedia.org/wiki/Uterine_cancer
  Vaginal and Vulvar Cancers|https://www.cdc.gov/cancer/vagvulv/|Vaginal_cancer|https://en.wikipedia.org/wiki/Vaginal_cancer
+
+import ../footer.scroll

@@ -1,5 +1,5 @@
+import header.scroll
 title About
-import settings.scroll
 groups index
 
 # _never ever give up_
@@ -53,3 +53,5 @@ code
    year = {2022},
    note = {https://cancerdb.com}
   }
+
+import ../footer.scroll

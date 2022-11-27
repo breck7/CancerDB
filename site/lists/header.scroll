@@ -1,8 +1,6 @@
 importOnly
-import ../settings.scroll
 replace BASE_URL ..
 viewSourceBaseUrl https://github.com/breck7/CancerDB/blob/main/site/lists/
-maxColumns 1
-columnWidth 60
 keyboardNav
 baseUrl https://cancerdb.com/lists/
+import ../header.scroll

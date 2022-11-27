@@ -1,5 +1,7 @@
 importOnly
-scrollHeader
+import settings.scroll
+
+stump
  link
   rel stylesheet
   type text/css

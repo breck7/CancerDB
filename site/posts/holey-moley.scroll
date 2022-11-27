@@ -1,4 +1,4 @@
-import settings.scroll
+import header.scroll
 title Holey Moley
 date 2022.09.30
 openGraphImage https://cancerdb.com/posts/moon.png
@@ -8,3 +8,4 @@ html
 
 groups index
 keyboardNav
+import ../footer.scroll
