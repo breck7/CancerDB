@@ -1,4 +1,4 @@
-import settings.scroll
+import header.scroll
 title Albert Einstein and the #DavidFund
 date 11-10-2022
 openGraphImage https://cancerdb.com/posts/theoryOfRelativitySignedFirstEdition.jpg
@@ -37,4 +37,4 @@ html
 
 groups index
 keyboardNav
-scrollCss ../scroll.css
+import ../footer.scroll

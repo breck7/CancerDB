@@ -1,2 +1,3 @@
-import settings.scroll
-template snippets index
+import header.scroll
+snippets index
+import ../footer.scroll

@@ -1,4 +1,4 @@
-import settings.scroll
+import header.scroll
 title Moonbathing
 date 2022.09.22
 openGraphImage https://cancerdb.com/posts/moon.png
@@ -8,3 +8,4 @@ html
 
 groups index
 keyboardNav
+import ../footer.scroll

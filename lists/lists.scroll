@@ -1,7 +1,8 @@
+import header.scroll
 title Lists
-import settings.scroll
-columnWidth 60
 
 pipeTable
  List|ListLink
  Common Cancer types|./commonCancerTypes.html
+
+import ../footer.scroll

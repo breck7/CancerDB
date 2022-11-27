@@ -1,5 +1,6 @@
 importOnly
-scrollFooter
+
+stump
  div
   class pldbFooter
   a CancerDB

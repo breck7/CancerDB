@@ -1,4 +1,4 @@
-import settings.scroll
+import header.scroll
 title Prostate Exams
 date 11-22-2022
 openGraphImage https://cancerdb.com/posts/prostate.jpg
@@ -8,3 +8,4 @@ html
 
 groups index
 keyboardNav
+import ../footer.scroll
