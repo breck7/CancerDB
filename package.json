@@ -1,7 +1,7 @@
 {
   "name": "cancerdb",
   "version": "1.0.0",
-  "description": "accelerate the cures",
+  "description": "Accelerate the cures.",
   "main": "index.js",
   "scripts": {
     "tsc": "cd code; tsc; chmod +x test.js",
