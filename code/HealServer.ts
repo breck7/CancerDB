@@ -179,12 +179,15 @@ css
    font-size: 80%;
  }
 
+import header.scroll
 
 html
  <div id="successLink"></div>
  <div id="errorMessage" style="color: red;"></div>
 
 ${scrollContent}
+
+import footer.scroll
 `
 		).html
 	}
