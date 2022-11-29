@@ -1,11 +1,9 @@
 importOnly
 import settings.scroll
 
+scrollCssTag
+
 stump
- link
-  rel stylesheet
-  type text/css
-  href BASE_URL/scroll.css
  link
   rel stylesheet
   type text/css
