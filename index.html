@@ -1,42 +1,242 @@
-<!doctype html>
-<!--
+<style>html,body,div,span,h1,h2,h3,h4,p,ol,ul,table,figure {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  vertical-align: baseline;
+  border-spacing: 0;
+}
+html {
+  padding: 4px;
+  background-color: rgb(244,244,244);
+  font-family: Exchange,Georgia,serif;
+  color: #000;
+  font-size: 14px;
+  hyphens: auto;
+}
+.scrollHeaderComponent svg {
+  width: 30px;
+  fill: rgba(204,204,204,.8);
+}
+.scrollHeaderComponent svg:hover {
+  fill: #333;
+}
+.scrollHeaderComponent a {
+  color: rgba(204,204,204,.8);
+  position: absolute;
+  font-size: 30px;
+  line-height: 30px;
+  text-decoration: none;
+}
+.scrollHeaderComponent a:hover {
+  color: #333;
+}
+.scrollHeaderComponent .scrollTopLeftBarComponent {
+  text-align: left;
+  left: 25px;
+}
+.scrollHeaderComponent .scrollTopRightBarComponent {
+  text-align: right;
+  right: 25px;
+}
+.scrollHeaderComponent a.scrollPrevPageLink {
+  left: 3px;
+}
+.scrollHeaderComponent a.scrollNextPageLink {
+  right: 3px;
+}
+.scrollFooterComponent {
+  border-top: 1px solid rgb(204,204,204);
+  margin-top: 8px;
+  padding-top: 8px;
+  text-align: center;
+}
+.scrollFooterComponent svg {
+  width: 30px;
+  fill: rgba(204,204,204, .5);
+  padding: 0 7px;
+}
+.scrollFooterComponent svg:hover {
+  fill: #333;
+}
+.scrollCommunityLinkComponent {
+  display: block;
+  font-family: Verdana;
+  font-weight: 100;
+  margin: .5em;
+  text-decoration: none;
+  color: rgba(204,204,204,.5);
+}
+.scrollColumnsComponent {
+  column-count: auto;
+  column-fill: balance;
+  column-width: 35ch;
+  column-gap: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: auto;
+}
+.scrollColumnsComponentRuled {
+  column-rule: 1px solid rgb(204,204,204);
+}
+.scrollSnippetContainerComponent {
+  border-bottom: 1px solid rgb(204,204,204);
+  padding: 1ch 0;
+  break-inside: avoid;
+  text-align: justify;
+  margin-bottom: .5em;
+}
+.scrollTitleComponent {
+  text-align: center;
+  margin-bottom: .25em;
+}
+.scrollTitleComponent a {
+  text-decoration: none;
+  color: #000;
+}
+.scrollDateComponent {
+  font-style: italic;
+  font-size: 80%;
+}
+.scrollParagraphComponent {
+  margin-top: 0.4em;
+  line-height: 1.4em;
+}
+.scrollQuoteComponent {
+  break-inside: avoid;
+  display: block;
+  margin: .5em 0;
+  padding: .5em;
+  background: rgba(204,204,204,.5);
+  white-space: pre-line;
+  border-left: .5em solid rgba(204,204,204,.8);
+}
+.scrollSectionComponent {
+  text-align: center;
+  margin-top: 1em;
+}
+.scrollQuestionComponent {
+  text-align: left;
+  margin-top: 2em;
+}
+.scrollNoteLink {
+  text-decoration: none;
+}
+code {
+  font-size: 90%;
+  background-color: rgba(204,204,204,.5);
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+.scrollCodeBlockComponent {
+  overflow: auto;
+  font-size: 80%;
+  hyphens: none;
+  white-space: pre;
+  border-left: .5em solid rgba(204,204,204,.8);
+  break-inside: avoid;
+  display: block;
+  margin: .5em 0;
+  padding: .5em;
+  border-radius: 0;
+}
+.scrollTableComponent {
+  table-layout: fixed;
+  margin: .5em 0;
+  overflow: hidden;
+  font-size: 80%;
+  width: 100%;
+  hyphens: none;
+  border: 1px solid rgba(224,224,224,.8);
+}
+.scrollTableComponent td,.scrollTableComponent th {
+  padding: 3px;
+  overflow: hidden;
+}
+.scrollTableComponent th {
+  border-bottom: 2px solid rgba(0,0,0,.6);
+  text-align: left;
+}
+.scrollTableComponent tr:nth-child(even) {
+  background: rgba(224,224,224,.6);
+}
+.scrollAuthor {
+  font-size: 12px;
+  font-style: italic;
+  margin: 4px 0;
+  text-align: center;
+}
+.scrollKpiTable {
+  width: 100%;
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  break-inside: avoid;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+.scrollKpiTable td {
+  width: 33.3%;
+  border: 1px solid #e8e8e8;
+}
+.scrollKpiTable span {
+  font-size: 20p;;
+  display: block;
+}
+.scrollFileViewSourceUrlComponent {
+  text-align: center;
+  font-size: 80%;
+  margin: 0;
+  margin-top: 0.4em;
+  line-height: 1.4em;
+}
+.scrollFileViewSourceUrlComponent a {
+  color: #000;
+  text-decoration: none;
+}
+.scrollContinueReadingLink {
+  display: block;
+  text-align: center;
+}
+.scrollDialogueComponent span {
+  font-family: Verdana;
+  margin-top: 5px;
+  padding: 5px 20px;
+  border-radius: 15px;
+  display: inline-block;
+}
+.scrollDialogueComponentLeft {
+  text-align: left;
+}
+.scrollDialogueComponentLeft span {
+  background: rgba(204,204,204, .5);
+}
+.scrollDialogueComponentRight {
+  text-align: right;
+}
+.scrollDialogueComponentRight span {
+  color: white;
+  background: rgb(0,132,255);
+}
+.scrollImageComponent {
+  display: block;
+  text-align: center;
+}
+.scrollImageComponent img {
+  max-width: 98%;
+  height: auto;
+}
+.scrollImageComponent figcaption {
+  font-style: italic;
+}
+.scrollKeyboardNav {
+  display: none;
+}
+.scrollCaveat {
+  text-decoration: underline dashed 1px rgba(0,0,0,.1);
+  cursor: default;
+}
+</style>
 
- The HTML below was generated by 📜 Scroll, a public domain
- programming language and static site publishing tool.
- 
- https://scroll.pub
- 
- Generally you don't want to edit it by hand.
-
- Scroll v46.2.0
-
--->
-<html lang="en-US">
- <head>
-  <meta charset="utf-8"></meta>
-  <title></title>
-  <meta name="viewport" content="width=device-width,initial-scale=1"></meta>
-  <meta name="description" content="CancerDB: a knowledge graph on Cancer that compiles to a public domain CSV file. #AccelerateTheCures"></meta>
-  <meta name="generator" content="Scroll v46.2.0"></meta>
-  <meta property="og:title" content=""></meta>
-  <meta property="og:description" content="CancerDB: a knowledge graph on Cancer that compiles to a public domain CSV file. #AccelerateTheCures"></meta>
-  <meta property="og:image" content=""></meta>
-  <meta name="twitter:card" content="summary_large_image"></meta>
-</head>
- <body>
-
-
-
-
-
-
-
-
-
-
-
-
-<link rel="stylesheet" type="text/css" href="./scroll.css"></link>
 <link rel="stylesheet" type="text/css" href="./style.css"></link>
 <script src="./libs.js"></script>
 <script src="./search.js"></script>
@@ -86,6 +286,3 @@
  <span>·</span>
  <span>1-808-727-1111</span>
 </div>
-
-</body>
-</html>
