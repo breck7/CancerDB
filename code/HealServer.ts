@@ -163,8 +163,6 @@ html
 replace BUILD_URL ${this.isProd ? "https://heal.cancerdb.com" : "/"}
 
 ${scrollSettings}
-maxColumns 1
-columnWidth 200
 
 css
  #editForm {
