@@ -3,8 +3,7 @@ title The Hawai'i #CancerMoonshot
 date 2022.09.15
 openGraphImage https://cancerdb.com/posts/japan.jpeg
 
-html
- <center>
+startColumns 2
 
 # Theory
 
@@ -47,9 +46,6 @@ quote
  And I believe we can usher in the same unwillingness to postpone, the same national purpose that will serve to organize and measure the best of our energies and skills to end cancer as we know it and even cure cancers once and for all.
  
  - President Joe Biden
-
-html
- <br><br></center>
 
 groups index
 keyboardNav
