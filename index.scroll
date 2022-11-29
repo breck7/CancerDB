@@ -1,4 +1,8 @@
 import header.scroll
+
+html
+ <center>
+
 import searchForm.scroll
 
 replace BASE_URL .
@@ -9,5 +13,8 @@ html
  <a href="./posts/holey-moley.html">Holey Moley</a><br>
  <a href="./posts/moonbathing.html">Moonbathing</a><br>
  <a href="./posts/hawaii-cancer-moonshot.html">The Hawai'i #CancerMoonshot</a>
+
+html
+ </center>
 
 import footer.scroll
