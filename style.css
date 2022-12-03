@@ -155,12 +155,12 @@ a:hover {
   color: #000;
 }
 
-.pldbSearchFormPadded {
+.treeBaseSearchFormPadded {
   margin-top: 10px;
   margin-bottom: 10px;
 }
 
-.pldbSearchForm #searchFormInput {
+.treeBaseSearchForm #searchFormInput {
   width: 500px;
   height: 50px;
   border: 0;
@@ -168,7 +168,7 @@ a:hover {
   font-size: 16px;
 }
 
-.pldbSearchForm .pldbSearchButton {
+.treeBaseSearchForm .treeBaseSearchButton {
   height: 50px;
   font-size: 16px;
   border: 0;
@@ -177,11 +177,11 @@ a:hover {
   background-color: rgb(237, 237, 237);
 }
 
-.pldbSearchForm .pldbSearchButton:hover {
+.treeBaseSearchForm .treeBaseSearchButton:hover {
   background-color: rgb(207, 207, 207);
 }
 
-.pldbSearchForm .pldbSearchButton:active {
+.treeBaseSearchForm .treeBaseSearchButton:active {
   background-color: rgb(187, 187, 187);
 }
 
