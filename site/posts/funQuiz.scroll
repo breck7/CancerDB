@@ -1,0 +1,11 @@
+import header.scroll
+title Fun quiz
+date 12-09-2022
+openGraphImage https://cancerdb.com/posts/funQuiz.jpg
+
+html
+ <iframe width="919" height="580" src="https://www.youtube.com/embed/lIcD3ssaOL4" title="Fun quiz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+groups index
+keyboardNav
+import ../footer.scroll
