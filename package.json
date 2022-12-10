@@ -4,7 +4,6 @@
   "description": "Accelerate the cures.",
   "main": "index.js",
   "scripts": {
-    "tsc": "cd code; tsc; chmod +x test.js",
     "test": "./code/test.js",
     "build": "scroll list | scroll build",
     "open": "open site/index.html",

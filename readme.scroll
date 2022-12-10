@@ -42,7 +42,6 @@ code
  git clone https://github.com/breck7/CancerDB
  cd CancerDB
  npm install .
- npm run tsc
  npm run build
  open site/index.html
 
