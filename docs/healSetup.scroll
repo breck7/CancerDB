@@ -10,14 +10,13 @@ bashCode
  bash n lts
  # Now node and npm are available
  npm install -g n
- npm install -g pm2 typescript jtree
+ npm install -g pm2 jtree
  # Generate keys
  # ssh-keygen -t rsa
  # git clone git@github.com:breck7/CancerDB.git
  git clone https://github.com/breck7/CancerDB
  cd CancerDB
  npm install .
- npm run tsc
  npm run build
  # Test that it works over http
  node ./code/heal/HealServer.js startDevServer 80
@@ -40,6 +39,5 @@ bashCode
  cd CancerDB
  git pull
  npm install .
- npm run tsc
  npm run build
  pm2 restart 0
