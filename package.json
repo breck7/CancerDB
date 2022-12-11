@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "./code/test.js",
-    "build": "scroll list | scroll build",
+    "build": "./code/SiteBuilder.js buildDatabasePagesCommand; scroll list | scroll build",
     "open": "open site/index.html",
     "local": "./code/HealServer.js startDevServer",
     "deploy": "echo 'Rsyncing site/ to /var/www/html on George'; rsync -vr site/* cancerdb.com:/var/www/html/",
