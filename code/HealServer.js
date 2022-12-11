@@ -156,7 +156,7 @@ class HealServerCommands {
   }
 }
 
-export { HealServer }
+module.exports = { HealServer }
 
 if (!module.parent)
   jtree.Utils.runCommand(

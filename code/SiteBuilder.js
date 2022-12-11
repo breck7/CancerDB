@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 const path = require("path")
+const lodash = require("lodash")
+const { jtree } = require("jtree")
 const { Disk } = require("jtree/products/Disk.node.js")
 const { TreeBaseFolder } = require("jtree/products/treeBase.node.js")
 
@@ -13,9 +15,13 @@ const folder = new TreeBaseFolder()
   .loadFolder()
 
 class TreeBasePageTemplate {
+  constructor(file) {
+    this.file = file
+  }
+
   toScroll() {
-    const { file, typeName } = this
-    const { title, id } = file
+    const { file, typeName, title } = this
+    const { id } = file
 
     return `title ${title}
 
@@ -33,6 +39,10 @@ html
 
 keyboardNav ${this.prevPage} ${this.nextPage}
 `.replace(/\n\n\n+/g, "\n\n")
+  }
+
+  get type() {
+    return this.file.get("title")
   }
 
   get typeName() {
@@ -64,4 +74,4 @@ class SiteBuilder {
 }
 
 if (!module.parent)
-  runCommand(new SiteBuilder(), process.argv[2], process.argv[3])
+  jtree.Utils.runCommand(new SiteBuilder(), process.argv[2], process.argv[3])
