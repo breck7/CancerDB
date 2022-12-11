@@ -4,6 +4,7 @@ const lodash = require("lodash")
 const { jtree } = require("jtree")
 const { Disk } = require("jtree/products/Disk.node.js")
 const { TreeBaseFolder } = require("jtree/products/treeBase.node.js")
+const { ScrollFolder } = require("scroll-cli")
 
 const baseFolder = path.join(__dirname, "..")
 const databaseFolder = path.join(baseFolder, "database")
@@ -41,7 +42,7 @@ keyboardNav ${this.prevPage} ${this.nextPage}
 `.replace(/\n\n\n+/g, "\n\n")
   }
 
-  get type() {
+  get title() {
     return this.file.get("title")
   }
 
@@ -70,6 +71,7 @@ class SiteBuilder {
         new TreeBasePageTemplate(file).toScroll()
       )
     })
+    new ScrollFolder(builtSiteFolder).buildFiles()
   }
 }
 
