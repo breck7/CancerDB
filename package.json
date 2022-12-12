@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "./code/test.js",
-    "build": "./code/SiteBuilder.js buildDatabasePagesCommand; scroll list | scroll build",
+    "build": "./code/build.js; scroll list | scroll build",
     "open": "open site/index.html",
-    "local": "./code/HealServer.js startDevServer",
+    "local": "./code/server.js startDevServer",
     "deploy": "echo 'Rsyncing site/ to /var/www/html on George'; rsync -vr site/* cancerdb.com:/var/www/html/",
     "restart": "pm2 restart 0",
     "jtreeBeta": "npm install ~/jtree",
