@@ -1,0 +1,11 @@
+import header.scroll
+title Nature calls
+date 12-16-2022
+openGraphImage https://cancerdb.com/posts/natureCalls.jpg
+
+html
+ <iframe width="919" height="580" src="https://www.youtube.com/embed/uq-tGWf0wmE" title="Say cheese" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+groups index
+keyboardNav
+import ../footer.scroll
