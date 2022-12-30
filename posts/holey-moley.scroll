@@ -4,7 +4,7 @@ date 2022.09.30
 openGraphImage https://cancerdb.com/posts/moon.png
 
 html
- <iframe width="919" height="580" src="https://www.youtube.com/embed/7aen7OpJGBY" title="Holy Moley" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <div class="youTubeHolder"><iframe class="youTubeEmbed"  src="https://www.youtube.com/embed/7aen7OpJGBY" title="Holy Moley" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 groups index
 keyboardNav

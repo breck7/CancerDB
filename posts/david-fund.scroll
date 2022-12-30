@@ -35,7 +35,7 @@ author https://github.com/breck7 Breck Yunits
  https://twitter.com/search?q=%23DavidFund&src=typed_query&f=live #DavidFund
 
 html
- <iframe width="325" height="330" src="https://www.youtube.com/embed/-z4NS2zdrZc" title="Apple Steve Jobs Heres To The Crazy Ones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <div class="youTubeHolder"><iframe class="youTubeEmbed"  src="https://www.youtube.com/embed/-z4NS2zdrZc" title="Apple Steve Jobs Heres To The Crazy Ones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 groups index
 keyboardNav
