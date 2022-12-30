@@ -33,7 +33,7 @@
     "express": "^4.18.2",
     "jtree": "^60.0.1",
     "numeral": "^2.0.6",
-    "scroll-cli": "^47.1.2"
+    "scroll-cli": "^47.3.0"
   },
   "devDependencies": {
     "@types/node": "^18.7.18"

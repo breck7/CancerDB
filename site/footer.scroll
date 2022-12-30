@@ -1,6 +1,6 @@
 importOnly
 
-stump
+stumpNoSnippet
  div
   class pldbFooter
   a CancerDB

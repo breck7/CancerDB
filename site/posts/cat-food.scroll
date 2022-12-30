@@ -4,7 +4,7 @@ date 11-29-2022
 openGraphImage https://cancerdb.com/posts/catfood.jpg
 
 html
- <iframe width="919" height="580" src="https://www.youtube.com/embed/tTHpu1CG1Zs" title="Catfood" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <div class="youTubeHolder"><iframe class="youTubeEmbed" src="https://www.youtube.com/embed/tTHpu1CG1Zs" title="Catfood" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 groups index
 keyboardNav
