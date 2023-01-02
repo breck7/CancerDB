@@ -3,8 +3,7 @@ title Cat food
 date 11-29-2022
 openGraphImage https://cancerdb.com/posts/catfood.jpg
 
-html
- <div class="youTubeHolder"><iframe class="youTubeEmbed" src="https://www.youtube.com/embed/tTHpu1CG1Zs" title="Catfood" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+youTube https://www.youtube.com/embed/tTHpu1CG1Zs
 
 groups index
 keyboardNav
