@@ -4,7 +4,7 @@ replaceDefault BASE_URL
 replaceDefault BUILD_URL https://build.cancerdb.com
 
 description CancerDB: a knowledge graph on Cancer that compiles to a public domain CSV file. #AccelerateTheCures
-github https://github.com/breck7/CancerDB
+git https://github.com/breck7/CancerDB
 viewSourceBaseUrl https://github.com/breck7/CancerDB/blob/main/site/
 email breck7+cancerDB@gmail.com
 baseUrl https://cancerdb.com/
