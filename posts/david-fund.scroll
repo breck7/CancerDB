@@ -34,8 +34,7 @@ author https://github.com/breck7 Breck Yunits
 * You can apply for funding starting now. Explain your idea in a readme on GitHub and tweet a oneliner and link and include the hashtag #DavidFund. We will do our best to make funding decisions same day and we will send all funds from the CancerDB.near account.
  https://twitter.com/search?q=%23DavidFund&src=typed_query&f=live #DavidFund
 
-html
- <div class="youTubeHolder"><iframe class="youTubeEmbed"  src="https://www.youtube.com/embed/-z4NS2zdrZc" title="Apple Steve Jobs Heres To The Crazy Ones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+youTube https://www.youtube.com/embed/-z4NS2zdrZc
 
 groups index
 keyboardNav

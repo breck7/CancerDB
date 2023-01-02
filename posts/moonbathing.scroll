@@ -3,8 +3,7 @@ title Moonbathing
 date 2022.09.22
 openGraphImage https://cancerdb.com/posts/moon.png
 
-html
- <div class="youTubeHolder"><iframe class="youTubeEmbed"  src="https://www.youtube.com/embed/D3xyu0eY4G4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+youTube https://www.youtube.com/embed/D3xyu0eY4G4
 
 groups index
 keyboardNav
