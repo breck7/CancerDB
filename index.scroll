@@ -1,5 +1,10 @@
 import header.scroll
 
+title CancerDB
+ hidden
+
+# CancerDB: a database of cancer treatments
+
 html
  <center>
 
