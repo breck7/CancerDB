@@ -1,5 +1,7 @@
 importOnly
 
+viewSource
+
 stumpNoSnippet
  div
   class pldbFooter
