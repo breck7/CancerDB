@@ -16,8 +16,7 @@ jobs:
           sudo apt-get install cloc
           npm install .
           npm install -g scroll-cli
-          cd site
-          scroll build
+          scroll list | scroll build
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:

@@ -24,9 +24,7 @@ replace BUILD_URL ${this.isProd ? this.prodUrl : "/"}
 
 ${scrollHeader}
 
-html
- <div id="successLink"></div>
- <div id="errorMessage" style="color: red;"></div>
+html <div id="successLink"></div><div id="errorMessage" style="color: red;"></div>
 
 ${scrollContent}
 
