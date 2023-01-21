@@ -5,8 +5,7 @@ title CancerDB
 
 # CancerDB: a database of cancer treatments
 
-html
- <center>
+html <center>
 
 import searchForm.scroll
 
@@ -23,7 +22,6 @@ html
  <a href="./posts/moonbathing.html">Moonbathing</a><br>
  <a href="./posts/hawaii-cancer-moonshot.html">The Hawai'i #CancerMoonshot</a>
 
-html
- </center>
+html </center>
 
 import footer.scroll
