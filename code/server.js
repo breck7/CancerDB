@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const path = require("path")
-const { jtree } = require("jtree")
+const { Utils } = require("jtree/products/Utils.js")
 const { TreeBaseServer } = require("jtree/products/treeBaseServer.node.js")
 const { ScrollFile, getFullyExpandedFile } = require("scroll-cli")
 const { folder, builtSiteFolder, ignoreFolder } = require("./folder.js")
@@ -47,8 +47,4 @@ class HealServerCommands {
   }
 }
 
-jtree.Utils.runCommand(
-  new HealServerCommands(),
-  process.argv[2],
-  process.argv[3]
-)
+Utils.runCommand(new HealServerCommands(), process.argv[2], process.argv[3])
