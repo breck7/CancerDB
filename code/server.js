@@ -15,12 +15,10 @@ const scrollFooter = getFullyExpandedFile(
 ).code
 
 class CancerDbServer extends TreeBaseServer {
-  prodUrl = "https://cancerdb.com"
   isProd = false
   scrollToHtml(scrollContent) {
     return new ScrollFile(
-      `replace BASE_URL ${this.isProd ? this.prodUrl : ""}
-replace BUILD_URL ${this.isProd ? this.prodUrl : "/"}
+      `replace BASE_URL ${this.isProd ? "https://cancerdb.com" : ""}
 
 ${scrollHeader}
 
@@ -32,19 +30,26 @@ ${scrollFooter}
 `
     ).html
   }
+
+  prep() {
+    this.serveFolder(builtSiteFolder)
+    return this
+  }
 }
 
-const treeBaseServer = new CancerDbServer(folder, builtSiteFolder, ignoreFolder)
+class CancerDbServerCommands {
+  server = new CancerDbServer(folder, ignoreFolder).prep()
 
-class HealServerCommands {
   startDevServerCommand(port) {
-    treeBaseServer.listen(port)
+    this.server.listen(port)
   }
 
   startProdServerCommand() {
-    treeBaseServer.isProd = true
-    treeBaseServer.listenProd(ignoreFolder)
+    this.server.listenProd()
   }
 }
 
-Utils.runCommand(new HealServerCommands(), process.argv[2], process.argv[3])
+module.exports = { CancerDbServer }
+
+if (!module.parent)
+  Utils.runCommand(new CancerDbServerCommands(), process.argv[2], process.argv[3])

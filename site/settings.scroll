@@ -1,7 +1,6 @@
 importOnly
 
 replaceDefault BASE_URL 
-replaceDefault BUILD_URL https://build.cancerdb.com
 
 description CancerDB: a knowledge graph on Cancer that compiles to a public domain CSV file. #AccelerateTheCures
 git https://github.com/breck7/CancerDB

@@ -8,7 +8,7 @@
     "build": "./code/build.js; scroll list | scroll build",
     "open": "open site/index.html",
     "local": "./code/server.js startDevServer",
-    "deploy": "echo 'Rsyncing site/ to /var/www/html on George'; rsync -vr site/* cancerdb.com:/var/www/html/",
+    "deploy": "ssh cancerdb.com 'git pull; npm install .; x build; x restart'",
     "restart": "pm2 restart 0",
     "jtreeBeta": "npm install ~/jtree",
     "fire": "npm run build && npm run test && npm run deploy"
@@ -30,10 +30,8 @@
   },
   "homepage": "https://github.com/breck7/CancerDB#readme",
   "dependencies": {
-    "express": "^4.18.2",
-    "jtree": "^63.0.0",
-    "numeral": "^2.0.6",
-    "scroll-cli": "^55.2.0"
+    "jtree": "^66.0.1",
+    "scroll-cli": "^57.0.1"
   },
   "devDependencies": {
     "@types/node": "^18.7.18"

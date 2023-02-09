@@ -2,14 +2,14 @@ import header.scroll
 title About
 groups index
 
-# _never ever give up_
+startColumns 2
 
+# _never ever give up_
 * CancerDB is a public domain knowledge graph about cancer treatments that compiles to a CSV file. The focus is on
  *cancer treatments*, but the database also includes entities connected to cancer treatments in some way--from
  cancer types to organizations and more.
 
 * CancerDB is for two groups of people:
-
 * 1. *Cancer treatment researchers.* CancerDB is organized big data
  to help you create great new treatments and improve
  existing ones. When making design decisions, quickly look up
@@ -17,7 +17,6 @@ groups index
  of millions that have built treatments before you. If you are researching something and can't
  find what you need here, open an issue and explain what you need.
  https://github.com/breck7/CancerDB/issues/new open an issue
-
 * 2. *Those battling cancer right now.* CancerDB provides a
  data-driven view of the cancer treatment universe, to
  demystify the world of cancer treatments for you, and
@@ -27,24 +26,18 @@ groups index
  https://github.com/breck7/CancerDB/issues/new open an issue
 
 ##  Open source
-
 * All data and source code used to generate this site are on GitHub and public domain.
  https://github.com/breck7/CancerDB GitHub
 
 ##  History
-
 * CancerDB.com was purchased by Breck Yunits on September 3, 2022.
 
 ##  Citation
-
 * CancerDB content is published to the public domain and you can use it freely. If needed, here are 3 options for citing CancerDB:
-
 quote
  https://cancerdb.com
-
 quote
  CancerDB team. (2022) - "CancerDB: A public domain knowledge graph about cancer treatments that compiles to a CSV file.". Retrieved from: 'https://cancerdb.com' [Online Resource]
-
 code
  @article{cancerdb,
    author = {CancerDB team},
@@ -53,5 +46,7 @@ code
    year = {2022},
    note = {https://cancerdb.com}
   }
+
+endColumns
 
 import ../footer.scroll
