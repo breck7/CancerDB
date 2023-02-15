@@ -2,6 +2,7 @@
 
 const tap = require("tap")
 const { ScrollFolder } = require("scroll-cli")
+const { CancerDBServer } = require("./CancerDBServer.js")
 
 const runTree = testTree =>
   Object.keys(testTree).forEach(key => {

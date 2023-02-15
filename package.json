@@ -5,13 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "./code/test.js",
-    "build": "./code/build.js; scroll list | scroll build",
+    "build": "./code/CancerDBServer.js buildAll; scroll list | scroll build",
     "open": "open site/index.html",
-    "local": "./code/server.js startDevServer",
+    "local": "./code/CancerDBServer.js startDevServer",
     "deploy": "ssh cancerdb.com 'git pull; npm install .; x build; x restart'",
     "restart": "pm2 restart 0",
-    "jtreeBeta": "npm install ~/jtree",
-    "fire": "npm run build && npm run test && npm run deploy"
+    "jtreeBeta": "npm install ~/jtree"
   },
   "repository": {
     "type": "git",
@@ -30,8 +29,8 @@
   },
   "homepage": "https://github.com/breck7/CancerDB#readme",
   "dependencies": {
-    "jtree": "^66.0.1",
-    "scroll-cli": "^57.0.1"
+    "jtree": "^67.2.0",
+    "scroll-cli": "^58.0.1"
   },
   "devDependencies": {
     "@types/node": "^18.7.18"
