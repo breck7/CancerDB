@@ -29,8 +29,6 @@ stumpNoSnippet
    href BASE_URL/search.html
   a Types
    href BASE_URL/lists/commonCancerTypes.html
-  a CSV
-   href BASE_URL/search.csv
   a Blog
    href BASE_URL/posts/index.html
   a About
