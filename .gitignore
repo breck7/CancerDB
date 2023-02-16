@@ -9,3 +9,4 @@ site/scroll.css
 *.json
 *.xml
 site/*.scroll
+*.log
