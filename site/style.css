@@ -7,6 +7,14 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+.doubleWide {
+  max-width: 800px;
+  margin: auto;
+  padding: 40px;
+  box-sizing: border-box;
+}
+
 .pldbHeader {
   margin-bottom: 10px;
 }
