@@ -18,11 +18,11 @@ stumpNoSnippet
    href https://github.com/breck7/CancerDB/commit/826bcafef252b684751eddaae183a2f8ccb43d5d
    title A very early version of CancerDB.com shipped on November 1st, 2022
   span ·
-  a Traffic Today
-   href https://cancerdb.com/nginxDaily.html
+  a Traffic
+   href https://cancerdb.com/traffic.html
   span ·
-  a Traffic Trends
-   href https://cancerdb.com/nginxDailyAll.html
+  a Traffic Today
+   href https://cancerdb.com/trafficToday.html
   span ·
   a GitHub
    href https://github.com/breck7/CancerDB
