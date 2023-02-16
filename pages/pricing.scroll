@@ -1,0 +1,30 @@
+import header.scroll
+title Pricing
+groups index
+
+startColumns 2
+
+* CancerDB is published freely to the public domain. But it takes a lot of resources to collect the data and write the software. To fund this work, we offer a some paid products:
+
+# LOD: Prioritize Lines of Data
+ https://buy.stripe.com/5kAcQybeV62x0w0eV2
+* The CancerDB team will add Lines of Data to CancerDB.com on the treatment or cancer type of your choice. Are you newly diagnosed and don't know who to trust? Have us do a deep dive on your cancer type and treatment options. We can add hundreds of lines of data to help you make the right decision. Are you a cancer researcher or oncologist and looking to advance the state of the art? Pay us to dig up data on across thousands of treatments to accelerate your work.
+* Price: $5 per line of data.
+* Buy now
+ https://buy.stripe.com/5kAcQybeV62x0w0eV2
+
+endColumns
+
+html <div class="doubleWide">
+
+# Donate
+* If you believe in our work and just want to donate—thank you! Our addresses are below: 
+* NEAR: CancerDB.near
+ https://explorer.near.org/accounts/cancerdb.near CancerDB.near
+* Credit card: BuyMeACoffee.com
+ https://www.buymeacoffee.com/cancerdb BuyMeACoffee.com
+* Cash or check: Public Domain Publishing Inc., One World Trade Center, 8th Floor, Long Beach, CA 90831
+
+html </div>
+
+import ../footer.scroll
