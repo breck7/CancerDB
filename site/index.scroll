@@ -11,16 +11,10 @@ import searchForm.scroll
 
 replace BASE_URL .
 
-html
- <a href="./posts/natureCalls.html">Nature calls</a><br>
- <a href="./posts/funQuiz.html">Fun quiz</a><br>
- <a href="./posts/sayCheese.html">Say cheese</a><br>
- <a href="./posts/cat-food.html">Cat food</a><br>
- <a href="./posts/prostateExams.html">Prostate Exams</a><br>
- <a href="./posts/david-fund.html">Albert Einstein and the #DavidFund</a><br>
- <a href="./posts/holey-moley.html">Holey Moley</a><br>
- <a href="./posts/moonbathing.html">Moonbathing</a><br>
- <a href="./posts/hawaii-cancer-moonshot.html">The Hawai'i #CancerMoonshot</a>
+loop
+ groups posts/index
+ join <br>
+ javascript `<a href="${item.relativeLink}">${item.title}</a>`
 
 html </center>
 
