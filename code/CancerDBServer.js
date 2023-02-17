@@ -130,6 +130,12 @@ class CancerDBServerCommands {
       siteFolder
     )
   }
+
+  addFromDiskCommand() {
+    TreeNode.fromDisk(path.join(ignoreFolder, "create.tree")).forEach(node =>
+      cancerDBFolder.createFile(node.childrenToString())
+    )
+  }
 }
 
 module.exports = { CancerDBServer, cancerDBFolder }
