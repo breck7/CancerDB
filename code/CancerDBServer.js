@@ -39,6 +39,25 @@ class CancerDBServer extends TreeBaseServer {
     super(folder, ignoreFolder)
     this.serveFolder(siteFolder)
     this.initSearch()
+    this.buildAutocomplete()
+  }
+
+  buildAutocomplete() {
+    const { folder } = this
+    Disk.writeIfChanged(
+      path.join(siteFolder, "autocomplete.json"),
+      JSON.stringify(
+        folder.map(file => {
+          return {
+            label: file.title,
+            id: file.id,
+            url: `/treatments/${file.id}.html`
+          }
+        }),
+        undefined,
+        2
+      )
+    )
   }
 
   initSearch() {

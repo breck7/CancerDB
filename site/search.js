@@ -3,7 +3,6 @@ let searchIndexRequestMade = false
 
 const SearchSuggestionInterface = {
   label: "string",
-  appeared: "number",
   id: "string",
   url: "string"
 }
@@ -40,7 +39,7 @@ const initSearchAutocomplete = elementId => {
 
       if (!searchIndexRequestMade) {
         searchIndexRequestMade = true
-        let response = await fetch("/searchIndex.json")
+        let response = await fetch("/autocomplete.json")
         if (response.ok) searchIndex = await response.json()
       }
 
@@ -52,7 +51,6 @@ const initSearchAutocomplete = elementId => {
 
       suggestions.push({
         label: `Full text search for "${htmlEncodedQuery}"`,
-        appeared: 2022,
         id: "",
         url: `/fullTextSearch?q=${htmlEncodedQuery}`
       })
