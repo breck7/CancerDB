@@ -7,4 +7,4 @@ html
    <input class="searchButton" type="submit" value="Search">
   </form>
  </div>
- <script>document.addEventListener("DOMContentLoaded", evt => initSearchAutocomplete("searchFormInput"))</script>
+ <script>document.addEventListener("DOMContentLoaded", evt => initAutocomplete("searchFormInput"))</script>

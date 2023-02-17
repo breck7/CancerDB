@@ -12,7 +12,7 @@ stumpNoSnippet
  script
   src BASE_URL/libs.js
  script
-  src BASE_URL/search.js
+  src BASE_URL/autocomplete.js
  div
   class pldbHeader
   a CancerDB

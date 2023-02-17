@@ -16,6 +16,7 @@ const baseFolder = path.join(__dirname, "..")
 const databaseFolder = path.join(baseFolder, "database")
 const ignoreFolder = path.join(baseFolder, "ignore")
 const siteFolder = path.join(baseFolder, "site")
+const treatmentsFolder = path.join(siteFolder, "treatments")
 
 const cancerDBFolder = new TreeBaseFolder()
   .setDir(path.join(databaseFolder, "things"))
@@ -49,7 +50,7 @@ class CancerDBServer extends TreeBaseServer {
       JSON.stringify(
         folder.map(file => {
           return {
-            label: file.title,
+            label: file.get("title"),
             id: file.id,
             url: `/treatments/${file.id}.html`
           }
@@ -146,7 +147,7 @@ class CancerDBServerCommands {
 
   buildAllCommand() {
     new TreeBaseBuilder(cancerDBFolder).compileTreeBaseFilesToScrollFiles(
-      siteFolder
+      treatmentsFolder
     )
   }
 

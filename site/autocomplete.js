@@ -1,29 +1,8 @@
 let searchIndex = false
 let searchIndexRequestMade = false
 
-const SearchSuggestionInterface = {
-  label: "string",
-  id: "string",
-  url: "string"
-}
-
-const tinyTypeScript = (items, expectedInterface) =>
-  items.forEach(item => {
-    Object.keys(item).forEach(key => {
-      const value = item[key]
-      const actualType = typeof item[key]
-      const expectedType = expectedInterface[key]
-      const passed = actualType === expectedType
-      console.assert(passed)
-      if (!passed)
-        console.error(
-          `For key '${key}' object had type '${actualType}' but expected '${expectedType}'. Value was '${value}'`
-        )
-    })
-  })
-
 // This method is currently used to enable autocomplete on: the header search, front page search, 404 page search
-const initSearchAutocomplete = elementId => {
+const initAutocomplete = elementId => {
   const input = document.getElementById(elementId)
   const urlParams = new URLSearchParams(window.location.search)
   const query = urlParams.get("q")
@@ -54,8 +33,6 @@ const initSearchAutocomplete = elementId => {
         id: "",
         url: `/fullTextSearch?q=${htmlEncodedQuery}`
       })
-      tinyTypeScript(suggestions, SearchSuggestionInterface)
-
       update(suggestions)
     },
     onSelect: item => {
@@ -68,5 +45,5 @@ const initSearchAutocomplete = elementId => {
 }
 
 document.addEventListener("DOMContentLoaded", evt =>
-  initSearchAutocomplete("headerSearch")
+  initAutocomplete("headerSearch")
 )
