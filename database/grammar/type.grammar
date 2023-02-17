@@ -1,5 +1,5 @@
 typeCell
- enum book chemotherapyDrug governmentalOrganization researchCenter paper anthracycline alkylatingAgent taxane researchHospital nciCancerCenter tumorRegistry website cancerNonProfitOrganization breathTreatment exercise mentalTreatment vitamin touchTreatment
+ enum book chemotherapyDrug governmentalOrganization researchCenter paper anthracycline alkylatingAgent taxane researchHospital nciCancerCenter tumorRegistry website cancerNonProfitOrganization breathTreatment exercise mentalTreatment vitamin touchTreatment surgery
  highlightScope constant.language
 typeNode
  description Which category(ies) does this treatment fit into.

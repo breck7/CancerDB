@@ -131,10 +131,16 @@ class CancerDBServerCommands {
     )
   }
 
-  addFromDiskCommand() {
+  createFromTreeCommand() {
     TreeNode.fromDisk(path.join(ignoreFolder, "create.tree")).forEach(node =>
       cancerDBFolder.createFile(node.childrenToString())
     )
+  }
+
+  createFromCsvCommand() {
+    TreeNode.fromCsv(
+      Disk.read(path.join(ignoreFolder, "create.csv"))
+    ).forEach(node => cancerDBFolder.createFile(node.childrenToString()))
   }
 }
 
