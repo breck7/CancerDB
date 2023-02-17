@@ -15,7 +15,7 @@ stumpNoSnippet
    href https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/12/remarks-by-president-biden-on-the-cancer-moonshot-initiative/
   span ·
   a Search
-   href BASE_URL/search.html
+   href BASE_URL/search.html?q=select+type
   span ·
   a Day DAYS_SINCE_ALPHA_LAUNCH
    href https://github.com/breck7/CancerDB/commit/826bcafef252b684751eddaae183a2f8ccb43d5d
