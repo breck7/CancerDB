@@ -1,4 +1,5 @@
-type surgery
 title Oophorectomy
-wikipedia https://en.wikipedia.org/wiki/Oophorectomy
+type surgery
 description A surgery that involves the removal of one or both ovaries. It may be used to treat ovarian cancer.
+
+wikipedia https://en.wikipedia.org/wiki/Oophorectomy

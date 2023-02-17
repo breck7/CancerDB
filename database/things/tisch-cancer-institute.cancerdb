@@ -1,6 +1,8 @@
 title Tisch Cancer Institute
-hostSchool Icahn School of Medicine at Mount Sinai
-city New York, New York
 type nciCancerCenter
+
 country United States
+city New York, New York
+
 nciDesignation Cancer Center
+hostSchool Icahn School of Medicine at Mount Sinai

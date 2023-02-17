@@ -1,9 +1,12 @@
 title University of Hawaii Cancer Center
-city Honolulu, Hawaii
 type nciCancerCenter
-nciDesignation Cancer Center
-country United States
-website https://www.uhcancercenter.org/
-twitter https://twitter.com/UHCancerCenter
-wikipedia https://en.wikipedia.org/wiki/University_of_Hawaii_Cancer_Center
 appeared 1972
+
+website https://www.uhcancercenter.org/
+wikipedia https://en.wikipedia.org/wiki/University_of_Hawaii_Cancer_Center
+twitter https://twitter.com/UHCancerCenter
+
+country United States
+city Honolulu, Hawaii
+
+nciDesignation Cancer Center

@@ -1,5 +1,7 @@
 title Roswell Park Comprehensive Cancer Center
-city Buffalo, New York
 type nciCancerCenter
+
 country United States
+city Buffalo, New York
+
 nciDesignation Comprehensive Cancer Center

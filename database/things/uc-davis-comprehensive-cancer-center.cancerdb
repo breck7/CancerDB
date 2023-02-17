@@ -1,6 +1,8 @@
 title UC Davis Comprehensive Cancer Center
-hostSchool University of California at Davis
-city Sacramento, California
 type nciCancerCenter
+
 country United States
+city Sacramento, California
+
 nciDesignation Comprehensive Cancer Center
+hostSchool University of California at Davis

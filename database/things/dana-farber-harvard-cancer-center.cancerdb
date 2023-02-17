@@ -1,5 +1,7 @@
 title Dana-Farber/Harvard Cancer Center
-city Boston, Massachusetts
 type nciCancerCenter
+
 country United States
+city Boston, Massachusetts
+
 nciDesignation Comprehensive Cancer Center

@@ -1,5 +1,7 @@
 title UPMC Hillman Cancer Center
-city Pittsburgh, Pennsylvania
 type nciCancerCenter
+
 country United States
+city Pittsburgh, Pennsylvania
+
 nciDesignation Comprehensive Cancer Center

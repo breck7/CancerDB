@@ -1,6 +1,8 @@
 title Moores Comprehensive Cancer Center
-hostSchool University of California, San Diego
-city La Jolla, California
 type nciCancerCenter
+
 country United States
+city La Jolla, California
+
 nciDesignation Comprehensive Cancer Center
+hostSchool University of California, San Diego

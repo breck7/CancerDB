@@ -1,6 +1,8 @@
 title Duke Cancer Institute
-hostSchool Duke University Medical Center
-city Durham, North Carolina
 type nciCancerCenter
+
 country United States
+city Durham, North Carolina
+
 nciDesignation Comprehensive Cancer Center
+hostSchool Duke University Medical Center

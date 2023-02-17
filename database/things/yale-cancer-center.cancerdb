@@ -1,6 +1,8 @@
 title Yale Cancer Center
-hostSchool Yale University School of Medicine
-city New Haven, Connecticut
 type nciCancerCenter
+
 country United States
+city New Haven, Connecticut
+
 nciDesignation Comprehensive Cancer Center
+hostSchool Yale University School of Medicine

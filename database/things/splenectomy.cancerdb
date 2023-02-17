@@ -1,4 +1,5 @@
-type surgery
 title Splenectomy
-wikipedia https://en.wikipedia.org/wiki/Splenectomy
+type surgery
 description A surgery that involves the removal of the spleen. It may be used to treat spleen cancer or other conditions that affect the spleen.
+
+wikipedia https://en.wikipedia.org/wiki/Splenectomy

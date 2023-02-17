@@ -8,6 +8,7 @@
     "build": "./code/CancerDBServer.js buildAll; scroll list | scroll build",
     "open": "open site/index.html",
     "local": "./code/CancerDBServer.js startDevServer",
+    "format": "./code/CancerDBServer.js format",
     "deploy": "ssh cancerdb.com 'git pull; npm install .; x build; x restart'",
     "start": "pm2 start ./code/CancerDBServer.js -- startProdServer",
     "stop": "pm2 delete 0",

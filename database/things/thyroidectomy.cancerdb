@@ -1,4 +1,5 @@
-type surgery
 title Thyroidectomy
-wikipedia https://en.wikipedia.org/wiki/Thyroidectomy
+type surgery
 description A surgery that involves the removal of all or part of the thyroid gland. It may be used to treat thyroid cancer.
+
+wikipedia https://en.wikipedia.org/wiki/Thyroidectomy

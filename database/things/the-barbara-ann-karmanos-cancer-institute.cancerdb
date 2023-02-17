@@ -1,6 +1,8 @@
 title The Barbara Ann Karmanos Cancer Institute
-hostSchool Wayne State University School of Medicine
-city Detroit, Michigan
 type nciCancerCenter
+
 country United States
+city Detroit, Michigan
+
 nciDesignation Comprehensive Cancer Center
+hostSchool Wayne State University School of Medicine

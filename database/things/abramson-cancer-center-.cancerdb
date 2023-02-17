@@ -1,6 +1,8 @@
 title Abramson Cancer Center 
-hostSchool University of Pennsylvania
-city Philadelphia, Pennsylvania
 type nciCancerCenter
+
 country United States
+city Philadelphia, Pennsylvania
+
 nciDesignation Comprehensive Cancer Center
+hostSchool University of Pennsylvania

@@ -1,6 +1,8 @@
 title University of New Mexico Cancer Research and Treatment Center
-hostSchool University of New Mexico
-city Albuquerque, New Mexico
 type nciCancerCenter
+
 country United States
+city Albuquerque, New Mexico
+
 nciDesignation Comprehensive Cancer Center
+hostSchool University of New Mexico

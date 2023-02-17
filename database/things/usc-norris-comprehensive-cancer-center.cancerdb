@@ -1,6 +1,8 @@
 title USC Norris Comprehensive Cancer Center
-hostSchool University of Southern California
-city Los Angeles, California
 type nciCancerCenter
+
 country United States
+city Los Angeles, California
+
 nciDesignation Comprehensive Cancer Center
+hostSchool University of Southern California

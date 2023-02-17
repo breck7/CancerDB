@@ -1,6 +1,8 @@
 title Mays Cancer Center at UT Health San Antonio
-hostSchool University of Texas Health Science Center
-city San Antonio, Texas
 type nciCancerCenter
+
 country United States
+city San Antonio, Texas
+
 nciDesignation Cancer Center
+hostSchool University of Texas Health Science Center

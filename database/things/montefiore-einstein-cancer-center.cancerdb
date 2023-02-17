@@ -1,6 +1,8 @@
 title Montefiore Einstein Cancer Center
-hostSchool Albert Einstein College of Medicine
-city Bronx, New York
 type nciCancerCenter
+
 country United States
+city Bronx, New York
+
 nciDesignation Cancer Center
+hostSchool Albert Einstein College of Medicine

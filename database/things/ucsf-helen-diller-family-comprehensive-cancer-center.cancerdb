@@ -1,6 +1,8 @@
 title UCSF Helen Diller Family Comprehensive Cancer Center
-hostSchool University of California at San Francisco
-city San Francisco, California
 type nciCancerCenter
+
 country United States
+city San Francisco, California
+
 nciDesignation Comprehensive Cancer Center
+hostSchool University of California at San Francisco

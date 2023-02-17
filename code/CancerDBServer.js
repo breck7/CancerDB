@@ -131,6 +131,15 @@ class CancerDBServerCommands {
     )
   }
 
+  formatCommand() {
+    cancerDBFolder.forEach(file => {
+      file.prettifyAndSave()
+      // todo: fix this bug upstream in jtree.
+      file.setChildren(file.childrenToString().replace(/\n\n+/g, "\n\n"))
+      file.save()
+    })
+  }
+
   createFromTreeCommand() {
     TreeNode.fromDisk(path.join(ignoreFolder, "create.tree")).forEach(node =>
       cancerDBFolder.createFile(node.childrenToString())

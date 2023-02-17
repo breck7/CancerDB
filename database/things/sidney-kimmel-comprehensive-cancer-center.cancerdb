@@ -1,6 +1,8 @@
 title Sidney Kimmel Comprehensive Cancer Center
-hostSchool Johns Hopkins University
-city Baltimore, Maryland
 type nciCancerCenter
+
 country United States
+city Baltimore, Maryland
+
 nciDesignation Comprehensive Cancer Center
+hostSchool Johns Hopkins University
