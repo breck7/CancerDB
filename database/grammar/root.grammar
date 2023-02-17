@@ -6,38 +6,6 @@ cancerdbNode
  inScope blankLineNode abstractTopLevelNode
  string fileExtension cancerdb
  sortTemplate title type appeared author description  website wikipedia amazon twitter country standsFor
-abstractTopLevelNode
- cruxFromId
- cells keywordCell
- catchAllCellType stringCell
-stringCell
- highlightScope string
-titleNode
- extends abstractTopLevelNode
-typeNode
- extends abstractTopLevelNode
-amazonNode
- extends abstractTopLevelNode
-pdfNode
- extends abstractTopLevelNode
-journalNode
- extends abstractTopLevelNode
-descriptionNode
- extends abstractTopLevelNode
-authorNode
- extends abstractTopLevelNode
-websiteNode
- extends abstractTopLevelNode
-appearedNode
- extends abstractTopLevelNode
-wikipediaNode
- extends abstractTopLevelNode
-twitterNode
- extends abstractTopLevelNode
-countryNode
- extends abstractTopLevelNode
-standsForNode
- extends abstractTopLevelNode
 blankCell
 blankLineNode
  description Blank lines compile to nothing in the HTML.
@@ -49,5 +17,3 @@ blankLineNode
  boolean shouldSerialize false
 errorNode
  baseNodeType errorNode
-keywordCell
- highlightScope keyword

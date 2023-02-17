@@ -1,0 +1,11 @@
+typeCell
+ enum book chemotherapyDrug governmentalOrganization researchCenter paper anthracycline alkylatingAgent taxane researchHospital tumorRegistry website cancerNonProfitOrganization
+ highlightScope constant.language
+typeNode
+ description Which category(ies) does this treatment fit into.
+ cells keywordCell typeCell
+ catchAllCellType typeCell
+ extends abstractTopLevelNode
+ required
+ cruxFromId
+ single

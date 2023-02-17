@@ -1,0 +1,6 @@
+wikipediaNode
+ extends abstractUrlNode
+ description URL of the entity on Wikipedia, if and only if it has a page dedicated to it.
+ cells keywordCell urlCell
+ string sourceDomain wikipedia.org
+ contentKey url

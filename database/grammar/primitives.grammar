@@ -1,0 +1,50 @@
+intCell
+yearCell
+ extends intCell
+urlCell
+ highlightScope constant.language
+ regex (ftp|https?)://.+
+abstractTopLevelNode
+ cruxFromId
+ cells keywordCell
+abstractTopLevelStringNode
+ extends abstractTopLevelNode
+ catchAllCellType stringCell
+abstractTopLevelWordNode
+ extends abstractTopLevelNode
+ cells keywordCell stringCell
+abstractIntNode
+ cells keywordCell intCell
+ extends abstractTopLevelNode
+abstractYearNode
+ cells keywordCell yearCell
+ extends abstractIntNode
+abstractUrlNode
+ cells keywordCell urlCell
+ extends abstractTopLevelNode
+stringCell
+ highlightScope string
+titleNode
+ extends abstractTopLevelStringNode
+amazonNode
+ extends abstractUrlNode
+pdfNode
+ extends abstractUrlNode
+journalNode
+ extends abstractTopLevelStringNode
+descriptionNode
+ extends abstractTopLevelStringNode
+authorNode
+ extends abstractTopLevelStringNode
+websiteNode
+ extends abstractUrlNode
+appearedNode
+ extends abstractYearNode
+twitterNode
+ extends abstractTopLevelWordNode
+countryNode
+ extends abstractTopLevelStringNode
+standsForNode
+ extends abstractTopLevelStringNode
+keywordCell
+ highlightScope keyword
