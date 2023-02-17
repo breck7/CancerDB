@@ -29,7 +29,7 @@ stumpNoSnippet
     placeholder Search
     autocomplete off
   a Treatments
-   href BASE_URL/search.html
+   href BASE_URL/search.html?q=select+type
   a Types
    href BASE_URL/lists/commonCancerTypes.html
   a Blog
