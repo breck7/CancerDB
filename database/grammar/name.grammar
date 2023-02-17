@@ -1,0 +1,21 @@
+aliasCell
+titleNode
+ description Title of the treatment.
+ extends abstractTopLevelStringNode
+ cruxFromId
+ single
+ required
+standsForNode
+ description If the thing is an acronym what does/did it stand for?
+ extends abstractTopLevelStringNode
+ cruxFromId
+ single
+akaNode
+ description Another name for the thing. Entries can have multiple aka lines.
+ extends abstractTopLevelStringNode
+ cruxFromId
+ single false
+oldNameNode
+ description What is the old name(s) of this thing?
+ extends abstractTopLevelStringNode
+ cruxFromId

@@ -24,8 +24,6 @@ abstractUrlNode
  extends abstractTopLevelNode
 stringCell
  highlightScope string
-titleNode
- extends abstractTopLevelStringNode
 amazonNode
  extends abstractUrlNode
 pdfNode
@@ -42,7 +40,5 @@ appearedNode
  extends abstractYearNode
 twitterNode
  extends abstractTopLevelWordNode
-standsForNode
- extends abstractTopLevelStringNode
 keywordCell
  highlightScope keyword
