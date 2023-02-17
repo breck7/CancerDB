@@ -17,7 +17,7 @@ const databaseFolder = path.join(baseFolder, "database")
 const ignoreFolder = path.join(baseFolder, "ignore")
 const siteFolder = path.join(baseFolder, "site")
 
-const folder = new TreeBaseFolder()
+const cancerDBFolder = new TreeBaseFolder()
   .setDir(path.join(databaseFolder, "things"))
   .setGrammarDir(path.join(databaseFolder, "grammar"))
   .loadFolder()
@@ -115,7 +115,7 @@ ${scrollFooter}
 }
 
 class CancerDBServerCommands {
-  server = new CancerDBServer(folder, ignoreFolder)
+  server = new CancerDBServer(cancerDBFolder, ignoreFolder)
 
   startDevServerCommand(port) {
     this.server.listen(port)
@@ -126,11 +126,13 @@ class CancerDBServerCommands {
   }
 
   buildAllCommand() {
-    new TreeBaseBuilder(folder).compileTreeBaseFilesToScrollFiles(siteFolder)
+    new TreeBaseBuilder(cancerDBFolder).compileTreeBaseFilesToScrollFiles(
+      siteFolder
+    )
   }
 }
 
-module.exports = { CancerDBServer }
+module.exports = { CancerDBServer, cancerDBFolder }
 
 if (!module.parent)
   Utils.runCommand(

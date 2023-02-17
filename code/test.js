@@ -2,12 +2,8 @@
 
 const tap = require("tap")
 const { ScrollFolder } = require("scroll-cli")
-const { CancerDBServer } = require("./CancerDBServer.js")
-
-const runTree = testTree =>
-  Object.keys(testTree).forEach(key => {
-    testTree[key](tap.equal)
-  })
+const { CancerDBServer, cancerDBFolder } = require("./CancerDBServer.js")
+const { TestRacer } = require("jtree/products/TestRacer.js")
 
 const testTree = {}
 
@@ -31,6 +27,19 @@ testTree.ensureNoErrorsInBlog = areEqual => {
   }
 }
 
+testTree.ensureNoErrorsInDb = areEqual => {
+  const { errors } = cancerDBFolder
+  if (errors.length)
+    errors.forEach(err =>
+      console.log(
+        err._node.root.get("title"),
+        err._node.getFirstWordPath(),
+        err
+      )
+    )
+  areEqual(errors.length, 0, "no errors in db")
+}
+
 testTree.ensureFieldsAreTrimmed = areEqual => {
   const scrollFolder = new ScrollFolder(__dirname)
   const { grammarErrors } = scrollFolder
@@ -38,6 +47,6 @@ testTree.ensureFieldsAreTrimmed = areEqual => {
   areEqual(grammarErrors.length, 0, "no errors in scroll extensions")
 }
 
-if (module && !module.parent) runTree(testTree)
+if (module && !module.parent) TestRacer.testSingleFile(__filename, testTree)
 
 module.exports = { testTree }

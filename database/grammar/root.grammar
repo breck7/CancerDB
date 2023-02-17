@@ -14,6 +14,14 @@ stringCell
  highlightScope string
 titleNode
  extends abstractTopLevelNode
+typeNode
+ extends abstractTopLevelNode
+amazonNode
+ extends abstractTopLevelNode
+pdfNode
+ extends abstractTopLevelNode
+journalNode
+ extends abstractTopLevelNode
 descriptionNode
  extends abstractTopLevelNode
 authorNode
