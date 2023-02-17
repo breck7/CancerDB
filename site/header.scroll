@@ -20,9 +20,12 @@ stumpNoSnippet
    class logoFont
   form
    style display:inline-block;
+   method get
+   action /fullTextSearch
    input
     type search
     id headerSearch
+    name q
     placeholder Search
     autocomplete off
   a Treatments

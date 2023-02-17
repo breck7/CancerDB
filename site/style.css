@@ -125,13 +125,13 @@ a:hover {
   margin: 6px 0;
 }
 
-#monacoContainer {
+.pldbHomepageLink {
+  color: #000;
+  text-decoration: none;
   display: block;
-  height: 10em;
-  border: 1px solid grey;
-  margin-top: 8px;
 }
 
+/* todo: should be in treebase code? */
 .searchResultsHeader {
   color: #333;
   margin-bottom: 3px;
@@ -149,6 +149,32 @@ a:hover {
   color: #000;
 }
 
+.tqlForm {
+}
+
+#tqlErrors {
+  font-size: 10px;
+  color: #333;
+}
+
+.tqlForm .CodeMirror {
+  display: inline-block;
+}
+
+.tqlForm textarea {
+  height: 8em;
+  width: 60ch;
+  border: 0;
+}
+
+.tqlForm input {
+  height: 8em;
+  vertical-align: top;
+  width: 16em;
+  border: 0;
+  cursor: pointer;
+}
+
 .treeBaseSearchFormPadded {
   margin-top: 10px;
   margin-bottom: 10px;
@@ -162,7 +188,7 @@ a:hover {
   font-size: 16px;
 }
 
-.treeBaseSearchForm .treeBaseSearchButton {
+.treeBaseSearchForm .searchButton {
   height: 50px;
   font-size: 16px;
   border: 0;
@@ -171,16 +197,12 @@ a:hover {
   background-color: rgb(237, 237, 237);
 }
 
-.treeBaseSearchForm .treeBaseSearchButton:hover {
+.treeBaseSearchForm .searchButton:hover {
   background-color: rgb(207, 207, 207);
 }
 
-.treeBaseSearchForm .treeBaseSearchButton:active {
+.treeBaseSearchForm .searchButton:active {
   background-color: rgb(187, 187, 187);
 }
 
-.pldbHomepageLink {
-  color: #000;
-  text-decoration: none;
-  display: block;
-}
+/* end search css */
