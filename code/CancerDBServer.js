@@ -9,7 +9,7 @@ const { TreeBaseServer } = require("jtree/products/treeBaseServer.node.js")
 const { ScrollFile } = require("scroll-cli")
 const {
   TreeBaseFolder,
-  TreeBaseBuilder
+  TreeBaseFile
 } = require("jtree/products/treeBase.node.js")
 
 const baseFolder = path.join(__dirname, "..")
@@ -18,17 +18,81 @@ const ignoreFolder = path.join(baseFolder, "ignore")
 const siteFolder = path.join(baseFolder, "site")
 const treatmentsFolder = path.join(siteFolder, "treatments")
 
-const cancerDBFolder = new TreeBaseFolder()
-  .setDir(path.join(databaseFolder, "things"))
-  .setGrammarDir(path.join(databaseFolder, "grammar"))
-  .loadFolder()
-
 const scrollHeader = new ScrollFile(
   undefined,
   path.join(siteFolder, "header.scroll")
 ).importResults.code
 
 const scrollFooter = Disk.read(path.join(siteFolder, "footer.scroll"))
+
+class CancerDBFile extends TreeBaseFile {
+  get webPermalink() {
+    return `/treatments/${this.permalink}`
+  }
+}
+
+class CancerDBFolder extends TreeBaseFolder {
+  createParser() {
+    return new TreeNode.Parser(CancerDBFile)
+  }
+}
+
+const cancerDBFolder = new CancerDBFolder()
+  .setDir(path.join(databaseFolder, "things"))
+  .setGrammarDir(path.join(databaseFolder, "grammar"))
+  .loadFolder()
+
+class TreatmentPageTemplate {
+  constructor(file) {
+    this.file = file
+  }
+
+  toScroll() {
+    const { file, typeName, title } = this
+    const { id } = file
+
+    return `import header.scroll
+title ${title}
+
+html <a class="prevLang" href="${
+      this.prevPage
+    }">&lt;</a><a class="nextLang" href="${this.nextPage}">&gt;</a>
+
+code
+ ${this.file.childrenToString().replace(/\n/g, "\n ")}
+
+viewSourceUrl ${this.sourceUrl}
+
+keyboardNav ${this.prevPage} ${this.nextPage}
+
+import ../footer.scroll
+`.replace(/\n\n\n+/g, "\n\n")
+  }
+
+  get sourceUrl() {
+    return `https://github.com/breck7/CancerDB/blob/main/database/things/${this.id}.cancerdb`
+  }
+
+  get title() {
+    return this.file.get("title")
+  }
+
+  get typeName() {
+    return ""
+  }
+
+  get quickLinks() {
+    return ""
+  }
+
+  get prevPage() {
+    return this.file.getPrevious().permalink
+  }
+
+  get nextPage() {
+    return this.file.getNext().permalink
+  }
+}
 
 const delimitedEscapeFunction = value =>
   value.includes("\n") ? value.split("\n")[0] : value
@@ -146,8 +210,11 @@ class CancerDBServerCommands {
   }
 
   buildAllCommand() {
-    new TreeBaseBuilder(cancerDBFolder).compileTreeBaseFilesToScrollFiles(
-      treatmentsFolder
+    cancerDBFolder.forEach(file =>
+      Disk.write(
+        path.join(treatmentsFolder, `${file.id}.scroll`),
+        new TreatmentPageTemplate(file).toScroll()
+      )
     )
   }
 

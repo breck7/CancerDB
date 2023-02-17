@@ -206,3 +206,24 @@ a:hover {
 }
 
 /* end search css */
+
+.prevLang,
+.nextLang {
+  position: absolute;
+  font-size: 16px;
+  line-height: 26px;
+  top: 8px;
+  color: rgba(204, 204, 204, 0.5);
+}
+.prevLang:hover,
+.nextLang:hover {
+  color: rgba(204, 204, 204, 1);
+}
+.prevLang {
+  left: 2px;
+  text-align: left;
+}
+.nextLang {
+  right: 2px;
+  text-align: right;
+}
