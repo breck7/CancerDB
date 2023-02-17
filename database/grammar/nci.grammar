@@ -1,0 +1,9 @@
+todo Add enum for: Comprehensive Cancer Center && Basic Laboratory Cancer Center && Cancer Center
+nciDesignationNode
+ extends abstractTopLevelStringNode
+ description Which of the 3 NCI designations does this research center have?
+ string sourceDomain cancer.gov
+hostSchoolNode
+ extends abstractTopLevelStringNode
+ description What is the host university or college of this research center?
+ string sourceDomain cancer.gov

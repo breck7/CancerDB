@@ -4,6 +4,7 @@ const tap = require("tap")
 const { ScrollFolder } = require("scroll-cli")
 const { CancerDBServer, cancerDBFolder } = require("./CancerDBServer.js")
 const { TestRacer } = require("jtree/products/TestRacer.js")
+const { Utils } = require("jtree/products/Utils.js")
 
 const testTree = {}
 
@@ -12,6 +13,29 @@ testTree.ensureNoErrorsInScrollExtensions = areEqual => {
   const { grammarErrors } = scrollFolder
   if (grammarErrors.length) console.log(grammarErrors)
   areEqual(grammarErrors.length, 0, "no errors in scroll extensions")
+}
+
+testTree.ensureGoodFilenames = areEqual => {
+  let invalidIds = 0
+  let validIds = 0
+  cancerDBFolder.forEach(file => {
+    if (file.id !== Utils.titleToPermalink(file.id)) invalidIds++
+    else validIds++
+  })
+
+  if (!invalidIds) {
+    areEqual(0, 0, `all ${validIds} filenames are valid`)
+    // We can abort early to print a lot of test output
+    return
+  }
+
+  cancerDBFolder.forEach(file =>
+    areEqual(
+      file.id,
+      Utils.titleToPermalink(file.id),
+      `${file.id} is a valid filename`
+    )
+  )
 }
 
 // todo

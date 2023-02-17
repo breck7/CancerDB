@@ -1,0 +1,8 @@
+
+https://www.cancer.gov/research/infrastructure/cancer-centers
+
+a = jQuery(".institution-content")
+a = Array.from(a)
+copy(a.map(item => jQuery(item).text()).join("\n"))
+
+

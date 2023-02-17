@@ -1,0 +1,16 @@
+countryNameCell
+ extends stringCell
+cityStateCell
+ extends stringCell
+countryNode
+ boolean alwaysRecommended true
+ cells keywordCell
+ catchAllCellType countryNameCell
+ extends abstractTopLevelNode
+ single true
+cityNode
+ description City and state
+ cells keywordCell
+ catchAllCellType cityStateCell
+ extends abstractTopLevelNode
+ single true
