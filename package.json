@@ -9,7 +9,7 @@
     "open": "open site/index.html",
     "local": "./code/CancerDB.js startDevServer",
     "format": "./code/CancerDB.js format",
-    "deploy": "ssh cancerdb.com 'cd CancerDB; git pull; npm install .; x build; x restart'",
+    "deploy": "ssh cancerdb.com 'cd CancerDB; git pull; npm install .; npm run build; npm run restart'",
     "start": "pm2 start ./code/CancerDB.js -- startProdServer",
     "stop": "pm2 delete 0",
     "restart": "pm2 restart 0",
