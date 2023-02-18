@@ -35,6 +35,10 @@ class CancerDBFolder extends TreeBaseFolder {
   createParser() {
     return new TreeNode.Parser(CancerDBFile)
   }
+
+  get filesWithInvalidFilenames() {
+    return this.filter(file => file.id !== Utils.titleToPermalink(file.id))
+  }
 }
 
 const cancerDBFolder = new CancerDBFolder()

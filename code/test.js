@@ -16,25 +16,10 @@ testTree.ensureNoErrorsInScrollExtensions = areEqual => {
 }
 
 testTree.ensureGoodFilenames = areEqual => {
-  let invalidIds = 0
-  let validIds = 0
-  cancerDBFolder.forEach(file => {
-    if (file.id !== Utils.titleToPermalink(file.id)) invalidIds++
-    else validIds++
-  })
-
-  if (!invalidIds) {
-    areEqual(0, 0, `all ${validIds} filenames are valid`)
-    // We can abort early to print a lot of test output
-    return
-  }
-
-  cancerDBFolder.forEach(file =>
-    areEqual(
-      file.id,
-      Utils.titleToPermalink(file.id),
-      `${file.id} is a valid filename`
-    )
+  areEqual(
+    cancerDBFolder.filesWithInvalidFilenames.length,
+    0,
+    `all ${cancerDBFolder.length} filenames are valid`
   )
 }
 
