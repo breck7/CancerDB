@@ -230,9 +230,11 @@ class CancerDBServerCommands {
   buildDistFolder() {
     if (!Disk.exists(distFolder)) Disk.mkdir(distFolder)
 
+    const cancerDbGrammar = new TreeNode(cancerDBFolder.grammarCode)
+
     Disk.write(
       path.join(distFolder, "cancerdb.grammar"),
-      cancerDBFolder.grammarCode
+      cancerDbGrammar.toString()
     )
 
     // todo: cleanup
@@ -245,7 +247,13 @@ class CancerDBServerCommands {
     const tqlPath = path.join(jtreeFolder, "langs", "tql", "tql.grammar")
     const tqlGrammar = new TreeNode(Disk.read(tqlPath))
 
-    tqlGrammar.getNode("columnNameCell").set("enum", "appeared type")
+    const columnNames = cancerDbGrammar
+      .get("cancerdbNode sortTemplate")
+      .split(" ")
+      .filter(i => i)
+      .join(" ")
+
+    tqlGrammar.getNode("columnNameCell").set("enum", columnNames)
     const combinedPath = path.join(distFolder, "cancerdbTql.grammar")
     Disk.write(combinedPath, tqlGrammar.toString())
     GrammarCompiler.compileGrammarForBrowser(
