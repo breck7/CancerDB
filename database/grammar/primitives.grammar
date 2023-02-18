@@ -4,6 +4,10 @@ yearCell
 urlCell
  highlightScope constant.language
  regex (ftp|https?)://.+
+stringCell
+ highlightScope string
+keywordCell
+ highlightScope keyword
 abstractTopLevelNode
  cruxFromId
  cells keywordCell
@@ -22,23 +26,3 @@ abstractYearNode
 abstractUrlNode
  cells keywordCell urlCell
  extends abstractTopLevelNode
-stringCell
- highlightScope string
-amazonNode
- extends abstractUrlNode
-pdfNode
- extends abstractUrlNode
-journalNode
- extends abstractTopLevelStringNode
-descriptionNode
- extends abstractTopLevelStringNode
-authorNode
- extends abstractTopLevelStringNode
-websiteNode
- extends abstractUrlNode
-appearedNode
- extends abstractYearNode
-twitterNode
- extends abstractTopLevelWordNode
-keywordCell
- highlightScope keyword

@@ -1,0 +1,6 @@
+pdfNode
+ extends abstractUrlNode
+journalNode
+ extends abstractTopLevelStringNode
+authorNode
+ extends abstractTopLevelStringNode
