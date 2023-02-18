@@ -64,12 +64,16 @@ class TreatmentPageTemplate {
     const { file, typeName, title } = this
     const { id } = file
 
+    const youTube = file.get("youtube")
+
     return `import header.scroll
 title ${title}
 
 html <a class="prevLang" href="${
       this.prevPage
     }">&lt;</a><a class="nextLang" href="${this.nextPage}">&gt;</a>
+
+${youTube ? `youTube ${youTube}` : ""}
 
 code
  ${this.file.childrenToString().replace(/\n/g, "\n ")}

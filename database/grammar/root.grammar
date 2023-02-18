@@ -5,7 +5,7 @@ cancerdbNode
  todo Should not have to manually list each node type here, but should be able to mark some tag as inscope. Should be fixed upstream in Jtree.
  inScope blankLineNode abstractTopLevelNode
  string fileExtension cancerdb
- sortTemplate title type appeared standsFor description aka  author pdf journal  website wikipedia reference amazon twitter  country city  nciDesignation hostSchool
+ sortTemplate title type appeared standsFor description aka  author pdf journal  website wikipedia reference youtube amazon twitter  country city  nciDesignation hostSchool
 blankCell
 blankLineNode
  description Blank lines compile to nothing in the HTML.

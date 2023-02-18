@@ -1,0 +1,3 @@
+youtubeNode
+ extends abstractUrlNode
+ description A URL to a YouTube video about the thing.
