@@ -5,12 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "./code/test.js",
-    "build": "./code/CancerDBServer.js buildAll; scroll list | scroll build",
+    "build": "./code/CancerDB.js buildAll; scroll list | scroll build",
     "open": "open site/index.html",
-    "local": "./code/CancerDBServer.js startDevServer",
-    "format": "./code/CancerDBServer.js format",
+    "local": "./code/CancerDB.js startDevServer",
+    "format": "./code/CancerDB.js format",
     "deploy": "ssh cancerdb.com 'git pull; npm install .; x build; x restart'",
-    "start": "pm2 start ./code/CancerDBServer.js -- startProdServer",
+    "start": "pm2 start ./code/CancerDB.js -- startProdServer",
     "stop": "pm2 delete 0",
     "restart": "pm2 restart 0",
     "jtreeBeta": "npm install ~/jtree"

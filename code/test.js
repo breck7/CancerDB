@@ -2,7 +2,7 @@
 
 const tap = require("tap")
 const { ScrollFolder } = require("scroll-cli")
-const { CancerDBServer, cancerDBFolder } = require("./CancerDBServer.js")
+const { CancerDBServer, cancerDBFolder } = require("./CancerDB.js")
 const { TestRacer } = require("jtree/products/TestRacer.js")
 const { Utils } = require("jtree/products/Utils.js")
 
