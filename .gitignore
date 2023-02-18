@@ -11,3 +11,4 @@ site/scroll.css
 site/*.scroll
 *.log
 site/treatments/*.scroll
+dist/

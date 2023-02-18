@@ -7,6 +7,7 @@ const { Disk } = require("jtree/products/Disk.node.js")
 const { TreeNode } = require("jtree/products/TreeNode.js")
 const { TreeBaseServer } = require("jtree/products/treeBaseServer.node.js")
 const { ScrollFile } = require("scroll-cli")
+const { GrammarCompiler } = require("jtree/products/GrammarCompiler.js")
 const {
   TreeBaseFolder,
   TreeBaseFile
@@ -16,7 +17,15 @@ const baseFolder = path.join(__dirname, "..")
 const databaseFolder = path.join(baseFolder, "database")
 const ignoreFolder = path.join(baseFolder, "ignore")
 const siteFolder = path.join(baseFolder, "site")
+const distFolder = path.join(siteFolder, "dist")
+const nodeModulesFolder = path.join(baseFolder, "node_modules")
+const jtreeFolder = path.join(nodeModulesFolder, "jtree")
 const treatmentsFolder = path.join(siteFolder, "treatments")
+
+const combineJsFiles = (baseDir = "", filepaths = []) =>
+  filepaths
+    .map(filename => Disk.read(path.join(baseDir, filename)))
+    .join(`;\n\n`)
 
 const scrollHeader = new ScrollFile(
   undefined,
@@ -172,11 +181,6 @@ class CancerDBServer extends TreeBaseServer {
     return new ScrollFile(
       `${scrollHeader}
 
-html
- <link rel="stylesheet" type="text/css" href="/jtree/sandbox/lib/codemirror.css" />
- <link rel="stylesheet" type="text/css" href="/jtree/sandbox/lib/codemirror.show-hint.css" />
- <script src="/dist/editorLibCode.js"></script>
-
 title Search Results
  hidden
 
@@ -219,6 +223,69 @@ class CancerDBServerCommands {
         path.join(treatmentsFolder, `${file.id}.scroll`),
         new TreatmentPageTemplate(file).toScroll()
       )
+    )
+    this.buildDistFolder()
+  }
+
+  buildDistFolder() {
+    if (!Disk.exists(distFolder)) Disk.mkdir(distFolder)
+
+    Disk.write(
+      path.join(distFolder, "cancerdb.grammar"),
+      cancerDBFolder.grammarCode
+    )
+
+    // todo: cleanup
+    GrammarCompiler.compileGrammarForBrowser(
+      path.join(distFolder, "cancerdb.grammar"),
+      distFolder + "/",
+      false
+    )
+
+    const tqlPath = path.join(jtreeFolder, "langs", "tql", "tql.grammar")
+    const tqlGrammar = new TreeNode(Disk.read(tqlPath))
+
+    tqlGrammar.getNode("columnNameCell").set("enum", "appeared type")
+    const combinedPath = path.join(distFolder, "cancerdbTql.grammar")
+    Disk.write(combinedPath, tqlGrammar.toString())
+    GrammarCompiler.compileGrammarForBrowser(
+      combinedPath,
+      distFolder + "/",
+      false
+    )
+
+    const combinedJs =
+      combineJsFiles(
+        path.join(jtreeFolder),
+        `products/Utils.browser.js
+products/TreeNode.browser.js
+products/GrammarLanguage.browser.js
+products/GrammarCodeMirrorMode.browser.js
+sandbox/lib/codemirror.js
+sandbox/lib/show-hint.js`.split("\n")
+      ) +
+      "\n\n" +
+      combineJsFiles(
+        distFolder,
+        "cancerdb.browser.js tql.browser.js".split(" ")
+      ) +
+      "\n\n" +
+      combineJsFiles(
+        path.join(__dirname, "frontEndJavascript"),
+        `libs.js autocomplete.js app.js`.split(" ")
+      )
+
+    Disk.write(path.join(distFolder, "combined.js"), combinedJs)
+
+    const filepaths = [
+      path.join(siteFolder, "scroll.css"),
+      path.join(jtreeFolder, "sandbox/lib/codemirror.css"),
+      path.join(jtreeFolder, "sandbox/lib/codemirror.show-hint.css"),
+      path.join(siteFolder, "style.css")
+    ]
+    Disk.write(
+      path.join(distFolder, "combined.css"),
+      filepaths.map(Disk.read).join(`\n\n`)
     )
   }
 
