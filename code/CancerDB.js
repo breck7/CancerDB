@@ -120,6 +120,7 @@ class CancerDBServer extends TreeBaseServer {
   constructor(folder, ignoreFolder) {
     super(folder, ignoreFolder)
     this.serveFolder(siteFolder)
+    this.buildTqlExtension()
     this.initSearch()
     this.buildAutocomplete()
   }
@@ -171,7 +172,8 @@ class CancerDBServer extends TreeBaseServer {
       title,
       description
     } = this.searchServer.search(
-      decodeURIComponent(originalQuery).replace(/\r/g, "")
+      decodeURIComponent(originalQuery).replace(/\r/g, ""),
+      this.tqlParser
     )
     const { folder } = this
     const results = new TreeNode(hits)._toDelimited(
@@ -208,6 +210,32 @@ ${scrollFooter}
 `
     ).html
   }
+
+  buildTqlExtension() {
+    const tqlGrammar = new TreeNode(
+      Disk.read(path.join(jtreeFolder, "langs", "tql", "tql.grammar"))
+    )
+    const columnNames = new TreeNode(this.folder.grammarCode)
+      .get("cancerdbNode sortTemplate")
+      .split(" ")
+      .filter(i => i)
+      .join(" ")
+    tqlGrammar.getNode("columnNameCell").set("enum", columnNames)
+
+    const cancerDbTqlPath = path.join(distFolder, "cancerdbTql.grammar")
+    Disk.write(cancerDbTqlPath, tqlGrammar.toString())
+    GrammarCompiler.compileGrammarForBrowser(
+      cancerDbTqlPath,
+      distFolder + "/",
+      false
+    )
+    const jsPath = GrammarCompiler.compileGrammarForNodeJs(
+      cancerDbTqlPath,
+      distFolder + "/",
+      true
+    )
+    this.tqlParser = require(jsPath)
+  }
 }
 
 class CancerDBServerCommands {
@@ -234,11 +262,9 @@ class CancerDBServerCommands {
   buildDistFolder() {
     if (!Disk.exists(distFolder)) Disk.mkdir(distFolder)
 
-    const cancerDbGrammar = new TreeNode(cancerDBFolder.grammarCode)
-
     Disk.write(
       path.join(distFolder, "cancerdb.grammar"),
-      cancerDbGrammar.toString()
+      cancerDBFolder.grammarCode
     )
 
     // todo: cleanup
@@ -248,23 +274,7 @@ class CancerDBServerCommands {
       false
     )
 
-    const tqlPath = path.join(jtreeFolder, "langs", "tql", "tql.grammar")
-    const tqlGrammar = new TreeNode(Disk.read(tqlPath))
-
-    const columnNames = cancerDbGrammar
-      .get("cancerdbNode sortTemplate")
-      .split(" ")
-      .filter(i => i)
-      .join(" ")
-
-    tqlGrammar.getNode("columnNameCell").set("enum", columnNames)
-    const combinedPath = path.join(distFolder, "cancerdbTql.grammar")
-    Disk.write(combinedPath, tqlGrammar.toString())
-    GrammarCompiler.compileGrammarForBrowser(
-      combinedPath,
-      distFolder + "/",
-      false
-    )
+    this.server.buildTqlExtension()
 
     const combinedJs =
       combineJsFiles(
