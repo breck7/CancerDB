@@ -26,3 +26,8 @@ abstractYearNode
 abstractUrlNode
  cells keywordCell urlCell
  extends abstractTopLevelNode
+abstractArrayNode
+ extends abstractTopLevelNode
+ catchAllCellType stringCell
+ cells keywordCell
+ listDelimiter  

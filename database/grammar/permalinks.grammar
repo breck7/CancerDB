@@ -1,0 +1,8 @@
+permalinkCell
+ highlightScope string
+ description The filename of the entity in TreeBase.
+abstractPermalinksNode
+ catchAllCellType permalinkCell
+ extends abstractArrayNode
+ description Links to other entities in the TreeBase.
+ boolean providesPermalinks true

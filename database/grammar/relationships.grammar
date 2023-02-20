@@ -1,0 +1,7 @@
+abstractRelationshipNode
+ extends abstractPermalinksNode
+ cruxFromId
+relatedNode
+ extends abstractRelationshipNode
+ description What entities are related? This serves as a catch all, and it is better to use a more specific relationship node.
+ single
