@@ -1,5 +1,5 @@
 typeCell
- enum book chemotherapyDrug governmentalOrganization researchCenter paper anthracycline alkylatingAgent taxane researchHospital nciCancerCenter tumorRegistry website cancerNonProfitOrganization breathTreatment exercise mentalTreatment vitamin touchTreatment surgery documentary lifestyle hospital professionalOrganization app caregiverService software lotion device clothing prosthetic subreddit toxinAvoidance hospiceCareService immunotherapy
+ enum book chemotherapyDrug governmentalOrganization researchCenter paper anthracycline alkylatingAgent taxane researchHospital nciCancerCenter tumorRegistry website cancerNonProfitOrganization breathTreatment exercise mentalTreatment vitamin touchTreatment surgery documentary lifestyle hospital professionalOrganization app caregiverService software lotion device clothing prosthetic subreddit toxinAvoidance hospiceCareService immunotherapy ctScan
  highlightScope constant.language
 typeNode
  description Which category(ies) does this treatment fit into.
