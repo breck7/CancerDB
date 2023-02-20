@@ -227,3 +227,44 @@ a:hover {
   right: 2px;
   text-align: right;
 }
+
+/* Icons */
+
+/* fallback */
+@font-face {
+  font-family: "Material Symbols Outlined";
+  font-style: normal;
+  font-weight: 400;
+  src: url(/googleMaterial.woff2) format("woff2");
+}
+
+.material-symbols-outlined {
+  font-family: "Material Symbols Outlined";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: "liga";
+  -webkit-font-smoothing: antialiased;
+}
+
+.quickLinks a {
+  display: inline-block;
+  color: black;
+  text-decoration: none;
+}
+.quickLinks a svg {
+  width: 24px;
+  height: 24px;
+}
+.quickLinks a:hover {
+  filter: drop-shadow(0px 1px 1px rgb(0 0 0 / 0.2));
+}
+
+/* End Icons */
