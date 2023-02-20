@@ -331,6 +331,12 @@ sandbox/lib/show-hint.js`.split("\n")
       Disk.read(path.join(ignoreFolder, "create.csv"))
     ).forEach(node => cancerDBFolder.createFile(node.childrenToString()))
   }
+
+  createFromTsvCommand() {
+    TreeNode.fromTsv(
+      Disk.read(path.join(ignoreFolder, "create.tsv"))
+    ).forEach(node => cancerDBFolder.createFile(node.childrenToString()))
+  }
 }
 
 module.exports = { CancerDBServer, cancerDBFolder }
