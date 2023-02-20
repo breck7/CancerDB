@@ -1,0 +1,7 @@
+todo trim the trailing slash
+subredditNode
+ extends abstractUrlNode
+ string sourceDomain reddit.com
+ contentKey url
+ cruxFromId
+ description Url of a subreddit(s) for this thing.
