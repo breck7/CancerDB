@@ -96,9 +96,11 @@ class TreatmentPageTemplate {
   }
 
   toScroll() {
-    const { file, typeName, title } = this
+    const { file } = this
+    const type = file.get("type")
+    const title = file.get("title")
     const description = file.get("description")
-    const template = templates[file.type] ?? templates.default
+    const template = templates[type] ?? templates.default
     return `import header.scroll
 viewSourceUrl ${this.sourceUrl}
 keyboardNav ${this.prevPage} ${this.nextPage}
@@ -120,14 +122,6 @@ import ../footer.scroll
 
   get sourceUrl() {
     return `https://github.com/breck7/CancerDB/blob/main/database/things/${this.file.id}.cancerdb`
-  }
-
-  get title() {
-    return this.file.get("title")
-  }
-
-  get typeName() {
-    return ""
   }
 
   get prevPage() {
