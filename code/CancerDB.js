@@ -83,7 +83,7 @@ class TreatmentPageTemplate {
       wikipedia: file.get(`wikipedia`),
       reddit: file.get("subreddit"),
       twitter: file.get("twitter"),
-      edit: `https://github.com/breck7/CancerDB/blob/main/database/things/${file.id}.cancerdb`
+      edit: this.sourceUrl
     }
     return Object.keys(links)
       .filter(key => links[key])
@@ -121,7 +121,7 @@ import ../footer.scroll
   }
 
   get sourceUrl() {
-    return `https://github.com/breck7/CancerDB/blob/main/database/things/${this.file.id}.cancerdb`
+    return `https://github.com/breck7/CancerDB/blob/main/database/things/${this.file.id}.cdb`
   }
 
   get prevPage() {
@@ -238,13 +238,13 @@ ${scrollFooter}
       Disk.read(path.join(jtreeFolder, "langs", "tql", "tql.grammar"))
     )
     const columnNames = new TreeNode(this.folder.grammarCode)
-      .get("cancerdbNode sortTemplate")
+      .get("cdbNode sortTemplate")
       .split(" ")
       .filter(i => i)
       .join(" ")
     tqlGrammar.getNode("columnNameCell").set("enum", columnNames)
 
-    const cancerDbTqlPath = path.join(distFolder, "cancerdbTql.grammar")
+    const cancerDbTqlPath = path.join(distFolder, "cdbTql.grammar")
     Disk.write(cancerDbTqlPath, tqlGrammar.toString())
     GrammarCompiler.compileGrammarForBrowser(
       cancerDbTqlPath,
@@ -284,14 +284,11 @@ class CancerDBServerCommands {
   buildDistFolder() {
     if (!Disk.exists(distFolder)) Disk.mkdir(distFolder)
 
-    Disk.write(
-      path.join(distFolder, "cancerdb.grammar"),
-      cancerDBFolder.grammarCode
-    )
+    Disk.write(path.join(distFolder, "cdb.grammar"), cancerDBFolder.grammarCode)
 
     // todo: cleanup
     GrammarCompiler.compileGrammarForBrowser(
-      path.join(distFolder, "cancerdb.grammar"),
+      path.join(distFolder, "cdb.grammar"),
       distFolder + "/",
       false
     )
@@ -309,10 +306,7 @@ sandbox/lib/codemirror.js
 sandbox/lib/show-hint.js`.split("\n")
       ) +
       "\n\n" +
-      combineJsFiles(
-        distFolder,
-        "cancerdb.browser.js tql.browser.js".split(" ")
-      ) +
+      combineJsFiles(distFolder, "cdb.browser.js tql.browser.js".split(" ")) +
       "\n\n" +
       combineJsFiles(
         path.join(__dirname, "frontEndJavascript"),

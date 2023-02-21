@@ -18,10 +18,10 @@ import code/ciBadges.scroll
 * Documentation for the CSV will be available here: https://cancerdb.com/docs/csv.html (coming soon).
 
 ## To add a new treatment
-* Advanced method: Create a new file in `database/things` with a unique URL friendly filename ending in `.cancerdb` and send a pull request.
+* Advanced method: Create a new file in `database/things` with a unique URL friendly filename ending in `.cdb` and send a pull request.
 
 ## To update an entity
-* Advanced method: Edit the corresponding `database/things/*.cancerdb` file and send a pull request.
+* Advanced method: Edit the corresponding `database/things/*.cdb` file and send a pull request.
 
 ## To add a new column
 * Advanced method: Edit or create a new file in `database/grammar` and add at least 1 example to an entity in `database/things` and send a pull request.

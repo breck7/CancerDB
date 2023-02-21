@@ -1,10 +1,10 @@
-cancerdbNode
+cdbNode
  root
  description A database about cancer treatments and related concepts.
  catchAllNodeType errorNode
  todo Should not have to manually list each node type here, but should be able to mark some tag as inscope. Should be fixed upstream in Jtree.
  inScope blankLineNode abstractTopLevelNode
- string fileExtension cancerdb
+ string fileExtension cdb
  sortTemplate title type cancerTypes appeared originCommunity company standsFor description aka tradenames related  author pdf journal  website subreddit wikipedia reference youtube amazon twitter  country city  nciDesignation hostSchool usNewsRank  kegg drugBank medlinePlus pubChem
 blankCell
 blankLineNode
