@@ -1,5 +1,6 @@
 importOnly
 import settings.scroll
+import ../code/scrollExtensions.scroll
 
 metaTags
 
