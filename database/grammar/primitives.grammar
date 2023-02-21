@@ -26,6 +26,8 @@ abstractYearNode
 abstractUrlNode
  cells keywordCell urlCell
  extends abstractTopLevelNode
+abstractChemicalGuidNode
+ extends abstractTopLevelWordNode
 abstractArrayNode
  extends abstractTopLevelNode
  catchAllCellType stringCell

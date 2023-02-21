@@ -2,3 +2,8 @@ title Streptozotocin
 type chemotherapyDrug alkylatingAgent
 
 wikipedia https://en.wikipedia.org/wiki/Streptozotocin
+
+kegg C07313
+drugBank DB00428
+medlinePlus a684053
+pubChem 29327

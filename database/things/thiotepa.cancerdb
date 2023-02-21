@@ -2,3 +2,8 @@ title Thiotepa
 type chemotherapyDrug alkylatingAgent
 
 wikipedia https://en.wikipedia.org/wiki/Thiotepa
+
+kegg D00583
+drugBank DB04572
+medlinePlus a682821
+pubChem 5453

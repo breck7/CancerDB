@@ -2,3 +2,8 @@ title Erlotinib
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Erlotinib
+
+kegg D07907
+drugBank DB00530
+medlinePlus a605008
+pubChem 176870

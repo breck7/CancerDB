@@ -371,7 +371,7 @@ sandbox/lib/show-hint.js`.split("\n")
 
     importer.filesWithWikipediaPages.forEach(linkedFile => {
       const { file, infoBox } = linkedFile
-      const fields = ["kegg"]
+      const fields = ["medlinePlus", "kegg", "drugBank", "pubChem"]
       fields.forEach(field => {
         const value = infoBox[field]
         if (value) {

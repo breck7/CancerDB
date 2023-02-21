@@ -2,3 +2,6 @@ title Nedaplatin
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Nedaplatin
+
+kegg D01416
+pubChem 9796440

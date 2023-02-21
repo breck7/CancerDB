@@ -2,3 +2,8 @@ title Mitoxantrone
 type chemotherapyDrug anthracycline
 
 wikipedia https://en.wikipedia.org/wiki/Mitoxantrone
+
+kegg D08224
+drugBank DB01204
+medlinePlus a608019
+pubChem 4212

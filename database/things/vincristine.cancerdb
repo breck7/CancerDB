@@ -2,3 +2,8 @@ title Vincristine
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Vincristine
+
+kegg D08679
+drugBank DB00541
+medlinePlus a682822
+pubChem 5978

@@ -2,3 +2,8 @@ title Busulfan
 type chemotherapyDrug alkylatingAgent
 
 wikipedia https://en.wikipedia.org/wiki/Busulfan
+
+kegg D00248
+drugBank DB01008
+medlinePlus a682248
+pubChem 2478

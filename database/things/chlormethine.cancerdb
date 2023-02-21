@@ -2,3 +2,7 @@ title Chlormethine
 type chemotherapyDrug alkylatingAgent
 
 wikipedia https://en.wikipedia.org/wiki/Chlormethine
+
+kegg D0767
+drugBank DB00888
+pubChem 4033

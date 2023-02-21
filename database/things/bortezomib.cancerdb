@@ -2,3 +2,8 @@ title Bortezomib
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Bortezomib
+
+kegg D03150
+drugBank DB00188
+medlinePlus a607007
+pubChem 387447

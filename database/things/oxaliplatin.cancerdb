@@ -2,3 +2,8 @@ title Oxaliplatin
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Oxaliplatin
+
+kegg D01790
+drugBank DB00526
+medlinePlus a607035
+pubChem 77994

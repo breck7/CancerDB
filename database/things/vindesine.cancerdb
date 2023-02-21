@@ -2,3 +2,7 @@ title Vindesine
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Vindesine
+
+kegg D01769
+drugBank DB00309
+pubChem 40839

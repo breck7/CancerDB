@@ -2,3 +2,8 @@ title Imatinib
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Imatinib
+
+kegg D08066
+drugBank DB00619
+medlinePlus a606018
+pubChem 5291

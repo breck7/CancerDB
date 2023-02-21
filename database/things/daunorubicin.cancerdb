@@ -2,3 +2,8 @@ title Daunorubicin
 type chemotherapyDrug anthracycline
 
 wikipedia https://en.wikipedia.org/wiki/Daunorubicin
+
+kegg C01907
+drugBank DB00694
+medlinePlus a682289
+pubChem 30323

@@ -2,3 +2,8 @@ title Lomustine
 type chemotherapyDrug alkylatingAgent
 
 wikipedia https://en.wikipedia.org/wiki/Lomustine
+
+kegg D00363
+drugBank DB01206
+medlinePlus a682207
+pubChem 3950

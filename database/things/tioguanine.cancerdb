@@ -2,3 +2,8 @@ title Tioguanine
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Tioguanine
+
+kegg D08603
+drugBank DB00352
+medlinePlus a682099
+pubChem 2723601

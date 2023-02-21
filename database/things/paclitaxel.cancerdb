@@ -2,3 +2,8 @@ title Paclitaxel
 type chemotherapyDrug taxane
 
 wikipedia https://en.wikipedia.org/wiki/Paclitaxel
+
+kegg D00491
+drugBank DB01229
+medlinePlus a607070
+pubChem 36314

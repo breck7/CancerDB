@@ -2,3 +2,8 @@ title Vorinostat
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Vorinostat
+
+kegg D06320
+drugBank DB02546
+medlinePlus a607050
+pubChem 5311

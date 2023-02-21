@@ -2,3 +2,8 @@ title Irinotecan
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Irinotecan
+
+kegg D08086
+drugBank DB00762
+medlinePlus a608043
+pubChem 60838

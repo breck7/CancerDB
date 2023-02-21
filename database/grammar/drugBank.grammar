@@ -1,0 +1,4 @@
+drugBankNode
+ extends abstractChemicalGuidNode
+ string sourceDomain drugbank.com
+ description https://en.wikipedia.org/wiki/DrugBank

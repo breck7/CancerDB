@@ -2,3 +2,6 @@ title Semustine
 type chemotherapyDrug alkylatingAgent
 
 wikipedia https://en.wikipedia.org/wiki/Semustine
+
+kegg D05822
+pubChem 5198

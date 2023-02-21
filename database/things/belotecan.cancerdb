@@ -2,3 +2,7 @@ title Belotecan
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Belotecan
+
+kegg D03225
+drugBank DB12459
+pubChem 6456014

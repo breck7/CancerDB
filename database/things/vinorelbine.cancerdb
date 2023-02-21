@@ -2,3 +2,8 @@ title Vinorelbine
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Vinorelbine
+
+kegg D08680
+drugBank DB00361
+medlinePlus a695013
+pubChem 5311497

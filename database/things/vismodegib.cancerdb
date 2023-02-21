@@ -2,3 +2,7 @@ title Vismodegib
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Vismodegib
+
+kegg D09992
+drugBank DB08828
+pubChem 24776445

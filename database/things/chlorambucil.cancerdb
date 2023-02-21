@@ -2,3 +2,8 @@ title Chlorambucil
 type chemotherapyDrug alkylatingAgent
 
 wikipedia https://en.wikipedia.org/wiki/Chlorambucil
+
+kegg D00266
+drugBank DB00291
+medlinePlus a682899
+pubChem 2708

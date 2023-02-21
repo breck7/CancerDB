@@ -2,3 +2,7 @@ title Abraxane
 type chemotherapyDrug taxane
 
 wikipedia https://en.wikipedia.org/wiki/Abraxane
+
+kegg D00491
+drugBank DB01229
+medlinePlus a619008

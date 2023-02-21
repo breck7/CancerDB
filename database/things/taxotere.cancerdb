@@ -2,3 +2,8 @@ title Taxotere
 type chemotherapyDrug taxane
 
 wikipedia https://en.wikipedia.org/wiki/Taxotere
+
+kegg D07866
+drugBank DB01248
+medlinePlus a696031
+pubChem 148124

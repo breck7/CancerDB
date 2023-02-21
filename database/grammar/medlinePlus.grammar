@@ -1,0 +1,4 @@
+medlinePlusNode
+ extends abstractChemicalGuidNode
+ string sourceDomain medlineplus.gov
+ description https://en.wikipedia.org/wiki/MedlinePlus

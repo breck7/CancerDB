@@ -2,3 +2,6 @@ title Nimustine
 type chemotherapyDrug alkylatingAgent
 
 wikipedia https://en.wikipedia.org/wiki/Nimustine
+
+kegg D08276
+pubChem 39214

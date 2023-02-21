@@ -2,3 +2,8 @@ title Vinblastine
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Vinblastine
+
+kegg D08675
+drugBank DB00570
+medlinePlus a682848
+pubChem 241903

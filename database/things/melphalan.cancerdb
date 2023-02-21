@@ -2,3 +2,8 @@ title Melphalan
 type chemotherapyDrug alkylatingAgent
 
 wikipedia https://en.wikipedia.org/wiki/Melphalan
+
+kegg D00369
+drugBank DB01042
+medlinePlus a682220
+pubChem 460612

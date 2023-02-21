@@ -2,3 +2,8 @@ title Temozolomide
 type chemotherapyDrug alkylatingAgent
 
 wikipedia https://en.wikipedia.org/wiki/Temozolomide
+
+kegg D06067
+drugBank DB00853
+medlinePlus a601250
+pubChem 5394

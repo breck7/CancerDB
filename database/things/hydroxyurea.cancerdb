@@ -2,3 +2,8 @@ title Hydroxyurea
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Hydroxyurea
+
+kegg D00341
+drugBank DB01005
+medlinePlus a682004
+pubChem 3657

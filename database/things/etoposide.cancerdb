@@ -2,3 +2,8 @@ title Etoposide
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Etoposide
+
+kegg D00125
+drugBank DB00773
+medlinePlus a684055
+pubChem 36462

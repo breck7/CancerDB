@@ -2,3 +2,7 @@ title Pipobroman
 type chemotherapyDrug alkylatingAgent
 
 wikipedia https://en.wikipedia.org/wiki/Pipobroman
+
+kegg D00467
+drugBank DB00236
+pubChem 4842

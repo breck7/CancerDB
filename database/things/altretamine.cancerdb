@@ -2,3 +2,8 @@ title Altretamine
 type chemotherapyDrug alkylatingAgent
 
 wikipedia https://en.wikipedia.org/wiki/Altretamine
+
+kegg D02841
+drugBank DB00488
+medlinePlus a601200
+pubChem 2123

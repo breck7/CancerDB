@@ -2,3 +2,7 @@ title Uramustine
 type chemotherapyDrug alkylatingAgent
 
 wikipedia https://en.wikipedia.org/wiki/Uramustine
+
+kegg D06265
+drugBank DB00791
+pubChem 6194

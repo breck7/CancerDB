@@ -2,3 +2,8 @@ title Cyclophosphamide
 type chemotherapyDrug alkylatingAgent
 
 wikipedia https://en.wikipedia.org/wiki/Cyclophosphamide
+
+kegg D07760
+drugBank DB00531
+medlinePlus a682080
+pubChem 2907

@@ -2,3 +2,7 @@ title Gemcitabine
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Gemcitabine
+
+kegg D02368
+drugBank DB00441
+pubChem 60750

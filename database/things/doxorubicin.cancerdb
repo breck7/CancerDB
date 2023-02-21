@@ -2,3 +2,8 @@ title Doxorubicin
 type chemotherapyDrug anthracycline
 
 wikipedia https://en.wikipedia.org/wiki/Doxorubicin
+
+kegg D03899
+drugBank DB00997
+medlinePlus a682221
+pubChem 31703

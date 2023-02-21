@@ -2,3 +2,8 @@ title Carboplatin
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Carboplatin
+
+kegg D01363
+drugBank DB00958
+medlinePlus a695017
+pubChem 498142

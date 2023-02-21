@@ -2,3 +2,8 @@ title Idarubicin
 type chemotherapyDrug anthracycline
 
 wikipedia https://en.wikipedia.org/wiki/Idarubicin
+
+kegg D08062
+drugBank DB01177
+medlinePlus a691004
+pubChem 42890

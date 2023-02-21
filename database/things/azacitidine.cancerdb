@@ -2,3 +2,8 @@ title Azacitidine
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Azacitidine
+
+kegg D03021
+drugBank DB00928
+medlinePlus a607068
+pubChem 9444

@@ -2,3 +2,8 @@ title Cytarabine
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Cytarabine
+
+kegg D00168
+drugBank DB00987
+medlinePlus a682222
+pubChem 6253

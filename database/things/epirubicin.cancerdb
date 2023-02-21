@@ -2,3 +2,8 @@ title Epirubicin
 type chemotherapyDrug anthracycline
 
 wikipedia https://en.wikipedia.org/wiki/Epirubicin
+
+kegg D07901
+drugBank DB00445
+medlinePlus a603003
+pubChem 41867

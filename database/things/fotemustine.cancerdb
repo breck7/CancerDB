@@ -2,3 +2,7 @@ title Fotemustine
 type chemotherapyDrug alkylatingAgent
 
 wikipedia https://en.wikipedia.org/wiki/Fotemustine
+
+kegg D07255
+drugBank DB04106
+pubChem 104799

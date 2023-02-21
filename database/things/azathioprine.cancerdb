@@ -2,3 +2,8 @@ title Azathioprine
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Azathioprine
+
+kegg D00238
+drugBank DB00993
+medlinePlus a682167
+pubChem 2265

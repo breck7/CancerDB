@@ -2,3 +2,8 @@ title Cisplatin
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Cisplatin
+
+kegg D00275
+drugBank DB00515
+medlinePlus a684036
+pubChem 84691

@@ -1,0 +1,4 @@
+pubChemNode
+ extends abstractChemicalGuidNode
+ string sourceDomain pubchem.ncbi.nlm.nih.gov
+ description https://pubchem.ncbi.nlm.nih.gov/

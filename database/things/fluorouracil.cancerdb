@@ -2,3 +2,8 @@ title Fluorouracil
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Fluorouracil
+
+kegg D00584
+drugBank DB00544
+medlinePlus a682708
+pubChem 3385

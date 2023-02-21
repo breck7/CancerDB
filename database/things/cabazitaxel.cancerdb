@@ -2,3 +2,8 @@ title Cabazitaxel
 type chemotherapyDrug taxane
 
 wikipedia https://en.wikipedia.org/wiki/Cabazitaxel
+
+kegg D09755
+drugBank DB06772
+medlinePlus a611009
+pubChem 9854073

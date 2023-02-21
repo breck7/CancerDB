@@ -2,3 +2,8 @@ title Capecitabine
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Capecitabine
+
+kegg D01223
+drugBank DB01101
+medlinePlus a699003
+pubChem 60953

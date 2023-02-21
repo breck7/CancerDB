@@ -2,3 +2,8 @@ title Actinomycin
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Actinomycin
+
+kegg C06770
+drugBank DB00970
+medlinePlus a682224
+pubChem 2019
