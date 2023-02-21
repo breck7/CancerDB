@@ -1,0 +1,4 @@
+keggNode
+ extends abstractTopLevelWordNode
+ string sourceDomain genome.jp
+ description https://www.genome.jp/kegg/kegg1.html

@@ -359,6 +359,28 @@ sandbox/lib/show-hint.js`.split("\n")
       Disk.read(path.join(ignoreFolder, "create.tsv"))
     ).forEach(node => cancerDBFolder.createFile(node.childrenToString()))
   }
+
+  async crawlWikipediaCommand() {
+    // Todo: figuring out best repo orgnization for crawlers.
+    // Note: this currently assumes you have treecrawler project installed separateely.
+    const {
+      WikipediaImporter
+    } = require("../../treecrawler/wikipedia.org/Wikipedia.js")
+    const importer = new WikipediaImporter(cancerDBFolder)
+    await importer.fetchAllCommand()
+
+    importer.filesWithWikipediaPages.forEach(linkedFile => {
+      const { file, infoBox } = linkedFile
+      const fields = ["kegg"]
+      fields.forEach(field => {
+        const value = infoBox[field]
+        if (value) {
+          file.set(field, value)
+        }
+      })
+      file.save()
+    })
+  }
 }
 
 module.exports = { CancerDBServer, cancerDBFolder }
