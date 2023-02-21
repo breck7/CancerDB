@@ -19,3 +19,8 @@ oldNameNode
  description What is the old name(s) of this thing?
  extends abstractTopLevelStringNode
  cruxFromId
+tradenamesNode
+ description Tradenames for the drug.
+ extends abstractTopLevelStringNode
+ cruxFromId
+ listDelimiter  && 

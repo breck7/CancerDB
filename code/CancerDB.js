@@ -378,7 +378,20 @@ sandbox/lib/show-hint.js`.split("\n")
           file.set(field, value)
         }
       })
-      file.save()
+
+      const { tradename } = infoBox
+      if (tradename) {
+        file.set(
+          "tradenames",
+          tradename
+            .split(",")
+            .map(i => i.trim())
+            .filter(i => i.toLowerCase() !== "others")
+            .join(" && ")
+        )
+      }
+
+      file.prettifyAndSave()
     })
   }
 }
