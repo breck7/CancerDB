@@ -1,5 +1,5 @@
 cancerTypeCell
- enum breast prostate cervical colon lung skin bladder kidney lymphoma multiplemyeloma ovarian thyroid
+ enum breast prostate cervical colon lung skin bladder kidney lymphoma multiplemyeloma ovarian thyroid endometrial
  highlightScope constant.language
 cancerTypesNode
  description Which category(ies) does this treatment fit into.

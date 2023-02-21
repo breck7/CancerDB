@@ -1,0 +1,6 @@
+title Mammogram
+type imagingProcedure
+cancerTypes breast
+aka Mammography
+
+wikipedia https://en.wikipedia.org/wiki/Mammography
