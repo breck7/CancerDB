@@ -1,2 +1,4 @@
 websiteNode
  extends abstractUrlNode
+eventsPageNode
+ extends abstractUrlNode
