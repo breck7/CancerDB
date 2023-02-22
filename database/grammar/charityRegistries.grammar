@@ -1,0 +1,11 @@
+abstractCharityRegistryNode
+ extends abstractUrlNode
+englandAndWalesCharityDetailsNode
+ extends abstractCharityRegistryNode
+ string sourceDomain register-of-charities.charitycommission.gov.uk
+charityNavigatorNode
+ extends abstractCharityRegistryNode
+ string sourceDomain charitynavigator.org
+guideStarNode
+ extends abstractCharityRegistryNode
+ string sourceDomain guidestar.org
