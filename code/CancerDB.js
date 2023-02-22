@@ -355,10 +355,10 @@ sandbox/lib/show-hint.js`.split("\n")
 
   async crawlWikipediaCommand() {
     // Todo: figuring out best repo orgnization for crawlers.
-    // Note: this currently assumes you have treecrawler project installed separateely.
+    // Note: this currently assumes you have truecrawler project installed separateely.
     const {
       WikipediaImporter
-    } = require("../../treecrawler/wikipedia.org/Wikipedia.js")
+    } = require("../../truecrawler/wikipedia.org/Wikipedia.js")
     const importer = new WikipediaImporter(cancerDBFolder)
     await importer.fetchAllCommand()
 
@@ -386,6 +386,15 @@ sandbox/lib/show-hint.js`.split("\n")
 
       file.prettifyAndSave()
     })
+  }
+
+  async crawlRedditCommand() {
+    // Todo: figuring out best repo orgnization for crawlers.
+    // Note: this currently assumes you have truecrawler project installed separateely.
+    const { RedditImporter } = require("../../truecrawler/reddit.com/Reddit.js")
+    const importer = new RedditImporter(cancerDBFolder)
+    await importer.fetchAllCommand()
+    importer.writeToDatabaseCommand()
   }
 }
 

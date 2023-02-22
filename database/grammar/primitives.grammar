@@ -6,6 +6,9 @@ urlCell
  regex (ftp|https?)://.+
 stringCell
  highlightScope string
+populationCountCell
+ description A positive integer representing a number of people.
+ extends intCell
 keywordCell
  highlightScope keyword
 abstractTopLevelNode
@@ -28,6 +31,13 @@ abstractUrlNode
  extends abstractTopLevelNode
 abstractChemicalGuidNode
  extends abstractTopLevelWordNode
+abstractAnnualPopulationCountMapNode
+ catchAllNodeType annualPopulationCountNode
+ cells keywordCell
+ description A map of counts, one per year.
+annualPopulationCountNode
+ cells yearCell populationCountCell
+ uniqueFirstWord
 abstractArrayNode
  extends abstractTopLevelNode
  catchAllCellType stringCell

@@ -5,3 +5,8 @@ subredditNode
  contentKey url
  cruxFromId
  description Url of a subreddit(s) for this thing.
+ inScope subredditmembersNode
+subredditmembersNode
+ extends abstractAnnualPopulationCountMapNode
+ crux members
+ description How many members in this subreddit.
