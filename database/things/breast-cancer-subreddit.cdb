@@ -1,5 +1,5 @@
 title Breast Cancer Subreddit
-type subreddit
+type subreddit onlineForum
 cancerTypes breast
 
 subreddit https://www.reddit.com/r/breastcancer

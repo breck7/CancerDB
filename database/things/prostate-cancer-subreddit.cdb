@@ -1,5 +1,5 @@
 title Prostate Cancer Subreddit
-type subreddit
+type subreddit onlineForum
 cancerTypes prostate
 
 subreddit https://www.reddit.com/r/ProstateCancer

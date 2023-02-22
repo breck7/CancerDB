@@ -1,5 +1,5 @@
 title Colon Cancer Subreddit
-type subreddit
+type subreddit onlineForum
 cancerTypes colon
 
 subreddit https://www.reddit.com/r/coloncancer

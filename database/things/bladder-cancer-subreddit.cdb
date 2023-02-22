@@ -1,5 +1,5 @@
 title Bladder Cancer Subreddit
-type subreddit
+type subreddit onlineForum
 cancerTypes bladder
 
 subreddit https://www.reddit.com/r/BladderCancer

@@ -1,5 +1,5 @@
 title Skin Cancer Subreddit
-type subreddit
+type subreddit onlineForum
 cancerTypes skin
 
 subreddit https://www.reddit.com/r/skincancer
