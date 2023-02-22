@@ -1,0 +1,3 @@
+membersNode
+ extends abstractIntNode
+ description How many members does this organization have?

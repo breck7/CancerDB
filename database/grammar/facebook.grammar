@@ -1,0 +1,3 @@
+facebookNode
+ extends abstractUrlNode
+ string sourceDomain facebook.com

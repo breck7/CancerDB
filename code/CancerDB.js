@@ -234,9 +234,9 @@ ${scrollFooter}
   }
 
   buildTqlExtension() {
-    const tqlGrammar = new TreeNode(
-      Disk.read(path.join(jtreeFolder, "langs", "tql", "tql.grammar"))
-    )
+    if (!Disk.exists(distFolder)) Disk.mkdir(distFolder)
+    const tqlPath = path.join(jtreeFolder, "langs", "tql", "tql.grammar")
+    const tqlGrammar = new TreeNode(Disk.read(tqlPath))
     const columnNames = new TreeNode(this.folder.grammarCode)
       .get("cdbNode sortTemplate")
       .split(" ")
@@ -283,6 +283,7 @@ class CancerDBServerCommands {
 
   buildDistFolder() {
     if (!Disk.exists(distFolder)) Disk.mkdir(distFolder)
+    this.server.buildTqlExtension()
 
     Disk.write(path.join(distFolder, "cdb.grammar"), cancerDBFolder.grammarCode)
 
@@ -292,8 +293,6 @@ class CancerDBServerCommands {
       distFolder + "/",
       false
     )
-
-    this.server.buildTqlExtension()
 
     const combinedJs =
       combineJsFiles(

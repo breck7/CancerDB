@@ -1,0 +1,3 @@
+instagramNode
+ extends abstractUrlNode
+ string sourceDomain instagram.com
