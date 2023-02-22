@@ -1,4 +1,4 @@
-class TreeBaseFrontEndApp {
+class TrueBaseFrontEndApp {
 	constructor() {
 		window.app = this
 	}

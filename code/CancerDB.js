@@ -5,13 +5,13 @@ const numeral = require("numeral")
 const { Utils } = require("jtree/products/Utils.js")
 const { Disk } = require("jtree/products/Disk.node.js")
 const { TreeNode } = require("jtree/products/TreeNode.js")
-const { TreeBaseServer } = require("jtree/products/treeBaseServer.node.js")
+const { TrueBaseServer } = require("jtree/products/trueBaseServer.node.js")
 const { ScrollFile } = require("scroll-cli")
 const { GrammarCompiler } = require("jtree/products/GrammarCompiler.js")
 const {
-  TreeBaseFolder,
-  TreeBaseFile
-} = require("jtree/products/treeBase.node.js")
+  TrueBaseFolder,
+  TrueBaseFile
+} = require("jtree/products/trueBase.node.js")
 
 const baseFolder = path.join(__dirname, "..")
 const databaseFolder = path.join(baseFolder, "database")
@@ -34,13 +34,13 @@ const scrollHeader = new ScrollFile(
 
 const scrollFooter = Disk.read(path.join(siteFolder, "footer.scroll"))
 
-class CancerDBFile extends TreeBaseFile {
+class CancerDBFile extends TrueBaseFile {
   get webPermalink() {
     return `/treatments/${this.permalink}`
   }
 }
 
-class CancerDBFolder extends TreeBaseFolder {
+class CancerDBFolder extends TrueBaseFolder {
   createParser() {
     return new TreeNode.Parser(CancerDBFile)
   }
@@ -137,7 +137,7 @@ const delimitedEscapeFunction = value =>
   value.includes("\n") ? value.split("\n")[0] : value
 const delimiter = " DeLiM "
 
-class CancerDBServer extends TreeBaseServer {
+class CancerDBServer extends TrueBaseServer {
   isProd = false
   constructor(folder, ignoreFolder) {
     super(folder, ignoreFolder)
@@ -226,7 +226,7 @@ ${description ? `* ${encodedDescription}` : ""}
 table ${delimiter}
  ${results.replace(/\n/g, "\n ")}
 
-html <script>document.addEventListener("DOMContentLoaded", () => new TreeBaseFrontEndApp().renderSearchPage())</script>
+html <script>document.addEventListener("DOMContentLoaded", () => new TrueBaseFrontEndApp().renderSearchPage())</script>
 
 ${scrollFooter}
 `

@@ -1,8 +1,8 @@
 permalinkCell
  highlightScope string
- description The filename of the entity in TreeBase.
+ description The filename of the entity in TrueBase.
 abstractPermalinksNode
  catchAllCellType permalinkCell
  extends abstractArrayNode
- description Links to other entities in the TreeBase.
+ description Links to other entities in the TrueBase.
  boolean providesPermalinks true
