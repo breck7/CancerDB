@@ -1,0 +1,6 @@
+routesOfAdministrationCell
+ enum oral topical intravenous subcutaneousInjection intramuscularInjection intravesical
+routesOfAdministrationNode
+ cells keywordCell routesOfAdministrationCell
+ catchAllCellType routesOfAdministrationCell
+ extends abstractTopLevelNode
