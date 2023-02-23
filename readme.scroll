@@ -18,13 +18,13 @@ import code/ciBadges.scroll
 * Documentation for the CSV will be available here: https://cancerdb.com/docs/csv.html (coming soon).
 
 ## To add a new treatment
-* Advanced method: Create a new file in `database/things` with a unique URL friendly filename ending in `.cdb` and send a pull request.
+* Advanced method: Create a new file in `truebase/things` with a unique URL friendly filename ending in `.cdb` and send a pull request.
 
 ## To update an entity
-* Advanced method: Edit the corresponding `database/things/*.cdb` file and send a pull request.
+* Advanced method: Edit the corresponding `truebase/things/*.cdb` file and send a pull request.
 
 ## To add a new column
-* Advanced method: Edit or create a new file in `database/grammar` and add at least 1 example to an entity in `database/things` and send a pull request.
+* Advanced method: Edit or create a new file in `truebase/grammar` and add at least 1 example to an entity in `truebase/things` and send a pull request.
 
 ## To run the site locally
 code
@@ -35,7 +35,7 @@ code
  npm run local
 
 ## To explore this repo
-* The most important folder is `database/things`, which contains a file for each entity. The folder `database/grammar` contains the grammar files (schema) for the database.
+* The most important folder is `truebase/things`, which contains a file for each entity. The folder `truebase/grammar` contains the grammar files (schema) for the truebase.
 
 * The website content is in the `site` folder.
 

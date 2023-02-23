@@ -14,7 +14,7 @@ const {
 } = require("jtree/products/trueBase.node.js")
 
 const baseFolder = path.join(__dirname, "..")
-const databaseFolder = path.join(baseFolder, "database")
+const truebaseFolder = path.join(baseFolder, "truebase")
 const ignoreFolder = path.join(baseFolder, "ignore")
 const siteFolder = path.join(baseFolder, "site")
 const distFolder = path.join(siteFolder, "dist")
@@ -51,8 +51,8 @@ class CancerDBFolder extends TrueBaseFolder {
 }
 
 const cancerDBFolder = new CancerDBFolder()
-  .setDir(path.join(databaseFolder, "things"))
-  .setGrammarDir(path.join(databaseFolder, "grammar"))
+  .setDir(path.join(truebaseFolder, "things"))
+  .setGrammarDir(path.join(truebaseFolder, "grammar"))
   .loadFolder()
 
 const templates = {}
@@ -121,7 +121,7 @@ import ../footer.scroll
   }
 
   get sourceUrl() {
-    return `https://github.com/breck7/CancerDB/blob/main/database/things/${this.file.id}.cdb`
+    return `https://github.com/breck7/CancerDB/blob/main/truebase/things/${this.file.id}.cdb`
   }
 
   get prevPage() {
