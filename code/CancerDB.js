@@ -5,13 +5,10 @@ const numeral = require("numeral")
 const { Utils } = require("jtree/products/Utils.js")
 const { Disk } = require("jtree/products/Disk.node.js")
 const { TreeNode } = require("jtree/products/TreeNode.js")
-const { TrueBaseServer } = require("jtree/products/trueBaseServer.node.js")
+const { TrueBaseServer } = require("truebase/code/TrueBaseServer.js")
 const { ScrollFile } = require("scroll-cli")
 const { GrammarCompiler } = require("jtree/products/GrammarCompiler.js")
-const {
-  TrueBaseFolder,
-  TrueBaseFile
-} = require("jtree/products/trueBase.node.js")
+const { TrueBaseFolder, TrueBaseFile } = require("truebase/code/TrueBase.js")
 
 const baseFolder = path.join(__dirname, "..")
 const truebaseFolder = path.join(baseFolder, "truebase")
