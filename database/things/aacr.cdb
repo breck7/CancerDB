@@ -1,7 +1,9 @@
 title AACR
-standsFor American Association of Cancer Research
-website https://www.aacr.org/
 type cancerNonProfitOrganization
+standsFor American Association of Cancer Research
+
+website https://www.aacr.org/
 twitter https://twitter.com/aacr
-city Philadelphia, PA
+
 country United States
+city Philadelphia, PA
