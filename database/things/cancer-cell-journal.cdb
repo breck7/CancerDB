@@ -1,4 +1,5 @@
-type journal
 title Cancer Cell
+type journal
+
 website https://www.cell.com/cancer-cell/home
 wikipedia https://en.wikipedia.org/wiki/Cancer_Cell_(journal)
