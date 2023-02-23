@@ -439,6 +439,14 @@ sandbox/lib/show-hint.js`.split("\n")
     await importer.fetchAllCommand()
     importer.writeToDatabaseCommand()
   }
+
+  async crawlWebsiteCommand() {
+    // Todo: figuring out best repo orgnization for crawlers.
+    // Note: this currently assumes you have truecrawler project installed separateely.
+    const { WebsiteImporter } = require("../../truecrawler/website/Website.js")
+    const importer = new WebsiteImporter(cancerDBFolder)
+    await importer.updateAllCommand()
+  }
 }
 
 module.exports = { CancerDBServer, cancerDBFolder }
