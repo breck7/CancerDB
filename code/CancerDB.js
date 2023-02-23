@@ -362,8 +362,51 @@ sandbox/lib/show-hint.js`.split("\n")
     const importer = new WikipediaImporter(cancerDBFolder)
     await importer.fetchAllCommand()
 
+    // return importer.filesWithWikipediaPages.forEach(linkedFile =>
+    //   console.log(linkedFile.infoBox)
+    // )
+
+    const injectionSet = {
+      Intravenous: "intravenous",
+      "Intravenous therapy": "intravenous",
+      "Topical administration": "topical",
+      "Oral administration": "oral",
+      "Capsule (pharmacy)": "oral",
+      "Subcutaneous injection": "subcutaneousInjection",
+      "intravenous infusion": "intravenous",
+      "Intramuscular injection": "intramuscularInjection",
+      "Subcutaneous administration": "subcutaneousInjection",
+      "injectable (intravenous injection or infusion, intrathecal, or subcutaneously)":
+        "intravenous",
+      intravesical: "intravesical",
+      "By mouth": "oral",
+      intravenously: "intravenous",
+      intravenous: "intravenous",
+      Oral: "oral",
+      "Topical medication": "topical",
+      Intravesical: "intravesical",
+      "by mouth, IM": "oral"
+    }
+
     importer.filesWithWikipediaPages.forEach(linkedFile => {
       const { file, infoBox } = linkedFile
+
+      // const { locationCity, locationCountry } = infoBox
+      // if (locationCity && !file.has("city")) file.set("city", locationCity)
+      // if (locationCountry && !file.has("country"))
+      //   file.set("country", locationCountry)
+
+      const { routesOfAdministration } = infoBox
+      if (routesOfAdministration) {
+        let value = injectionSet[routesOfAdministration]
+        if (typeof routesOfAdministration === "object")
+          value = routesOfAdministration
+            .map(item => injectionSet[item])
+            .filter(i => i)
+            .join(" ")
+        file.set("routesOfAdministration", value)
+      }
+
       const fields = ["medlinePlus", "kegg", "drugBank", "pubChem"]
       fields.forEach(field => {
         const value = infoBox[field]
