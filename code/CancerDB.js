@@ -445,7 +445,8 @@ sandbox/lib/show-hint.js`.split("\n")
     // Note: this currently assumes you have truecrawler project installed separateely.
     const { WebsiteImporter } = require("../../truecrawler/website/Website.js")
     const importer = new WebsiteImporter(cancerDBFolder)
-    await importer.updateAllCommand()
+    await importer.downloadAllCommand()
+    importer.matches.forEach(file => file.extractPhoneNumber())
   }
 }
 

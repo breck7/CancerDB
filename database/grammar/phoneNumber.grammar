@@ -1,0 +1,3 @@
+phoneNumberNode
+ extends abstractTopLevelStringNode
+ description Phone number for the organization.
