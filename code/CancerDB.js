@@ -17,6 +17,7 @@ const siteFolder = path.join(baseFolder, "site")
 const distFolder = path.join(siteFolder, "dist")
 const nodeModulesFolder = path.join(baseFolder, "node_modules")
 const jtreeFolder = path.join(nodeModulesFolder, "jtree")
+const truebaseModulesFolder = path.join(nodeModulesFolder, "truebase")
 const treatmentsFolder = path.join(siteFolder, "treatments")
 
 const combineJsFiles = (baseDir = "", filepaths = []) =>
@@ -232,7 +233,7 @@ ${scrollFooter}
 
   buildTqlExtension() {
     if (!Disk.exists(distFolder)) Disk.mkdir(distFolder)
-    const tqlPath = path.join(jtreeFolder, "langs", "tql", "tql.grammar")
+    const tqlPath = path.join(truebaseModulesFolder, "tql", "tql.grammar")
     const tqlGrammar = new TreeNode(Disk.read(tqlPath))
     const columnNames = new TreeNode(this.folder.grammarCode)
       .get("cdbNode sortTemplate")
