@@ -1,0 +1,6 @@
+publicationFrequencyCell
+ enum daily weekly biweekly monthly quarterly semiannually annually
+publicationFrequencyNode
+ extends abstractTopLevelNode
+ description How often does the publication come out?
+ cells keywordCell publicationFrequencyCell
