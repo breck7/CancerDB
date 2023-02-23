@@ -3,5 +3,6 @@ type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Nedaplatin
 
+routesOfAdministration intravenous
 kegg D01416
 pubChem 9796440

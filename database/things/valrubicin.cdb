@@ -3,6 +3,7 @@ type chemotherapyDrug anthracycline
 
 wikipedia https://en.wikipedia.org/wiki/Valrubicin
 
+routesOfAdministration intravesical
 drugBank DB00385
 medlinePlus a611021
 pubChem 454216

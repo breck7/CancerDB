@@ -3,3 +3,5 @@ type chemotherapyDrug
 tradenames Dicycloplatin
 
 wikipedia https://en.wikipedia.org/wiki/Dicycloplatin
+
+routesOfAdministration intravenous

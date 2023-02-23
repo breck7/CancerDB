@@ -3,5 +3,6 @@ type chemotherapyDrug alkylatingAgent
 
 wikipedia https://en.wikipedia.org/wiki/Nimustine
 
+routesOfAdministration intravenous
 kegg D08276
 pubChem 39214
