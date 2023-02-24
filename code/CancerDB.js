@@ -57,7 +57,7 @@ const templates = {}
 templates.default = file => `code
  ${file.childrenToString().replace(/\n/g, "\n ")}`
 templates.documentary = file =>
-  file.has("youtube") ? `youTube ${file.get("youtube")}` : ""
+  file.has("watchOnYouTube") ? `youTube ${file.get("watchOnYouTube")}` : ""
 
 class TreatmentPageTemplate {
   constructor(file) {
