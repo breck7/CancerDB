@@ -1,0 +1,7 @@
+title cBioPortal
+type website onlineDatabase
+description The cBioPortal for Cancer Genomics is an open source software system that provides intuitive visualization and analysis of large-scale cancer genomics data sets
+
+website http://www.cbioportal.org/
+githubRepo https://github.com/cBioPortal/cbioportal
+twitter https://twitter.com/cbioportal
