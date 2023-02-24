@@ -369,6 +369,7 @@ sandbox/lib/show-hint.js`.split("\n")
         )
       items.push({
         title,
+        type: "cancerType",
         mainType,
         oncoTreeId,
         parentOncoTreeId,
@@ -386,6 +387,12 @@ sandbox/lib/show-hint.js`.split("\n")
     const typeCount = items.length
     const output = new TreeNode(items)
     Disk.write(path.join(ignoreFolder, "types.csv"), output.toCsv())
+    const patch = new TreeNode()
+    items.forEach(item =>
+      this.server.applyPatch(
+        new TreeNode().appendLineAndChildren("create", item).toString()
+      )
+    )
   }
 
   async crawlWikipediaCommand() {

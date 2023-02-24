@@ -1,0 +1,4 @@
+umlsNode
+ description Unified Medical Language System
+ extends abstractTopLevelWordNode
+ string sourceDomain www.nlm.nih.gov

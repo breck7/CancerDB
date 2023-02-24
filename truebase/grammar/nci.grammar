@@ -7,3 +7,7 @@ hostSchoolNode
  extends abstractTopLevelStringNode
  description What is the host university or college of this research center?
  string sourceDomain cancer.gov
+nciCodeNode
+ description NCI Concepts
+ extends abstractTopLevelWordNode
+ string sourceDomain ncithesaurus.nci.nih.gov
