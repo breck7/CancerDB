@@ -26,7 +26,7 @@ stumpNoSnippet
     name q
     placeholder Search
     autocomplete off
-  a Treatments
+  a Everything
    href BASE_URL/search.html?q=select+type
   a Types
    href BASE_URL/search.html?q=where+type+%3D+cancerType%0D%0Aselect+mainType+tissue+subTypes+nciCode+umls+oncoTreeId+parentOncoTreeId%0D%0AsortBy+oncoTreeLevel

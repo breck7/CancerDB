@@ -10,5 +10,5 @@ site/scroll.css
 *.xml
 site/*.scroll
 *.log
-site/treatments/*.scroll
+site/truebase/*.scroll
 dist/

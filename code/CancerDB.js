@@ -18,7 +18,7 @@ const distFolder = path.join(siteFolder, "dist")
 const nodeModulesFolder = path.join(baseFolder, "node_modules")
 const jtreeFolder = path.join(nodeModulesFolder, "jtree")
 const truebaseModulesFolder = path.join(nodeModulesFolder, "truebase")
-const treatmentsFolder = path.join(siteFolder, "treatments")
+const publishedFolder = path.join(siteFolder, "truebase")
 
 const combineJsFiles = (baseDir = "", filepaths = []) =>
   filepaths
@@ -34,7 +34,7 @@ const scrollFooter = Disk.read(path.join(siteFolder, "footer.scroll"))
 
 class CancerDBFile extends TrueBaseFile {
   get webPermalink() {
-    return `/treatments/${this.permalink}`
+    return `/truebase/${this.permalink}`
   }
 }
 
@@ -154,7 +154,7 @@ class CancerDBServer extends TrueBaseServer {
           return {
             label: file.get("title"),
             id: file.id,
-            url: `/treatments/${file.id}.html`
+            url: `/truebase/${file.id}.html`
           }
         }),
         undefined,
@@ -272,7 +272,7 @@ class CancerDBServerCommands {
   buildAllCommand() {
     cancerDBFolder.forEach(file =>
       Disk.write(
-        path.join(treatmentsFolder, `${file.id}.scroll`),
+        path.join(publishedFolder, `${file.id}.scroll`),
         new TreatmentPageTemplate(file).toScroll()
       )
     )
