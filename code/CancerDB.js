@@ -351,6 +351,39 @@ sandbox/lib/show-hint.js`.split("\n")
     ).forEach(node => cancerDBFolder.createFile(node.childrenToString()))
   }
 
+  importFromOncoTreeCommand() {
+    const walkType = (tree, items, parentId) => {
+      const code = tree.get("code")
+      const name = tree.get("name")
+      const mainType = tree.get("mainType")
+      const umls = tree.get("externalReferences UMLS 0")
+      const nci = tree.get("externalReferences NCI 0")
+      const tissue = tree.get("tissue")
+      const kids = tree.getNode("children")
+      const currentCount = items.length
+      if (!name) return
+
+      if (kids) kids.forEach(node => walkType(node, items, code))
+      items.push({
+        code,
+        name,
+        mainType,
+        tissue,
+        umls,
+        nci,
+        parentId,
+        descendants: kids ? items.length - currentCount : 0
+      })
+    }
+    const items = []
+    const tree = TreeNode.fromDisk(path.join(ignoreFolder, "oncoTree.tree"))
+    walkType(tree.nodeAt(0), items)
+    items.pop()
+    const typeCount = items.length
+    const output = new TreeNode(items)
+    Disk.write(path.join(ignoreFolder, "types.csv"), output.toCsv())
+  }
+
   async crawlWikipediaCommand() {
     // Todo: figuring out best repo orgnization for crawlers.
     // Note: this currently assumes you have truecrawler project installed separateely.

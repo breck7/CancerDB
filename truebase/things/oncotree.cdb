@@ -1,0 +1,5 @@
+title OncoTree
+type onlineDatabase
+parentOrganizations memorial-sloan-kettering-cancer-center
+
+githubRepo https://github.com/cBioPortal/oncotree

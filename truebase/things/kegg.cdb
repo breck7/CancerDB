@@ -1,5 +1,5 @@
 title KEGG
-type onlineDatabase
+type onlineDatabase ontology
 standsFor Kyoto Encyclopedia of Genes and Genomes
 
 wikipedia https://en.wikipedia.org/wiki/KEGG
