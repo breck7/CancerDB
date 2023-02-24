@@ -1,0 +1,11 @@
+title Oral Cavity Squamous Cell Carcinoma
+type cancerType
+mainType Head and Neck Cancer
+tissue Head and Neck
+
+oncoTreeId OCSC
+parentOncoTreeId HNSC
+umls C0585362
+nciCode C4833
+oncoTreeLevel 3
+subTypes 0

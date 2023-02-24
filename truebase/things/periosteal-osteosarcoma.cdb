@@ -1,0 +1,11 @@
+title Periosteal Osteosarcoma
+type cancerType
+mainType Bone Cancer
+tissue Bone
+
+oncoTreeId PEOS
+parentOncoTreeId OS
+umls C1377843
+nciCode C8970
+oncoTreeLevel 3
+subTypes 0

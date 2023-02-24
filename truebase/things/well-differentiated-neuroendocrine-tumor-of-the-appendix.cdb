@@ -1,0 +1,11 @@
+title Well-Differentiated Neuroendocrine Tumor of the Appendix
+type cancerType
+mainType Gastrointestinal Neuroendocrine Tumor
+tissue Bowel
+
+oncoTreeId AWDNET
+parentOncoTreeId GINET
+umls C3272767
+nciCode C96422
+oncoTreeLevel 3
+subTypes 0

@@ -1,0 +1,11 @@
+title Ossifying Fibromyxoid Tumor
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId OFMT
+parentOncoTreeId MYXO
+umls C1266128
+nciCode C6582
+oncoTreeLevel 3
+subTypes 0

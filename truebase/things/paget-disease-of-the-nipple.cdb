@@ -1,0 +1,11 @@
+title Paget Disease of the Nipple
+type cancerType
+mainType Breast Cancer
+tissue Breast
+
+oncoTreeId PD
+parentOncoTreeId DCIS
+umls C1704323
+nciCode C3301
+oncoTreeLevel 3
+subTypes 0

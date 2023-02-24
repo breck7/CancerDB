@@ -1,0 +1,11 @@
+title Kidney
+type cancerType
+mainType Kidney Cancer, NOS
+tissue Kidney
+
+oncoTreeId KIDNEY
+parentOncoTreeId TISSUE
+umls C0022646
+nciCode C12415
+oncoTreeLevel 1
+subTypes 21

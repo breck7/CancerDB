@@ -1,0 +1,11 @@
+title Malignant Teratoma
+type cancerType
+mainType Germ Cell Tumor
+tissue CNS/Brain
+
+oncoTreeId BMGT
+parentOncoTreeId BGCT
+umls C1336704
+nciCode C7015
+oncoTreeLevel 3
+subTypes 0

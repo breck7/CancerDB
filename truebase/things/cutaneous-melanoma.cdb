@@ -1,0 +1,11 @@
+title Cutaneous Melanoma
+type cancerType
+mainType Melanoma
+tissue Skin
+
+oncoTreeId SKCM
+parentOncoTreeId MEL
+umls C0151779
+nciCode C3510
+oncoTreeLevel 3
+subTypes 0

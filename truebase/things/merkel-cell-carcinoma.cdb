@@ -1,0 +1,11 @@
+title Merkel Cell Carcinoma
+type cancerType
+mainType Skin Cancer, Non-Melanoma
+tissue Skin
+
+oncoTreeId MCC
+parentOncoTreeId SKIN
+umls C0007129
+nciCode C9231
+oncoTreeLevel 2
+subTypes 0

@@ -1,0 +1,11 @@
+title Classical Hodgkin Lymphoma
+type cancerType
+mainType Hodgkin Lymphoma
+tissue Lymphoid
+
+oncoTreeId CHL
+parentOncoTreeId HL
+umls C1333064
+nciCode C7164
+oncoTreeLevel 4
+subTypes 4

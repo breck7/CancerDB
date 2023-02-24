@@ -1,0 +1,11 @@
+title Well-Differentiated Neuroendocrine Tumors of the Stomach
+type cancerType
+mainType Gastrointestinal Neuroendocrine Tumor
+tissue Esophagus/Stomach
+
+oncoTreeId SWDNET
+parentOncoTreeId GINETES
+umls C3272399
+nciCode C95871
+oncoTreeLevel 3
+subTypes 0

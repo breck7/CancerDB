@@ -1,0 +1,11 @@
+title Fibroadenoma
+type cancerType
+mainType Breast Sarcoma
+tissue Breast
+
+oncoTreeId FA
+parentOncoTreeId BFN
+umls C0206650
+nciCode C3744
+oncoTreeLevel 3
+subTypes 0

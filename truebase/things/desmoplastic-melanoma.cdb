@@ -1,0 +1,11 @@
+title Desmoplastic Melanoma
+type cancerType
+mainType Melanoma
+tissue Skin
+
+oncoTreeId DESM
+parentOncoTreeId MEL
+umls C0334439
+nciCode C37257
+oncoTreeLevel 3
+subTypes 0

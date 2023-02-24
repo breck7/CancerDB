@@ -1,0 +1,11 @@
+title Embryonal Rhabdomyosarcoma
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId ERMS
+parentOncoTreeId RMS
+umls C0206656
+nciCode C8971
+oncoTreeLevel 3
+subTypes 0

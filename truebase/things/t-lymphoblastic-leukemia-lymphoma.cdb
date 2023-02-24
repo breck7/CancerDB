@@ -1,0 +1,9 @@
+title T-Lymphoblastic Leukemia/Lymphoma
+type cancerType
+mainType T-Lymphoblastic Leukemia/Lymphoma
+tissue Lymphoid
+
+oncoTreeId TLL
+parentOncoTreeId LNM
+oncoTreeLevel 3
+subTypes 2

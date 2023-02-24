@@ -1,0 +1,11 @@
+title Marginal Zone Lymphoma
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId MZL
+parentOncoTreeId MBN
+umls C1367654
+nciCode C4341
+oncoTreeLevel 5
+subTypes 3

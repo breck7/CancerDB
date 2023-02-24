@@ -1,0 +1,9 @@
+title AML with Maturation
+type cancerType
+mainType Leukemia
+tissue Myeloid
+
+oncoTreeId AM
+parentOncoTreeId AMLNOS
+oncoTreeLevel 5
+subTypes 0

@@ -1,0 +1,11 @@
+title Anaplastic Large Cell Lymphoma
+type cancerType
+mainType Mature T and NK Neoplasms
+tissue Lymphoid
+
+oncoTreeId ALCL
+parentOncoTreeId MTNN
+umls C0206180
+nciCode C3720
+oncoTreeLevel 5
+subTypes 3

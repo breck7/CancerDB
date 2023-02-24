@@ -1,0 +1,9 @@
+title Extraosseous Plasmacytoma
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId EP
+parentOncoTreeId MBN
+oncoTreeLevel 5
+subTypes 0

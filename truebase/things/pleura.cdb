@@ -1,0 +1,11 @@
+title Pleura
+type cancerType
+mainType Pleural Cancer, NOS
+tissue Pleura
+
+oncoTreeId PLEURA
+parentOncoTreeId TISSUE
+umls C0032225
+nciCode C12469
+oncoTreeLevel 1
+subTypes 4

@@ -1,0 +1,11 @@
+title Pulmonary Lymphangiomyomatosis
+type cancerType
+mainType Non-Small Cell Lung Cancer
+tissue Lung
+
+oncoTreeId LAM
+parentOncoTreeId LUNG
+umls C0349649
+nciCode C38153
+oncoTreeLevel 2
+subTypes 0

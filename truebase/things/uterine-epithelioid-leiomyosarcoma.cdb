@@ -1,0 +1,11 @@
+title Uterine Epithelioid Leiomyosarcoma
+type cancerType
+mainType Uterine Sarcoma
+tissue Uterus
+
+oncoTreeId UELMS
+parentOncoTreeId USMT
+umls C1519851
+nciCode C40174
+oncoTreeLevel 4
+subTypes 0

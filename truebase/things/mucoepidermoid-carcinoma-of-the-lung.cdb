@@ -1,0 +1,11 @@
+title Mucoepidermoid Carcinoma of the Lung
+type cancerType
+mainType Non-Small Cell Lung Cancer
+tissue Lung
+
+oncoTreeId LUMEC
+parentOncoTreeId SGTTL
+umls C1708778
+nciCode C45544
+oncoTreeLevel 4
+subTypes 0

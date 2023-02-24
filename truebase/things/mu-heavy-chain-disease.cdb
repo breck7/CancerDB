@@ -1,0 +1,9 @@
+title Mu Heavy-Chain Disease
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId MHCD
+parentOncoTreeId MBN
+oncoTreeLevel 5
+subTypes 0

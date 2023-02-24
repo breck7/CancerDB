@@ -1,0 +1,9 @@
+title Clear Cell Papillary Renal Cell Carcinoma
+type cancerType
+mainType Renal Cell Carcinoma
+tissue Kidney
+
+oncoTreeId CCPRC
+parentOncoTreeId NCCRCC
+oncoTreeLevel 4
+subTypes 0

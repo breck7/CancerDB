@@ -1,0 +1,9 @@
+title MDS with Multilineage Dysplasia
+type cancerType
+mainType Myelodysplastic Syndromes
+tissue Myeloid
+
+oncoTreeId MDSMD
+parentOncoTreeId MDS
+oncoTreeLevel 4
+subTypes 0

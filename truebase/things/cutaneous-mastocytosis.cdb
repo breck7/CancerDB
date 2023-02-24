@@ -1,0 +1,9 @@
+title Cutaneous Mastocytosis
+type cancerType
+mainType Mastocytosis
+tissue Myeloid
+
+oncoTreeId CMCD
+parentOncoTreeId MCD
+oncoTreeLevel 4
+subTypes 0

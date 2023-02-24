@@ -1,0 +1,11 @@
+title Basal Cell Carcinoma
+type cancerType
+mainType Skin Cancer, Non-Melanoma
+tissue Skin
+
+oncoTreeId BCC
+parentOncoTreeId SKIN
+umls C0007117
+nciCode C2921
+oncoTreeLevel 2
+subTypes 0

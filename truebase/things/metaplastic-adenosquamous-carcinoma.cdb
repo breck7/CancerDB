@@ -1,0 +1,11 @@
+title Metaplastic Adenosquamous Carcinoma
+type cancerType
+mainType Breast Cancer
+tissue Breast
+
+oncoTreeId MASC
+parentOncoTreeId EMBC
+umls C1510796
+nciCode C40361
+oncoTreeLevel 4
+subTypes 0

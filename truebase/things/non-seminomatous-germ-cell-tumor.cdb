@@ -1,0 +1,10 @@
+title Non-Seminomatous Germ Cell Tumor
+type cancerType
+mainType Germ Cell Tumor
+tissue Testis
+
+oncoTreeId NSGCT
+parentOncoTreeId TESTIS
+umls CL480935
+oncoTreeLevel 2
+subTypes 6

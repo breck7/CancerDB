@@ -1,0 +1,9 @@
+title Ovarian Choriocarcinoma, NOS
+type cancerType
+mainType Ovarian Cancer
+tissue Ovary/Fallopian Tube
+
+oncoTreeId OCNOS
+parentOncoTreeId OOVC
+oncoTreeLevel 3
+subTypes 0

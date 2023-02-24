@@ -1,0 +1,9 @@
+title Sezary Syndrome
+type cancerType
+mainType Mature T and NK Neoplasms
+tissue Lymphoid
+
+oncoTreeId SS
+parentOncoTreeId MTNN
+oncoTreeLevel 5
+subTypes 0

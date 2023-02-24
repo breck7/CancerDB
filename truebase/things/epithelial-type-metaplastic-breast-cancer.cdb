@@ -1,0 +1,9 @@
+title Epithelial Type Metaplastic Breast Cancer
+type cancerType
+mainType Breast Cancer
+tissue Breast
+
+oncoTreeId EMBC
+parentOncoTreeId MBC
+oncoTreeLevel 3
+subTypes 3

@@ -1,0 +1,9 @@
+title Brenner Tumor, Benign
+type cancerType
+mainType Ovarian Cancer
+tissue Ovary/Fallopian Tube
+
+oncoTreeId BTBEOV
+parentOncoTreeId BTOV
+oncoTreeLevel 4
+subTypes 0

@@ -1,0 +1,11 @@
+title Bowel
+type cancerType
+mainType Bowel Cancer, NOS
+tissue Bowel
+
+oncoTreeId BOWEL
+parentOncoTreeId TISSUE
+umls C0021853
+nciCode C12736
+oncoTreeLevel 1
+subTypes 24

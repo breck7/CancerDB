@@ -1,0 +1,11 @@
+title Ocular Melanoma
+type cancerType
+mainType Melanoma
+tissue Eye
+
+oncoTreeId OM
+parentOncoTreeId EYE
+umls C0558356
+nciCode C8562
+oncoTreeLevel 2
+subTypes 2

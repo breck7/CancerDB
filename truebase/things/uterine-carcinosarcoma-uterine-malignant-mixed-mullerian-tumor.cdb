@@ -1,0 +1,11 @@
+title Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+type cancerType
+mainType Endometrial Cancer
+tissue Uterus
+
+oncoTreeId UCS
+parentOncoTreeId UCEC
+umls C0280630
+nciCode C42700
+oncoTreeLevel 3
+subTypes 0

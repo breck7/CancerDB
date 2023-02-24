@@ -1,0 +1,11 @@
+title Atypical Meningioma
+type cancerType
+mainType CNS Cancer
+tissue CNS/Brain
+
+oncoTreeId ATM
+parentOncoTreeId MNGT
+umls C0431122
+nciCode C4723
+oncoTreeLevel 3
+subTypes 0

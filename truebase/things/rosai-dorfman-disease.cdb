@@ -1,0 +1,11 @@
+title Rosai-Dorfman Disease
+type cancerType
+mainType Histiocytosis
+tissue Myeloid
+
+oncoTreeId RDD
+parentOncoTreeId HDCN
+umls C0019625
+nciCode C36075
+oncoTreeLevel 4
+subTypes 0

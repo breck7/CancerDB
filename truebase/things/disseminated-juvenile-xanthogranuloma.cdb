@@ -1,0 +1,9 @@
+title Disseminated Juvenile Xanthogranuloma
+type cancerType
+mainType Histiocytosis
+tissue Myeloid
+
+oncoTreeId JXG
+parentOncoTreeId HDCN
+oncoTreeLevel 4
+subTypes 0

@@ -1,0 +1,9 @@
+title Malignant Rhabdoid Tumor of the Liver
+type cancerType
+mainType Malignant Rhabdoid Tumor of the Liver
+tissue Liver
+
+oncoTreeId MRTL
+parentOncoTreeId LIVER
+oncoTreeLevel 2
+subTypes 0

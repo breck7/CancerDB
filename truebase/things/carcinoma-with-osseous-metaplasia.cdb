@@ -1,0 +1,11 @@
+title Carcinoma with Osseous Metaplasia
+type cancerType
+mainType Breast Cancer
+tissue Breast
+
+oncoTreeId COM
+parentOncoTreeId MMBC
+umls C1711312
+nciCode C47848
+oncoTreeLevel 4
+subTypes 0

@@ -1,0 +1,11 @@
+title Acute Myeloid Leukemia
+type cancerType
+mainType Leukemia
+tissue Myeloid
+
+oncoTreeId AML
+parentOncoTreeId MNM
+umls C0023467
+nciCode C3171
+oncoTreeLevel 3
+subTypes 30

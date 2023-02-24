@@ -1,0 +1,9 @@
+title In Situ Mantle Cell Neoplasia
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId ISMCL
+parentOncoTreeId MCL
+oncoTreeLevel 6
+subTypes 0

@@ -1,0 +1,11 @@
+title Low-Grade Central Osteosarcoma
+type cancerType
+mainType Bone Cancer
+tissue Bone
+
+oncoTreeId LGCOS
+parentOncoTreeId OS
+umls C1266163
+nciCode C6474
+oncoTreeLevel 3
+subTypes 0

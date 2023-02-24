@@ -1,0 +1,11 @@
+title NUT Midline Carcinoma of the Head and Neck
+type cancerType
+mainType Head and Neck Cancer
+tissue Head and Neck
+
+oncoTreeId NMCHN
+parentOncoTreeId OHNCA
+umls C1707291
+nciCode C45716
+oncoTreeLevel 3
+subTypes 0

@@ -1,0 +1,11 @@
+title Vulva/Vagina
+type cancerType
+mainType Vulvar/Vaginal Cancer, NOS
+tissue Vulva/Vagina
+
+oncoTreeId VULVA
+parentOncoTreeId TISSUE
+umls C0042993
+nciCode C12408
+oncoTreeLevel 1
+subTypes 13

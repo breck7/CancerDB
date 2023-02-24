@@ -1,0 +1,11 @@
+title Pineal Tumor
+type cancerType
+mainType Pineal Tumor
+tissue CNS/Brain
+
+oncoTreeId PINT
+parentOncoTreeId BRAIN
+umls C1412004
+nciCode C3328
+oncoTreeLevel 2
+subTypes 4

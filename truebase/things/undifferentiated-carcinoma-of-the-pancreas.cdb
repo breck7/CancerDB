@@ -1,0 +1,11 @@
+title Undifferentiated Carcinoma of the Pancreas
+type cancerType
+mainType Pancreatic Cancer
+tissue Pancreas
+
+oncoTreeId UCP
+parentOncoTreeId PANCREAS
+umls C1336861
+nciCode C5722
+oncoTreeLevel 2
+subTypes 1

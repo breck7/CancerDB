@@ -1,0 +1,9 @@
+title Other Uterine Tumor
+type cancerType
+mainType Endometrial Cancer
+tissue Uterus
+
+oncoTreeId OUTT
+parentOncoTreeId UTERUS
+oncoTreeLevel 2
+subTypes 0

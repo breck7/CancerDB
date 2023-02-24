@@ -1,0 +1,11 @@
+title Ependymomal Tumor
+type cancerType
+mainType CNS Cancer
+tissue CNS/Brain
+
+oncoTreeId EPMT
+parentOncoTreeId BRAIN
+umls C1333407
+nciCode C6770
+oncoTreeLevel 2
+subTypes 5

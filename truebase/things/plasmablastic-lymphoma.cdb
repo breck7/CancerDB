@@ -1,0 +1,9 @@
+title Plasmablastic Lymphoma
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId PLBL
+parentOncoTreeId MBN
+oncoTreeLevel 5
+subTypes 0

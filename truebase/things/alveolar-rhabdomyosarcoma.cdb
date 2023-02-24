@@ -1,0 +1,11 @@
+title Alveolar Rhabdomyosarcoma
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId ARMS
+parentOncoTreeId RMS
+umls C0206655
+nciCode C3749
+oncoTreeLevel 3
+subTypes 0

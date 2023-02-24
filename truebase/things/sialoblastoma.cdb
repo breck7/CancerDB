@@ -1,0 +1,9 @@
+title Sialoblastoma
+type cancerType
+mainType Sialoblastoma
+tissue Head and Neck
+
+oncoTreeId SBL
+parentOncoTreeId HEAD_NECK
+oncoTreeLevel 2
+subTypes 0

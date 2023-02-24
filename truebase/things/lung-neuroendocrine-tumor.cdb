@@ -1,0 +1,11 @@
+title Lung Neuroendocrine Tumor
+type cancerType
+mainType Non-Small Cell Lung Cancer
+tissue Lung
+
+oncoTreeId LNET
+parentOncoTreeId LUNG
+umls C1334452
+nciCode C5670
+oncoTreeLevel 2
+subTypes 4

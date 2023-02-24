@@ -1,0 +1,11 @@
+title Myxoid Chondrosarcoma
+type cancerType
+mainType Bone Cancer
+tissue Bone
+
+oncoTreeId MYCHS
+parentOncoTreeId CHS
+umls C0334551
+nciCode C4303
+oncoTreeLevel 3
+subTypes 0

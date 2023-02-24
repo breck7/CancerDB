@@ -1,0 +1,9 @@
+title Parathyroid Carcinoma
+type cancerType
+mainType Parathyroid Cancer
+tissue Head and Neck
+
+oncoTreeId PTHC
+parentOncoTreeId PTH
+oncoTreeLevel 3
+subTypes 0

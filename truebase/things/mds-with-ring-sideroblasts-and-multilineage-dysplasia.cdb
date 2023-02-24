@@ -1,0 +1,9 @@
+title MDS with Ring Sideroblasts and Multilineage Dysplasia
+type cancerType
+mainType Myelodysplastic Syndromes
+tissue Myeloid
+
+oncoTreeId MDSRSMD
+parentOncoTreeId MDSRS
+oncoTreeLevel 5
+subTypes 0

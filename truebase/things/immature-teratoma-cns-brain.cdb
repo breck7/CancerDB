@@ -1,0 +1,11 @@
+title Immature Teratoma CNS/Brain
+type cancerType
+mainType Germ Cell Tumor
+tissue CNS/Brain
+
+oncoTreeId BIMT
+parentOncoTreeId BGCT
+umls C1332883
+nciCode C7014
+oncoTreeLevel 3
+subTypes 0

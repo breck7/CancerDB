@@ -1,0 +1,11 @@
+title Osteoblastic Osteosarcoma
+type cancerType
+mainType Bone Cancer
+tissue Bone
+
+oncoTreeId OSOS
+parentOncoTreeId OS
+umls C1704328
+nciCode C53953
+oncoTreeLevel 3
+subTypes 0

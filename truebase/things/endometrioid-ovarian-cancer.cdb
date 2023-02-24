@@ -1,0 +1,11 @@
+title Endometrioid Ovarian Cancer
+type cancerType
+mainType Ovarian Cancer
+tissue Ovary/Fallopian Tube
+
+oncoTreeId EOV
+parentOncoTreeId OVT
+umls C0346163
+nciCode C7979
+oncoTreeLevel 3
+subTypes 0

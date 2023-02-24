@@ -1,0 +1,11 @@
+title Germinoma
+type cancerType
+mainType Germ Cell Tumor
+tissue CNS/Brain
+
+oncoTreeId GMN
+parentOncoTreeId BGCT
+umls C0206660
+nciCode C3753
+oncoTreeLevel 3
+subTypes 0

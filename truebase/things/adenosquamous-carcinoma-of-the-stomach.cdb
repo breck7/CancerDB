@@ -1,0 +1,11 @@
+title Adenosquamous Carcinoma of the Stomach
+type cancerType
+mainType Esophagogastric Cancer
+tissue Esophagus/Stomach
+
+oncoTreeId STAS
+parentOncoTreeId EGC
+umls C1333761
+nciCode C5474
+oncoTreeLevel 3
+subTypes 0

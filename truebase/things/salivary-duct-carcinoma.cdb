@@ -1,0 +1,11 @@
+title Salivary Duct Carcinoma
+type cancerType
+mainType Salivary Gland Cancer
+tissue Head and Neck
+
+oncoTreeId SDCA
+parentOncoTreeId SACA
+umls C1301194
+nciCode C5904
+oncoTreeLevel 3
+subTypes 0

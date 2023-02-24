@@ -1,0 +1,11 @@
+title Myofibroma
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId MF
+parentOncoTreeId SOFT_TISSUE
+umls C1266121
+nciCode C7052
+oncoTreeLevel 2
+subTypes 0

@@ -1,0 +1,11 @@
+title Congenital Nevus
+type cancerType
+mainType Melanoma
+tissue Skin
+
+oncoTreeId SKCN
+parentOncoTreeId MEL
+umls C1318558
+nciCode C3944
+oncoTreeLevel 3
+subTypes 0

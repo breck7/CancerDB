@@ -1,0 +1,11 @@
+title Oligodendroglioma
+type cancerType
+mainType Glioma
+tissue CNS/Brain
+
+oncoTreeId ODG
+parentOncoTreeId DIFG
+umls C0751396
+nciCode C3288
+oncoTreeLevel 3
+subTypes 0

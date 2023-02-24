@@ -1,0 +1,11 @@
+title Penis
+type cancerType
+mainType Penile Cancer, NOS
+tissue Penis
+
+oncoTreeId PENIS
+parentOncoTreeId TISSUE
+umls C0030851
+nciCode C12409
+oncoTreeLevel 1
+subTypes 4

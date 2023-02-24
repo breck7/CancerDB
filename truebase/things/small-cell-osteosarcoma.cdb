@@ -1,0 +1,11 @@
+title Small Cell Osteosarcoma
+type cancerType
+mainType Bone Cancer
+tissue Bone
+
+oncoTreeId SCOS
+parentOncoTreeId OS
+umls C0279622
+nciCode C4023
+oncoTreeLevel 3
+subTypes 0

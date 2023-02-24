@@ -1,0 +1,10 @@
+title Goblet Cell Carcinoid of the Appendix
+type cancerType
+mainType Appendiceal Cancer
+tissue Bowel
+
+oncoTreeId GCCAP
+parentOncoTreeId APAD
+umls C0205695
+oncoTreeLevel 3
+subTypes 0

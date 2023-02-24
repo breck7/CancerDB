@@ -1,0 +1,11 @@
+title Hodgkin Lymphoma
+type cancerType
+mainType Hodgkin Lymphoma
+tissue Lymphoid
+
+oncoTreeId HL
+parentOncoTreeId LNM
+umls C0019829
+nciCode C9357
+oncoTreeLevel 3
+subTypes 6

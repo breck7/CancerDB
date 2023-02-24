@@ -1,0 +1,9 @@
+title Indeterminate Dendritic Cell Tumor
+type cancerType
+mainType Histiocytosis
+tissue Myeloid
+
+oncoTreeId IDCT
+parentOncoTreeId HDCN
+oncoTreeLevel 4
+subTypes 0

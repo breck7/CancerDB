@@ -1,0 +1,9 @@
+title Extra Gonadal Germ Cell Tumor
+type cancerType
+mainType Germ Cell Tumor
+tissue Other
+
+oncoTreeId EGCT
+parentOncoTreeId OTHER
+oncoTreeLevel 2
+subTypes 0

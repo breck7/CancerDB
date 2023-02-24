@@ -1,0 +1,11 @@
+title Primary DLBCL of the central nervous system
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId PCNSL
+parentOncoTreeId MBN
+umls C0280803
+nciCode C9301
+oncoTreeLevel 5
+subTypes 0

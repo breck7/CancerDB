@@ -1,0 +1,11 @@
+title Clear cell Meningioma
+type cancerType
+mainType CNS Cancer
+tissue CNS/Brain
+
+oncoTreeId CCM
+parentOncoTreeId MNGT
+umls C0431121
+nciCode C4722
+oncoTreeLevel 3
+subTypes 0

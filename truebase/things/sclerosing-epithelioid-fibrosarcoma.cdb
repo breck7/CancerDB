@@ -1,0 +1,11 @@
+title Sclerosing Epithelioid Fibrosarcoma
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId SEF
+parentOncoTreeId FIBS
+umls C1710026
+nciCode C49027
+oncoTreeLevel 3
+subTypes 0

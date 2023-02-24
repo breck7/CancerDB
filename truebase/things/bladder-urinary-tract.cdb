@@ -1,0 +1,11 @@
+title Bladder/Urinary Tract
+type cancerType
+mainType Bladder/Urinary Tract Cancer, NOS
+tissue Bladder/Urinary Tract
+
+oncoTreeId BLADDER
+parentOncoTreeId TISSUE
+umls C0005682
+nciCode C12414
+oncoTreeLevel 1
+subTypes 17

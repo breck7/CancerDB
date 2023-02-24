@@ -1,0 +1,11 @@
+title Signet Ring Cell Type of the Appendix
+type cancerType
+mainType Appendiceal Cancer
+tissue Bowel
+
+oncoTreeId SRAP
+parentOncoTreeId APAD
+umls C1711320
+nciCode C43554
+oncoTreeLevel 3
+subTypes 0

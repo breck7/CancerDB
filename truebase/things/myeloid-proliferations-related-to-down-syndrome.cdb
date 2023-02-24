@@ -1,0 +1,9 @@
+title Myeloid Proliferations Related to Down Syndrome
+type cancerType
+mainType Leukemia
+tissue Myeloid
+
+oncoTreeId MPRDS
+parentOncoTreeId AML
+oncoTreeLevel 4
+subTypes 2

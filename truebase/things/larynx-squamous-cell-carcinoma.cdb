@@ -1,0 +1,11 @@
+title Larynx Squamous Cell Carcinoma
+type cancerType
+mainType Head and Neck Cancer
+tissue Head and Neck
+
+oncoTreeId LXSC
+parentOncoTreeId HNSC
+umls C0280324
+nciCode C4044
+oncoTreeLevel 3
+subTypes 0

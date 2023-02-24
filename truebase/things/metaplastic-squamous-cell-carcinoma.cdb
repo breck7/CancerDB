@@ -1,0 +1,11 @@
+title Metaplastic Squamous Cell Carcinoma
+type cancerType
+mainType Breast Cancer
+tissue Breast
+
+oncoTreeId MSCC
+parentOncoTreeId EMBC
+umls C1336079
+nciCode C5177
+oncoTreeLevel 4
+subTypes 0

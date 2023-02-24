@@ -1,0 +1,11 @@
+title Lymphoepithelioma-like Carcinoma of the Lung
+type cancerType
+mainType Non-Small Cell Lung Cancer
+tissue Lung
+
+oncoTreeId LECLC
+parentOncoTreeId LCLC
+umls C1708792
+nciCode C45519
+oncoTreeLevel 4
+subTypes 0

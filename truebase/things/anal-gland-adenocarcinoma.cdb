@@ -1,0 +1,11 @@
+title Anal Gland Adenocarcinoma
+type cancerType
+mainType Anal Cancer
+tissue Bowel
+
+oncoTreeId AGA
+parentOncoTreeId BOWEL
+umls C1266027
+nciCode C5609
+oncoTreeLevel 2
+subTypes 0

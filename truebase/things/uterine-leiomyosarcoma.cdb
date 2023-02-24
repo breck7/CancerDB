@@ -1,0 +1,11 @@
+title Uterine Leiomyosarcoma
+type cancerType
+mainType Uterine Sarcoma
+tissue Uterus
+
+oncoTreeId ULMS
+parentOncoTreeId USMT
+umls C0280631
+nciCode C6340
+oncoTreeLevel 4
+subTypes 0

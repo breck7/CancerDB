@@ -1,0 +1,9 @@
+title AML with t(8;21)(q22;q22.1);RUNX1-RUNX1T1
+type cancerType
+mainType Leukemia
+tissue Myeloid
+
+oncoTreeId AMLRUNX1RUNX1T1
+parentOncoTreeId AMLRGA
+oncoTreeLevel 5
+subTypes 0

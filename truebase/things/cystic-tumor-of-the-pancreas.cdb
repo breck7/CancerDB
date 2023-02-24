@@ -1,0 +1,11 @@
+title Cystic Tumor of the Pancreas
+type cancerType
+mainType Pancreatic Cancer
+tissue Pancreas
+
+oncoTreeId PACT
+parentOncoTreeId PANCREAS
+umls C1518872
+nciCode C41247
+oncoTreeLevel 2
+subTypes 3

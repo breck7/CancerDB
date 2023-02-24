@@ -1,0 +1,9 @@
+title Head and Neck Mucosal Melanoma
+type cancerType
+mainType Melanoma
+tissue Head and Neck
+
+oncoTreeId HNMUCM
+parentOncoTreeId HEAD_NECK
+oncoTreeLevel 2
+subTypes 0

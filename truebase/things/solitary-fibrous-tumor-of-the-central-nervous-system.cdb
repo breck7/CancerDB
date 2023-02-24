@@ -1,0 +1,9 @@
+title Solitary Fibrous Tumor of the Central Nervous System
+type cancerType
+mainType CNS Cancer
+tissue CNS/Brain
+
+oncoTreeId SFTCNS
+parentOncoTreeId MNGT
+oncoTreeLevel 3
+subTypes 0

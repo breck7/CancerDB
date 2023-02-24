@@ -1,0 +1,11 @@
+title Bladder Adenocarcinoma
+type cancerType
+mainType Bladder Cancer
+tissue Bladder/Urinary Tract
+
+oncoTreeId BLAD
+parentOncoTreeId BLADDER
+umls C0279682
+nciCode C4032
+oncoTreeLevel 2
+subTypes 0

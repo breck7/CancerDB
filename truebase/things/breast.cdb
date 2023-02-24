@@ -1,0 +1,11 @@
+title Breast
+type cancerType
+mainType Breast Cancer, NOS
+tissue Breast
+
+oncoTreeId BREAST
+parentOncoTreeId TISSUE
+umls C0006141
+nciCode C12971
+oncoTreeLevel 1
+subTypes 35

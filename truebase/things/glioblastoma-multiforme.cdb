@@ -1,0 +1,9 @@
+title Glioblastoma Multiforme
+type cancerType
+mainType Glioma
+tissue CNS/Brain
+
+oncoTreeId GBM
+parentOncoTreeId GB
+oncoTreeLevel 4
+subTypes 0

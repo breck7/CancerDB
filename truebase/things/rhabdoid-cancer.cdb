@@ -1,0 +1,11 @@
+title Rhabdoid Cancer
+type cancerType
+mainType Rhabdoid Cancer
+tissue Kidney
+
+oncoTreeId MRT
+parentOncoTreeId KIDNEY
+umls C0206743
+nciCode C3808
+oncoTreeLevel 2
+subTypes 0

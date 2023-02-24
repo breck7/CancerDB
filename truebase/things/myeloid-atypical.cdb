@@ -1,0 +1,9 @@
+title Myeloid Atypical
+type cancerType
+mainType Blood Cancer, NOS
+tissue Myeloid
+
+oncoTreeId MATPL
+parentOncoTreeId MYELOID
+oncoTreeLevel 2
+subTypes 0

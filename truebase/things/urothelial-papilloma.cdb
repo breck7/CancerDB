@@ -1,0 +1,9 @@
+title Urothelial Papilloma
+type cancerType
+mainType Bladder Cancer
+tissue Bladder/Urinary Tract
+
+oncoTreeId UPA
+parentOncoTreeId BLADDER
+oncoTreeLevel 2
+subTypes 0

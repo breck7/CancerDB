@@ -1,0 +1,11 @@
+title Other
+type cancerType
+mainType Other Cancer, NOS
+tissue Other
+
+oncoTreeId OTHER
+parentOncoTreeId TISSUE
+umls C0205394
+nciCode C17649
+oncoTreeLevel 1
+subTypes 13

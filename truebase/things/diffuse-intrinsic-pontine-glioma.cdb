@@ -1,0 +1,11 @@
+title Diffuse Intrinsic Pontine Glioma
+type cancerType
+mainType Glioma
+tissue CNS/Brain
+
+oncoTreeId DIPG
+parentOncoTreeId DIFG
+umls C2986658
+nciCode C94764
+oncoTreeLevel 3
+subTypes 0

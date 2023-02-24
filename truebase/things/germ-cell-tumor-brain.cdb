@@ -1,0 +1,9 @@
+title Germ Cell Tumor, Brain
+type cancerType
+mainType Germ Cell Tumor
+tissue CNS/Brain
+
+oncoTreeId BGCT
+parentOncoTreeId BRAIN
+oncoTreeLevel 2
+subTypes 8

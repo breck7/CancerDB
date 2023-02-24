@@ -1,0 +1,11 @@
+title Peritoneum
+type cancerType
+mainType Peritoneal Cancer, NOS
+tissue Peritoneum
+
+oncoTreeId PERITONEUM
+parentOncoTreeId TISSUE
+umls C0031153
+nciCode C12770
+oncoTreeLevel 1
+subTypes 2

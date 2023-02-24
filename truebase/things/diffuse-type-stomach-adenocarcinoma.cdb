@@ -1,0 +1,11 @@
+title Diffuse Type Stomach Adenocarcinoma
+type cancerType
+mainType Esophagogastric Cancer
+tissue Esophagus/Stomach
+
+oncoTreeId DSTAD
+parentOncoTreeId STAD
+umls C0279635
+nciCode C9159
+oncoTreeLevel 4
+subTypes 0

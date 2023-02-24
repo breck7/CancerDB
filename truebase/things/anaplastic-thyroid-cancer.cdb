@@ -1,0 +1,11 @@
+title Anaplastic Thyroid Cancer
+type cancerType
+mainType Thyroid Cancer
+tissue Thyroid
+
+oncoTreeId THAP
+parentOncoTreeId THYROID
+umls C0238461
+nciCode C3878
+oncoTreeLevel 2
+subTypes 0

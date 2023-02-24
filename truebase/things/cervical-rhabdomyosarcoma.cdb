@@ -1,0 +1,9 @@
+title Cervical Rhabdomyosarcoma
+type cancerType
+mainType Cervical Cancer
+tissue Cervix
+
+oncoTreeId CERMS
+parentOncoTreeId CERVIX
+oncoTreeLevel 2
+subTypes 0

@@ -1,0 +1,11 @@
+title Ovarian Carcinosarcoma/Malignant Mixed Mesodermal Tumor
+type cancerType
+mainType Ovarian Cancer
+tissue Ovary/Fallopian Tube
+
+oncoTreeId OCS
+parentOncoTreeId OVT
+umls C0392998
+nciCode C9192
+oncoTreeLevel 3
+subTypes 0

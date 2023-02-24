@@ -1,0 +1,9 @@
+title Ovarian Cancer, Other
+type cancerType
+mainType Ovarian Cancer
+tissue Ovary/Fallopian Tube
+
+oncoTreeId OOVC
+parentOncoTreeId OVARY
+oncoTreeLevel 2
+subTypes 3

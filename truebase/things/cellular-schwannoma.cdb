@@ -1,0 +1,11 @@
+title Cellular Schwannoma
+type cancerType
+mainType Nerve Sheath Tumor
+tissue Peripheral Nervous System
+
+oncoTreeId CSCHW
+parentOncoTreeId SCHW
+umls C0431124
+nciCode C4724
+oncoTreeLevel 4
+subTypes 0

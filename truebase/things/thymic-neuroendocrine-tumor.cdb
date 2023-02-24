@@ -1,0 +1,9 @@
+title Thymic Neuroendocrine Tumor
+type cancerType
+mainType Thymic Tumor
+tissue Thymus
+
+oncoTreeId TNET
+parentOncoTreeId THYMUS
+oncoTreeLevel 2
+subTypes 0

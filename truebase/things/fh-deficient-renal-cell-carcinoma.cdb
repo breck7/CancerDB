@@ -1,0 +1,9 @@
+title FH-Deficient Renal Cell Carcinoma
+type cancerType
+mainType Renal Cell Carcinoma
+tissue Kidney
+
+oncoTreeId FHRCC
+parentOncoTreeId NCCRCC
+oncoTreeLevel 4
+subTypes 0

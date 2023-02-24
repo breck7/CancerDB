@@ -1,0 +1,9 @@
+title High-Grade B-Cell Lymphoma, with MYC and BCL2 and/or BCL6 Rearrangements
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId HGBCLMYCBCL2
+parentOncoTreeId MBN
+oncoTreeLevel 5
+subTypes 0

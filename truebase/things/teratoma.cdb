@@ -1,0 +1,11 @@
+title Teratoma
+type cancerType
+mainType Germ Cell Tumor
+tissue Testis
+
+oncoTreeId TT
+parentOncoTreeId NSGCT
+umls C0238451
+nciCode C3877
+oncoTreeLevel 3
+subTypes 0

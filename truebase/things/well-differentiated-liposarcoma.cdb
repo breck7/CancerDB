@@ -1,0 +1,11 @@
+title Well-Differentiated Liposarcoma
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId WDLS
+parentOncoTreeId LIPO
+umls C1370889
+nciCode C4250
+oncoTreeLevel 3
+subTypes 0

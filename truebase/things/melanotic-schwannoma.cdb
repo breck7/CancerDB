@@ -1,0 +1,11 @@
+title Melanotic Schwannoma
+type cancerType
+mainType Nerve Sheath Tumor
+tissue Peripheral Nervous System
+
+oncoTreeId MSCHW
+parentOncoTreeId SCHW
+umls C1306247
+nciCode C6970
+oncoTreeLevel 4
+subTypes 0

@@ -1,0 +1,11 @@
+title Medulloepithelioma
+type cancerType
+mainType Embryonal Tumor
+tissue CNS/Brain
+
+oncoTreeId MDEP
+parentOncoTreeId EMBT
+umls C0334596
+nciCode C4327
+oncoTreeLevel 3
+subTypes 0

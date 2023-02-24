@@ -1,0 +1,9 @@
+title Myeloid/Lymphoid Neoplasms with PCM1-JAK2
+type cancerType
+mainType Leukemia
+tissue Myeloid
+
+oncoTreeId MLNPCM1JAK2
+parentOncoTreeId MLNER
+oncoTreeLevel 4
+subTypes 0

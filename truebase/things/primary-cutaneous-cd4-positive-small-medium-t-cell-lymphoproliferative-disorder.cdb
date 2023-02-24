@@ -1,0 +1,9 @@
+title Primary Cutaneous CD4 Positive Small/Medium T-Cell Lymphoproliferative Disorder
+type cancerType
+mainType Mature T and NK Neoplasms
+tissue Lymphoid
+
+oncoTreeId PCSMTPLD
+parentOncoTreeId MTNN
+oncoTreeLevel 5
+subTypes 0

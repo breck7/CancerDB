@@ -1,0 +1,9 @@
+title Poorly Differentiated Carcinoma of the Stomach
+type cancerType
+mainType Esophagogastric Cancer
+tissue Esophagus/Stomach
+
+oncoTreeId SPDAC
+parentOncoTreeId USTAD
+oncoTreeLevel 4
+subTypes 0

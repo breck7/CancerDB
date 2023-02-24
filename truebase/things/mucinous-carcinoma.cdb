@@ -1,0 +1,11 @@
+title Mucinous Carcinoma
+type cancerType
+mainType Cervical Cancer
+tissue Cervix
+
+oncoTreeId CEMU
+parentOncoTreeId CEAD
+umls C0007130
+nciCode C26712
+oncoTreeLevel 3
+subTypes 3

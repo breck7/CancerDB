@@ -1,0 +1,11 @@
+title Ewing Sarcoma
+type cancerType
+mainType Bone Cancer
+tissue Bone
+
+oncoTreeId ES
+parentOncoTreeId BONE
+umls C0553580
+nciCode C4817
+oncoTreeLevel 2
+subTypes 0

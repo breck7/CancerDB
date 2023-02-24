@@ -1,0 +1,9 @@
+title AML with t(6;9)(p23;q34.1);DEK-NUP214
+type cancerType
+mainType Leukemia
+tissue Myeloid
+
+oncoTreeId AMLDEKNUP214
+parentOncoTreeId AMLRGA
+oncoTreeLevel 5
+subTypes 0

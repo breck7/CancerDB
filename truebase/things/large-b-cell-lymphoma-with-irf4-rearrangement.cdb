@@ -1,0 +1,9 @@
+title Large B-Cell Lymphoma with IRF4 Rearrangement
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId LBLIRF4
+parentOncoTreeId MBN
+oncoTreeLevel 5
+subTypes 0

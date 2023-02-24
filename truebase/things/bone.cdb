@@ -1,0 +1,11 @@
+title Bone
+type cancerType
+mainType Bone Cancer, NOS
+tissue Bone
+
+oncoTreeId BONE
+parentOncoTreeId TISSUE
+umls C0262950
+nciCode C12366
+oncoTreeLevel 1
+subTypes 23

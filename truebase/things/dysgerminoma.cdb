@@ -1,0 +1,11 @@
+title Dysgerminoma
+type cancerType
+mainType Germ Cell Tumor
+tissue Ovary/Fallopian Tube
+
+oncoTreeId ODYS
+parentOncoTreeId OGCT
+umls C0346185
+nciCode C8106
+oncoTreeLevel 3
+subTypes 0

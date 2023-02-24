@@ -1,0 +1,9 @@
+title Renal Non-Clear Cell Carcinoma
+type cancerType
+mainType Renal Cell Carcinoma
+tissue Kidney
+
+oncoTreeId NCCRCC
+parentOncoTreeId RCC
+oncoTreeLevel 3
+subTypes 13

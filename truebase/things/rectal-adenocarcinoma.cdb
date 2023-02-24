@@ -1,0 +1,11 @@
+title Rectal Adenocarcinoma
+type cancerType
+mainType Colorectal Cancer
+tissue Bowel
+
+oncoTreeId READ
+parentOncoTreeId COADREAD
+umls C0149978
+nciCode C9383
+oncoTreeLevel 3
+subTypes 0

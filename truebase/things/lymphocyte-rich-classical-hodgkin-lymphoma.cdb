@@ -1,0 +1,9 @@
+title Lymphocyte-Rich Classical Hodgkin Lymphoma
+type cancerType
+mainType Hodgkin Lymphoma
+tissue Lymphoid
+
+oncoTreeId LRCHL
+parentOncoTreeId CHL
+oncoTreeLevel 5
+subTypes 0

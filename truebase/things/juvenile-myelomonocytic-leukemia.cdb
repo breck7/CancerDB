@@ -1,0 +1,9 @@
+title Juvenile Myelomonocytic Leukemia
+type cancerType
+mainType Myelodysplastic/Myeloproliferative Neoplasms
+tissue Myeloid
+
+oncoTreeId JMML
+parentOncoTreeId MDS/MPN
+oncoTreeLevel 4
+subTypes 0

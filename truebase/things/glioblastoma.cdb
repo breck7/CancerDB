@@ -1,0 +1,11 @@
+title Glioblastoma
+type cancerType
+mainType Glioma
+tissue CNS/Brain
+
+oncoTreeId GB
+parentOncoTreeId DIFG
+umls C0017636
+nciCode C3058
+oncoTreeLevel 3
+subTypes 3

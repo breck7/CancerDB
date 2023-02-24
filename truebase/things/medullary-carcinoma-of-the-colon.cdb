@@ -1,0 +1,11 @@
+title Medullary Carcinoma of the Colon
+type cancerType
+mainType Colorectal Cancer
+tissue Bowel
+
+oncoTreeId CMC
+parentOncoTreeId BOWEL
+umls C1880119
+nciCode C60641
+oncoTreeLevel 2
+subTypes 0

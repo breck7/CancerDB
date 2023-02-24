@@ -367,6 +367,7 @@ sandbox/lib/show-hint.js`.split("\n")
         kids.forEach(node =>
           walkType(node, items, oncoTreeLevel + 1, oncoTreeId)
         )
+
       items.push({
         title,
         type: "cancerType",
@@ -384,6 +385,16 @@ sandbox/lib/show-hint.js`.split("\n")
     const tree = TreeNode.fromDisk(path.join(ignoreFolder, "oncoTree.tree"))
     walkType(tree.nodeAt(0), items, 0)
     items.pop()
+
+    const theSet = new Set()
+    items.forEach(item => {
+      if (!item.umls) delete item.umls
+      if (!item.nciCode) delete item.nciCode
+
+      if (theSet.has(item.title)) item.title = item.title + " " + item.tissue
+      theSet.add(item.title)
+    })
+
     const typeCount = items.length
     const output = new TreeNode(items)
     Disk.write(path.join(ignoreFolder, "types.csv"), output.toCsv())

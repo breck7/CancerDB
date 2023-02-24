@@ -1,0 +1,11 @@
+title Primary Brain Tumor
+type cancerType
+mainType Miscellaneous Brain Tumor
+tissue CNS/Brain
+
+oncoTreeId PBT
+parentOncoTreeId MBT
+umls C0750974
+nciCode C4952
+oncoTreeLevel 3
+subTypes 0

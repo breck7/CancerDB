@@ -1,0 +1,11 @@
+title Anorectal Mucosal Melanoma
+type cancerType
+mainType Melanoma
+tissue Bowel
+
+oncoTreeId ARMM
+parentOncoTreeId BOWEL
+umls C0349538
+nciCode C4639
+oncoTreeLevel 2
+subTypes 0

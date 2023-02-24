@@ -1,0 +1,11 @@
+title Chondroblastic Osteosarcoma
+type cancerType
+mainType Bone Cancer
+tissue Bone
+
+oncoTreeId CHOS
+parentOncoTreeId OS
+umls C0279603
+nciCode C4021
+oncoTreeLevel 3
+subTypes 0

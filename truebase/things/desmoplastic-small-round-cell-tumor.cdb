@@ -1,0 +1,11 @@
+title Desmoplastic Small-Round-Cell Tumor
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId DSRCT
+parentOncoTreeId SOFT_TISSUE
+umls C0281508
+nciCode C8300
+oncoTreeLevel 2
+subTypes 0

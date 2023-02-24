@@ -1,0 +1,11 @@
+title Primary Effusion Lymphoma
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId PEL
+parentOncoTreeId MBN
+umls C1292753
+nciCode C6915
+oncoTreeLevel 5
+subTypes 0

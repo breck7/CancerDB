@@ -1,0 +1,9 @@
+title Angiomatoid Fibrous Histiocytoma
+type cancerType
+mainType Angiomatoid Fibrous Histiocytoma
+tissue Soft Tissue
+
+oncoTreeId AFH
+parentOncoTreeId SOFT_TISSUE
+oncoTreeLevel 2
+subTypes 0

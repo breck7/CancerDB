@@ -1,0 +1,9 @@
+title Osteoclastic Giant Cell Tumor
+type cancerType
+mainType Pancreatic Cancer
+tissue Pancreas
+
+oncoTreeId OSGCT
+parentOncoTreeId UCP
+oncoTreeLevel 3
+subTypes 0

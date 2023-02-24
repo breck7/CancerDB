@@ -1,0 +1,11 @@
+title Mucinous Ovarian Cancer
+type cancerType
+mainType Ovarian Cancer
+tissue Ovary/Fallopian Tube
+
+oncoTreeId MOV
+parentOncoTreeId OVT
+umls C1335168
+nciCode C5242
+oncoTreeLevel 3
+subTypes 0

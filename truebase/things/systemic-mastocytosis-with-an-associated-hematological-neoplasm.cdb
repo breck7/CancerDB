@@ -1,0 +1,9 @@
+title Systemic Mastocytosis with an Associated Hematological Neoplasm
+type cancerType
+mainType Mastocytosis
+tissue Myeloid
+
+oncoTreeId SMAHN
+parentOncoTreeId SM
+oncoTreeLevel 5
+subTypes 0

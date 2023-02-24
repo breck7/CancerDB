@@ -1,0 +1,9 @@
+title Leiomyoma
+type cancerType
+mainType Soft Tissue Cancer
+tissue Soft Tissue
+
+oncoTreeId LM
+parentOncoTreeId SOFT_TISSUE
+oncoTreeLevel 2
+subTypes 0

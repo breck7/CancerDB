@@ -1,0 +1,11 @@
+title Soft Tissue Myoepithelial Carcinoma
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId STMYEC
+parentOncoTreeId SOFT_TISSUE
+umls C0334699
+nciCode C7596
+oncoTreeLevel 2
+subTypes 0

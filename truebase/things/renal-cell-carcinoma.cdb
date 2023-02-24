@@ -1,0 +1,11 @@
+title Renal Cell Carcinoma
+type cancerType
+mainType Renal Cell Carcinoma
+tissue Kidney
+
+oncoTreeId RCC
+parentOncoTreeId KIDNEY
+umls C0007134
+nciCode C9385
+oncoTreeLevel 2
+subTypes 16

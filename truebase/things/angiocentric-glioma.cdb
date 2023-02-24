@@ -1,0 +1,11 @@
+title Angiocentric Glioma
+type cancerType
+mainType Miscellaneous Neuroepithelial Tumor
+tissue CNS/Brain
+
+oncoTreeId ANGL
+parentOncoTreeId MNET
+umls C2363903
+nciCode C92552
+oncoTreeLevel 3
+subTypes 0

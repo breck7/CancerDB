@@ -1,0 +1,11 @@
+title Sweat Gland Adenocarcinoma
+type cancerType
+mainType Skin Cancer, Non-Melanoma
+tissue Skin
+
+oncoTreeId SGAD
+parentOncoTreeId SKIN
+umls C1883403
+nciCode C3682
+oncoTreeLevel 2
+subTypes 0

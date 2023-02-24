@@ -1,0 +1,11 @@
+title Adenoid Cystic Breast Cancer
+type cancerType
+mainType Breast Cancer
+tissue Breast
+
+oncoTreeId ACBC
+parentOncoTreeId BRCA
+umls C1332167
+nciCode C5130
+oncoTreeLevel 3
+subTypes 0

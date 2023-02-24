@@ -1,0 +1,9 @@
+title IgM
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId MGUSIGM
+parentOncoTreeId MGUS
+oncoTreeLevel 6
+subTypes 0

@@ -1,0 +1,9 @@
+title T-Cell Prolymphocytic Leukemia
+type cancerType
+mainType Mature T and NK Neoplasms
+tissue Lymphoid
+
+oncoTreeId TPLL
+parentOncoTreeId MTNN
+oncoTreeLevel 5
+subTypes 0

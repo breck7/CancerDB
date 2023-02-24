@@ -1,0 +1,11 @@
+title Skin Adnexal Carcinoma
+type cancerType
+mainType Skin Cancer, Non-Melanoma
+tissue Skin
+
+oncoTreeId SKAC
+parentOncoTreeId SKIN
+umls C0206697
+nciCode C3775
+oncoTreeLevel 2
+subTypes 0

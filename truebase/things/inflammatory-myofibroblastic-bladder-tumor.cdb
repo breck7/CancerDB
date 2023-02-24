@@ -1,0 +1,11 @@
+title Inflammatory Myofibroblastic Bladder Tumor
+type cancerType
+mainType Bladder Cancer
+tissue Bladder/Urinary Tract
+
+oncoTreeId IMTB
+parentOncoTreeId BLADDER
+umls C1336891
+nciCode C6177
+oncoTreeLevel 2
+subTypes 0

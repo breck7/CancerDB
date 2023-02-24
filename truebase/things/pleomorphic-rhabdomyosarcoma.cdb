@@ -1,0 +1,11 @@
+title Pleomorphic Rhabdomyosarcoma
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId PLRMS
+parentOncoTreeId RMS
+umls C0334480
+nciCode C4258
+oncoTreeLevel 3
+subTypes 0

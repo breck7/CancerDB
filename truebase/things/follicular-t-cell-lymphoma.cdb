@@ -1,0 +1,9 @@
+title Follicular T-Cell Lymphoma
+type cancerType
+mainType Mature T and NK Neoplasms
+tissue Lymphoid
+
+oncoTreeId FTCL
+parentOncoTreeId MTNN
+oncoTreeLevel 5
+subTypes 0

@@ -1,0 +1,11 @@
+title Molar Pregnancy
+type cancerType
+mainType Gestational Trophoblastic Disease
+tissue Uterus
+
+oncoTreeId MP
+parentOncoTreeId GTD
+umls C0020217
+nciCode C3110
+oncoTreeLevel 3
+subTypes 3

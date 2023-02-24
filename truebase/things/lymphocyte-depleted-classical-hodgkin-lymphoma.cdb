@@ -1,0 +1,9 @@
+title Lymphocyte-Depleted Classical Hodgkin Lymphoma
+type cancerType
+mainType Hodgkin Lymphoma
+tissue Lymphoid
+
+oncoTreeId LDCHL
+parentOncoTreeId CHL
+oncoTreeLevel 5
+subTypes 0

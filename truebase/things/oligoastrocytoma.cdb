@@ -1,0 +1,11 @@
+title Oligoastrocytoma
+type cancerType
+mainType Glioma
+tissue CNS/Brain
+
+oncoTreeId OAST
+parentOncoTreeId DIFG
+umls C0280793
+nciCode C4050
+oncoTreeLevel 3
+subTypes 0

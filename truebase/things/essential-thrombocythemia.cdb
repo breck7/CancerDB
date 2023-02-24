@@ -1,0 +1,9 @@
+title Essential Thrombocythemia
+type cancerType
+mainType Myeloproliferative Neoplasms
+tissue Myeloid
+
+oncoTreeId ET
+parentOncoTreeId MPN
+oncoTreeLevel 4
+subTypes 1

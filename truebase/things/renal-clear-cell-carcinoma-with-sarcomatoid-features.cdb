@@ -1,0 +1,9 @@
+title Renal Clear Cell Carcinoma with Sarcomatoid Features
+type cancerType
+mainType Renal Cell Carcinoma
+tissue Kidney
+
+oncoTreeId SCCRCC
+parentOncoTreeId CCRCC
+oncoTreeLevel 4
+subTypes 0

@@ -1,0 +1,11 @@
+title Stomach Adenocarcinoma
+type cancerType
+mainType Esophagogastric Cancer
+tissue Esophagus/Stomach
+
+oncoTreeId STAD
+parentOncoTreeId EGC
+umls C0278701
+nciCode C4004
+oncoTreeLevel 3
+subTypes 5

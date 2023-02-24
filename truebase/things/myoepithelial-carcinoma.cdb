@@ -1,0 +1,11 @@
+title Myoepithelial Carcinoma
+type cancerType
+mainType Salivary Gland Cancer
+tissue Head and Neck
+
+oncoTreeId MYEC
+parentOncoTreeId SACA
+umls C1335904
+nciCode C35700
+oncoTreeLevel 3
+subTypes 0

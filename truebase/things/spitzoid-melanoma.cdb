@@ -1,0 +1,9 @@
+title Spitzoid Melanoma
+type cancerType
+mainType Melanoma
+tissue Skin
+
+oncoTreeId SPZM
+parentOncoTreeId MEL
+oncoTreeLevel 3
+subTypes 0

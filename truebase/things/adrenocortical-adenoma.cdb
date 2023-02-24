@@ -1,0 +1,11 @@
+title Adrenocortical Adenoma
+type cancerType
+mainType Adrenocortical Adenoma
+tissue Adrenal Gland
+
+oncoTreeId ACA
+parentOncoTreeId ADRENAL_GLAND
+umls C0206667
+nciCode C9003
+oncoTreeLevel 2
+subTypes 0

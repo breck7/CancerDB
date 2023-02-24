@@ -1,0 +1,11 @@
+title Uterine Clear Cell Carcinoma
+type cancerType
+mainType Endometrial Cancer
+tissue Uterus
+
+oncoTreeId UCCC
+parentOncoTreeId UCEC
+umls C1332912
+nciCode C6344
+oncoTreeLevel 3
+subTypes 0

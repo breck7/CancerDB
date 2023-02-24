@@ -1,0 +1,9 @@
+title Mastocytosis
+type cancerType
+mainType Mastocytosis
+tissue Myeloid
+
+oncoTreeId MCD
+parentOncoTreeId MNM
+oncoTreeLevel 3
+subTypes 8

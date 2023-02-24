@@ -1,0 +1,11 @@
+title Malignant Tumor
+type cancerType
+mainType Miscellaneous Brain Tumor
+tissue CNS/Brain
+
+oncoTreeId MT
+parentOncoTreeId MBT
+umls C0006826
+nciCode C9305
+oncoTreeLevel 3
+subTypes 0

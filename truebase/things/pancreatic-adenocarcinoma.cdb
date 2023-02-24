@@ -1,0 +1,11 @@
+title Pancreatic Adenocarcinoma
+type cancerType
+mainType Pancreatic Cancer
+tissue Pancreas
+
+oncoTreeId PAAD
+parentOncoTreeId PANCREAS
+umls C0281361
+nciCode C8294
+oncoTreeLevel 2
+subTypes 0

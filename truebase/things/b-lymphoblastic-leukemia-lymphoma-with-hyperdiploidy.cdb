@@ -1,0 +1,9 @@
+title B-Lymphoblastic Leukemia/Lymphoma with Hyperdiploidy
+type cancerType
+mainType B-Lymphoblastic Leukemia/Lymphoma
+tissue Lymphoid
+
+oncoTreeId BLLHYPER
+parentOncoTreeId BLLRGA
+oncoTreeLevel 5
+subTypes 0

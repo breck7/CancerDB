@@ -1,0 +1,11 @@
+title Giant Cell Tumor of Bone
+type cancerType
+mainType Bone Cancer
+tissue Bone
+
+oncoTreeId GCTB
+parentOncoTreeId BONE
+umls C0206638
+nciCode C121932
+oncoTreeLevel 2
+subTypes 0

@@ -1,0 +1,9 @@
+title AML with inv(3)(q21.3q26.2) or t(3;3)(q21.3;q26.2); GATA2, MECOM
+type cancerType
+mainType Leukemia
+tissue Myeloid
+
+oncoTreeId AMLGATA2MECOM
+parentOncoTreeId AMLRGA
+oncoTreeLevel 5
+subTypes 0

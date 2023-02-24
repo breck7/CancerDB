@@ -1,0 +1,11 @@
+title Invasive Breast Carcinoma
+type cancerType
+mainType Breast Cancer
+tissue Breast
+
+oncoTreeId BRCA
+parentOncoTreeId BREAST
+umls C0853879
+nciCode C9245
+oncoTreeLevel 2
+subTypes 10

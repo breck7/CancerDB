@@ -1,0 +1,9 @@
+title Activated B-cell Type
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId ABC
+parentOncoTreeId DLBCLNOS
+oncoTreeLevel 6
+subTypes 0

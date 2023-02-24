@@ -1,0 +1,9 @@
+title Hairy Cell Leukemia-Variant
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId HCL-V
+parentOncoTreeId SBLU
+oncoTreeLevel 6
+subTypes 0

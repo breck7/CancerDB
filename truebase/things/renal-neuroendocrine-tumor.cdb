@@ -1,0 +1,9 @@
+title Renal Neuroendocrine Tumor
+type cancerType
+mainType Renal Neuroendocrine Tumor
+tissue Kidney
+
+oncoTreeId RNET
+parentOncoTreeId KIDNEY
+oncoTreeLevel 2
+subTypes 0

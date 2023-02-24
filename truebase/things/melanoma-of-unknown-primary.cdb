@@ -1,0 +1,9 @@
+title Melanoma of Unknown Primary
+type cancerType
+mainType Melanoma
+tissue Skin
+
+oncoTreeId MUP
+parentOncoTreeId MEL
+oncoTreeLevel 3
+subTypes 0

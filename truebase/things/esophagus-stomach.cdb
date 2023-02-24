@@ -1,0 +1,11 @@
+title Esophagus/Stomach
+type cancerType
+mainType Esophageal/Stomach Cancer, NOS
+tissue Esophagus/Stomach
+
+oncoTreeId STOMACH
+parentOncoTreeId TISSUE
+umls C0038351
+nciCode C12391
+oncoTreeLevel 1
+subTypes 23

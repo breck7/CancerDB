@@ -1,0 +1,9 @@
+title Encapsulated Glioma
+type cancerType
+mainType Glioma
+tissue CNS/Brain
+
+oncoTreeId ENCG
+parentOncoTreeId BRAIN
+oncoTreeLevel 2
+subTypes 9

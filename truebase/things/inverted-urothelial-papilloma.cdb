@@ -1,0 +1,9 @@
+title Inverted Urothelial Papilloma
+type cancerType
+mainType Bladder Cancer
+tissue Bladder/Urinary Tract
+
+oncoTreeId IUP
+parentOncoTreeId BLADDER
+oncoTreeLevel 2
+subTypes 0

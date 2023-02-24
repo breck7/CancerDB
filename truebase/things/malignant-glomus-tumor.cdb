@@ -1,0 +1,9 @@
+title Malignant Glomus Tumor
+type cancerType
+mainType Malignant Glomus Tumor
+tissue Soft Tissue
+
+oncoTreeId MGST
+parentOncoTreeId SOFT_TISSUE
+oncoTreeLevel 2
+subTypes 0

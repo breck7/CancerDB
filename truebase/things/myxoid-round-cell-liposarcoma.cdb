@@ -1,0 +1,11 @@
+title Myxoid/Round-Cell Liposarcoma
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId MRLS
+parentOncoTreeId LIPO
+umls C0206634
+nciCode C27781
+oncoTreeLevel 3
+subTypes 0

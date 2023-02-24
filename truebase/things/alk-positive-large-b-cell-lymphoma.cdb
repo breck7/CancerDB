@@ -1,0 +1,9 @@
+title ALK Positive Large B-Cell Lymphoma
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId ALKLBCL
+parentOncoTreeId MBN
+oncoTreeLevel 5
+subTypes 0

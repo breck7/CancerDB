@@ -1,0 +1,9 @@
+title Pure Erythroid Leukemia
+type cancerType
+mainType Leukemia
+tissue Myeloid
+
+oncoTreeId PERL
+parentOncoTreeId AMLNOS
+oncoTreeLevel 5
+subTypes 0

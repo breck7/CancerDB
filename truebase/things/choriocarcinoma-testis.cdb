@@ -1,0 +1,11 @@
+title Choriocarcinoma Testis
+type cancerType
+mainType Germ Cell Tumor
+tissue Testis
+
+oncoTreeId TCCA
+parentOncoTreeId NSGCT
+umls C0238449
+nciCode C7733
+oncoTreeLevel 3
+subTypes 0

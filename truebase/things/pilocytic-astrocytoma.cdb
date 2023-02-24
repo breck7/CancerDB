@@ -1,0 +1,11 @@
+title Pilocytic Astrocytoma
+type cancerType
+mainType Glioma
+tissue CNS/Brain
+
+oncoTreeId PAST
+parentOncoTreeId ENCG
+umls C0334583
+nciCode C4047
+oncoTreeLevel 3
+subTypes 0

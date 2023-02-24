@@ -1,0 +1,11 @@
+title Anaplastic Ganglioglioma
+type cancerType
+mainType Glioma
+tissue CNS/Brain
+
+oncoTreeId AGNG
+parentOncoTreeId ENCG
+umls C0431112
+nciCode C4717
+oncoTreeLevel 3
+subTypes 0

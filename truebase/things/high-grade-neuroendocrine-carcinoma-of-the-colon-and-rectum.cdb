@@ -1,0 +1,11 @@
+title High-Grade Neuroendocrine Carcinoma of the Colon and Rectum
+type cancerType
+mainType Gastrointestinal Neuroendocrine Tumor
+tissue Bowel
+
+oncoTreeId HGNEC
+parentOncoTreeId GINET
+umls C3272607
+nciCode C96156
+oncoTreeLevel 3
+subTypes 0

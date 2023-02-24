@@ -1,0 +1,10 @@
+title Renal Small Cell Carcinoma
+type cancerType
+mainType Renal Cell Carcinoma
+tissue Kidney
+
+oncoTreeId RSCC
+parentOncoTreeId NCCRCC
+umls CL473652
+oncoTreeLevel 4
+subTypes 0

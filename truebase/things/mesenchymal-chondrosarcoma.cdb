@@ -1,0 +1,11 @@
+title Mesenchymal Chondrosarcoma
+type cancerType
+mainType Bone Cancer
+tissue Bone
+
+oncoTreeId MCHS
+parentOncoTreeId CHS
+umls C1708980
+nciCode C53493
+oncoTreeLevel 3
+subTypes 0

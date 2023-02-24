@@ -1,0 +1,9 @@
+title Adenocarcinoma, NOS
+type cancerType
+mainType Cancer of Unknown Primary
+tissue Other
+
+oncoTreeId ADNOS
+parentOncoTreeId CUP
+oncoTreeLevel 3
+subTypes 0

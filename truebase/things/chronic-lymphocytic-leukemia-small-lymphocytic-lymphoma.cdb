@@ -1,0 +1,11 @@
+title Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId CLLSLL
+parentOncoTreeId MBN
+umls C0855095
+nciCode C7540
+oncoTreeLevel 5
+subTypes 0

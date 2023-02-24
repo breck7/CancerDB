@@ -1,0 +1,9 @@
+title Transient Abnormal Myelopoiesis
+type cancerType
+mainType Leukemia
+tissue Myeloid
+
+oncoTreeId TAM
+parentOncoTreeId MPRDS
+oncoTreeLevel 5
+subTypes 0

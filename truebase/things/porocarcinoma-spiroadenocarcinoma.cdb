@@ -1,0 +1,11 @@
+title Porocarcinoma/Spiroadenocarcinoma
+type cancerType
+mainType Skin Cancer, Non-Melanoma
+tissue Skin
+
+oncoTreeId POCA
+parentOncoTreeId SKIN
+umls C1266065
+nciCode C5560
+oncoTreeLevel 2
+subTypes 0

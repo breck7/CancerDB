@@ -1,0 +1,11 @@
+title Chronic Myelogenous Leukemia
+type cancerType
+mainType Myeloproliferative Neoplasms
+tissue Myeloid
+
+oncoTreeId CML
+parentOncoTreeId MPN
+umls C0023470
+nciCode C3172
+oncoTreeLevel 4
+subTypes 1

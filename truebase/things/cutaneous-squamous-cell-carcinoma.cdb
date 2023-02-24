@@ -1,0 +1,11 @@
+title Cutaneous Squamous Cell Carcinoma
+type cancerType
+mainType Skin Cancer, Non-Melanoma
+tissue Skin
+
+oncoTreeId CSCC
+parentOncoTreeId SKIN
+umls C0553723
+nciCode C4819
+oncoTreeLevel 2
+subTypes 0

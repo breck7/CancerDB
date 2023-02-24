@@ -1,0 +1,9 @@
+title Neuroendocrine Tumor, NOS
+type cancerType
+mainType Cancer of Unknown Primary
+tissue Other
+
+oncoTreeId NETNOS
+parentOncoTreeId CUP
+oncoTreeLevel 3
+subTypes 0

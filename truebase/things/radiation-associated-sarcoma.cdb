@@ -1,0 +1,11 @@
+title Radiation-Associated Sarcoma
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId RAS
+parentOncoTreeId SOFT_TISSUE
+umls C2985448
+nciCode C93125
+oncoTreeLevel 2
+subTypes 0

@@ -1,0 +1,11 @@
+title Colon Adenocarcinoma
+type cancerType
+mainType Colorectal Cancer
+tissue Bowel
+
+oncoTreeId COAD
+parentOncoTreeId COADREAD
+umls C0338106
+nciCode C4349
+oncoTreeLevel 3
+subTypes 0

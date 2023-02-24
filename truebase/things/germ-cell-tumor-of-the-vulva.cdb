@@ -1,0 +1,9 @@
+title Germ Cell Tumor of the Vulva
+type cancerType
+mainType Germ Cell Tumor
+tissue Vulva/Vagina
+
+oncoTreeId VGCT
+parentOncoTreeId VULVA
+oncoTreeLevel 2
+subTypes 7

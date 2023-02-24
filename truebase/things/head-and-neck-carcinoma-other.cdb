@@ -1,0 +1,9 @@
+title Head and Neck Carcinoma, Other
+type cancerType
+mainType Head and Neck Cancer
+tissue Head and Neck
+
+oncoTreeId OHNCA
+parentOncoTreeId HEAD_NECK
+oncoTreeLevel 2
+subTypes 8

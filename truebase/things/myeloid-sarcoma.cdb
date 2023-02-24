@@ -1,0 +1,9 @@
+title Myeloid Sarcoma
+type cancerType
+mainType Leukemia
+tissue Myeloid
+
+oncoTreeId MS
+parentOncoTreeId AML
+oncoTreeLevel 4
+subTypes 0

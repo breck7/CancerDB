@@ -1,0 +1,11 @@
+title Esophagogastric Adenocarcinoma
+type cancerType
+mainType Esophagogastric Cancer
+tissue Esophagus/Stomach
+
+oncoTreeId EGC
+parentOncoTreeId STOMACH
+umls C1332166
+nciCode C9296
+oncoTreeLevel 2
+subTypes 14

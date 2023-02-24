@@ -1,0 +1,11 @@
+title Erdheim-Chester Disease
+type cancerType
+mainType Histiocytosis
+tissue Myeloid
+
+oncoTreeId ECD
+parentOncoTreeId HDCN
+umls C0878675
+nciCode C53972
+oncoTreeLevel 4
+subTypes 0

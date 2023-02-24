@@ -1,0 +1,11 @@
+title Ovarian Seromucinous Borderline Tumor
+type cancerType
+mainType Ovarian Cancer
+tissue Ovary/Fallopian Tube
+
+oncoTreeId OSMBT
+parentOncoTreeId OVT
+umls C1511264
+nciCode C40038
+oncoTreeLevel 3
+subTypes 0

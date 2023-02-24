@@ -1,0 +1,11 @@
+title Epithelioid Hemangioendothelioma
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId EHAE
+parentOncoTreeId SOFT_TISSUE
+umls C0206732
+nciCode C3800
+oncoTreeLevel 2
+subTypes 0

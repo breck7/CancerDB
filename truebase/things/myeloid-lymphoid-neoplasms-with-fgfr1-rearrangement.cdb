@@ -1,0 +1,9 @@
+title Myeloid/Lymphoid Neoplasms with FGFR1 Rearrangement
+type cancerType
+mainType Leukemia
+tissue Myeloid
+
+oncoTreeId MLNFGFR1
+parentOncoTreeId MLNER
+oncoTreeLevel 4
+subTypes 0

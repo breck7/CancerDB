@@ -1,0 +1,9 @@
+title Cancer of Unknown Primary, NOS
+type cancerType
+mainType Cancer of Unknown Primary
+tissue Other
+
+oncoTreeId CUPNOS
+parentOncoTreeId CUP
+oncoTreeLevel 3
+subTypes 0

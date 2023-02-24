@@ -1,0 +1,10 @@
+title Urethral Urothelial Carcinoma
+type cancerType
+mainType Bladder Cancer
+tissue Bladder/Urinary Tract
+
+oncoTreeId UCU
+parentOncoTreeId UCA
+umls CL448335
+oncoTreeLevel 3
+subTypes 0

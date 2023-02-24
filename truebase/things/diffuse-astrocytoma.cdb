@@ -1,0 +1,11 @@
+title Diffuse Astrocytoma
+type cancerType
+mainType Glioma
+tissue CNS/Brain
+
+oncoTreeId DASTR
+parentOncoTreeId DIFG
+umls C0280785
+nciCode C7173
+oncoTreeLevel 3
+subTypes 0

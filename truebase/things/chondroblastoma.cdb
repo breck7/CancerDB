@@ -1,0 +1,11 @@
+title Chondroblastoma
+type cancerType
+mainType Bone Cancer
+tissue Bone
+
+oncoTreeId CHBL
+parentOncoTreeId BONE
+umls C0008441
+nciCode C2945
+oncoTreeLevel 2
+subTypes 0

@@ -1,0 +1,9 @@
+title Aggressive Systemic Mastocytosis
+type cancerType
+mainType Mastocytosis
+tissue Myeloid
+
+oncoTreeId ASM
+parentOncoTreeId SM
+oncoTreeLevel 5
+subTypes 0

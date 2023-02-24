@@ -1,0 +1,9 @@
+title Poorly Differentiated Vaginal Carcinoma
+type cancerType
+mainType Vaginal Cancer
+tissue Vulva/Vagina
+
+oncoTreeId VPDC
+parentOncoTreeId VULVA
+oncoTreeLevel 2
+subTypes 0

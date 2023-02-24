@@ -1,0 +1,9 @@
+title Low-Grade Glioma, NOS
+type cancerType
+mainType Glioma
+tissue CNS/Brain
+
+oncoTreeId LGGNOS
+parentOncoTreeId ENCG
+oncoTreeLevel 3
+subTypes 0

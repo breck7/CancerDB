@@ -1,0 +1,11 @@
+title Testis
+type cancerType
+mainType Testicular Cancer, NOS
+tissue Testis
+
+oncoTreeId TESTIS
+parentOncoTreeId TISSUE
+umls C0039597
+nciCode C12412
+oncoTreeLevel 1
+subTypes 11

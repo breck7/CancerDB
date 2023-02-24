@@ -1,0 +1,11 @@
+title CNS/Brain
+type cancerType
+mainType CNS/Brain Cancer, NOS
+tissue CNS/Brain
+
+oncoTreeId BRAIN
+parentOncoTreeId TISSUE
+umls C3714787
+nciCode C12438
+oncoTreeLevel 1
+subTypes 104

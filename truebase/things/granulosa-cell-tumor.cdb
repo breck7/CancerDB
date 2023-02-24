@@ -1,0 +1,11 @@
+title Granulosa Cell Tumor
+type cancerType
+mainType Sex Cord Stromal Tumor
+tissue Ovary/Fallopian Tube
+
+oncoTreeId GRCT
+parentOncoTreeId SCST
+umls C0018206
+nciCode C3070
+oncoTreeLevel 3
+subTypes 0

@@ -1,0 +1,11 @@
+title Meningioma
+type cancerType
+mainType CNS Cancer
+tissue CNS/Brain
+
+oncoTreeId MNG
+parentOncoTreeId MNGT
+umls C0025286
+nciCode C3230
+oncoTreeLevel 3
+subTypes 0

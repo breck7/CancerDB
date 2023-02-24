@@ -1,0 +1,10 @@
+title Sinonasal Adenocarcinoma
+type cancerType
+mainType Head and Neck Cancer
+tissue Head and Neck
+
+oncoTreeId SNA
+parentOncoTreeId OHNCA
+umls CL473651
+oncoTreeLevel 3
+subTypes 0

@@ -1,0 +1,9 @@
+title Myeloid Leukemia Associated with Down Syndrome
+type cancerType
+mainType Leukemia
+tissue Myeloid
+
+oncoTreeId MLADS
+parentOncoTreeId MPRDS
+oncoTreeLevel 5
+subTypes 0

@@ -1,0 +1,9 @@
+title AML with Recurrent Genetic Abnormalities
+type cancerType
+mainType Leukemia
+tissue Myeloid
+
+oncoTreeId AMLRGA
+parentOncoTreeId AML
+oncoTreeLevel 4
+subTypes 11

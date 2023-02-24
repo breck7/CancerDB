@@ -1,0 +1,11 @@
+title Sinonasal Undifferentiated Carcinoma
+type cancerType
+mainType Head and Neck Cancer
+tissue Head and Neck
+
+oncoTreeId SNUC
+parentOncoTreeId OHNCA
+umls C1710096
+nciCode C54294
+oncoTreeLevel 3
+subTypes 0

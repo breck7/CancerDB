@@ -1,0 +1,11 @@
+title Rhabdomyosarcoma
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId RMS
+parentOncoTreeId SOFT_TISSUE
+umls C0035412
+nciCode C3359
+oncoTreeLevel 2
+subTypes 5

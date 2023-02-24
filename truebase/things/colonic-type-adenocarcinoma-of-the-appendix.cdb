@@ -1,0 +1,9 @@
+title Colonic Type Adenocarcinoma of the Appendix
+type cancerType
+mainType Appendiceal Cancer
+tissue Bowel
+
+oncoTreeId CTAAP
+parentOncoTreeId APAD
+oncoTreeLevel 3
+subTypes 0

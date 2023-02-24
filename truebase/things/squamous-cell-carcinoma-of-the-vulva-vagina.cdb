@@ -1,0 +1,11 @@
+title Squamous Cell Carcinoma of the Vulva/Vagina
+type cancerType
+mainType Vaginal Cancer
+tissue Vulva/Vagina
+
+oncoTreeId VSC
+parentOncoTreeId VULVA
+umls C0238518
+nciCode C7736
+oncoTreeLevel 2
+subTypes 0

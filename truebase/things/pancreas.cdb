@@ -1,0 +1,11 @@
+title Pancreas
+type cancerType
+mainType Pancreatic Cancer, NOS
+tissue Pancreas
+
+oncoTreeId PANCREAS
+parentOncoTreeId TISSUE
+umls C0030274
+nciCode C12393
+oncoTreeLevel 1
+subTypes 12

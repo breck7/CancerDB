@@ -1,0 +1,11 @@
+title Well-Differentiated Neuroendocrine Tumor of the Rectum
+type cancerType
+mainType Gastrointestinal Neuroendocrine Tumor
+tissue Bowel
+
+oncoTreeId RWDNET
+parentOncoTreeId GINET
+umls C3272610
+nciCode C96159
+oncoTreeLevel 3
+subTypes 0

@@ -1,0 +1,11 @@
+title Adenosquamous Carcinoma of the Pancreas
+type cancerType
+mainType Pancreatic Cancer
+tissue Pancreas
+
+oncoTreeId PAASC
+parentOncoTreeId PANCREAS
+umls C1335299
+nciCode C5721
+oncoTreeLevel 2
+subTypes 0

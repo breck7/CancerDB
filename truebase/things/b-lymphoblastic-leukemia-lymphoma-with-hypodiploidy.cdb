@@ -1,0 +1,9 @@
+title B-Lymphoblastic Leukemia/Lymphoma with Hypodiploidy
+type cancerType
+mainType B-Lymphoblastic Leukemia/Lymphoma
+tissue Lymphoid
+
+oncoTreeId BLLHYPO
+parentOncoTreeId BLLRGA
+oncoTreeLevel 5
+subTypes 0

@@ -1,0 +1,9 @@
+title High-Grade B-Cell Lymphoma, NOS
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId HGBCL
+parentOncoTreeId MBN
+oncoTreeLevel 5
+subTypes 0

@@ -1,0 +1,11 @@
+title Cerebellar Liponeurocytoma
+type cancerType
+mainType Miscellaneous Neuroepithelial Tumor
+tissue CNS/Brain
+
+oncoTreeId CLNC
+parentOncoTreeId MNET
+umls C1370507
+nciCode C6905
+oncoTreeLevel 3
+subTypes 0

@@ -1,0 +1,11 @@
+title Uterine Smooth Muscle Tumor
+type cancerType
+mainType Uterine Sarcoma
+tissue Uterus
+
+oncoTreeId USMT
+parentOncoTreeId USARC
+umls C1519863
+nciCode C40176
+oncoTreeLevel 3
+subTypes 5

@@ -1,0 +1,11 @@
+title Astroblastoma
+type cancerType
+mainType Miscellaneous Neuroepithelial Tumor
+tissue CNS/Brain
+
+oncoTreeId ASTB
+parentOncoTreeId MNET
+umls C0334587
+nciCode C4324
+oncoTreeLevel 3
+subTypes 0

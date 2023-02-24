@@ -1,0 +1,11 @@
+title Malignant Peripheral Nerve Sheath Tumor
+type cancerType
+mainType Nerve Sheath Tumor
+tissue Peripheral Nervous System
+
+oncoTreeId MPNST
+parentOncoTreeId NST
+umls C0751690
+nciCode C3798
+oncoTreeLevel 3
+subTypes 0

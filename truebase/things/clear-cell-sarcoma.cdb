@@ -1,0 +1,11 @@
+title Clear Cell Sarcoma
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId CCS
+parentOncoTreeId SOFT_TISSUE
+umls C0206651
+nciCode C3745
+oncoTreeLevel 2
+subTypes 0

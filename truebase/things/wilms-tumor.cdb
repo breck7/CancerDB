@@ -1,0 +1,10 @@
+title Wilms' Tumor
+type cancerType
+mainType Wilms Tumor
+tissue Kidney
+
+oncoTreeId WT
+parentOncoTreeId KIDNEY
+umls CL343552
+oncoTreeLevel 2
+subTypes 0

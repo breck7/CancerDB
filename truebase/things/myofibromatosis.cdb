@@ -1,0 +1,9 @@
+title Myofibromatosis
+type cancerType
+mainType Myofibromatosis
+tissue Soft Tissue
+
+oncoTreeId IMS
+parentOncoTreeId SOFT_TISSUE
+oncoTreeLevel 2
+subTypes 0

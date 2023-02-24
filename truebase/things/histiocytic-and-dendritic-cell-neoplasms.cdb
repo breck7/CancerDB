@@ -1,0 +1,11 @@
+title Histiocytic and Dendritic Cell Neoplasms
+type cancerType
+mainType Histiocytosis
+tissue Myeloid
+
+oncoTreeId HDCN
+parentOncoTreeId MNM
+umls C0019618
+nciCode C3106
+oncoTreeLevel 3
+subTypes 10

@@ -1,0 +1,9 @@
+title Lymphoid Atypical
+type cancerType
+mainType Lymphatic Cancer, NOS
+tissue Lymphoid
+
+oncoTreeId LATL
+parentOncoTreeId LYMPH
+oncoTreeLevel 2
+subTypes 0

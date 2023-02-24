@@ -1,0 +1,11 @@
+title Lung Adenocarcinoma
+type cancerType
+mainType Non-Small Cell Lung Cancer
+tissue Lung
+
+oncoTreeId LUAD
+parentOncoTreeId NSCLC
+umls C0152013
+nciCode C3512
+oncoTreeLevel 3
+subTypes 0

@@ -1,0 +1,11 @@
+title Large Cell Lung Carcinoma With Rhabdoid Phenotype
+type cancerType
+mainType Non-Small Cell Lung Cancer
+tissue Lung
+
+oncoTreeId RLCLC
+parentOncoTreeId LCLC
+umls C1265997
+nciCode C6876
+oncoTreeLevel 4
+subTypes 0

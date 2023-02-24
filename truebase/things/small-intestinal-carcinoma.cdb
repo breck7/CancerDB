@@ -1,0 +1,11 @@
+title Small Intestinal Carcinoma
+type cancerType
+mainType Small Bowel Cancer
+tissue Bowel
+
+oncoTreeId SIC
+parentOncoTreeId BOWEL
+umls C0238196
+nciCode C7724
+oncoTreeLevel 2
+subTypes 0

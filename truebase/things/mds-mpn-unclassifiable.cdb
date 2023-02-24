@@ -1,0 +1,9 @@
+title MDS/MPN, Unclassifiable
+type cancerType
+mainType Myelodysplastic/Myeloproliferative Neoplasms
+tissue Myeloid
+
+oncoTreeId MDSMPNU
+parentOncoTreeId MDS/MPN
+oncoTreeLevel 4
+subTypes 0

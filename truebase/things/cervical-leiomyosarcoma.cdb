@@ -1,0 +1,9 @@
+title Cervical Leiomyosarcoma
+type cancerType
+mainType Cervical Cancer
+tissue Cervix
+
+oncoTreeId CELI
+parentOncoTreeId CERVIX
+oncoTreeLevel 2
+subTypes 0

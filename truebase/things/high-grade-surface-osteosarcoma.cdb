@@ -1,0 +1,11 @@
+title High-Grade Surface Osteosarcoma
+type cancerType
+mainType Bone Cancer
+tissue Bone
+
+oncoTreeId HGSOS
+parentOncoTreeId OS
+umls C1266165
+nciCode C53958
+oncoTreeLevel 3
+subTypes 0

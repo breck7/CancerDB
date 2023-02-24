@@ -1,0 +1,9 @@
+title Indolent Systemic Mastocytosis
+type cancerType
+mainType Mastocytosis
+tissue Myeloid
+
+oncoTreeId ISM
+parentOncoTreeId SM
+oncoTreeLevel 5
+subTypes 0

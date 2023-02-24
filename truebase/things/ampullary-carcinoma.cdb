@@ -1,0 +1,11 @@
+title Ampullary Carcinoma
+type cancerType
+mainType Ampullary Cancer
+tissue Ampulla of Vater
+
+oncoTreeId AMPCA
+parentOncoTreeId AMPULLA_OF_VATER
+umls C0262401
+nciCode C3908
+oncoTreeLevel 2
+subTypes 3

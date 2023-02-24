@@ -1,0 +1,9 @@
+title MDS with Single Lineage Dysplasia
+type cancerType
+mainType Myelodysplastic Syndromes
+tissue Myeloid
+
+oncoTreeId MDSSLD
+parentOncoTreeId MDS
+oncoTreeLevel 4
+subTypes 0

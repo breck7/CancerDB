@@ -1,0 +1,11 @@
+title Proximal-Type Epithelioid Sarcoma
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId PTES
+parentOncoTreeId EPIS
+umls C1335563
+nciCode C27472
+oncoTreeLevel 3
+subTypes 0

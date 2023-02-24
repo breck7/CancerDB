@@ -1,0 +1,9 @@
+title In Situ Follicular Neoplasia
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId ISFN
+parentOncoTreeId FL
+oncoTreeLevel 6
+subTypes 0

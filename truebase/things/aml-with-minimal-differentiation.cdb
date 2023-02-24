@@ -1,0 +1,9 @@
+title AML with Minimal Differentiation
+type cancerType
+mainType Leukemia
+tissue Myeloid
+
+oncoTreeId AMLMD
+parentOncoTreeId AMLNOS
+oncoTreeLevel 5
+subTypes 0

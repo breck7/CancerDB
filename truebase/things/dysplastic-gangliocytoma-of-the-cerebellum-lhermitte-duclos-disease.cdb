@@ -1,0 +1,11 @@
+title Dysplastic Gangliocytoma of the Cerebellum/Lhermitte-Duclos Disease
+type cancerType
+mainType Miscellaneous Neuroepithelial Tumor
+tissue CNS/Brain
+
+oncoTreeId LDD
+parentOncoTreeId MNET
+umls C0391826
+nciCode C8419
+oncoTreeLevel 3
+subTypes 0

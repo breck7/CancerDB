@@ -1,0 +1,9 @@
+title NUT Carcinoma of the Lung
+type cancerType
+mainType Non-Small Cell Lung Cancer
+tissue Lung
+
+oncoTreeId NUTCL
+parentOncoTreeId NSCLC
+oncoTreeLevel 3
+subTypes 0

@@ -1,0 +1,9 @@
+title Primary Cutaneous Follicle Center Lymphoma
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId PCFCL
+parentOncoTreeId MBN
+oncoTreeLevel 5
+subTypes 0

@@ -1,0 +1,11 @@
+title Choroid Plexus Carcinoma
+type cancerType
+mainType Choroid Plexus Tumor
+tissue CNS/Brain
+
+oncoTreeId CPC
+parentOncoTreeId CPT
+umls C0431109
+nciCode C4715
+oncoTreeLevel 3
+subTypes 0

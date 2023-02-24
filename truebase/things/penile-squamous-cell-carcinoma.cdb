@@ -1,0 +1,11 @@
+title Penile Squamous Cell Carcinoma
+type cancerType
+mainType Penile Cancer
+tissue Penis
+
+oncoTreeId PSCC
+parentOncoTreeId PENIS
+umls C0238348
+nciCode C7729
+oncoTreeLevel 2
+subTypes 3

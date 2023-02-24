@@ -1,0 +1,9 @@
+title Adenosquamous Carcinoma of the Gallbladder
+type cancerType
+mainType Hepatobiliary Cancer
+tissue Biliary Tract
+
+oncoTreeId GBASC
+parentOncoTreeId GBC
+oncoTreeLevel 3
+subTypes 0

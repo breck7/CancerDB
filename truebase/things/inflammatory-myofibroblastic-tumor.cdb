@@ -1,0 +1,11 @@
+title Inflammatory Myofibroblastic Tumor
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId IMT
+parentOncoTreeId SOFT_TISSUE
+umls C0334121
+nciCode C6481
+oncoTreeLevel 2
+subTypes 0

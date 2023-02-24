@@ -1,0 +1,11 @@
+title Primary CNS Melanoma
+type cancerType
+mainType Melanoma
+tissue CNS/Brain
+
+oncoTreeId PCNSM
+parentOncoTreeId PCNSMT
+umls C1332888
+nciCode C5505
+oncoTreeLevel 3
+subTypes 0

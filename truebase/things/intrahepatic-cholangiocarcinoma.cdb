@@ -1,0 +1,11 @@
+title Intrahepatic Cholangiocarcinoma
+type cancerType
+mainType Hepatobiliary Cancer
+tissue Biliary Tract
+
+oncoTreeId IHCH
+parentOncoTreeId CHOL
+umls C0345905
+nciCode C35417
+oncoTreeLevel 3
+subTypes 0

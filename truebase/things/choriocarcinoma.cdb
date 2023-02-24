@@ -1,0 +1,11 @@
+title Choriocarcinoma
+type cancerType
+mainType Germ Cell Tumor
+tissue CNS/Brain
+
+oncoTreeId BCCA
+parentOncoTreeId BGCT
+umls C0008497
+nciCode C2948
+oncoTreeLevel 3
+subTypes 0

@@ -1,0 +1,9 @@
+title Cervical Serous Carcinoma
+type cancerType
+mainType Cervical Cancer
+tissue Cervix
+
+oncoTreeId CESE
+parentOncoTreeId CEAD
+oncoTreeLevel 3
+subTypes 0

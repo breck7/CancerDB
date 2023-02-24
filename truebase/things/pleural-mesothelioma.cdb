@@ -1,0 +1,11 @@
+title Pleural Mesothelioma
+type cancerType
+mainType Mesothelioma
+tissue Pleura
+
+oncoTreeId PLMESO
+parentOncoTreeId PLEURA
+umls C1377913
+nciCode C9351
+oncoTreeLevel 2
+subTypes 3

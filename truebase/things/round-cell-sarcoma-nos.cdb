@@ -1,0 +1,9 @@
+title Round Cell Sarcoma, NOS
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId RCSNOS
+parentOncoTreeId SOFT_TISSUE
+oncoTreeLevel 2
+subTypes 0

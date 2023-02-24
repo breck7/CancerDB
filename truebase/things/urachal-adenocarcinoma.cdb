@@ -1,0 +1,11 @@
+title Urachal Adenocarcinoma
+type cancerType
+mainType Bladder Cancer
+tissue Bladder/Urinary Tract
+
+oncoTreeId UA
+parentOncoTreeId URCA
+umls C1511204
+nciCode C39843
+oncoTreeLevel 3
+subTypes 0

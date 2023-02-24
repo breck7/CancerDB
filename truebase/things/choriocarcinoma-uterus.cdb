@@ -1,0 +1,11 @@
+title Choriocarcinoma Uterus
+type cancerType
+mainType Gestational Trophoblastic Disease
+tissue Uterus
+
+oncoTreeId UCCA
+parentOncoTreeId GTD
+umls C0279677
+nciCode C27246
+oncoTreeLevel 3
+subTypes 0

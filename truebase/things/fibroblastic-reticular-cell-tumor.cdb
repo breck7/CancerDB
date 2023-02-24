@@ -1,0 +1,9 @@
+title Fibroblastic Reticular Cell Tumor
+type cancerType
+mainType Histiocytosis
+tissue Myeloid
+
+oncoTreeId FRCT
+parentOncoTreeId HDCN
+oncoTreeLevel 4
+subTypes 0

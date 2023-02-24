@@ -1,0 +1,9 @@
+title Diffuse Glioma
+type cancerType
+mainType Glioma
+tissue CNS/Brain
+
+oncoTreeId DIFG
+parentOncoTreeId BRAIN
+oncoTreeLevel 2
+subTypes 14

@@ -1,0 +1,11 @@
+title Nodular Lymphocyte-Predominant Hodgkin Lymphoma
+type cancerType
+mainType Hodgkin Lymphoma
+tissue Lymphoid
+
+oncoTreeId NLPHL
+parentOncoTreeId HL
+umls C1334968
+nciCode C7258
+oncoTreeLevel 4
+subTypes 0

@@ -1,0 +1,11 @@
+title Esophageal Adenocarcinoma
+type cancerType
+mainType Esophagogastric Cancer
+tissue Esophagus/Stomach
+
+oncoTreeId ESCA
+parentOncoTreeId EGC
+umls C0279628
+nciCode C4025
+oncoTreeLevel 3
+subTypes 0

@@ -1,0 +1,9 @@
+title APL with PML-RARA
+type cancerType
+mainType Leukemia
+tissue Myeloid
+
+oncoTreeId APLPMLRARA
+parentOncoTreeId AMLRGA
+oncoTreeLevel 5
+subTypes 0

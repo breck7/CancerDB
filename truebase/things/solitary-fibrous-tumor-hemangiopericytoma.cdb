@@ -1,0 +1,11 @@
+title Solitary Fibrous Tumor/Hemangiopericytoma
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId SFT
+parentOncoTreeId SOFT_TISSUE
+umls C1266119
+nciCode C7634
+oncoTreeLevel 2
+subTypes 0

@@ -1,0 +1,9 @@
+title Alpha Heavy-Chain Disease
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId AHCD
+parentOncoTreeId MBN
+oncoTreeLevel 5
+subTypes 0

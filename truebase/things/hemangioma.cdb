@@ -1,0 +1,11 @@
+title Hemangioma
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId HEMA
+parentOncoTreeId SOFT_TISSUE
+umls C0018916
+nciCode C3085
+oncoTreeLevel 2
+subTypes 0

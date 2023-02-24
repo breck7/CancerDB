@@ -1,0 +1,11 @@
+title Atypical Lung Carcinoid
+type cancerType
+mainType Non-Small Cell Lung Cancer
+tissue Lung
+
+oncoTreeId ALUCA
+parentOncoTreeId LNET
+umls C1708766
+nciCode C45551
+oncoTreeLevel 3
+subTypes 0

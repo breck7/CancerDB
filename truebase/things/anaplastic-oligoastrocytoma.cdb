@@ -1,0 +1,11 @@
+title Anaplastic Oligoastrocytoma
+type cancerType
+mainType Glioma
+tissue CNS/Brain
+
+oncoTreeId AOAST
+parentOncoTreeId DIFG
+umls C0431108
+nciCode C6959
+oncoTreeLevel 3
+subTypes 0

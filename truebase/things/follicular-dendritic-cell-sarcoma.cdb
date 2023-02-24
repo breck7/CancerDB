@@ -1,0 +1,11 @@
+title Follicular Dendritic Cell Sarcoma
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Myeloid
+
+oncoTreeId FDCS
+parentOncoTreeId HDCN
+umls C1260325
+nciCode C9281
+oncoTreeLevel 4
+subTypes 0

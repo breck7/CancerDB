@@ -1,0 +1,9 @@
+title EBV Positive DLBCL, NOS
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId EBVDLBCLNOS
+parentOncoTreeId MBN
+oncoTreeLevel 5
+subTypes 0

@@ -1,0 +1,11 @@
+title Aggressive Angiomyxoma
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId AA
+parentOncoTreeId SOFT_TISSUE
+umls C1306242
+nciCode C6936
+oncoTreeLevel 2
+subTypes 0

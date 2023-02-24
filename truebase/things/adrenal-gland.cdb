@@ -1,0 +1,11 @@
+title Adrenal Gland
+type cancerType
+mainType Adrenal Gland Cancer, NOS
+tissue Adrenal Gland
+
+oncoTreeId ADRENAL_GLAND
+parentOncoTreeId TISSUE
+umls C0001625
+nciCode C12666
+oncoTreeLevel 1
+subTypes 3

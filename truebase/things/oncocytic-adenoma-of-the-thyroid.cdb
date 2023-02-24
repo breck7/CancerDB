@@ -1,0 +1,9 @@
+title Oncocytic Adenoma of the Thyroid
+type cancerType
+mainType Thyroid Cancer
+tissue Thyroid
+
+oncoTreeId OAT
+parentOncoTreeId THYROID
+oncoTreeLevel 2
+subTypes 0

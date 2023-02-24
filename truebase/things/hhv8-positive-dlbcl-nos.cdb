@@ -1,0 +1,9 @@
+title HHV8 Positive DLBCL, NOS
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId HHV8DLBCL
+parentOncoTreeId MBN
+oncoTreeLevel 5
+subTypes 0

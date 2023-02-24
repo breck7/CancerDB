@@ -1,0 +1,9 @@
+title Extrahepatic Cholangiocarcinoma
+type cancerType
+mainType Hepatobiliary Cancer
+tissue Biliary Tract
+
+oncoTreeId EHCH
+parentOncoTreeId CHOL
+oncoTreeLevel 3
+subTypes 0

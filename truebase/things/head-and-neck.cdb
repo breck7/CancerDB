@@ -1,0 +1,11 @@
+title Head and Neck
+type cancerType
+mainType Head and Neck Cancer, NOS
+tissue Head and Neck
+
+oncoTreeId HEAD_NECK
+parentOncoTreeId TISSUE
+umls C0460004
+nciCode C12418
+oncoTreeLevel 1
+subTypes 31

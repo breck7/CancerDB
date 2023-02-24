@@ -1,0 +1,11 @@
+title Breast Ductal Carcinoma In Situ
+type cancerType
+mainType Breast Cancer
+tissue Breast
+
+oncoTreeId DCIS
+parentOncoTreeId BREAST
+umls C0007124
+nciCode C2924
+oncoTreeLevel 2
+subTypes 1

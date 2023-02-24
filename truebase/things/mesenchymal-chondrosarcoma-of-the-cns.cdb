@@ -1,0 +1,11 @@
+title Mesenchymal Chondrosarcoma of the CNS
+type cancerType
+mainType Miscellaneous Brain Tumor
+tissue CNS/Brain
+
+oncoTreeId MCHSCNS
+parentOncoTreeId MBT
+umls C0206637
+nciCode C3737
+oncoTreeLevel 3
+subTypes 0

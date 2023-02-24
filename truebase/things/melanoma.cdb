@@ -1,0 +1,11 @@
+title Melanoma
+type cancerType
+mainType Melanoma
+tissue Skin
+
+oncoTreeId MEL
+parentOncoTreeId SKIN
+umls C0025202
+nciCode C3224
+oncoTreeLevel 2
+subTypes 7

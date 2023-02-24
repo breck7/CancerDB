@@ -1,0 +1,11 @@
+title Papillary Meningioma
+type cancerType
+mainType CNS Cancer
+tissue CNS/Brain
+
+oncoTreeId PPM
+parentOncoTreeId MNGT
+umls C3163622
+nciCode C3904
+oncoTreeLevel 3
+subTypes 0

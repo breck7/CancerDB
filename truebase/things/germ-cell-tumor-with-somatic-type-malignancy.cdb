@@ -1,0 +1,9 @@
+title Germ Cell Tumor with Somatic-Type Malignancy
+type cancerType
+mainType Germ Cell Tumor
+tissue Testis
+
+oncoTreeId GCTSTM
+parentOncoTreeId NSGCT
+oncoTreeLevel 3
+subTypes 0

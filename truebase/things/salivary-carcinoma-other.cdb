@@ -1,0 +1,9 @@
+title Salivary Carcinoma, Other
+type cancerType
+mainType Salivary Gland Cancer
+tissue Head and Neck
+
+oncoTreeId OSACA
+parentOncoTreeId SACA
+oncoTreeLevel 3
+subTypes 0

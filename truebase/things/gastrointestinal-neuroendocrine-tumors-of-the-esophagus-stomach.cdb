@@ -1,0 +1,9 @@
+title Gastrointestinal Neuroendocrine Tumors of the Esophagus/Stomach
+type cancerType
+mainType Esophagogastric Cancer
+tissue Esophagus/Stomach
+
+oncoTreeId GINETES
+parentOncoTreeId STOMACH
+oncoTreeLevel 2
+subTypes 3

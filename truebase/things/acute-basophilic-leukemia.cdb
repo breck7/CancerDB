@@ -1,0 +1,9 @@
+title Acute Basophilic Leukemia
+type cancerType
+mainType Leukemia
+tissue Myeloid
+
+oncoTreeId ABL
+parentOncoTreeId AMLNOS
+oncoTreeLevel 5
+subTypes 0

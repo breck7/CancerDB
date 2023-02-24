@@ -1,0 +1,11 @@
+title Acinic Cell Carcinoma
+type cancerType
+mainType Salivary Gland Cancer
+tissue Head and Neck
+
+oncoTreeId ACCC
+parentOncoTreeId SACA
+umls C0206685
+nciCode C3768
+oncoTreeLevel 3
+subTypes 0

@@ -1,0 +1,11 @@
+title Astrocytoma
+type cancerType
+mainType Glioma
+tissue CNS/Brain
+
+oncoTreeId ASTR
+parentOncoTreeId DIFG
+umls C0004114
+nciCode C60781
+oncoTreeLevel 3
+subTypes 0

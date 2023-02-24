@@ -1,0 +1,9 @@
+title Smoldering Systemic Mastocytosis
+type cancerType
+mainType Mastocytosis
+tissue Myeloid
+
+oncoTreeId SSM
+parentOncoTreeId SM
+oncoTreeLevel 5
+subTypes 0

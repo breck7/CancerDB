@@ -1,0 +1,11 @@
+title Miscellaneous Brain Tumor
+type cancerType
+mainType Miscellaneous Brain Tumor
+tissue CNS/Brain
+
+oncoTreeId MBT
+parentOncoTreeId BRAIN
+umls C1334936
+nciCode C6974
+oncoTreeLevel 2
+subTypes 8

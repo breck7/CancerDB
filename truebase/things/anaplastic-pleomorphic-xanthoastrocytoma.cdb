@@ -1,0 +1,9 @@
+title Anaplastic Pleomorphic Xanthoastrocytoma
+type cancerType
+mainType Glioma
+tissue CNS/Brain
+
+oncoTreeId APXA
+parentOncoTreeId ENCG
+oncoTreeLevel 3
+subTypes 0

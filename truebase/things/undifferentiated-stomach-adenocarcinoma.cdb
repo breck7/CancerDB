@@ -1,0 +1,11 @@
+title Undifferentiated Stomach Adenocarcinoma
+type cancerType
+mainType Esophagogastric Cancer
+tissue Esophagus/Stomach
+
+oncoTreeId USTAD
+parentOncoTreeId EGC
+umls C1336858
+nciCode C5476
+oncoTreeLevel 3
+subTypes 2

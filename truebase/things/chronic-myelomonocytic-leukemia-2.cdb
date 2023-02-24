@@ -1,0 +1,9 @@
+title Chronic Myelomonocytic Leukemia-2
+type cancerType
+mainType Myelodysplastic/Myeloproliferative Neoplasms
+tissue Myeloid
+
+oncoTreeId CMML2
+parentOncoTreeId CMML
+oncoTreeLevel 5
+subTypes 0

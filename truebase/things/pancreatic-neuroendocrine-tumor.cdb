@@ -1,0 +1,11 @@
+title Pancreatic Neuroendocrine Tumor
+type cancerType
+mainType Pancreatic Cancer
+tissue Pancreas
+
+oncoTreeId PANET
+parentOncoTreeId PANCREAS
+umls C1337011
+nciCode C27720
+oncoTreeLevel 2
+subTypes 0

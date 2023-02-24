@@ -1,0 +1,11 @@
+title Embryonal Tumor
+type cancerType
+mainType Embryonal Tumor
+tissue CNS/Brain
+
+oncoTreeId EMBT
+parentOncoTreeId BRAIN
+umls C0027654
+nciCode C3264
+oncoTreeLevel 2
+subTypes 11

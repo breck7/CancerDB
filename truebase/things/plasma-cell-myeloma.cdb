@@ -1,0 +1,11 @@
+title Plasma Cell Myeloma
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId PCM
+parentOncoTreeId MBN
+umls C0026764
+nciCode C3242
+oncoTreeLevel 5
+subTypes 0

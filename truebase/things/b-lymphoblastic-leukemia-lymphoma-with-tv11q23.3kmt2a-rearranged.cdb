@@ -1,0 +1,9 @@
+title B-Lymphoblastic Leukemia/Lymphoma with t(v;11q23.3);KMT2A Rearranged
+type cancerType
+mainType B-Lymphoblastic Leukemia/Lymphoma
+tissue Lymphoid
+
+oncoTreeId BLLKMT2A
+parentOncoTreeId BLLRGA
+oncoTreeLevel 5
+subTypes 0

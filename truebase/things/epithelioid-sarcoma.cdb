@@ -1,0 +1,11 @@
+title Epithelioid Sarcoma
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId EPIS
+parentOncoTreeId SOFT_TISSUE
+umls C0205944
+nciCode C3714
+oncoTreeLevel 2
+subTypes 1

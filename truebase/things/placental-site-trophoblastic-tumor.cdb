@@ -1,0 +1,11 @@
+title Placental Site Trophoblastic Tumor
+type cancerType
+mainType Gestational Trophoblastic Disease
+tissue Uterus
+
+oncoTreeId PSTT
+parentOncoTreeId GTD
+umls C0206666
+nciCode C3757
+oncoTreeLevel 3
+subTypes 0

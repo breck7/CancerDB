@@ -1,0 +1,11 @@
+title Mucosal Melanoma of the Esophagus
+type cancerType
+mainType Melanoma
+tissue Esophagus/Stomach
+
+oncoTreeId ESMM
+parentOncoTreeId STOMACH
+umls C1333460
+nciCode C5707
+oncoTreeLevel 2
+subTypes 0

@@ -1,0 +1,11 @@
+title Seminoma
+type cancerType
+mainType Germ Cell Tumor
+tissue Testis
+
+oncoTreeId SEM
+parentOncoTreeId TESTIS
+umls C0036631
+nciCode C9309
+oncoTreeLevel 2
+subTypes 0

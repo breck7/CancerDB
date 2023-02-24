@@ -1,0 +1,9 @@
+title Undifferentiated Embryonal Sarcoma of the Liver
+type cancerType
+mainType Undifferentiated Embryonal Sarcoma of the Liver
+tissue Liver
+
+oncoTreeId UESL
+parentOncoTreeId LIVER
+oncoTreeLevel 2
+subTypes 0

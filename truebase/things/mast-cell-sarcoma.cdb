@@ -1,0 +1,9 @@
+title Mast Cell Sarcoma
+type cancerType
+mainType Mastocytosis
+tissue Myeloid
+
+oncoTreeId MCSL
+parentOncoTreeId MCD
+oncoTreeLevel 4
+subTypes 0

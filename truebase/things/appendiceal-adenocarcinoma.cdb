@@ -1,0 +1,11 @@
+title Appendiceal Adenocarcinoma
+type cancerType
+mainType Appendiceal Cancer
+tissue Bowel
+
+oncoTreeId APAD
+parentOncoTreeId BOWEL
+umls C0238003
+nciCode C7718
+oncoTreeLevel 2
+subTypes 4

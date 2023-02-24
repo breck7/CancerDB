@@ -1,0 +1,9 @@
+title High-Grade Serous Fallopian Tube Cancer
+type cancerType
+mainType Ovarian Cancer
+tissue Ovary/Fallopian Tube
+
+oncoTreeId HGSFT
+parentOncoTreeId OOVC
+oncoTreeLevel 3
+subTypes 0

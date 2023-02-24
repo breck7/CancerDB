@@ -1,0 +1,11 @@
+title Carcinoma with Chondroid Metaplasia
+type cancerType
+mainType Breast Cancer
+tissue Breast
+
+oncoTreeId CCHM
+parentOncoTreeId MMBC
+umls C1707042
+nciCode C47847
+oncoTreeLevel 4
+subTypes 0

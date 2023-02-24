@@ -1,0 +1,9 @@
+title B-Lymphoblastic Leukemia/Lymphoma
+type cancerType
+mainType B-Lymphoblastic Leukemia/Lymphoma
+tissue Lymphoid
+
+oncoTreeId BLL
+parentOncoTreeId LNM
+oncoTreeLevel 3
+subTypes 11

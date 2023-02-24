@@ -1,0 +1,9 @@
+title Mixed Cellularity Classical Hodgkin Lymphoma
+type cancerType
+mainType Hodgkin Lymphoma
+tissue Lymphoid
+
+oncoTreeId MCCHL
+parentOncoTreeId CHL
+oncoTreeLevel 5
+subTypes 0

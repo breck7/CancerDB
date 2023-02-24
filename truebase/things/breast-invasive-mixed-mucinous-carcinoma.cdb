@@ -1,0 +1,11 @@
+title Breast Invasive Mixed Mucinous Carcinoma
+type cancerType
+mainType Breast Cancer
+tissue Breast
+
+oncoTreeId IMMC
+parentOncoTreeId BRCA
+umls C1334807
+nciCode C9131
+oncoTreeLevel 3
+subTypes 0

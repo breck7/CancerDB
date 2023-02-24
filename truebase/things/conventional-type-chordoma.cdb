@@ -1,0 +1,9 @@
+title Conventional Type Chordoma
+type cancerType
+mainType Bone Cancer
+tissue Bone
+
+oncoTreeId CCHDM
+parentOncoTreeId CHDM
+oncoTreeLevel 3
+subTypes 0

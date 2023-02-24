@@ -1,0 +1,9 @@
+title Chronic Neutrophilic Leukemia
+type cancerType
+mainType Myeloproliferative Neoplasms
+tissue Myeloid
+
+oncoTreeId CNL
+parentOncoTreeId MPN
+oncoTreeLevel 4
+subTypes 0

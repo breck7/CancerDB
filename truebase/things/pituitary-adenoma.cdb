@@ -1,0 +1,11 @@
+title Pituitary Adenoma
+type cancerType
+mainType Sellar Tumor
+tissue CNS/Brain
+
+oncoTreeId PTAD
+parentOncoTreeId SELT
+umls C0032000
+nciCode C3329
+oncoTreeLevel 3
+subTypes 0

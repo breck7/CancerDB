@@ -1,0 +1,11 @@
+title Intestinal Ampullary Carcinoma
+type cancerType
+mainType Ampullary Cancer
+tissue Ampulla of Vater
+
+oncoTreeId IAMPCA
+parentOncoTreeId AMPCA
+umls C1332247
+nciCode C27415
+oncoTreeLevel 3
+subTypes 0

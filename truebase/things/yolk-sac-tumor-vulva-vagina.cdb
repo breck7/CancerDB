@@ -1,0 +1,11 @@
+title Yolk Sac Tumor Vulva/Vagina
+type cancerType
+mainType Germ Cell Tumor
+tissue Vulva/Vagina
+
+oncoTreeId VYST
+parentOncoTreeId VGCT
+umls C1336945
+nciCode C6379
+oncoTreeLevel 3
+subTypes 0

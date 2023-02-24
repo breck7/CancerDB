@@ -1,0 +1,9 @@
+title Uterine Sarcoma, Other
+type cancerType
+mainType Uterine Sarcoma
+tissue Uterus
+
+oncoTreeId OUSARC
+parentOncoTreeId USARC
+oncoTreeLevel 3
+subTypes 0

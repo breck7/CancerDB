@@ -1,0 +1,11 @@
+title Complete Hydatidiform Mole
+type cancerType
+mainType Gestational Trophoblastic Disease
+tissue Uterus
+
+oncoTreeId CHM
+parentOncoTreeId MP
+umls C0678213
+nciCode C4871
+oncoTreeLevel 4
+subTypes 0

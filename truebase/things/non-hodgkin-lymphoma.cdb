@@ -1,0 +1,11 @@
+title Non-Hodgkin Lymphoma
+type cancerType
+mainType Non-Hodgkin Lymphoma
+tissue Lymphoid
+
+oncoTreeId NHL
+parentOncoTreeId LNM
+umls C0024305
+nciCode C3211
+oncoTreeLevel 3
+subTypes 87

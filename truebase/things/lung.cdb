@@ -1,0 +1,11 @@
+title Lung
+type cancerType
+mainType Lung Cancer, NOS
+tissue Lung
+
+oncoTreeId LUNG
+parentOncoTreeId TISSUE
+umls C0024109
+nciCode C12468
+oncoTreeLevel 1
+subTypes 29

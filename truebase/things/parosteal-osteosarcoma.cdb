@@ -1,0 +1,11 @@
+title Parosteal Osteosarcoma
+type cancerType
+mainType Bone Cancer
+tissue Bone
+
+oncoTreeId PAOS
+parentOncoTreeId OS
+umls C0206642
+nciCode C8969
+oncoTreeLevel 3
+subTypes 0

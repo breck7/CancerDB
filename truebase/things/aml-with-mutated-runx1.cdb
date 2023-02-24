@@ -1,0 +1,9 @@
+title AML with Mutated RUNX1
+type cancerType
+mainType Leukemia
+tissue Myeloid
+
+oncoTreeId AMLRUNX1
+parentOncoTreeId AMLRGA
+oncoTreeLevel 5
+subTypes 0

@@ -1,0 +1,11 @@
+title Acral Melanoma
+type cancerType
+mainType Melanoma
+tissue Skin
+
+oncoTreeId ACRM
+parentOncoTreeId MEL
+umls C0346037
+nciCode C4022
+oncoTreeLevel 3
+subTypes 0

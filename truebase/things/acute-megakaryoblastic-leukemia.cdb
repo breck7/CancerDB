@@ -1,0 +1,9 @@
+title Acute Megakaryoblastic Leukemia
+type cancerType
+mainType Leukemia
+tissue Myeloid
+
+oncoTreeId AMKL
+parentOncoTreeId AMLNOS
+oncoTreeLevel 5
+subTypes 0

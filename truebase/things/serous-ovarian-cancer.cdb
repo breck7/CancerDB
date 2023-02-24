@@ -1,0 +1,11 @@
+title Serous Ovarian Cancer
+type cancerType
+mainType Ovarian Cancer
+tissue Ovary/Fallopian Tube
+
+oncoTreeId SOC
+parentOncoTreeId OVT
+umls C1335177
+nciCode C7550
+oncoTreeLevel 3
+subTypes 2

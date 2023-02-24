@@ -1,0 +1,11 @@
+title Prostate Small Cell Carcinoma
+type cancerType
+mainType Prostate Cancer
+tissue Prostate
+
+oncoTreeId PRSCC
+parentOncoTreeId PROSTATE
+umls C1300585
+nciCode C6766
+oncoTreeLevel 2
+subTypes 0

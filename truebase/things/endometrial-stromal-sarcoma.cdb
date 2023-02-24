@@ -1,0 +1,11 @@
+title Endometrial Stromal Sarcoma
+type cancerType
+mainType Uterine Sarcoma
+tissue Uterus
+
+oncoTreeId ESS
+parentOncoTreeId USARC
+umls C0206630
+nciCode C8973
+oncoTreeLevel 3
+subTypes 2

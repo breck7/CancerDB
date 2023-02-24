@@ -1,0 +1,11 @@
+title Verrucous Penile Squamous Cell Carcinoma
+type cancerType
+mainType Penile Cancer
+tissue Penis
+
+oncoTreeId VPSCC
+parentOncoTreeId PSCC
+umls C1336955
+nciCode C6982
+oncoTreeLevel 3
+subTypes 0

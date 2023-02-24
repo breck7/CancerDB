@@ -1,0 +1,11 @@
+title Hairy Cell Leukemia
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId HCL
+parentOncoTreeId MBN
+umls C0023443
+nciCode C7402
+oncoTreeLevel 5
+subTypes 0

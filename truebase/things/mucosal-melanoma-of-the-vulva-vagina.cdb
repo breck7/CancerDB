@@ -1,0 +1,11 @@
+title Mucosal Melanoma of the Vulva/Vagina
+type cancerType
+mainType Melanoma
+tissue Vulva/Vagina
+
+oncoTreeId VMM
+parentOncoTreeId VULVA
+umls C2004576
+nciCode C27394
+oncoTreeLevel 2
+subTypes 0

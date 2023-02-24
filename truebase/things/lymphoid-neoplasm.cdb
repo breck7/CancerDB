@@ -1,0 +1,9 @@
+title Lymphoid Neoplasm
+type cancerType
+mainType Lymphatic Cancer, NOS
+tissue Lymphoid
+
+oncoTreeId LNM
+parentOncoTreeId LYMPH
+oncoTreeLevel 2
+subTypes 117

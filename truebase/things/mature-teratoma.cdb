@@ -1,0 +1,11 @@
+title Mature Teratoma
+type cancerType
+mainType Germ Cell Tumor
+tissue Ovary/Fallopian Tube
+
+oncoTreeId OMT
+parentOncoTreeId OGCT
+umls C1334637
+nciCode C8112
+oncoTreeLevel 3
+subTypes 0

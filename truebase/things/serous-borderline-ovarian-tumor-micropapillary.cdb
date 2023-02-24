@@ -1,0 +1,9 @@
+title Serous Borderline Ovarian Tumor, Micropapillary
+type cancerType
+mainType Ovarian Cancer
+tissue Ovary/Fallopian Tube
+
+oncoTreeId SBMOV
+parentOncoTreeId OVT
+oncoTreeLevel 3
+subTypes 0

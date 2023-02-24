@@ -1,0 +1,9 @@
+title Chronic Myeloid Leukemia, BCR-ABL1+
+type cancerType
+mainType Myeloproliferative Neoplasms
+tissue Myeloid
+
+oncoTreeId CMLBCRABL1
+parentOncoTreeId CML
+oncoTreeLevel 5
+subTypes 0

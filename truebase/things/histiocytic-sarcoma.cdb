@@ -1,0 +1,9 @@
+title Histiocytic Sarcoma
+type cancerType
+mainType Histiocytosis
+tissue Myeloid
+
+oncoTreeId HS
+parentOncoTreeId HDCN
+oncoTreeLevel 4
+subTypes 0

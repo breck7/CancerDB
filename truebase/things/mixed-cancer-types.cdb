@@ -1,0 +1,9 @@
+title Mixed Cancer Types
+type cancerType
+mainType Cancer of Unknown Primary
+tissue Other
+
+oncoTreeId MIXED
+parentOncoTreeId CUP
+oncoTreeLevel 3
+subTypes 0

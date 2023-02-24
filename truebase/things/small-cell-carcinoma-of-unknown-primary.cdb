@@ -1,0 +1,9 @@
+title Small Cell Carcinoma of Unknown Primary
+type cancerType
+mainType Cancer of Unknown Primary
+tissue Other
+
+oncoTreeId SCUP
+parentOncoTreeId CUP
+oncoTreeLevel 3
+subTypes 0

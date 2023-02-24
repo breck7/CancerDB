@@ -1,0 +1,9 @@
+title Testicular Mesothelioma
+type cancerType
+mainType Mesothelioma
+tissue Testis
+
+oncoTreeId TMESO
+parentOncoTreeId TESTIS
+oncoTreeLevel 2
+subTypes 0

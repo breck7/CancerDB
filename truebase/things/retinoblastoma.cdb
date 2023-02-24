@@ -1,0 +1,11 @@
+title Retinoblastoma
+type cancerType
+mainType Retinoblastoma
+tissue Eye
+
+oncoTreeId RBL
+parentOncoTreeId EYE
+umls C0035335
+nciCode C7541
+oncoTreeLevel 2
+subTypes 0

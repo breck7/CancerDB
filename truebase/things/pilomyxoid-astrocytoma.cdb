@@ -1,0 +1,11 @@
+title Pilomyxoid Astrocytoma
+type cancerType
+mainType Glioma
+tissue CNS/Brain
+
+oncoTreeId PMA
+parentOncoTreeId ENCG
+umls C1519086
+nciCode C40315
+oncoTreeLevel 3
+subTypes 0

@@ -1,0 +1,11 @@
+title Chondrosarcoma
+type cancerType
+mainType Bone Cancer
+tissue Bone
+
+oncoTreeId CHS
+parentOncoTreeId BONE
+umls C0008479
+nciCode C2946
+oncoTreeLevel 2
+subTypes 4

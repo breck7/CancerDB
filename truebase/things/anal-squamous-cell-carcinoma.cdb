@@ -1,0 +1,11 @@
+title Anal Squamous Cell Carcinoma
+type cancerType
+mainType Anal Cancer
+tissue Bowel
+
+oncoTreeId ANSC
+parentOncoTreeId BOWEL
+umls C1412036
+nciCode C9161
+oncoTreeLevel 2
+subTypes 0

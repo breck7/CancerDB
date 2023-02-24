@@ -1,0 +1,11 @@
+title Breast Fibroepithelial Neoplasms
+type cancerType
+mainType Breast Sarcoma
+tissue Breast
+
+oncoTreeId BFN
+parentOncoTreeId BREAST
+umls C1511309
+nciCode C40405
+oncoTreeLevel 2
+subTypes 5

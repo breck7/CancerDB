@@ -1,0 +1,11 @@
+title Benign Phyllodes Tumor of the Breast
+type cancerType
+mainType Breast Sarcoma
+tissue Breast
+
+oncoTreeId BPT
+parentOncoTreeId PT
+umls C1332533
+nciCode C5196
+oncoTreeLevel 4
+subTypes 0

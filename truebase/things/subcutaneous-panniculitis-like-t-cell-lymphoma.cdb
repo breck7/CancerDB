@@ -1,0 +1,9 @@
+title Subcutaneous Panniculitis-Like T-Cell Lymphoma
+type cancerType
+mainType Mature T and NK Neoplasms
+tissue Lymphoid
+
+oncoTreeId SPTCL
+parentOncoTreeId MTNN
+oncoTreeLevel 5
+subTypes 0

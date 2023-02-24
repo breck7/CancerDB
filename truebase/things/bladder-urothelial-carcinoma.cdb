@@ -1,0 +1,11 @@
+title Bladder Urothelial Carcinoma
+type cancerType
+mainType Bladder Cancer
+tissue Bladder/Urinary Tract
+
+oncoTreeId BLCA
+parentOncoTreeId BLADDER
+umls C0279680
+nciCode C39851
+oncoTreeLevel 2
+subTypes 0

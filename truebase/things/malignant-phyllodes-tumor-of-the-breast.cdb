@@ -1,0 +1,11 @@
+title Malignant Phyllodes Tumor of the Breast
+type cancerType
+mainType Breast Sarcoma
+tissue Breast
+
+oncoTreeId MPT
+parentOncoTreeId PT
+umls C0346154
+nciCode C4504
+oncoTreeLevel 4
+subTypes 0

@@ -1,0 +1,9 @@
+title Refractory Cytopenia of Childhood
+type cancerType
+mainType Myelodysplastic Syndromes
+tissue Myeloid
+
+oncoTreeId RCYC
+parentOncoTreeId MDS
+oncoTreeLevel 4
+subTypes 0

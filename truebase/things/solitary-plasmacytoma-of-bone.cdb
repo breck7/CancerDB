@@ -1,0 +1,9 @@
+title Solitary Plasmacytoma of Bone
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId SPB
+parentOncoTreeId MBN
+oncoTreeLevel 5
+subTypes 0

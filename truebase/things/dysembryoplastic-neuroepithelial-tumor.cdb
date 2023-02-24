@@ -1,0 +1,11 @@
+title Dysembryoplastic Neuroepithelial Tumor
+type cancerType
+mainType Glioma
+tissue CNS/Brain
+
+oncoTreeId DNT
+parentOncoTreeId ENCG
+umls C1266177
+nciCode C9505
+oncoTreeLevel 3
+subTypes 0

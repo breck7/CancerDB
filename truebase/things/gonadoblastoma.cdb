@@ -1,0 +1,11 @@
+title Gonadoblastoma
+type cancerType
+mainType Sex Cord Stromal Tumor
+tissue Ovary/Fallopian Tube
+
+oncoTreeId OGBL
+parentOncoTreeId SCST
+umls C1518716
+nciCode C39985
+oncoTreeLevel 3
+subTypes 0

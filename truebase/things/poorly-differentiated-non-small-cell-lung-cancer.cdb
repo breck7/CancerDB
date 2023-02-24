@@ -1,0 +1,9 @@
+title Poorly Differentiated Non-Small Cell Lung Cancer
+type cancerType
+mainType Non-Small Cell Lung Cancer
+tissue Lung
+
+oncoTreeId NSCLCPD
+parentOncoTreeId NSCLC
+oncoTreeLevel 3
+subTypes 0

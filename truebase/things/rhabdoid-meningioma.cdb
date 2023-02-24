@@ -1,0 +1,11 @@
+title Rhabdoid Meningioma
+type cancerType
+mainType CNS Cancer
+tissue CNS/Brain
+
+oncoTreeId RHM
+parentOncoTreeId MNGT
+umls C0259786
+nciCode C6909
+oncoTreeLevel 3
+subTypes 0

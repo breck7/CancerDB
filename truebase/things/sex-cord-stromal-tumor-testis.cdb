@@ -1,0 +1,10 @@
+title Sex Cord Stromal Tumor Testis
+type cancerType
+mainType Sex Cord Stromal Tumor
+tissue Testis
+
+oncoTreeId TSCST
+parentOncoTreeId TESTIS
+umls C1336728
+oncoTreeLevel 2
+subTypes 0

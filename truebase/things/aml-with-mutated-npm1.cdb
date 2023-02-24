@@ -1,0 +1,9 @@
+title AML with Mutated NPM1
+type cancerType
+mainType Leukemia
+tissue Myeloid
+
+oncoTreeId AMLNPM1
+parentOncoTreeId AMLRGA
+oncoTreeLevel 5
+subTypes 0

@@ -1,0 +1,11 @@
+title Salivary Carcinoma
+type cancerType
+mainType Salivary Gland Cancer
+tissue Head and Neck
+
+oncoTreeId SACA
+parentOncoTreeId HEAD_NECK
+umls C0948750
+nciCode C9272
+oncoTreeLevel 2
+subTypes 9

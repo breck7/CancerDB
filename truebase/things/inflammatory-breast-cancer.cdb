@@ -1,0 +1,11 @@
+title Inflammatory Breast Cancer
+type cancerType
+mainType Breast Cancer
+tissue Breast
+
+oncoTreeId IBC
+parentOncoTreeId BREAST
+umls C0278601
+nciCode C4001
+oncoTreeLevel 2
+subTypes 0

@@ -1,0 +1,11 @@
+title Salivary Gland Oncocytoma
+type cancerType
+mainType Salivary Gland Cancer
+tissue Head and Neck
+
+oncoTreeId SGO
+parentOncoTreeId SACA
+umls C1335906
+nciCode C5932
+oncoTreeLevel 3
+subTypes 0

@@ -1,0 +1,9 @@
+title Myelodysplastic/Myeloproliferative Neoplasms
+type cancerType
+mainType Myelodysplastic/Myeloproliferative Neoplasms
+tissue Myeloid
+
+oncoTreeId MDS/MPN
+parentOncoTreeId MNM
+oncoTreeLevel 3
+subTypes 8

@@ -1,0 +1,11 @@
+title Paraganglioma
+type cancerType
+mainType Miscellaneous Neuroepithelial Tumor
+tissue Soft Tissue
+
+oncoTreeId PGNG
+parentOncoTreeId SOFT_TISSUE
+umls C0030421
+nciCode C3308
+oncoTreeLevel 2
+subTypes 0

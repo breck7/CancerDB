@@ -1,0 +1,11 @@
+title Dedifferentiated Chondrosarcoma
+type cancerType
+mainType Bone Cancer
+tissue Bone
+
+oncoTreeId DDCHS
+parentOncoTreeId CHS
+umls C0862878
+nciCode C6476
+oncoTreeLevel 3
+subTypes 0

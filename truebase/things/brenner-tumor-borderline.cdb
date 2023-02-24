@@ -1,0 +1,9 @@
+title Brenner Tumor, Borderline
+type cancerType
+mainType Ovarian Cancer
+tissue Ovary/Fallopian Tube
+
+oncoTreeId BTBOV
+parentOncoTreeId BTOV
+oncoTreeLevel 4
+subTypes 0

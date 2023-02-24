@@ -1,0 +1,11 @@
+title Epithelial-Myoepithelial Carcinoma
+type cancerType
+mainType Head and Neck Cancer
+tissue Head and Neck
+
+oncoTreeId EMYOCA
+parentOncoTreeId OHNCA
+umls C0334392
+nciCode C4199
+oncoTreeLevel 3
+subTypes 0

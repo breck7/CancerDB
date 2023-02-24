@@ -1,0 +1,11 @@
+title Primary Neuroepithelial Tumor
+type cancerType
+mainType Miscellaneous Brain Tumor
+tissue CNS/Brain
+
+oncoTreeId PRNET
+parentOncoTreeId MBT
+umls C0206715
+nciCode C3787
+oncoTreeLevel 3
+subTypes 0

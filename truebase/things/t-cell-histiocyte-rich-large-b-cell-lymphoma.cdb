@@ -1,0 +1,9 @@
+title T-Cell/Histiocyte-Rich Large B-Cell Lymphoma
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId THRLBCL
+parentOncoTreeId MBN
+oncoTreeLevel 5
+subTypes 0

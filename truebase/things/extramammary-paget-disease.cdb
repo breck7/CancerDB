@@ -1,0 +1,11 @@
+title Extramammary Paget Disease
+type cancerType
+mainType Skin Cancer, Non-Melanoma
+tissue Skin
+
+oncoTreeId EMPD
+parentOncoTreeId SKIN
+umls C0030186
+nciCode C3302
+oncoTreeLevel 2
+subTypes 0

@@ -1,0 +1,11 @@
+title Mixed Germ Cell Tumor Vulva/Vagina
+type cancerType
+mainType Germ Cell Tumor
+tissue Vulva/Vagina
+
+oncoTreeId VMGCT
+parentOncoTreeId VGCT
+umls C0334524
+nciCode C4290
+oncoTreeLevel 3
+subTypes 0

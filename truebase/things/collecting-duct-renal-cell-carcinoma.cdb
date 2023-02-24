@@ -1,0 +1,11 @@
+title Collecting Duct Renal Cell Carcinoma
+type cancerType
+mainType Renal Cell Carcinoma
+tissue Kidney
+
+oncoTreeId CDRCC
+parentOncoTreeId NCCRCC
+umls C1266044
+nciCode C6194
+oncoTreeLevel 4
+subTypes 0

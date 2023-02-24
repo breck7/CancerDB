@@ -1,0 +1,11 @@
+title Myelodysplastic Syndromes
+type cancerType
+mainType Myelodysplastic Syndromes
+tissue Myeloid
+
+oncoTreeId MDS
+parentOncoTreeId MNM
+umls C3463824
+nciCode C3247
+oncoTreeLevel 3
+subTypes 11

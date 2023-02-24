@@ -1,0 +1,11 @@
+title Adenoid Cystic Carcinoma of the Lung
+type cancerType
+mainType Non-Small Cell Lung Cancer
+tissue Lung
+
+oncoTreeId LUACC
+parentOncoTreeId SGTTL
+umls C1334439
+nciCode C5666
+oncoTreeLevel 4
+subTypes 0

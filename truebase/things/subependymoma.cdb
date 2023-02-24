@@ -1,0 +1,11 @@
+title Subependymoma
+type cancerType
+mainType CNS Cancer
+tissue CNS/Brain
+
+oncoTreeId SUBE
+parentOncoTreeId EPMT
+umls C0206725
+nciCode C3795
+oncoTreeLevel 3
+subTypes 0

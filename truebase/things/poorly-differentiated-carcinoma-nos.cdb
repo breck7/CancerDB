@@ -1,0 +1,9 @@
+title Poorly Differentiated Carcinoma, NOS
+type cancerType
+mainType Cancer of Unknown Primary
+tissue Other
+
+oncoTreeId PDC
+parentOncoTreeId CUP
+oncoTreeLevel 3
+subTypes 0

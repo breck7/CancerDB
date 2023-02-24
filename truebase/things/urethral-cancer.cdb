@@ -1,0 +1,11 @@
+title Urethral Cancer
+type cancerType
+mainType Bladder Cancer
+tissue Bladder/Urinary Tract
+
+oncoTreeId UCA
+parentOncoTreeId BLADDER
+umls C0700101
+nciCode C9106
+oncoTreeLevel 2
+subTypes 3

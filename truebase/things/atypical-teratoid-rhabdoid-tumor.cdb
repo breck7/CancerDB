@@ -1,0 +1,11 @@
+title Atypical Teratoid/Rhabdoid Tumor
+type cancerType
+mainType Embryonal Tumor
+tissue CNS/Brain
+
+oncoTreeId ATRT
+parentOncoTreeId EMBT
+umls C1266184
+nciCode C6906
+oncoTreeLevel 3
+subTypes 0

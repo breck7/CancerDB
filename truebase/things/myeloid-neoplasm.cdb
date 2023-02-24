@@ -1,0 +1,9 @@
+title Myeloid Neoplasm
+type cancerType
+mainType Blood Cancer, NOS
+tissue Myeloid
+
+oncoTreeId MNM
+parentOncoTreeId MYELOID
+oncoTreeLevel 2
+subTypes 98

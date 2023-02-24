@@ -1,0 +1,11 @@
+title Skin
+type cancerType
+mainType Skin Cancer, NOS
+tissue Skin
+
+oncoTreeId SKIN
+parentOncoTreeId TISSUE
+umls C1123023
+nciCode C12470
+oncoTreeLevel 1
+subTypes 29

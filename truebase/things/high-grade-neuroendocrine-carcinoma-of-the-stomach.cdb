@@ -1,0 +1,9 @@
+title High-Grade Neuroendocrine Carcinoma of the Stomach
+type cancerType
+mainType Gastrointestinal Neuroendocrine Tumors of the Esophagus/Stomach
+tissue Esophagus/Stomach
+
+oncoTreeId HGNES
+parentOncoTreeId GINETES
+oncoTreeLevel 3
+subTypes 0

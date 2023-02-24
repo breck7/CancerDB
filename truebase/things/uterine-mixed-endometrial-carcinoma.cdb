@@ -1,0 +1,9 @@
+title Uterine Mixed Endometrial Carcinoma
+type cancerType
+mainType Endometrial Cancer
+tissue Uterus
+
+oncoTreeId UMEC
+parentOncoTreeId UCEC
+oncoTreeLevel 3
+subTypes 0

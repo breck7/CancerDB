@@ -1,0 +1,11 @@
+title Mucinous Stomach Adenocarcinoma
+type cancerType
+mainType Esophagogastric Cancer
+tissue Esophagus/Stomach
+
+oncoTreeId MSTAD
+parentOncoTreeId STAD
+umls C1334809
+nciCode C5248
+oncoTreeLevel 4
+subTypes 0

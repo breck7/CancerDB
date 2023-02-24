@@ -1,0 +1,11 @@
+title Acute Monoblastic/Monocytic Leukemia
+type cancerType
+mainType Leukemia
+tissue Myeloid
+
+oncoTreeId AMOL
+parentOncoTreeId AMLNOS
+umls C0023465
+nciCode C4861
+oncoTreeLevel 5
+subTypes 0

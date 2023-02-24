@@ -1,0 +1,11 @@
+title Serous Cystadenoma of the Pancreas
+type cancerType
+mainType Pancreatic Cancer
+tissue Pancreas
+
+oncoTreeId PSC
+parentOncoTreeId PACT
+umls C1335316
+nciCode C5712
+oncoTreeLevel 3
+subTypes 0

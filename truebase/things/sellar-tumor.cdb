@@ -1,0 +1,11 @@
+title Sellar Tumor
+type cancerType
+mainType Sellar Tumor
+tissue CNS/Brain
+
+oncoTreeId SELT
+parentOncoTreeId BRAIN
+umls C0748616
+nciCode C4944
+oncoTreeLevel 2
+subTypes 8

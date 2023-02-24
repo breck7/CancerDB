@@ -1,0 +1,9 @@
+title Adenosquamous Carcinoma of the Tongue
+type cancerType
+mainType Head and Neck Cancer
+tissue Head and Neck
+
+oncoTreeId ASCT
+parentOncoTreeId OHNCA
+oncoTreeLevel 3
+subTypes 0

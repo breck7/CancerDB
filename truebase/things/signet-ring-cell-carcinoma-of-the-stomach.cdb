@@ -1,0 +1,11 @@
+title Signet Ring Cell Carcinoma of the Stomach
+type cancerType
+mainType Esophagogastric Cancer
+tissue Esophagus/Stomach
+
+oncoTreeId SSRCC
+parentOncoTreeId USTAD
+umls C1335965
+nciCode C5250
+oncoTreeLevel 4
+subTypes 0

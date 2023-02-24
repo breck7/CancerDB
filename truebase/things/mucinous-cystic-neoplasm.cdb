@@ -1,0 +1,11 @@
+title Mucinous Cystic Neoplasm
+type cancerType
+mainType Pancreatic Cancer
+tissue Pancreas
+
+oncoTreeId MCN
+parentOncoTreeId PACT
+umls C1518872
+nciCode C41247
+oncoTreeLevel 3
+subTypes 0

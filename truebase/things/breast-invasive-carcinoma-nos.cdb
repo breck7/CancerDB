@@ -1,0 +1,9 @@
+title Breast Invasive Carcinoma, NOS
+type cancerType
+mainType Breast Cancer
+tissue Breast
+
+oncoTreeId BRCNOS
+parentOncoTreeId BRCA
+oncoTreeLevel 3
+subTypes 0

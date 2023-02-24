@@ -1,0 +1,9 @@
+title Squamous Cell Carcinoma, NOS
+type cancerType
+mainType Cancer of Unknown Primary
+tissue Other
+
+oncoTreeId SCCNOS
+parentOncoTreeId CUP
+oncoTreeLevel 3
+subTypes 0

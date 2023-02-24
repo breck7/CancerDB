@@ -1,0 +1,9 @@
+title Splenic Diffuse Red Pulp Small B-Cell Lymphoma
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId SDRPL
+parentOncoTreeId SBLU
+oncoTreeLevel 6
+subTypes 0

@@ -1,0 +1,11 @@
+title Polyembryoma
+type cancerType
+mainType Germ Cell Tumor
+tissue Ovary/Fallopian Tube
+
+oncoTreeId OPE
+parentOncoTreeId OGCT
+umls C1514199
+nciCode C39990
+oncoTreeLevel 3
+subTypes 0

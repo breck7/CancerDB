@@ -1,0 +1,11 @@
+title Pancreatoblastoma
+type cancerType
+mainType Pancreatic Cancer
+tissue Pancreas
+
+oncoTreeId PB
+parentOncoTreeId PANCREAS
+umls C0334489
+nciCode C4265
+oncoTreeLevel 2
+subTypes 0

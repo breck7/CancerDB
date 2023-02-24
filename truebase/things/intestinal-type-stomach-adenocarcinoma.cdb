@@ -1,0 +1,11 @@
+title Intestinal Type Stomach Adenocarcinoma
+type cancerType
+mainType Esophagogastric Cancer
+tissue Esophagus/Stomach
+
+oncoTreeId ISTAD
+parentOncoTreeId STAD
+umls C0279633
+nciCode C9157
+oncoTreeLevel 4
+subTypes 0

@@ -1,0 +1,9 @@
+title Lung Adenocarcinoma In Situ
+type cancerType
+mainType Non-Small Cell Lung Cancer
+tissue Lung
+
+oncoTreeId LAIS
+parentOncoTreeId LUNG
+oncoTreeLevel 2
+subTypes 0

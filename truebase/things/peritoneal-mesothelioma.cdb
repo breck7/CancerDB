@@ -1,0 +1,11 @@
+title Peritoneal Mesothelioma
+type cancerType
+mainType Mesothelioma
+tissue Peritoneum
+
+oncoTreeId PEMESO
+parentOncoTreeId PERITONEUM
+umls C1377610
+nciCode C7633
+oncoTreeLevel 2
+subTypes 0

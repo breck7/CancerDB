@@ -1,0 +1,11 @@
+title Giant Cell Carcinoma of the Lung
+type cancerType
+mainType Non-Small Cell Lung Cancer
+tissue Lung
+
+oncoTreeId GCLC
+parentOncoTreeId LCLC
+umls C0345960
+nciCode C4452
+oncoTreeLevel 4
+subTypes 0

@@ -1,0 +1,11 @@
+title Anaplastic Meningioma
+type cancerType
+mainType CNS Cancer
+tissue CNS/Brain
+
+oncoTreeId ANM
+parentOncoTreeId MNGT
+umls C0259785
+nciCode C4051
+oncoTreeLevel 3
+subTypes 0

@@ -1,0 +1,11 @@
+title Conjunctival Melanoma
+type cancerType
+mainType Melanoma
+tissue Eye
+
+oncoTreeId CM
+parentOncoTreeId OM
+umls C0346360
+nciCode C4550
+oncoTreeLevel 3
+subTypes 0

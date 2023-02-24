@@ -1,0 +1,9 @@
+title Small Cell Gallbladder Carcinoma
+type cancerType
+mainType Hepatobiliary Cancer
+tissue Biliary Tract
+
+oncoTreeId SCGBC
+parentOncoTreeId GBC
+oncoTreeLevel 3
+subTypes 0

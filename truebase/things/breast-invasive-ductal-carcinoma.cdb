@@ -1,0 +1,11 @@
+title Breast Invasive Ductal Carcinoma
+type cancerType
+mainType Breast Cancer
+tissue Breast
+
+oncoTreeId IDC
+parentOncoTreeId BRCA
+umls C1134719
+nciCode C4194
+oncoTreeLevel 3
+subTypes 0

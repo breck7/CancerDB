@@ -1,0 +1,11 @@
+title Yolk Sac Tumor
+type cancerType
+mainType Germ Cell Tumor
+tissue Ovary/Fallopian Tube
+
+oncoTreeId OYST
+parentOncoTreeId OGCT
+umls C0346188
+nciCode C8107
+oncoTreeLevel 3
+subTypes 0

@@ -1,0 +1,11 @@
+title Mature Teratoma CNS/Brain
+type cancerType
+mainType Germ Cell Tumor
+tissue CNS/Brain
+
+oncoTreeId BMT
+parentOncoTreeId BGCT
+umls C1332886
+nciCode C7013
+oncoTreeLevel 3
+subTypes 0

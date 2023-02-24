@@ -1,0 +1,10 @@
+title Pseudomyogenic Hemangioendothelioma
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId PMHE
+parentOncoTreeId SOFT_TISSUE
+umls CL479537
+oncoTreeLevel 2
+subTypes 0

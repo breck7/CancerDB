@@ -1,0 +1,9 @@
+title Craniopharyngioma, Papillary Type
+type cancerType
+mainType Sellar Tumor
+tissue CNS/Brain
+
+oncoTreeId PCGP
+parentOncoTreeId SELT
+oncoTreeLevel 3
+subTypes 0

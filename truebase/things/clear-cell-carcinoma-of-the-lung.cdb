@@ -1,0 +1,11 @@
+title Clear Cell Carcinoma of the Lung
+type cancerType
+mainType Non-Small Cell Lung Cancer
+tissue Lung
+
+oncoTreeId CCLC
+parentOncoTreeId LCLC
+umls C1707407
+nciCode C4451
+oncoTreeLevel 4
+subTypes 0

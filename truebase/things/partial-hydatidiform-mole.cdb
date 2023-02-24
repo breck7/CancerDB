@@ -1,0 +1,11 @@
+title Partial Hydatidiform Mole
+type cancerType
+mainType Gestational Trophoblastic Disease
+tissue Uterus
+
+oncoTreeId PHM
+parentOncoTreeId MP
+umls C0334529
+nciCode C4293
+oncoTreeLevel 4
+subTypes 0

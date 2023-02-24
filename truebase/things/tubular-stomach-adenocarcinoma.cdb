@@ -1,0 +1,11 @@
+title Tubular Stomach Adenocarcinoma
+type cancerType
+mainType Esophagogastric Cancer
+tissue Esophagus/Stomach
+
+oncoTreeId TSTAD
+parentOncoTreeId STAD
+umls C1333791
+nciCode C5473
+oncoTreeLevel 4
+subTypes 0

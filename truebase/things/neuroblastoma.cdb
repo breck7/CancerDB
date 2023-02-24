@@ -1,0 +1,11 @@
+title Neuroblastoma
+type cancerType
+mainType Peripheral Nervous System
+tissue Peripheral Nervous System
+
+oncoTreeId NBL
+parentOncoTreeId PNS
+umls C0027819
+nciCode C3270
+oncoTreeLevel 2
+subTypes 0

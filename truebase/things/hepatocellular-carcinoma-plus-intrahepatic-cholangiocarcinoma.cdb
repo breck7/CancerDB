@@ -1,0 +1,11 @@
+title Hepatocellular Carcinoma plus Intrahepatic Cholangiocarcinoma
+type cancerType
+mainType Hepatobiliary Cancer
+tissue Liver
+
+oncoTreeId HCCIHCH
+parentOncoTreeId LIVER
+umls C0221287
+nciCode C3828
+oncoTreeLevel 2
+subTypes 0

@@ -1,0 +1,11 @@
+title Biliary Tract
+type cancerType
+mainType Biliary Tract Cancer, NOS
+tissue Biliary Tract
+
+oncoTreeId BILIARY_TRACT
+parentOncoTreeId TISSUE
+umls C0005423
+nciCode C12678
+oncoTreeLevel 1
+subTypes 8

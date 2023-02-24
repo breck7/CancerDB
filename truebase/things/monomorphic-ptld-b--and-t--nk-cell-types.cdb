@@ -1,0 +1,9 @@
+title Monomorphic PTLD (B- and T-/NK-cell types)
+type cancerType
+mainType Posttransplant Lymphoproliferative Disorders
+tissue Lymphoid
+
+oncoTreeId MPTLD
+parentOncoTreeId PTLD
+oncoTreeLevel 4
+subTypes 0

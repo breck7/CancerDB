@@ -1,0 +1,9 @@
+title Hepatosplenic T-cell Lymphoma
+type cancerType
+mainType Mature T and NK Neoplasms
+tissue Lymphoid
+
+oncoTreeId HSTCL
+parentOncoTreeId MTNN
+oncoTreeLevel 5
+subTypes 0

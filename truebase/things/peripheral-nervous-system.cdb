@@ -1,0 +1,11 @@
+title Peripheral Nervous System
+type cancerType
+mainType Peripheral Nervous System Cancer, NOS
+tissue Peripheral Nervous System
+
+oncoTreeId PNS
+parentOncoTreeId TISSUE
+umls C0206417
+nciCode C12465
+oncoTreeLevel 1
+subTypes 9

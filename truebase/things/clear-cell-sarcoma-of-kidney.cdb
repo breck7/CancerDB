@@ -1,0 +1,9 @@
+title Clear Cell Sarcoma of Kidney
+type cancerType
+mainType Clear Cell Sarcoma of Kidney
+tissue Kidney
+
+oncoTreeId CCSK
+parentOncoTreeId KIDNEY
+oncoTreeLevel 2
+subTypes 0

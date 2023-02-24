@@ -1,0 +1,11 @@
+title Atypical Fibroxanthoma
+type cancerType
+mainType Skin Cancer, Non-Melanoma
+tissue Skin
+
+oncoTreeId AFX
+parentOncoTreeId SKIN
+umls C0346053
+nciCode C4246
+oncoTreeLevel 2
+subTypes 0

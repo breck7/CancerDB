@@ -1,0 +1,11 @@
+title Myopericytoma
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId MPC
+parentOncoTreeId SOFT_TISSUE
+umls C1302808
+nciCode C50401
+oncoTreeLevel 2
+subTypes 0

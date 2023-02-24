@@ -1,0 +1,9 @@
+title Polymorphic PTLD
+type cancerType
+mainType Posttransplant Lymphoproliferative Disorders
+tissue Lymphoid
+
+oncoTreeId PPTLD
+parentOncoTreeId PTLD
+oncoTreeLevel 4
+subTypes 0

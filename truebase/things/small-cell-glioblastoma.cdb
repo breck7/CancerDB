@@ -1,0 +1,11 @@
+title Small Cell Glioblastoma
+type cancerType
+mainType Glioma
+tissue CNS/Brain
+
+oncoTreeId SCGBM
+parentOncoTreeId GB
+umls C1272516
+nciCode C125890
+oncoTreeLevel 4
+subTypes 0

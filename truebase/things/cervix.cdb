@@ -1,0 +1,11 @@
+title Cervix
+type cancerType
+mainType Cervical Cancer, NOS
+tissue Cervix
+
+oncoTreeId CERVIX
+parentOncoTreeId TISSUE
+umls C0007874
+nciCode C12311
+oncoTreeLevel 1
+subTypes 23

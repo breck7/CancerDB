@@ -1,0 +1,11 @@
+title Endometrioid Borderlin Ovarian Tumor
+type cancerType
+mainType Ovarian Cancer
+tissue Ovary/Fallopian Tube
+
+oncoTreeId EBOV
+parentOncoTreeId OVT
+umls C0334338
+nciCode C7983
+oncoTreeLevel 3
+subTypes 0

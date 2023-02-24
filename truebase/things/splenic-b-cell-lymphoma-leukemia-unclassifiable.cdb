@@ -1,0 +1,9 @@
+title Splenic B-Cell Lymphoma/Leukemia, Unclassifiable
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId SBLU
+parentOncoTreeId MBN
+oncoTreeLevel 5
+subTypes 2

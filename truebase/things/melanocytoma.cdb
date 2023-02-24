@@ -1,0 +1,9 @@
+title Melanocytoma
+type cancerType
+mainType Melanocytoma
+tissue CNS/Brain
+
+oncoTreeId MELC
+parentOncoTreeId PCNSMT
+oncoTreeLevel 3
+subTypes 0

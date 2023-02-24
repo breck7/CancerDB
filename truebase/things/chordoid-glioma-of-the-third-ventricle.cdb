@@ -1,0 +1,11 @@
+title Chordoid Glioma of the Third Ventricle
+type cancerType
+mainType Miscellaneous Neuroepithelial Tumor
+tissue CNS/Brain
+
+oncoTreeId CHGL
+parentOncoTreeId MNET
+umls C1322252
+nciCode C5592
+oncoTreeLevel 3
+subTypes 0

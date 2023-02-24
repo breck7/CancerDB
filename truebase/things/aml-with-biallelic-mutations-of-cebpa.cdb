@@ -1,0 +1,9 @@
+title AML with Biallelic Mutations of CEBPA
+type cancerType
+mainType Leukemia
+tissue Myeloid
+
+oncoTreeId AMLCEBPA
+parentOncoTreeId AMLRGA
+oncoTreeLevel 5
+subTypes 0

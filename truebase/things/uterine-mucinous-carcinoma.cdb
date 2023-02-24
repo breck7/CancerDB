@@ -1,0 +1,11 @@
+title Uterine Mucinous Carcinoma
+type cancerType
+mainType Endometrial Cancer
+tissue Uterus
+
+oncoTreeId UMC
+parentOncoTreeId UCEC
+umls C0854923
+nciCode C40144
+oncoTreeLevel 3
+subTypes 0

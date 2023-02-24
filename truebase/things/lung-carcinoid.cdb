@@ -1,0 +1,11 @@
+title Lung Carcinoid
+type cancerType
+mainType Non-Small Cell Lung Cancer
+tissue Lung
+
+oncoTreeId LUCA
+parentOncoTreeId LNET
+umls C0280089
+nciCode C4038
+oncoTreeLevel 3
+subTypes 0

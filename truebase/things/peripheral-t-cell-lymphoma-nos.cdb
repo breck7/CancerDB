@@ -1,0 +1,9 @@
+title Peripheral T-Cell lymphoma, NOS
+type cancerType
+mainType Mature T and NK Neoplasms
+tissue Lymphoid
+
+oncoTreeId PTCL
+parentOncoTreeId MTNN
+oncoTreeLevel 5
+subTypes 0

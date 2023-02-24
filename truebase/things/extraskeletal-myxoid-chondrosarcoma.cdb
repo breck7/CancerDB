@@ -1,0 +1,11 @@
+title Extraskeletal Myxoid Chondrosarcoma
+type cancerType
+mainType Bone Cancer
+tissue Bone
+
+oncoTreeId EMCHS
+parentOncoTreeId CHS
+umls C1275278
+nciCode C27502
+oncoTreeLevel 3
+subTypes 0

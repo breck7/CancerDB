@@ -1,0 +1,11 @@
+title Translocation-Associated Renal Cell Carcinoma
+type cancerType
+mainType Renal Cell Carcinoma
+tissue Kidney
+
+oncoTreeId TRCC
+parentOncoTreeId NCCRCC
+umls C1337036
+nciCode C27891
+oncoTreeLevel 4
+subTypes 0

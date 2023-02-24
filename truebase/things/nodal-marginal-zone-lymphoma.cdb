@@ -1,0 +1,11 @@
+title Nodal Marginal Zone Lymphoma
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId NMZL
+parentOncoTreeId MZL
+umls C0855139
+nciCode C8863
+oncoTreeLevel 6
+subTypes 0

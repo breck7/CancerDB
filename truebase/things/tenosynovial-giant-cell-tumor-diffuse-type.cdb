@@ -1,0 +1,11 @@
+title Tenosynovial Giant Cell Tumor Diffuse Type
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId TGCT
+parentOncoTreeId SOFT_TISSUE
+umls C0039106
+nciCode C3401
+oncoTreeLevel 2
+subTypes 0

@@ -1,0 +1,11 @@
+title Breast Lobular Carcinoma In Situ
+type cancerType
+mainType Breast Cancer
+tissue Breast
+
+oncoTreeId LCIS
+parentOncoTreeId BREAST
+umls C0279563
+nciCode C4018
+oncoTreeLevel 2
+subTypes 0

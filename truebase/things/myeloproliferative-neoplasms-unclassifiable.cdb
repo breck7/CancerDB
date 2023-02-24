@@ -1,0 +1,9 @@
+title Myeloproliferative Neoplasms, Unclassifiable
+type cancerType
+mainType Myeloproliferative Neoplasms
+tissue Myeloid
+
+oncoTreeId MPNU
+parentOncoTreeId MPN
+oncoTreeLevel 4
+subTypes 0

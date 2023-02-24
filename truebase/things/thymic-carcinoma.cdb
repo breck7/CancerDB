@@ -1,0 +1,11 @@
+title Thymic Carcinoma
+type cancerType
+mainType Thymic Tumor
+tissue Thymus
+
+oncoTreeId THYC
+parentOncoTreeId TET
+umls C0205969
+nciCode C7569
+oncoTreeLevel 3
+subTypes 0

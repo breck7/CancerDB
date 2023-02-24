@@ -1,0 +1,11 @@
+title Cervical Clear Cell Carcinoma
+type cancerType
+mainType Cervical Cancer
+tissue Cervix
+
+oncoTreeId CECC
+parentOncoTreeId CEAD
+umls C1332912
+nciCode C6344
+oncoTreeLevel 3
+subTypes 0

@@ -1,0 +1,11 @@
+title Uterine Leiomyoma
+type cancerType
+mainType Uterine Sarcoma
+tissue Uterus
+
+oncoTreeId ULM
+parentOncoTreeId USMT
+umls C0042133
+nciCode C3434
+oncoTreeLevel 4
+subTypes 0

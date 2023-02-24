@@ -1,0 +1,11 @@
+title Uterus
+type cancerType
+mainType Uterine Cancer, NOS
+tissue Uterus
+
+oncoTreeId UTERUS
+parentOncoTreeId TISSUE
+umls C0042149
+nciCode C12405
+oncoTreeLevel 1
+subTypes 36

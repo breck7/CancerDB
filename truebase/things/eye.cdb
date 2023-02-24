@@ -1,0 +1,11 @@
+title Eye
+type cancerType
+mainType Eye Cancer, NOS
+tissue Eye
+
+oncoTreeId EYE
+parentOncoTreeId TISSUE
+umls C0015392
+nciCode C12401
+oncoTreeLevel 1
+subTypes 4

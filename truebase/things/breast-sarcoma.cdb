@@ -1,0 +1,11 @@
+title Breast Sarcoma
+type cancerType
+mainType Breast Sarcoma
+tissue Breast
+
+oncoTreeId PBS
+parentOncoTreeId BREAST
+umls C0349667
+nciCode C4670
+oncoTreeLevel 2
+subTypes 1

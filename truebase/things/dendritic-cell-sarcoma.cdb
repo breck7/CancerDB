@@ -1,0 +1,11 @@
+title Dendritic Cell Sarcoma
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId DCS
+parentOncoTreeId SOFT_TISSUE
+umls C1334030
+nciCode C9294
+oncoTreeLevel 2
+subTypes 1

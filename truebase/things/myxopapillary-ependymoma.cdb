@@ -1,0 +1,11 @@
+title Myxopapillary Ependymoma
+type cancerType
+mainType CNS Cancer
+tissue CNS/Brain
+
+oncoTreeId MPE
+parentOncoTreeId EPMT
+umls C0205769
+nciCode C3697
+oncoTreeLevel 3
+subTypes 0

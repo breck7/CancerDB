@@ -1,0 +1,11 @@
+title Pleuropulmonary Blastoma
+type cancerType
+mainType Non-Small Cell Lung Cancer
+tissue Lung
+
+oncoTreeId PPB
+parentOncoTreeId LUNG
+umls C1266144
+nciCode C5669
+oncoTreeLevel 2
+subTypes 0

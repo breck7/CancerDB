@@ -1,0 +1,11 @@
+title Dedifferentiated Chordoma
+type cancerType
+mainType Bone Cancer
+tissue Bone
+
+oncoTreeId DDCHDM
+parentOncoTreeId CHDM
+umls C1266174
+nciCode C48876
+oncoTreeLevel 3
+subTypes 0

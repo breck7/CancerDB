@@ -1,0 +1,11 @@
+title Undifferentiated Malignant Neoplasm
+type cancerType
+mainType Cancer of Unknown Primary
+tissue Other
+
+oncoTreeId UDMN
+parentOncoTreeId CUP
+umls C1336860
+nciCode C36051
+oncoTreeLevel 3
+subTypes 0

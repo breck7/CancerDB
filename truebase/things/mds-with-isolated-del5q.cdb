@@ -1,0 +1,9 @@
+title MDS with Isolated Del(5q)
+type cancerType
+mainType Myelodysplastic Syndromes
+tissue Myeloid
+
+oncoTreeId MDSID5Q
+parentOncoTreeId MDS
+oncoTreeLevel 4
+subTypes 0

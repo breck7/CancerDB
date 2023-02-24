@@ -1,0 +1,11 @@
+title Lung Squamous Cell Carcinoma
+type cancerType
+mainType Non-Small Cell Lung Cancer
+tissue Lung
+
+oncoTreeId LUSC
+parentOncoTreeId NSCLC
+umls C0149782
+nciCode C3493
+oncoTreeLevel 3
+subTypes 0

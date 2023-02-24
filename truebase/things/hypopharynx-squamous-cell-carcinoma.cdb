@@ -1,0 +1,11 @@
+title Hypopharynx Squamous Cell Carcinoma
+type cancerType
+mainType Head and Neck Cancer
+tissue Head and Neck
+
+oncoTreeId HPHSC
+parentOncoTreeId HNSC
+umls C0280321
+nciCode C4043
+oncoTreeLevel 3
+subTypes 0

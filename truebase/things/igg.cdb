@@ -1,0 +1,9 @@
+title IgG
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId MGUSIGG
+parentOncoTreeId MGUS
+oncoTreeLevel 6
+subTypes 0

@@ -1,0 +1,9 @@
+title Metaplastic Carcinosarcoma
+type cancerType
+mainType Breast Cancer
+tissue Breast
+
+oncoTreeId MCS
+parentOncoTreeId MMBC
+oncoTreeLevel 4
+subTypes 0

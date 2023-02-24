@@ -1,0 +1,11 @@
+title Ovarian Epithelial Tumor
+type cancerType
+mainType Ovarian Cancer
+tissue Ovary/Fallopian Tube
+
+oncoTreeId OVT
+parentOncoTreeId OVARY
+umls C0341823
+nciCode C4381
+oncoTreeLevel 2
+subTypes 21

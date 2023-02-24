@@ -1,0 +1,11 @@
+title Myeloid
+type cancerType
+mainType Blood Cancer, NOS
+tissue Myeloid
+
+oncoTreeId MYELOID
+parentOncoTreeId TISSUE
+umls C0005767
+nciCode C12434
+oncoTreeLevel 1
+subTypes 101

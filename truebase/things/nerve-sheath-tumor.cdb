@@ -1,0 +1,11 @@
+title Nerve Sheath Tumor
+type cancerType
+mainType Nerve Sheath Tumor
+tissue Peripheral Nervous System
+
+oncoTreeId NST
+parentOncoTreeId PNS
+umls C0206727
+nciCode C4972
+oncoTreeLevel 2
+subTypes 5

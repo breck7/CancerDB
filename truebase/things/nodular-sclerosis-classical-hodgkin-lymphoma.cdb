@@ -1,0 +1,9 @@
+title Nodular Sclerosis Classical Hodgkin Lymphoma
+type cancerType
+mainType Hodgkin Lymphoma
+tissue Lymphoid
+
+oncoTreeId NSCHL
+parentOncoTreeId CHL
+oncoTreeLevel 5
+subTypes 0

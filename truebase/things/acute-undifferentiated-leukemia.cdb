@@ -1,0 +1,9 @@
+title Acute Undifferentiated Leukemia
+type cancerType
+mainType Leukemia
+tissue Myeloid
+
+oncoTreeId AUL
+parentOncoTreeId ALAL
+oncoTreeLevel 4
+subTypes 0

@@ -1,0 +1,11 @@
+title Fibrosarcoma
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId FIBS
+parentOncoTreeId SOFT_TISSUE
+umls C0016057
+nciCode C3043
+oncoTreeLevel 2
+subTypes 1

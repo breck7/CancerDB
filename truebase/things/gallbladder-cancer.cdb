@@ -1,0 +1,11 @@
+title Gallbladder Cancer
+type cancerType
+mainType Hepatobiliary Cancer
+tissue Biliary Tract
+
+oncoTreeId GBC
+parentOncoTreeId BILIARY_TRACT
+umls C0235782
+nciCode C3844
+oncoTreeLevel 2
+subTypes 3

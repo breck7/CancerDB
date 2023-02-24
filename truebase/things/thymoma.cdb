@@ -1,0 +1,11 @@
+title Thymoma
+type cancerType
+mainType Thymic Tumor
+tissue Thymus
+
+oncoTreeId THYM
+parentOncoTreeId TET
+umls C0040100
+nciCode C3411
+oncoTreeLevel 3
+subTypes 0

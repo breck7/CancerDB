@@ -1,0 +1,9 @@
+title Pleural Mesothelioma, Biphasic Type
+type cancerType
+mainType Mesothelioma
+tissue Pleura
+
+oncoTreeId PLBMESO
+parentOncoTreeId PLMESO
+oncoTreeLevel 3
+subTypes 0

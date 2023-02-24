@@ -1,0 +1,9 @@
+title Nodal Peripheral T-Cell Lymphoma with TFH Phenotype
+type cancerType
+mainType Mature T and NK Neoplasms
+tissue Lymphoid
+
+oncoTreeId NPTLTFH
+parentOncoTreeId MTNN
+oncoTreeLevel 5
+subTypes 0

@@ -1,0 +1,11 @@
+title Renal Mucinous Tubular Spindle Cell Carcinoma
+type cancerType
+mainType Renal Cell Carcinoma
+tissue Kidney
+
+oncoTreeId MTSCC
+parentOncoTreeId NCCRCC
+umls C1513719
+nciCode C39807
+oncoTreeLevel 4
+subTypes 0

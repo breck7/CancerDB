@@ -1,0 +1,11 @@
+title Sarcomatoid Renal Cell Carcinoma
+type cancerType
+mainType Renal Cell Carcinoma
+tissue Kidney
+
+oncoTreeId SRCC
+parentOncoTreeId NCCRCC
+umls C1266043
+nciCode C27893
+oncoTreeLevel 4
+subTypes 0

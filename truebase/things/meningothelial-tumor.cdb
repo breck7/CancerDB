@@ -1,0 +1,11 @@
+title Meningothelial Tumor
+type cancerType
+mainType CNS Cancer
+tissue CNS/Brain
+
+oncoTreeId MNGT
+parentOncoTreeId BRAIN
+umls C0025284
+nciCode C3229
+oncoTreeLevel 2
+subTypes 9

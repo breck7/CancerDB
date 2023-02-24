@@ -1,0 +1,11 @@
+title Systemic Mastocytosis
+type cancerType
+mainType Mastocytosis
+tissue Myeloid
+
+oncoTreeId SM
+parentOncoTreeId MCD
+umls C0221013
+nciCode C9235
+oncoTreeLevel 4
+subTypes 5

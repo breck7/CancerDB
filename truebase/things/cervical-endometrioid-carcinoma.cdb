@@ -1,0 +1,11 @@
+title Cervical Endometrioid Carcinoma
+type cancerType
+mainType Cervical Cancer
+tissue Cervix
+
+oncoTreeId CEEN
+parentOncoTreeId CEAD
+umls C0206687
+nciCode C3769
+oncoTreeLevel 3
+subTypes 0

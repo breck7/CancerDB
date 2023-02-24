@@ -1,0 +1,11 @@
+title Alveolar Soft Part Sarcoma
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId ASPS
+parentOncoTreeId SOFT_TISSUE
+umls C0206657
+nciCode C3750
+oncoTreeLevel 2
+subTypes 0

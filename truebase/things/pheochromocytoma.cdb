@@ -1,0 +1,11 @@
+title Pheochromocytoma
+type cancerType
+mainType Pheochromocytoma
+tissue Adrenal Gland
+
+oncoTreeId PHC
+parentOncoTreeId ADRENAL_GLAND
+umls C0031511
+nciCode C3326
+oncoTreeLevel 2
+subTypes 0

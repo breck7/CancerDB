@@ -1,0 +1,11 @@
+title Breast Carcinoma with Signet Ring
+type cancerType
+mainType Breast Cancer
+tissue Breast
+
+oncoTreeId BRSRCC
+parentOncoTreeId BRCA
+umls C1335964
+nciCode C5175
+oncoTreeLevel 3
+subTypes 0

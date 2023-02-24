@@ -1,0 +1,11 @@
+title Anaplastic Astrocytoma
+type cancerType
+mainType Glioma
+tissue CNS/Brain
+
+oncoTreeId AASTR
+parentOncoTreeId DIFG
+umls C0334579
+nciCode C9477
+oncoTreeLevel 3
+subTypes 0

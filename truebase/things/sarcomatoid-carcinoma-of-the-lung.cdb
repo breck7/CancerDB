@@ -1,0 +1,11 @@
+title Sarcomatoid Carcinoma of the Lung
+type cancerType
+mainType Non-Small Cell Lung Cancer
+tissue Lung
+
+oncoTreeId SARCL
+parentOncoTreeId LUNG
+umls C1708781
+nciCode C45540
+oncoTreeLevel 2
+subTypes 0

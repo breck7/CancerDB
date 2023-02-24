@@ -1,0 +1,10 @@
+title Serous Borderline Ovarian Tumor
+type cancerType
+mainType Ovarian Cancer
+tissue Ovary/Fallopian Tube
+
+oncoTreeId SBOV
+parentOncoTreeId OVT
+umls C0279662
+oncoTreeLevel 3
+subTypes 0

@@ -1,0 +1,11 @@
+title Primitive Neuroectodermal Tumor
+type cancerType
+mainType Embryonal Tumor
+tissue CNS/Brain
+
+oncoTreeId PNET
+parentOncoTreeId EMBT
+umls C0206663
+nciCode C3716
+oncoTreeLevel 3
+subTypes 0

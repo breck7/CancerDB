@@ -1,0 +1,9 @@
+title Primary Myelofibrosis
+type cancerType
+mainType Myeloproliferative Neoplasms
+tissue Myeloid
+
+oncoTreeId PMF
+parentOncoTreeId MPN
+oncoTreeLevel 4
+subTypes 2

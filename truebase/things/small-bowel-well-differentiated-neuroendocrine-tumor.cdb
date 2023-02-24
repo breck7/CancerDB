@@ -1,0 +1,11 @@
+title Small Bowel Well-Differentiated Neuroendocrine Tumor
+type cancerType
+mainType Gastrointestinal Neuroendocrine Tumor
+tissue Bowel
+
+oncoTreeId SBWDNET
+parentOncoTreeId GINET
+umls C1332564
+nciCode C9461
+oncoTreeLevel 3
+subTypes 0

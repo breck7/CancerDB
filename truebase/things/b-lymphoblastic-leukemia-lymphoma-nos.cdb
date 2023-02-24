@@ -1,0 +1,9 @@
+title B-Lymphoblastic Leukemia/Lymphoma, NOS
+type cancerType
+mainType B-Lymphoblastic Leukemia/Lymphoma
+tissue Lymphoid
+
+oncoTreeId BLLNOS
+parentOncoTreeId BLL
+oncoTreeLevel 4
+subTypes 0

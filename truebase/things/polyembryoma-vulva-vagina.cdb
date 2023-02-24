@@ -1,0 +1,9 @@
+title Polyembryoma Vulva/Vagina
+type cancerType
+mainType Germ Cell Tumor
+tissue Vulva/Vagina
+
+oncoTreeId VPE
+parentOncoTreeId VGCT
+oncoTreeLevel 3
+subTypes 0

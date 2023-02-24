@@ -1,0 +1,11 @@
+title Myxoma
+type cancerType
+mainType Soft Tissue Sarcoma
+tissue Soft Tissue
+
+oncoTreeId MYXO
+parentOncoTreeId SOFT_TISSUE
+umls C0027149
+nciCode C6577
+oncoTreeLevel 2
+subTypes 1

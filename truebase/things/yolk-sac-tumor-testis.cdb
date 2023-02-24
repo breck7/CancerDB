@@ -1,0 +1,11 @@
+title Yolk Sac Tumor Testis
+type cancerType
+mainType Germ Cell Tumor
+tissue Testis
+
+oncoTreeId TYST
+parentOncoTreeId NSGCT
+umls C0279708
+nciCode C8000
+oncoTreeLevel 3
+subTypes 0

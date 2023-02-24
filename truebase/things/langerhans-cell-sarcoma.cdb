@@ -1,0 +1,9 @@
+title Langerhans Cell Sarcoma
+type cancerType
+mainType Histiocytosis
+tissue Myeloid
+
+oncoTreeId LCS
+parentOncoTreeId HDCN
+oncoTreeLevel 4
+subTypes 0

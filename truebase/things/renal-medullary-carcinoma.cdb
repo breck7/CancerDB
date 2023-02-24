@@ -1,0 +1,10 @@
+title Renal Medullary Carcinoma
+type cancerType
+mainType Renal Cell Carcinoma
+tissue Kidney
+
+oncoTreeId MRC
+parentOncoTreeId NCCRCC
+umls CL448379
+oncoTreeLevel 4
+subTypes 0

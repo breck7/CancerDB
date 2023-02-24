@@ -1,0 +1,9 @@
+title AML (megakaryoblastic) with t(1;22)(p13.3;q13.3);RBM15-MKL1
+type cancerType
+mainType Leukemia
+tissue Myeloid
+
+oncoTreeId AMLRBM15MKL1
+parentOncoTreeId AMLRGA
+oncoTreeLevel 5
+subTypes 0

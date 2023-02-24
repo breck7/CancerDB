@@ -1,0 +1,11 @@
+title Liver
+type cancerType
+mainType Liver Cancer, NOS
+tissue Liver
+
+oncoTreeId LIVER
+parentOncoTreeId TISSUE
+umls C0023884
+nciCode C12392
+oncoTreeLevel 1
+subTypes 9

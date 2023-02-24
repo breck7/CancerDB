@@ -1,0 +1,9 @@
+title Lymphoid Benign
+type cancerType
+mainType Lymphatic Cancer, NOS
+tissue Lymphoid
+
+oncoTreeId LBGN
+parentOncoTreeId LYMPH
+oncoTreeLevel 2
+subTypes 0

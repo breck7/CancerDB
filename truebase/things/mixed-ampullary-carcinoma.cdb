@@ -1,0 +1,9 @@
+title Mixed Ampullary Carcinoma
+type cancerType
+mainType Ampullary Cancer
+tissue Ampulla of Vater
+
+oncoTreeId MAMPCA
+parentOncoTreeId AMPCA
+oncoTreeLevel 3
+subTypes 0

@@ -1,0 +1,11 @@
+title Hemangiopericytoma of the Central Nervous System
+type cancerType
+mainType CNS Cancer
+tissue CNS/Brain
+
+oncoTreeId HPCCNS
+parentOncoTreeId MNGT
+umls C0349622
+nciCode C4660
+oncoTreeLevel 3
+subTypes 0

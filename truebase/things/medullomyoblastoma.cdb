@@ -1,0 +1,11 @@
+title Medullomyoblastoma
+type cancerType
+mainType Embryonal Tumor
+tissue CNS/Brain
+
+oncoTreeId MMB
+parentOncoTreeId EMBT
+umls C0205833
+nciCode C3706
+oncoTreeLevel 3
+subTypes 0

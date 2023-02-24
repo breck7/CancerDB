@@ -1,0 +1,9 @@
+title Acute Leukemias of Ambiguous Lineage
+type cancerType
+mainType Leukemia
+tissue Myeloid
+
+oncoTreeId ALAL
+parentOncoTreeId MNM
+oncoTreeLevel 3
+subTypes 5

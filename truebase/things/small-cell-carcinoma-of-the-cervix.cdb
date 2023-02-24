@@ -1,0 +1,11 @@
+title Small Cell Carcinoma of the Cervix
+type cancerType
+mainType Cervical Cancer
+tissue Cervix
+
+oncoTreeId SCCE
+parentOncoTreeId CERVIX
+umls C0279674
+nciCode C7982
+oncoTreeLevel 2
+subTypes 0

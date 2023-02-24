@@ -1,0 +1,11 @@
+title Follicular Thyroid Cancer
+type cancerType
+mainType Thyroid Cancer
+tissue Thyroid
+
+oncoTreeId THFO
+parentOncoTreeId WDTC
+umls C0206682
+nciCode C8054
+oncoTreeLevel 3
+subTypes 0

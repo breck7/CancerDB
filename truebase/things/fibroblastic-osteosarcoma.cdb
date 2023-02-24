@@ -1,0 +1,11 @@
+title Fibroblastic Osteosarcoma
+type cancerType
+mainType Bone Cancer
+tissue Bone
+
+oncoTreeId FIOS
+parentOncoTreeId OS
+umls C0279602
+nciCode C4020
+oncoTreeLevel 3
+subTypes 0

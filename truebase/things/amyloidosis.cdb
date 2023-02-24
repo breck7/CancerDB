@@ -1,0 +1,9 @@
+title Amyloidosis
+type cancerType
+mainType Mature B-Cell Neoplasms
+tissue Lymphoid
+
+oncoTreeId MIDDA
+parentOncoTreeId MIDD
+oncoTreeLevel 6
+subTypes 0

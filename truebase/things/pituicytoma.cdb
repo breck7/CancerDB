@@ -1,0 +1,11 @@
+title Pituicytoma
+type cancerType
+mainType Sellar Tumor
+tissue CNS/Brain
+
+oncoTreeId PTCY
+parentOncoTreeId SELT
+umls C2986550
+nciCode C94524
+oncoTreeLevel 3
+subTypes 0

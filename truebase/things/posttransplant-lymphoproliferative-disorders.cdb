@@ -1,0 +1,9 @@
+title Posttransplant Lymphoproliferative Disorders
+type cancerType
+mainType Posttransplant Lymphoproliferative Disorders
+tissue Lymphoid
+
+oncoTreeId PTLD
+parentOncoTreeId LNM
+oncoTreeLevel 3
+subTypes 6

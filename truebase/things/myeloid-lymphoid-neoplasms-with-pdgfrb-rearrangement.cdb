@@ -1,0 +1,9 @@
+title Myeloid/Lymphoid Neoplasms with PDGFRB Rearrangement
+type cancerType
+mainType Leukemia
+tissue Myeloid
+
+oncoTreeId MLNPDGFRB
+parentOncoTreeId MLNER
+oncoTreeLevel 4
+subTypes 0

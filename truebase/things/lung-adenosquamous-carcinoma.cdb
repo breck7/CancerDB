@@ -1,0 +1,11 @@
+title Lung Adenosquamous Carcinoma
+type cancerType
+mainType Non-Small Cell Lung Cancer
+tissue Lung
+
+oncoTreeId LUAS
+parentOncoTreeId NSCLC
+umls C0279557
+nciCode C9133
+oncoTreeLevel 3
+subTypes 0

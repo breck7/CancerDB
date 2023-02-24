@@ -1,0 +1,11 @@
+title Cancer of Unknown Primary
+type cancerType
+mainType Cancer of Unknown Primary
+tissue Other
+
+oncoTreeId CUP
+parentOncoTreeId OTHER
+umls C0220647
+nciCode C3812
+oncoTreeLevel 2
+subTypes 10
