@@ -352,32 +352,36 @@ sandbox/lib/show-hint.js`.split("\n")
   }
 
   importFromOncoTreeCommand() {
-    const walkType = (tree, items, parentId) => {
-      const code = tree.get("code")
-      const name = tree.get("name")
+    const walkType = (tree, items, oncoTreeLevel, parentOncoTreeId) => {
+      const oncoTreeId = tree.get("code")
+      const title = tree.get("name")
       const mainType = tree.get("mainType")
       const umls = tree.get("externalReferences UMLS 0")
-      const nci = tree.get("externalReferences NCI 0")
+      const nciCode = tree.get("externalReferences NCI 0")
       const tissue = tree.get("tissue")
       const kids = tree.getNode("children")
       const currentCount = items.length
-      if (!name) return
+      if (!title) return
 
-      if (kids) kids.forEach(node => walkType(node, items, code))
+      if (kids)
+        kids.forEach(node =>
+          walkType(node, items, oncoTreeLevel + 1, oncoTreeId)
+        )
       items.push({
-        code,
-        name,
+        title,
         mainType,
+        oncoTreeId,
+        parentOncoTreeId,
         tissue,
         umls,
-        nci,
-        parentId,
-        descendants: kids ? items.length - currentCount : 0
+        nciCode,
+        oncoTreeLevel,
+        subTypes: kids ? items.length - currentCount : 0
       })
     }
     const items = []
     const tree = TreeNode.fromDisk(path.join(ignoreFolder, "oncoTree.tree"))
-    walkType(tree.nodeAt(0), items)
+    walkType(tree.nodeAt(0), items, 0)
     items.pop()
     const typeCount = items.length
     const output = new TreeNode(items)
