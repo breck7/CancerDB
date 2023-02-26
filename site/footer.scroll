@@ -6,10 +6,10 @@ replaceJs DAYS_SINCE_ALPHA_LAUNCH Math.floor(dayjs().diff(dayjs("2022-11-01"), "
 
 stumpNoSnippet
  div
-  class pldbFooter
+  class trueBaseThemeFooter
   a CancerDB
    href BASE_URL/index.html
-   class logoFont
+   class trueBaseThemeLogo
   span ·
   a #CancerMoonshot
    href https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/12/remarks-by-president-biden-on-the-cancer-moonshot-initiative/

@@ -102,13 +102,13 @@ class TreatmentPageTemplate {
     return `import header.scroll
 viewSourceUrl ${this.sourceUrl}
 keyboardNav ${this.prevPage} ${this.nextPage}
-html <a class="prevLang" href="${
+html <a class="trueBaseThemePreviousItem" href="${
       this.prevPage
-    }">&lt;</a><a class="nextLang" href="${this.nextPage}">&gt;</a>
+    }">&lt;</a><a class="trueBaseThemeNextItem" href="${this.nextPage}">&gt;</a>
 
 title ${title}
 
-html <div class="quickLinks">${this.quickLinks}</div>
+html <div class="trueBaseThemeQuickLinks">${this.quickLinks}</div>
 
 ${description ? description : ""}
 
@@ -220,7 +220,7 @@ html <div id="tqlErrors"></div>
 * Searched ${numeral(folder.length).format("0,0")} files and found ${
         hits.length
       } matches in ${queryTime}s. 
- class searchResultsHeader
+ class trueBaseThemeSearchResultsHeader
 
 ${title ? `# ${encodedTitle}` : ""}
 ${description ? `* ${encodedDescription}` : ""}

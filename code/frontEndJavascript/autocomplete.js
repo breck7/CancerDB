@@ -45,5 +45,5 @@ const initAutocomplete = elementId => {
 }
 
 document.addEventListener("DOMContentLoaded", evt =>
-  initAutocomplete("headerSearch")
+  initAutocomplete("trueBaseThemeHeaderSearch")
 )

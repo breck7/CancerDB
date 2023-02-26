@@ -15,49 +15,45 @@ a:hover {
   box-sizing: border-box;
 }
 
-.pldbHeader {
+.trueBaseThemeHeader {
   margin-bottom: 10px;
 }
-.pldbHeader a {
+.trueBaseThemeHeader a {
   color: black;
   margin-right: 5px;
   font-size: 16px;
 }
-.highlightHit {
-  font-weight: bold;
-  color: #000;
-}
-.logoFont {
+.trueBaseThemeLogo {
   font-weight: bold;
   font-family: Tahoma, Arial;
 }
-.pldbHeader a:hover,
-.pldbFooter a:hover {
+.trueBaseThemeHeader a:hover,
+.trueBaseThemeFooter a:hover {
   color: black;
 }
-.gitHubTopRightLinkComponent {
+.trueBaseThemeGitHubTopRight {
   text-align: right;
   position: absolute;
   display: block;
   right: 20px;
   top: 8px;
 }
-.gitHubTopRightLinkComponent svg {
+.trueBaseThemeGitHubTopRight svg {
   width: 26px;
   fill: rgba(204, 204, 204, 0.5);
 }
-.gitHubTopRightLinkComponent svg:hover {
+.trueBaseThemeGitHubTopRight svg:hover {
   fill: #333;
 }
 
-.pldbFooter {
+.trueBaseThemeFooter {
   margin-top: 18px;
   color: #828282;
 }
-.pldbFooter a {
+.trueBaseThemeFooter a {
   color: #828282;
 }
-#headerSearch {
+#trueBaseThemeHeaderSearch {
   border: 0;
   background: transparent;
   font-size: 16px;
@@ -125,28 +121,12 @@ a:hover {
   margin: 6px 0;
 }
 
-.pldbHomepageLink {
-  color: #000;
-  text-decoration: none;
-  display: block;
-}
-
 /* todo: should be in trueBase code? */
-.searchResultsHeader {
+.trueBaseThemeSearchResultsHeader {
   color: #333;
   margin-bottom: 3px;
   font-size: 12px;
   font-style: italic;
-}
-
-.searchResultFullText,
-.searchResultName {
-  color: #333;
-}
-
-.highlightHit {
-  font-weight: bold;
-  color: #000;
 }
 
 .tqlForm {
@@ -207,23 +187,23 @@ a:hover {
 
 /* end search css */
 
-.prevLang,
-.nextLang {
+.trueBaseThemePreviousItem,
+.trueBaseThemeNextItem {
   position: absolute;
   font-size: 16px;
   line-height: 26px;
   top: 8px;
   color: rgba(204, 204, 204, 0.5);
 }
-.prevLang:hover,
-.nextLang:hover {
+.trueBaseThemePreviousItem:hover,
+.trueBaseThemeNextItem:hover {
   color: rgba(204, 204, 204, 1);
 }
-.prevLang {
+.trueBaseThemePreviousItem {
   left: 2px;
   text-align: left;
 }
-.nextLang {
+.trueBaseThemeNextItem {
   right: 2px;
   text-align: right;
 }
@@ -254,16 +234,16 @@ a:hover {
   -webkit-font-smoothing: antialiased;
 }
 
-.quickLinks a {
+.trueBaseThemeQuickLinks a {
   display: inline-block;
   color: black;
   text-decoration: none;
 }
-.quickLinks a svg {
+.trueBaseThemeQuickLinks a svg {
   width: 24px;
   height: 24px;
 }
-.quickLinks a:hover {
+.trueBaseThemeQuickLinks a:hover {
   filter: drop-shadow(0px 1px 1px rgb(0 0 0 / 0.2));
 }
 
