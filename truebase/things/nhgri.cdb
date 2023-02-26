@@ -1,6 +1,6 @@
 title NHGRI
 type nationalGovernmentAgency
-parentOrganizations nih
+parentOrganization nih
 standsFor National Human Genome Research Institute
 description The National Human Genome Research Institute (NHGRI) is an institute of the National Institutes of Health, located in Bethesda, Maryland.
 

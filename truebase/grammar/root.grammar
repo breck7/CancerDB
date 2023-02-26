@@ -5,7 +5,7 @@ cdbNode
  todo Should not have to manually list each node type here, but should be able to mark some tag as inscope. Should be fixed upstream in Jtree.
  inScope blankLineNode abstractTopLevelNode membersNode
  string fileExtension cdb
- sortTemplate title type mainType tissue cancerTypes appeared closed publicationFrequency originCommunity parentOrganizations company standsFor description aka tradenames related  oncoTreeId parentOncoTreeId umls nciCode oncoTreeLevel subTypes  author pdf journal  website coursera githubRepo eventsPage subreddit wikipedia reference watchOnYouTube amazon github twitter facebook linkedIn youtube instagram  phoneNumber  country city members  nciDesignation hostSchool usNewsRank  routesOfAdministration kegg drugBank medlinePlus pubChem  englandAndWalesCharityDetails charityNavigator guideStar
+ sortTemplate title type mainType tissue cancerTypes appeared closed publicationFrequency originCommunity parentOrganization company standsFor description aka tradenames related  oncoTreeId parentOncoTreeId umls nciCode oncoTreeLevel subTypes  author pdf journal  website coursera githubRepo eventsPage subreddit wikipedia reference watchOnYouTube amazon github twitter facebook linkedIn youtube instagram  phoneNumber  country city members  nciDesignation hostSchool usNewsRank  routesOfAdministration kegg drugBank medlinePlus pubChem  englandAndWalesCharityDetails charityNavigator guideStar
 blankCell
 blankLineNode
  description Blank lines compile to nothing in the HTML.

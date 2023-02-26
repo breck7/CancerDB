@@ -1,6 +1,6 @@
 title NIH
 type nationalGovernmentAgency
-parentOrganizations hhs
+parentOrganization hhs
 standsFor National Institutes of Health
 
 website https://www.nih.gov/

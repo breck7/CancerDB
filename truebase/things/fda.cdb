@@ -1,6 +1,6 @@
 title FDA
 type nationalGovernmentAgency
-parentOrganizations hhs
+parentOrganization hhs
 standsFor Food & Drug Administration
 
 website https://www.fda.gov/
