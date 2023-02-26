@@ -332,7 +332,12 @@ sandbox/lib/show-hint.js`.split("\n")
     cancerDBFolder.forEach(file => {
       file.prettifyAndSave()
       // todo: fix this bug upstream in jtree.
-      file.setChildren(file.childrenToString().replace(/\n\n+/g, "\n\n"))
+      file.setChildren(
+        file
+          .childrenToString()
+          .replace(/\n\n+/g, "\n\n")
+          .trim()
+      )
       file.save()
     })
   }
