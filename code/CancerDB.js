@@ -177,6 +177,10 @@ class CancerDBServer extends TrueBaseServer {
       res.send(searchCache[query])
     })
 
+    app.get("/s/:query", (req, res) =>
+      res.redirect(`/search.html?q=includes+${req.params.query}`)
+    )
+
     app.get("/fullTextSearch", (req, res) =>
       res.redirect(`/search.html?q=includes+${req.query.q}`)
     )
