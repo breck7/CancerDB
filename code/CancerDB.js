@@ -207,6 +207,7 @@ class CancerDBServer extends TrueBaseServer {
     )
     const encodedTitle = Utils.escapeScrollAndHtml(title)
     const encodedDescription = Utils.escapeScrollAndHtml(description)
+    const encodedQuery = encodeURIComponent(originalQuery)
 
     return new ScrollFile(
       `${scrollHeader}
@@ -219,7 +220,7 @@ html <div id="tqlErrors"></div>
 
 * Searched ${numeral(folder.length).format("0,0")} files and found ${
         hits.length
-      } matches in ${queryTime}s. 
+      } matches in ${queryTime}s.
  class trueBaseThemeSearchResultsHeader
 
 ${title ? `# ${encodedTitle}` : ""}
@@ -227,6 +228,12 @@ ${description ? `* ${encodedDescription}` : ""}
 
 table ${delimiter}
  ${results.replace(/\n/g, "\n ")}
+
+* Results as JSON, CSV, TSV or Tree
+ link search.json?q=${encodedQuery} JSON
+ link search.csv?q=${encodedQuery} CSV
+ link search.tsv?q=${encodedQuery} TSV
+ link search.tree?q=${encodedQuery} Tree
 
 html <script>document.addEventListener("DOMContentLoaded", () => new TrueBaseFrontEndApp().renderSearchPage())</script>
 
