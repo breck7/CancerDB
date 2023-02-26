@@ -36,7 +36,7 @@
     "jtree": "^68.0.0",
     "numeral": "^2.0.6",
     "scroll-cli": "^58.2.2",
-    "truebase": "^2.0.0"
+    "truebase": "^2.0.1"
   },
   "devDependencies": {
     "@types/node": "^18.7.18"
