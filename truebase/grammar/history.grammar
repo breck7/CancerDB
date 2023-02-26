@@ -1,4 +1,6 @@
 appearedNode
  extends abstractYearNode
+closedNode
+ extends abstractYearNode
 originCommunityNode
  extends abstractTopLevelStringNode
