@@ -3,3 +3,6 @@ type cancerType
 tissue Colon
 
 reference https://www.cancer.gov/types/colorectal
+
+annualDeathsReport US https://www.cdc.gov/cancer/dcpc/research/update-on-cancer-deaths/index.htm
+ 2020 51869

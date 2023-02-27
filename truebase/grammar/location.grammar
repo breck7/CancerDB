@@ -1,3 +1,5 @@
+countryCodeCell
+ extends stringCell
 countryNameCell
  extends stringCell
 cityStateCell
