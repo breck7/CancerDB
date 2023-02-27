@@ -11,9 +11,15 @@ import searchForm.scroll
 
 replace BASE_URL .
 
+* Top sites
+
+html <a href="https://cancer.gov">Cancer.gov</a> · <a href="https://cancer.org">Cancer.org</a>
+
+* New posts
 loop
- groups posts/index
+ groups posts/about
  join <br>
+ limit 3
  javascript `<a href="${item.relativeLink}">${item.title}</a>`
 
 html </center>

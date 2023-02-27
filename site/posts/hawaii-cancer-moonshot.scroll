@@ -2,6 +2,7 @@ import header.scroll
 title The Hawai'i #CancerMoonshot
 date 09-15-2022
 openGraphImage https://cancerdb.com/posts/japan.jpeg
+groups index about
 
 startColumns 2
 
@@ -40,6 +41,7 @@ quote
  
  - President Joe Biden
 
-groups index
+endColumns
+
 keyboardNav
 import ../footer.scroll

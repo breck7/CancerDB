@@ -1,0 +1,3 @@
+wolframAlphaNode
+ extends abstractUrlNode
+ string sourceDomain wolframalpha.com
