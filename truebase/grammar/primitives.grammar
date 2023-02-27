@@ -1,6 +1,8 @@
 intCell
 yearCell
  extends intCell
+boolCell
+ enum true false
 urlCell
  highlightScope constant.language
  regex (ftp|https?)://.+
@@ -26,6 +28,11 @@ abstractIntNode
 abstractYearNode
  cells keywordCell yearCell
  extends abstractIntNode
+abstractBooleanNode
+ cells keywordCell boolCell
+ extends abstractTopLevelNode
+ cruxFromId
+ single
 abstractUrlNode
  cells keywordCell urlCell
  extends abstractTopLevelNode

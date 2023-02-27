@@ -1,0 +1,6 @@
+isOpenSourceNode
+ description Is it an open source project?
+ extends abstractBooleanNode
+isPublicDomainNode
+ description Is it a public domain project?
+ extends abstractBooleanNode
