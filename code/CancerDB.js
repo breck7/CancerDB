@@ -275,7 +275,7 @@ ${scrollFooter}
 
   buildDistFolder() {
     if (!Disk.exists(distFolder)) Disk.mkdir(distFolder)
-    this.server.buildTqlExtension()
+    this.buildTqlExtension()
 
     Disk.write(path.join(distFolder, "cdb.grammar"), this.folder.grammarCode)
 
@@ -367,7 +367,7 @@ sandbox/lib/show-hint.js`.split("\n")
     Disk.write(path.join(ignoreFolder, "types.csv"), output.toCsv())
     const patch = new TreeNode()
     items.forEach(item =>
-      this.server.applyPatch(
+      this.applyPatch(
         new TreeNode().appendLineAndChildren("create", item).toString()
       )
     )
