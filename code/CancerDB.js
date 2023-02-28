@@ -48,11 +48,6 @@ class CancerDBFolder extends TrueBaseFolder {
   }
 }
 
-const cancerDBFolder = new CancerDBFolder()
-  .setDir(path.join(truebaseFolder, "things"))
-  .setGrammarDir(path.join(truebaseFolder, "grammar"))
-  .loadFolder()
-
 const templates = {}
 templates.default = file => `code
  ${file.childrenToString().replace(/\n/g, "\n ")}`
@@ -267,21 +262,9 @@ ${scrollFooter}
     )
     this.tqlParser = require(jsPath)
   }
-}
-
-class CancerDBServerCommands {
-  server = new CancerDBServer(cancerDBFolder, ignoreFolder)
-
-  startDevServerCommand(port) {
-    this.server.listen(port)
-  }
-
-  startProdServerCommand() {
-    this.server.listenProd()
-  }
 
   buildAllCommand() {
-    cancerDBFolder.forEach(file =>
+    this.folder.forEach(file =>
       Disk.write(
         path.join(publishedFolder, `${file.id}.scroll`),
         new TreatmentPageTemplate(file).toScroll()
@@ -294,7 +277,7 @@ class CancerDBServerCommands {
     if (!Disk.exists(distFolder)) Disk.mkdir(distFolder)
     this.server.buildTqlExtension()
 
-    Disk.write(path.join(distFolder, "cdb.grammar"), cancerDBFolder.grammarCode)
+    Disk.write(path.join(distFolder, "cdb.grammar"), this.folder.grammarCode)
 
     // todo: cleanup
     GrammarCompiler.compileGrammarForBrowser(
@@ -333,38 +316,6 @@ sandbox/lib/show-hint.js`.split("\n")
       path.join(distFolder, "combined.css"),
       filepaths.map(Disk.read).join(`\n\n`)
     )
-  }
-
-  formatCommand() {
-    cancerDBFolder.forEach(file => {
-      file.prettifyAndSave()
-      // todo: fix this bug upstream in jtree.
-      file.setChildren(
-        file
-          .childrenToString()
-          .replace(/\n\n+/g, "\n\n")
-          .trim()
-      )
-      file.save()
-    })
-  }
-
-  createFromTreeCommand() {
-    TreeNode.fromDisk(path.join(ignoreFolder, "create.tree")).forEach(node =>
-      cancerDBFolder.createFile(node.childrenToString())
-    )
-  }
-
-  createFromCsvCommand() {
-    TreeNode.fromCsv(
-      Disk.read(path.join(ignoreFolder, "create.csv"))
-    ).forEach(node => cancerDBFolder.createFile(node.childrenToString()))
-  }
-
-  createFromTsvCommand() {
-    TreeNode.fromTsv(
-      Disk.read(path.join(ignoreFolder, "create.tsv"))
-    ).forEach(node => cancerDBFolder.createFile(node.childrenToString()))
   }
 
   importFromOncoTreeCommand() {
@@ -428,7 +379,7 @@ sandbox/lib/show-hint.js`.split("\n")
     const {
       WikipediaImporter
     } = require("../../truecrawler/wikipedia.org/Wikipedia.js")
-    const importer = new WikipediaImporter(cancerDBFolder)
+    const importer = new WikipediaImporter(this.folder)
     await importer.fetchAllCommand()
 
     // return importer.filesWithWikipediaPages.forEach(linkedFile =>
@@ -504,7 +455,7 @@ sandbox/lib/show-hint.js`.split("\n")
     // Todo: figuring out best repo orgnization for crawlers.
     // Note: this currently assumes you have truecrawler project installed separateely.
     const { RedditImporter } = require("../../truecrawler/reddit.com/Reddit.js")
-    const importer = new RedditImporter(cancerDBFolder)
+    const importer = new RedditImporter(this.folder)
     await importer.fetchAllCommand()
     importer.writeToDatabaseCommand()
   }
@@ -513,17 +464,19 @@ sandbox/lib/show-hint.js`.split("\n")
     // Todo: figuring out best repo orgnization for crawlers.
     // Note: this currently assumes you have truecrawler project installed separateely.
     const { WebsiteImporter } = require("../../truecrawler/website/Website.js")
-    const importer = new WebsiteImporter(cancerDBFolder)
+    const importer = new WebsiteImporter(this.folder)
     await importer.downloadAllCommand()
     importer.matches.forEach(file => file.extractPhoneNumber())
   }
 }
 
-module.exports = { CancerDBServer, cancerDBFolder }
+const cancerDBFolder = new CancerDBFolder()
+  .setDir(path.join(truebaseFolder, "things"))
+  .setGrammarDir(path.join(truebaseFolder, "grammar"))
+  .loadFolder()
 
-if (!module.parent)
-  Utils.runCommand(
-    new CancerDBServerCommands(),
-    process.argv[2],
-    process.argv[3]
-  )
+const CancerDB = new CancerDBServer(cancerDBFolder, ignoreFolder)
+
+module.exports = { CancerDB }
+
+if (!module.parent) Utils.runCommand(CancerDB, process.argv[2], process.argv[3])

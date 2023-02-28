@@ -2,7 +2,7 @@
 
 const tap = require("tap")
 const { ScrollFolder } = require("scroll-cli")
-const { CancerDBServer, cancerDBFolder } = require("./CancerDB.js")
+const { CancerDB } = require("./CancerDB.js")
 const { TestRacer } = require("jtree/products/TestRacer.js")
 const { Utils } = require("jtree/products/Utils.js")
 
@@ -17,9 +17,9 @@ testTree.ensureNoErrorsInScrollExtensions = areEqual => {
 
 testTree.ensureGoodFilenames = areEqual => {
   areEqual(
-    cancerDBFolder.filesWithInvalidFilenames.length,
+    CancerDB.folder.filesWithInvalidFilenames.length,
     0,
-    `all ${cancerDBFolder.length} filenames are valid`
+    `all ${CancerDB.folder.length} filenames are valid`
   )
 }
 
@@ -37,7 +37,7 @@ testTree.ensureNoErrorsInBlog = areEqual => {
 }
 
 testTree.ensureNoErrorsInDb = areEqual => {
-  const { errors } = cancerDBFolder
+  const { errors } = CancerDB.folder
   if (errors.length)
     errors.forEach(err =>
       console.log(
