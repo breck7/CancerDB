@@ -503,8 +503,12 @@ sandbox/lib/show-hint.js`.split("\n")
       const file = this.folder.getFile(id)
       const sorted = lodash.sortBy(toAdd[id], "sex", row => parseInt(row.age))
       const tree = new TreeNode(sorted)
-      file.appendLineAndChildren("uscsTable", tree.toDelimited("|"))
-
+      file.appendLineAndChildren("uscsTable 2019", tree.toDelimited("|"))
+      const deaths =
+        lodash.sum(
+          sorted.map(item => parseInt(item.deaths)).filter(num => !isNaN(num))
+        ) || 0
+      file.set("uscsDeathsPerYear", deaths.toString())
       file.prettifyAndSave()
     })
   }
