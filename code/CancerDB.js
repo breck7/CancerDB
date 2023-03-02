@@ -40,6 +40,16 @@ class CancerDBFile extends TrueBaseFile {
   get link() {
     return `<a href="${this.permalink}">${this.get("title")}</a>`
   }
+
+  get names() {
+    return [
+      this.id,
+      this.title,
+      this.get("uscsId"),
+      this.get("standsFor"),
+      ...this.getAll("aka")
+    ].filter(i => i)
+  }
 }
 
 class CancerDBFolder extends TrueBaseFolder {
@@ -57,6 +67,18 @@ class CancerDBFolder extends TrueBaseFolder {
 
   get filesWithInvalidFilenames() {
     return this.filter(file => file.id !== Utils.titleToPermalink(file.id))
+  }
+
+  getCancerTypeFile(query) {
+    if (!this.quickCache.cancerTypesSearchIndex)
+      this.quickCache.cancerTypesSearchIndex = this.makeNameSearchIndex(
+        this.filter(item => item.get("type") === "cancerType")
+      )
+    query = query.toLowerCase()
+    return (
+      this.quickCache.cancerTypesSearchIndex.get(query) ||
+      this.quickCache.cancerTypesSearchIndex.get(query + " cancer")
+    )
   }
 }
 
@@ -431,6 +453,21 @@ sandbox/lib/show-hint.js`.split("\n")
         new TreeNode().appendLineAndChildren("create", item).toString()
       )
     )
+  }
+
+  async crawlCdcCommand() {
+    // https://www.cdc.gov/cancer/uscs/dataviz/download_data.htm
+    const rows = TreeNode.fromDelimited(
+      Disk.read(path.join(ignoreFolder, "BYAGE.TXT")),
+      "|"
+    )
+    rows.forEach(row => {
+      const SITE = row.get("SITE")
+      const cancerTypePage = this.folder.getCancerTypeFile(SITE)
+      if (!cancerTypePage) console.log(`MISSING: ` + SITE)
+      if (cancerTypePage)
+        console.log(`FOUND: ` + SITE + " TO: " + cancerTypePage.id)
+    })
   }
 
   async crawlWikipediaCommand() {

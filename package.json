@@ -14,7 +14,8 @@
     "stop": "pm2 delete 0",
     "restart": "pm2 restart 0",
     "jtreeBeta": "npm install ~/jtree",
-    "scrollBeta": "npm install ~/scroll"
+    "scrollBeta": "npm install ~/scroll",
+    "trueBaseBeta": "npm install ~/truebase"
   },
   "repository": {
     "type": "git",

@@ -1,6 +1,7 @@
-title Kidney
+title Kidney Cancer
 type cancerType
 mainType Kidney Cancer, NOS
+uscsId Kidney and Renal Pelvis
 tissue Kidney
 
 oncoTreeId KIDNEY

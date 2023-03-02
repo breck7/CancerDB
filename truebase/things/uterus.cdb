@@ -1,6 +1,7 @@
-title Uterus
+title Uterine Cancer
 type cancerType
 mainType Uterine Cancer, NOS
+uscsId Corpus and Uterus, NOS
 tissue Uterus
 
 oncoTreeId UTERUS

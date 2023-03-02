@@ -1,6 +1,7 @@
 title Breast
 type cancerType
 mainType Breast Cancer, NOS
+uscsId Male and Female Breast
 tissue Breast
 
 oncoTreeId BREAST
