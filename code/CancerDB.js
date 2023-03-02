@@ -481,32 +481,31 @@ sandbox/lib/show-hint.js`.split("\n")
           const id = cancerTypePage.id
           if (!toAdd[id]) toAdd[id] = {}
           const entry = toAdd[id]
-          const sex = row.get("SEX")
-          const age = row.get("AGE")
+          const sex = row.get("SEX") === "Male" ? "M" : "F"
+          const age = row.get("AGE") === "<1" ? "0" : row.get("AGE")
           const count = row.get("COUNT")
           const eventType = row.get("EVENT_TYPE")
           const population = row.get("POPULATION")
           const sexGenderKey = sex + age
           if (!entry[sexGenderKey])
-            entry[sexGenderKey] = { sex, age, population }
+            entry[sexGenderKey] = {
+              sex,
+              age,
+              population,
+              cases: "",
+              deaths: ""
+            }
           if (eventType === "Mortality") entry[sexGenderKey].deaths = count
           else entry[sexGenderKey].cases = count
         }
       })
     Object.keys(toAdd).forEach(id => {
       const file = this.folder.getFile(id)
-      const sorted = lodash.sortBy(toAdd[id], "sex", row =>
-        parseInt(
-          row.age
-            .replace("<", "")
-            .replace("+", "")
-            .replace(/\-\d+/, "")
-        )
-      )
+      const sorted = lodash.sortBy(toAdd[id], "sex", row => parseInt(row.age))
       const tree = new TreeNode(sorted)
       file.appendLineAndChildren("uscsTable", tree.toDelimited("|"))
 
-      file.save()
+      file.prettifyAndSave()
     })
   }
 

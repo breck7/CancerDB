@@ -4,4 +4,7 @@ uscsIdNode
  cruxFromId
  source cdc.gov
  single
- 
+uscsTableNode
+ cells keywordCell yearCell
+ description Data table from https://www.cdc.gov/cancer/uscs/dataviz/download_data.htm
+ extends abstractDelimitedBlobNode

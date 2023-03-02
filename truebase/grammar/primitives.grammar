@@ -45,6 +45,10 @@ abstractAnnualPopulationCountMapNode
 annualPopulationCountNode
  cells yearCell populationCountCell
  uniqueFirstWord
+abstractDelimitedBlobNode
+ baseNodeType blobNode
+ boolean includeChildrenInCsv false
+ extends abstractTopLevelNode
 abstractArrayNode
  extends abstractTopLevelNode
  catchAllCellType stringCell
