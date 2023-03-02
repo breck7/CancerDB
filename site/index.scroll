@@ -11,9 +11,10 @@ import searchForm.scroll
 
 replace BASE_URL .
 
-* Top sites
+* Top queries
 
-html <a href="https://cancer.gov">Cancer.gov</a> · <a href="https://cancer.org">Cancer.org</a>
+* Cancer types causing the most deaths
+ link search.html?q=notMissing+uscsDeathsPerYear%0D%0Aselect+uscsDeathsPerYear%0D%0AsortBy+uscsDeathsPerYear%0D%0Areverse%0D%0Atitle+Cancer+types+causing+the+most+deaths%0D%0Adescription+Data+is+from+the+2019+United+States+Cancer+Statistics+dataset+from+the+CDC.
 
 * New posts
 loop
