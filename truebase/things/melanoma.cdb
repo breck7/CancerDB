@@ -9,3 +9,7 @@ umls C0025202
 nciCode C3224
 oncoTreeLevel 2
 subTypes 7
+
+reference https://www.skincancer.org/skin-cancer-information/melanoma/
+reference https://www.mayoclinic.org/diseases-conditions/melanoma/symptoms-causes/syc-20374884
+cancerDotOrg https://www.cancer.org/cancer/melanoma-skin-cancer.html

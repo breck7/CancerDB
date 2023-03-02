@@ -9,3 +9,6 @@ charityNavigatorNode
 guideStarNode
  extends abstractCharityRegistryNode
  string sourceDomain guidestar.org
+greatNonProfitsNode
+ extends abstractCharityRegistryNode
+ string sourceDomain greatnonprofits.org

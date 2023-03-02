@@ -140,6 +140,15 @@ class TreatmentPageTemplate {
     const title = file.get("title")
     const description = file.get("description")
     const template = templates[type] ?? templates.default
+    const references = file
+      .findNodes("reference")
+      .map(node => node.content)
+      .map(
+        link =>
+          `<a href="${link}">${new URL(link).hostname.replace("www.", "")}</a>`
+      )
+      .join(" · ")
+
     return `import header.scroll
 viewSourceUrl ${this.sourceUrl}
 keyboardNav ${this.prevPage} ${this.nextPage}
@@ -154,6 +163,8 @@ html <div class="trueBaseThemeQuickLinks">${this.quickLinks}</div>
 ${description ? description : ""}
 
 ${template(file)}
+
+${references ? `- Read more about ${title} on ${references}` : ""}
 
 code
  ${file.childrenToString().replace(/\n/g, "\n ")}
