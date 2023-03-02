@@ -36,11 +36,23 @@ class CancerDBFile extends TrueBaseFile {
   get webPermalink() {
     return `/truebase/${this.permalink}`
   }
+
+  get link() {
+    return `<a href="${this.permalink}">${this.get("title")}</a>`
+  }
 }
 
 class CancerDBFolder extends TrueBaseFolder {
   createParser() {
     return new TreeNode.Parser(CancerDBFile)
+  }
+
+  get cancerTypeMap() {
+    return this.getCustomIndex("oncoTreeId")
+  }
+
+  get subTypesMap() {
+    return this.getCustomIndex("parentOncoTreeId")
   }
 
   get filesWithInvalidFilenames() {
@@ -61,9 +73,26 @@ wolframAlpha WolframAlpha`).toObject()
     .map(key => `<a href="${file.get(key)}">${keyMap[key]}</a>`)
     .join(" · ")
 
+  const parentType = file.get("parentOncoTreeId")
+  let parentMessage = ""
+  if (parentType && parentType !== "TISSUE") {
+    const parent = file.parent.cancerTypeMap[parentType][0]
+    parentMessage = `* ${title} is a type of ${parent.link}`
+  }
+  const oncoTreeId = file.get("oncoTreeId")
+  let subTypesMessage = ""
+  if (oncoTreeId) {
+    const subTypes = file.parent.subTypesMap[oncoTreeId]
+    if (subTypes)
+      subTypesMessage = `* Subtypes of ${title} include ${subTypes
+        .map(file => file.link)
+        .join(", ")}`
+  }
+
   if (pages) pages = `* ${title} on ${pages}`
   return `${pages}
-
+${parentMessage}
+${subTypesMessage}
 `
 }
 templates.documentary = file =>
