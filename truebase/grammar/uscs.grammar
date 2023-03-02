@@ -9,6 +9,7 @@ uscsTableNode
  description Data table from https://www.cdc.gov/cancer/uscs/dataviz/download_data.htm
  extends abstractDelimitedBlobNode
  source cdc.gov
-uscsDeathsPerYear
- cells keywordCell intCell
+uscsDeathsPerYearNode
+ extends abstractIntNode
+ single
  description Cumulative number of deaths per year for a cancer type in the U.S. Cancer Statistics data set.

@@ -245,6 +245,12 @@ class CancerDBServer extends TrueBaseServer {
     super.initSearch()
     const { app } = this
 
+    app.get("/cancerdb.json", (req, res) =>
+      res
+        .setHeader("content-type", "application/json")
+        .send(this.folder.typedMapJson)
+    )
+
     const searchCache = {}
     app.get("/search.html", (req, res) => {
       const { searchServer } = this

@@ -1,4 +1,5 @@
 intCell
+ highlightScope constant.numeric.integer
 yearCell
  extends intCell
 boolCell
