@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
 const path = require("path")
+const lodash = require("lodash")
 const numeral = require("numeral")
 const { Utils } = require("jtree/products/Utils.js")
 const { Disk } = require("jtree/products/Disk.node.js")
@@ -494,8 +495,17 @@ sandbox/lib/show-hint.js`.split("\n")
       })
     Object.keys(toAdd).forEach(id => {
       const file = this.folder.getFile(id)
-      const tree = new TreeNode(toAdd[id])
+      const sorted = lodash.sortBy(toAdd[id], "sex", row =>
+        parseInt(
+          row.age
+            .replace("<", "")
+            .replace("+", "")
+            .replace(/\-\d+/, "")
+        )
+      )
+      const tree = new TreeNode(sorted)
       file.appendLineAndChildren("uscsTable", tree.toDelimited("|"))
+
       file.save()
     })
   }
