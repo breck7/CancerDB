@@ -49,8 +49,23 @@ class CancerDBFolder extends TrueBaseFolder {
 }
 
 const templates = {}
-templates.default = file => `code
- ${file.childrenToString().replace(/\n/g, "\n ")}`
+templates.default = file => ``
+templates.cancerType = file => {
+  const title = file.get("title")
+  const keyMap = new TreeNode(`cancerDotGov Cancer.gov
+cancerDotOrg Cancer.org
+wikipedia Wikipedia.org
+wolframAlpha WolframAlpha`).toObject()
+  let pages = Object.keys(keyMap)
+    .filter(key => file.has(key))
+    .map(key => `<a href="${file.get(key)}">${keyMap[key]}</a>`)
+    .join(" · ")
+
+  if (pages) pages = `* ${title} on ${pages}`
+  return `${pages}
+
+`
+}
 templates.documentary = file =>
   file.has("watchOnYouTube") ? `youTube ${file.get("watchOnYouTube")}` : ""
 
@@ -110,6 +125,9 @@ html <div class="trueBaseThemeQuickLinks">${this.quickLinks}</div>
 ${description ? description : ""}
 
 ${template(file)}
+
+code
+ ${file.childrenToString().replace(/\n/g, "\n ")}
 
 import ../footer.scroll
 `.replace(/\n\n\n+/g, "\n\n")

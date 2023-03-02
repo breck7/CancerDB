@@ -1,4 +1,4 @@
-title Skin
+title Skin Cancer
 type cancerType
 mainType Skin Cancer, NOS
 tissue Skin
@@ -10,6 +10,7 @@ nciCode C12470
 oncoTreeLevel 1
 subTypes 29
 
-reference https://www.cancer.gov/types/skin
-reference https://www.cancer.org/cancer/skin-cancer.html
+wikipedia https://en.wikipedia.org/wiki/Skin_cancer
+cancerDotGov https://www.cancer.gov/types/skin
+cancerDotOrg https://www.cancer.org/cancer/skin-cancer.html
 wolframAlpha https://www.wolframalpha.com/input?i=skin+cancer

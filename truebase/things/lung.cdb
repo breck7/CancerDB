@@ -10,8 +10,8 @@ nciCode C12468
 oncoTreeLevel 1
 subTypes 29
 
-reference https://www.cancer.gov/types/lung
-reference https://www.cancer.org/cancer/lung-cancer.html
+cancerDotGov https://www.cancer.gov/types/lung
+cancerDotOrg https://www.cancer.org/cancer/lung-cancer.html
 reference https://www.wolframalpha.com/input?i=lung+cancer
 
 annualDeathsReport US https://www.cdc.gov/cancer/dcpc/research/update-on-cancer-deaths/index.htm

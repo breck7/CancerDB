@@ -10,7 +10,7 @@ nciCode C12393
 oncoTreeLevel 1
 subTypes 12
 
-reference https://www.cancer.gov/types/pancreatic
+cancerDotGov https://www.cancer.gov/types/pancreatic
 reference https://www.wolframalpha.com/input?i=pancreatic+cancer
 
 annualDeathsReport US https://www.cdc.gov/cancer/dcpc/research/update-on-cancer-deaths/index.htm

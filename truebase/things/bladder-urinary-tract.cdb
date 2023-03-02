@@ -10,5 +10,5 @@ nciCode C12414
 oncoTreeLevel 1
 subTypes 17
 
-reference https://www.cancer.gov/types/bladder
-reference https://www.cancer.org/cancer/bladder-cancer.html
+cancerDotGov https://www.cancer.gov/types/bladder
+cancerDotOrg https://www.cancer.org/cancer/bladder-cancer.html
