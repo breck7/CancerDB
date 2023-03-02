@@ -1,6 +1,7 @@
-title Lung
+title Lung Cancer
 type cancerType
 mainType Lung Cancer, NOS
+uscsId Lung and Bronchus
 tissue Lung
 
 oncoTreeId LUNG

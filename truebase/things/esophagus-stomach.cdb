@@ -1,6 +1,7 @@
 title Esophagus/Stomach Cancer
 type cancerType
 mainType Esophageal/Stomach Cancer, NOS
+uscsId Esophagus
 tissue Esophagus/Stomach
 
 oncoTreeId STOMACH

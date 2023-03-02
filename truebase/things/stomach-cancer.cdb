@@ -1,0 +1,8 @@
+title Stomach Cancer
+type cancerType
+uscsId Stomach
+
+cancerDotGov https://www.cancer.gov/types/stomach
+cancerDotOrg https://www.cancer.org/cancer/stomach-cancer.html
+reference https://www.mayoclinic.org/diseases-conditions/stomach-cancer/symptoms-causes/syc-20352438
+reference https://www.cancer.net/cancer-types/stomach-cancer

@@ -1,6 +1,7 @@
-title CNS/Brain
+title Brain Cancer
 type cancerType
 mainType CNS/Brain Cancer, NOS
+uscsId Brain and Other Nervous System
 tissue CNS/Brain
 
 oncoTreeId BRAIN

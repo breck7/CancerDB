@@ -1,6 +1,7 @@
-title Cervix
+title Cervical Cancer
 type cancerType
 mainType Cervical Cancer, NOS
+uscsId Cervix
 tissue Cervix
 
 oncoTreeId CERVIX

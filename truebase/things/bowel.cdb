@@ -1,6 +1,7 @@
 title Bowel Cancer
 type cancerType
 mainType Bowel Cancer, NOS
+uscsId Colon and Rectum
 tissue Bowel
 
 oncoTreeId BOWEL

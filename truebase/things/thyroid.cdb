@@ -1,6 +1,7 @@
-title Thyroid
+title Thyroid Cancer
 type cancerType
 mainType Thyroid Cancer, NOS
+uscsId Thyroid
 tissue Thyroid
 
 oncoTreeId THYROID

@@ -1,6 +1,7 @@
-title Liver
+title Liver Cancer
 type cancerType
 mainType Liver Cancer, NOS
+uscsId Liver and Intrahepatic Bile Duct
 tissue Liver
 
 oncoTreeId LIVER

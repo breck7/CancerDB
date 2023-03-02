@@ -1,6 +1,7 @@
 title Skin Cancer
 type cancerType
 mainType Skin Cancer, NOS
+uscsId Melanomas of the Skin
 tissue Skin
 
 oncoTreeId SKIN

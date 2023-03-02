@@ -1,6 +1,7 @@
 title Hodgkin Lymphoma
 type cancerType
 mainType Hodgkin Lymphoma
+uscsId Hodgkin Lymphoma
 tissue Lymphoid
 
 oncoTreeId HL

@@ -1,0 +1,8 @@
+title Bladder Cancer
+type cancerType
+uscsId Urinary Bladder
+
+cancerDotGov https://www.cancer.gov/types/bladder
+cancerDotOrg https://www.cancer.org/cancer/bladder-cancer.html
+reference https://www.cdc.gov/cancer/bladder/
+reference https://www.cancer.net/cancer-types/bladder-cancer/introduction

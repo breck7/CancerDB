@@ -1,0 +1,9 @@
+title Ovarian Cancer
+type cancerType
+uscsId Ovary
+
+wikipedia https://en.wikipedia.org/wiki/Ovarian_cancer
+cancerDotOrg https://cancer.org/cancer/ovarian-cancer.html
+reference https://my.clevelandclinic.org/health/diseases/4447-ovarian-cancer
+reference https://medlineplus.gov/ovariancancer.html
+reference https://seer.cancer.gov/statfacts/html/ovary.html

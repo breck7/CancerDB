@@ -1,0 +1,7 @@
+uscsIdNode
+ description The ID of the Cancer Type in the U.S. Cancer Statistics data.
+ extends abstractTopLevelStringNode
+ cruxFromId
+ source cdc.gov
+ single
+ 
