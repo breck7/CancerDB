@@ -1,9 +1,32 @@
 title Ovarian Cancer
 type cancerType
 uscsId Ovary
+uscsDeathsPerYear 13426
 
 wikipedia https://en.wikipedia.org/wiki/Ovarian_cancer
 cancerDotOrg https://cancer.org/cancer/ovarian-cancer.html
 reference https://my.clevelandclinic.org/health/diseases/4447-ovarian-cancer
 reference https://medlineplus.gov/ovariancancer.html
 reference https://seer.cancer.gov/statfacts/html/ovary.html
+
+uscsTable 2019
+ sex|age|population|cases|deaths
+ F|0|1841226|~|~
+ F|1-4|7728847|~|~
+ F|5-9|9886447|32|~
+ F|10-14|10190891|66|~
+ F|15-19|10313575|122|~
+ F|20-24|10577124|148|~
+ F|25-29|11518714|280|33
+ F|30-34|11093732|399|55
+ F|35-39|10861340|503|95
+ F|40-44|10014341|782|202
+ F|45-49|10307804|1199|377
+ F|50-54|10387588|1646|686
+ F|55-59|11232044|2201|1183
+ F|60-64|10708826|2637|1679
+ F|65-69|9252566|2461|1930
+ F|70-74|7527818|2411|2015
+ F|75-79|5333117|2014|1858
+ F|80-84|3636357|1349|1531
+ F|85+|4225260|1311|1782

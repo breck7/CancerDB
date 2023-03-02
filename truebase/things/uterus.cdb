@@ -3,6 +3,7 @@ type cancerType
 mainType Uterine Cancer, NOS
 uscsId Corpus and Uterus, NOS
 tissue Uterus
+uscsDeathsPerYear 11539
 
 oncoTreeId UTERUS
 parentOncoTreeId TISSUE
@@ -12,3 +13,25 @@ oncoTreeLevel 1
 subTypes 36
 
 cancerDotGov https://www.cancer.gov/types/uterine
+
+uscsTable 2019
+ sex|age|population|cases|deaths
+ F|0|1841226|~|~
+ F|1-4|7728847|~|~
+ F|5-9|9886447|~|~
+ F|10-14|10190891|~|~
+ F|15-19|10313575|~|~
+ F|20-24|10577124|60|~
+ F|25-29|11518714|264|~
+ F|30-34|11093732|652|35
+ F|35-39|10861340|1172|83
+ F|40-44|10014341|1738|116
+ F|45-49|10307804|2892|253
+ F|50-54|10387588|4927|467
+ F|55-59|11232044|8525|899
+ F|60-64|10708826|10632|1577
+ F|65-69|9252566|10737|2005
+ F|70-74|7527818|8292|2006
+ F|75-79|5333117|4888|1539
+ F|80-84|3636357|2649|1149
+ F|85+|4225260|2019|1410

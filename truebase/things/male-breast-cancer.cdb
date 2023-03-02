@@ -1,5 +1,28 @@
 title Male Breast Cancer
 type cancerType
 uscsId Male Breast
+
 wikipedia https://en.wikipedia.org/wiki/Male_breast_cancer
 reference https://www.mayoclinic.org/diseases-conditions/male-breast-cancer/symptoms-causes/syc-20374740
+
+uscsTable 2019
+ sex|age|population|cases|deaths
+ M|0|0|~|~
+ M|1-4|0|~|~
+ M|5-9|0|~|~
+ M|10-14|0|~|~
+ M|15-19|0|~|~
+ M|20-24|0|~|~
+ M|25-29|0|~|~
+ M|30-34|0|~|~
+ M|35-39|0|~|~
+ M|40-44|0|~|~
+ M|45-49|0|~|~
+ M|50-54|0|~|~
+ M|55-59|0|~|~
+ M|60-64|0|~|~
+ M|65-69|0|~|~
+ M|70-74|0|~|~
+ M|75-79|0|~|~
+ M|80-84|0|~|~
+ M|85+|0|~|~

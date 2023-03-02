@@ -3,6 +3,7 @@ type cancerType
 mainType Breast Cancer, NOS
 uscsId Female Breast
 tissue Breast
+uscsDeathsPerYear 42269
 
 oncoTreeId BREAST
 parentOncoTreeId TISSUE
@@ -12,10 +13,31 @@ oncoTreeLevel 1
 subTypes 35
 
 wikipedia https://en.wikipedia.org/wiki/Breast_cancer
-
 cancerDotGov https://www.cancer.gov/types/breast
 cancerDotOrg https://www.cancer.org/cancer/breast-cancer.html
 reference https://www.wolframalpha.com/input?i=breast+cancer
 
 annualDeathsReport US https://www.cdc.gov/cancer/dcpc/research/update-on-cancer-deaths/index.htm
  2020 42275
+
+uscsTable 2019
+ sex|age|population|cases|deaths
+ F|0|1841226|~|~
+ F|1-4|7728847|~|~
+ F|5-9|9886447|~|~
+ F|10-14|10190891|~|~
+ F|15-19|10313575|24|~
+ F|20-24|10577124|184|~
+ F|25-29|11518714|1192|90
+ F|30-34|11093732|3305|341
+ F|35-39|10861340|6964|759
+ F|40-44|10014341|13064|1152
+ F|45-49|10307804|20518|1835
+ F|50-54|10387588|24768|2762
+ F|55-59|11232044|30422|3978
+ F|60-64|10708826|36064|4898
+ F|65-69|9252566|38975|5123
+ F|70-74|7527818|35472|5300
+ F|75-79|5333117|24628|4553
+ F|80-84|3636357|15175|4142
+ F|85+|4225260|13360|7336

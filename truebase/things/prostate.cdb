@@ -2,6 +2,7 @@ title Prostate Cancer
 type cancerType
 mainType Prostate Cancer, NOS
 tissue Prostate
+uscsDeathsPerYear 31628
 
 oncoTreeId PROSTATE
 parentOncoTreeId TISSUE
@@ -16,3 +17,25 @@ reference https://www.wolframalpha.com/input?i=prostate+cancer
 
 annualDeathsReport US https://www.cdc.gov/cancer/dcpc/research/update-on-cancer-deaths/index.htm
  2020 32707
+
+uscsTable 2019
+ sex|age|population|cases|deaths
+ M|0|1921001|~|~
+ M|1-4|8080265|~|~
+ M|5-9|10335306|~|~
+ M|10-14|10629162|~|~
+ M|15-19|10752848|~|~
+ M|20-24|11066850|~|~
+ M|25-29|12020738|~|~
+ M|30-34|11370500|~|~
+ M|35-39|10892543|60|~
+ M|40-44|9906220|576|21
+ M|45-49|10082635|2942|76
+ M|50-54|10082296|11014|309
+ M|55-59|10639047|26419|915
+ M|60-64|9851308|41923|2007
+ M|65-69|8191801|53316|3188
+ M|70-74|6499159|42827|4402
+ M|75-79|4317707|25759|5054
+ M|80-84|2678743|11854|5433
+ M|85+|2374207|8013|10223

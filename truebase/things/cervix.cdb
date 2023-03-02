@@ -3,6 +3,7 @@ type cancerType
 mainType Cervical Cancer, NOS
 uscsId Cervix
 tissue Cervix
+uscsDeathsPerYear 4144
 
 oncoTreeId CERVIX
 parentOncoTreeId TISSUE
@@ -12,3 +13,25 @@ oncoTreeLevel 1
 subTypes 23
 
 cancerDotOrg https://www.cancer.org/cancer/cervical-cancer.html
+
+uscsTable 2019
+ sex|age|population|cases|deaths
+ F|0|1841226|~|~
+ F|1-4|7728847|~|~
+ F|5-9|9886447|~|~
+ F|10-14|10190891|~|~
+ F|15-19|10313575|~|~
+ F|20-24|10577124|49|~
+ F|25-29|11518714|472|52
+ F|30-34|11093732|1292|131
+ F|35-39|10861340|1500|233
+ F|40-44|10014341|1510|317
+ F|45-49|10307804|1474|400
+ F|50-54|10387588|1336|446
+ F|55-59|11232044|1297|507
+ F|60-64|10708826|1236|511
+ F|65-69|9252566|886|450
+ F|70-74|7527818|663|378
+ F|75-79|5333117|476|281
+ F|80-84|3636357|286|187
+ F|85+|4225260|313|251
