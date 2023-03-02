@@ -1,7 +1,7 @@
-title Breast
+title Breast Cancer
 type cancerType
 mainType Breast Cancer, NOS
-uscsId Male and Female Breast
+uscsId Female Breast
 tissue Breast
 
 oncoTreeId BREAST
@@ -10,6 +10,8 @@ umls C0006141
 nciCode C12971
 oncoTreeLevel 1
 subTypes 35
+
+wikipedia https://en.wikipedia.org/wiki/Breast_cancer
 
 cancerDotGov https://www.cancer.gov/types/breast
 cancerDotOrg https://www.cancer.org/cancer/breast-cancer.html

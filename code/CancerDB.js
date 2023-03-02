@@ -75,10 +75,10 @@ class CancerDBFolder extends TrueBaseFolder {
         this.filter(item => item.get("type") === "cancerType")
       )
     query = query.toLowerCase()
-    return (
+    const hit =
       this.quickCache.cancerTypesSearchIndex.get(query) ||
       this.quickCache.cancerTypesSearchIndex.get(query + " cancer")
-    )
+    return hit ? this.getFile(hit) : undefined
   }
 }
 
@@ -461,12 +461,42 @@ sandbox/lib/show-hint.js`.split("\n")
       Disk.read(path.join(ignoreFolder, "BYAGE.TXT")),
       "|"
     )
-    rows.forEach(row => {
-      const SITE = row.get("SITE")
-      const cancerTypePage = this.folder.getCancerTypeFile(SITE)
-      if (!cancerTypePage) console.log(`MISSING: ` + SITE)
-      if (cancerTypePage)
-        console.log(`FOUND: ` + SITE + " TO: " + cancerTypePage.id)
+    const toAdd = {}
+    rows
+      .filter(
+        row =>
+          row.get("YEAR") === "2019" &&
+          row.get("RACE") === "All Races" &&
+          row.get("SEX") !== "Male and Female"
+      )
+      .forEach(row => {
+        const SITE = row.get("SITE")
+        const cancerTypePage = this.folder.getCancerTypeFile(SITE)
+        if (!cancerTypePage) console.log(`MISSING: ` + SITE)
+        if (cancerTypePage) {
+          // AGE|CI_LOWER|CI_UPPER|COUNT|EVENT_TYPE|POPULATION|RACE|RATE|SEX|SITE|YEAR
+          // 1-4|~|~|~|Mortality|7493614|All Races|~|Female|Colon and Rectum|1999
+          //console.log(row.toString())
+          const id = cancerTypePage.id
+          if (!toAdd[id]) toAdd[id] = {}
+          const entry = toAdd[id]
+          const sex = row.get("SEX")
+          const age = row.get("AGE")
+          const count = row.get("COUNT")
+          const eventType = row.get("EVENT_TYPE")
+          const population = row.get("POPULATION")
+          const sexGenderKey = sex + age
+          if (!entry[sexGenderKey])
+            entry[sexGenderKey] = { sex, age, population }
+          if (eventType === "Mortality") entry[sexGenderKey].deaths = count
+          else entry[sexGenderKey].cases = count
+        }
+      })
+    Object.keys(toAdd).forEach(id => {
+      const file = this.folder.getFile(id)
+      const tree = new TreeNode(toAdd[id])
+      file.appendLineAndChildren("uscsTable", tree.toDelimited("|"))
+      file.save()
     })
   }
 
