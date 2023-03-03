@@ -1,6 +1,7 @@
 title Seattle Children's Hospital
-
 type hospital childrensHospital
+
 website https://www.seattlechildrens.org/
-city Seattle, WA
+
 country United States
+city Seattle, WA

@@ -1,9 +1,10 @@
 title Fred Hutchinson/University of Washington Cancer Consortium
 type nciCancerCenter
 
+website https://www.cancerconsortium.org/
+
 country United States
 city Seattle, Washington
 
 nciDesignation Comprehensive Cancer Center
 usNewsRank 27
-website https://www.cancerconsortium.org/

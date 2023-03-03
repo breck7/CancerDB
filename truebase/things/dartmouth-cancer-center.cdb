@@ -1,9 +1,10 @@
 title Dartmouth Cancer Center
 type nciCancerCenter
 
+website https://cancer.dartmouth.edu/
+
 country United States
 city Lebanon, New Hampshire
 
 nciDesignation Comprehensive Cancer Center
 hostSchool Dartmouth Health
-website https://cancer.dartmouth.edu/
