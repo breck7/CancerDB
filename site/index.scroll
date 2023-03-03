@@ -15,6 +15,8 @@ replace BASE_URL .
 
 * Cancer types causing the most deaths
  link search.html?q=notMissing+uscsDeathsPerYear%0D%0Aselect+uscsDeathsPerYear%0D%0AsortBy+uscsDeathsPerYear%0D%0Areverse%0D%0Atitle+Cancer+types+causing+the+most+deaths%0D%0Adescription+Data+is+from+the+2019+United+States+Cancer+Statistics+dataset+from+the+CDC.
+* Most Common Cancer Types
+ link https://cancerdb.com/search.html?q=notMissing+uscsCasesPerYear%0D%0Aselect+uscsCasesPerYear%0D%0AsortBy+uscsCasesPerYear%0D%0Areverse%0D%0Atitle+Most+Common+Cancer+Types%0D%0Adescription+Data+is+from+the+2019+United+States+Cancer+Statistics+dataset+from+the+CDC.
 * Highest mortality rates
  link search.html?q=notMissing+uscsMortalityRate%0D%0Aselect+uscsMortalityRate+uscsDeathsPerYear%0D%0AsortBy+uscsMortalityRate%0D%0Areverse%0D%0Atitle+Highest+mortality+rates%0D%0Adescription+Annual+cancer+deaths+divided+by+annual+new+cases.+Not+a+perfect+measure+but+gives+a+rough+estimate+of+deadliness+of+cancer+types.+Data+is+from+the+2019+United+States+Cancer+Statistics+dataset+from+the+CDC.
 
