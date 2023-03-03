@@ -1,4 +1,4 @@
-title Penis
+title Penile Cancer
 type cancerType
 mainType Penile Cancer, NOS
 tissue Penis
@@ -9,3 +9,5 @@ umls C0030851
 nciCode C12409
 oncoTreeLevel 1
 subTypes 4
+
+wikipedia https://en.wikipedia.org/wiki/Penile_cancer

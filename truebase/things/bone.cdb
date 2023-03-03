@@ -1,4 +1,4 @@
-title Bone
+title Bone Cancer
 type cancerType
 mainType Bone Cancer, NOS
 tissue Bone
@@ -9,3 +9,5 @@ umls C0262950
 nciCode C12366
 oncoTreeLevel 1
 subTypes 23
+
+wikipedia https://en.wikipedia.org/wiki/Bone_tumor

@@ -1,9 +1,19 @@
 title Bladder Cancer
 type cancerType
+mainType Bladder/Urinary Tract Cancer, NOS
 uscsId Urinary Bladder
+tissue Bladder/Urinary Tract
 uscsDeathsPerYear 16757
 uscsCasesPerYear 74949
 uscsMortalityRate 22%
+aka title Bladder/Urinary Tract Cancer
+
+oncoTreeId BLADDER
+parentOncoTreeId TISSUE
+umls C0005682
+nciCode C12414
+oncoTreeLevel 1
+subTypes 17
 
 cancerDotGov https://www.cancer.gov/types/bladder
 cancerDotOrg https://www.cancer.org/cancer/bladder-cancer.html

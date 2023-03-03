@@ -1,4 +1,4 @@
-title Head and Neck
+title Head and Neck Cancer
 type cancerType
 mainType Head and Neck Cancer, NOS
 tissue Head and Neck
@@ -10,4 +10,5 @@ nciCode C12418
 oncoTreeLevel 1
 subTypes 31
 
+wikipedia https://en.wikipedia.org/wiki/Head_and_neck_cancer
 cancerDotOrg https://www.cancer.org/cancer/head-neck-cancer.html

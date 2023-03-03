@@ -1,4 +1,4 @@
-title Thymus
+title Thymus Cancer
 type cancerType
 mainType Thymic Cancer, NOS
 tissue Thymus
@@ -9,3 +9,7 @@ umls C0040113
 nciCode C12433
 oncoTreeLevel 1
 subTypes 4
+
+cancerDotGov https://www.cancer.gov/types/thymoma/patient/thymoma-treatment-pdq
+cancerDotOrg https://www.cancer.org/cancer/thymus-cancer.html
+reference https://my.clevelandclinic.org/health/articles/6196-thymoma-and-thymic-carcinoma
