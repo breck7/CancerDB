@@ -1,5 +1,8 @@
 intCell
  highlightScope constant.numeric.integer
+percentCell
+ highlightScope constant.numeric.integer
+ regex \d+%
 yearCell
  extends intCell
 boolCell
@@ -25,6 +28,9 @@ abstractTopLevelWordNode
  cells keywordCell stringCell
 abstractIntNode
  cells keywordCell intCell
+ extends abstractTopLevelNode
+abstractPercentageNode
+ cells keywordCell percentCell
  extends abstractTopLevelNode
 abstractYearNode
  cells keywordCell yearCell
