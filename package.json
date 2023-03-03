@@ -35,7 +35,7 @@
   },
   "homepage": "https://github.com/breck7/CancerDB#readme",
   "dependencies": {
-    "jtree": "^69.2.1",
+    "jtree": "^69.3.0",
     "lodash": "^4.17.21",
     "numeral": "^2.0.6",
     "scroll-cli": "^58.5.1",

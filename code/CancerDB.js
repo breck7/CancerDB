@@ -727,6 +727,37 @@ sandbox/lib/show-hint.js`.split("\n")
     importer.matches.forEach(file => file.extractAll())
   }
 
+  async crawlNciCommand() {
+    // Todo: figuring out best repo orgnization for crawlers.
+    // Note: this currently assumes you have truecrawler project installed separateely.
+    const { WebsiteImporter } = require("../../truecrawler/website/Website.js")
+    const importer = new WebsiteImporter(this.folder, "nciLink")
+    await importer.downloadAllCommand()
+    importer.matches.forEach(file => {
+      if (!Disk.exists(file.cachePath)) return
+      if (file.file.has("phoneNumber")) return
+      const { content } = file
+      const hits = content
+        .match(/href="tel:([^"]+)"/g)
+        .filter(l => !l.includes("1-800-4-CANCER"))
+        .map(
+          i =>
+            "1-" +
+            i
+              .trim()
+              .replace('href="tel:', "")
+              .replace('"', "")
+              .replace("(", "")
+              .replace(")", "")
+              .replace(" ", "-")
+              .replace(/^1-/, "")
+        )
+      console.log(hits)
+      file.file.appendUniqueLine(`phoneNumber ${hits[0]}`)
+      file.file.prettifyAndSave()
+    })
+  }
+
   async crawlWhoIsCommand() {
     const { WhoIsImporter } = require("../../truecrawler/whois/WhoIs.js")
     const importer = new WhoIsImporter(this.folder)
