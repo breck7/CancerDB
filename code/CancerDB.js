@@ -427,8 +427,8 @@ ${scrollFooter}
         new TreatmentPageTemplate(file).toScroll()
       )
     )
-    this.buildDistFolder()
     this.buildAcknowledgementsImportsCommand()
+    this.buildDistFolder() // todo: fix CI
   }
 
   buildDistFolder() {
