@@ -39,7 +39,7 @@
     "lodash": "^4.17.21",
     "numeral": "^2.0.6",
     "scroll-cli": "^58.5.1",
-    "truebase": "^4.2.0"
+    "truebase": "^4.3.0"
   },
   "devDependencies": {
     "@types/node": "^18.7.18"
