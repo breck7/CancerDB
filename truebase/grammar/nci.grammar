@@ -15,3 +15,7 @@ nciLinkNode
  description URL to the organization's page on the NCI website.
  extends abstractUrlNode
  string sourceDomain cancer.gov
+nciImageNode
+ description URL to the organization's image on the NCI website.
+ extends abstractUrlNode
+ string sourceDomain cancer.gov

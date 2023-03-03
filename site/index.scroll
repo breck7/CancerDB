@@ -19,6 +19,8 @@ replace BASE_URL .
  link https://cancerdb.com/search.html?q=notMissing+uscsCasesPerYear%0D%0Aselect+uscsCasesPerYear%0D%0AsortBy+uscsCasesPerYear%0D%0Areverse%0D%0Atitle+Most+Common+Cancer+Types%0D%0Adescription+Data+is+from+the+2019+United+States+Cancer+Statistics+dataset+from+the+CDC.
 * Highest mortality rates
  link search.html?q=notMissing+uscsMortalityRate%0D%0Aselect+uscsMortalityRate+uscsDeathsPerYear%0D%0AsortBy+uscsMortalityRate%0D%0Areverse%0D%0Atitle+Highest+mortality+rates%0D%0Adescription+Annual+cancer+deaths+divided+by+annual+new+cases.+Not+a+perfect+measure+but+gives+a+rough+estimate+of+deadliness+of+cancer+types.+Data+is+from+the+2019+United+States+Cancer+Statistics+dataset+from+the+CDC.
+* NCI Designated Cancer Centers
+ link search.html?q=select+nciDesignation+city+website%0D%0Awhere+type+includes+nciCancerCenter%0D%0Atitle+NCI+Designated+Cancer+Centers%0D%0Adescription+There+are+71+NCI-Designated+Cancer+Centers%2C+located+in+36+states+and+the+District+of+Columbia%2C+that+are+funded+by+NCI+to+deliver+cutting-edge+cancer+treatments+to+patients.+Source%3A+https%3A%2F%2Fwww.cancer.gov%2Fresearch%2Finfrastructure%2Fcancer-centers
 
 * New posts
 loop

@@ -125,6 +125,8 @@ class CancerDBFolder extends TrueBaseFolder {
 
 const templates = {}
 templates.default = file => ``
+// todo: improve scroll image tag to be able to accept html attributes
+templates.nciCancerCenter = file => `image ${file.get("nciImage")}`
 templates.cancerType = file => {
   const title = file.get("title")
   const keyMap = new TreeNode(`cancerDotGov Cancer.gov
@@ -733,10 +735,20 @@ sandbox/lib/show-hint.js`.split("\n")
     const { WebsiteImporter } = require("../../truecrawler/website/Website.js")
     const importer = new WebsiteImporter(this.folder, "nciLink")
     await importer.downloadAllCommand()
-    importer.matches.forEach(file => {
-      if (!Disk.exists(file.cachePath)) return
-      if (file.file.has("phoneNumber")) return
-      const { content } = file
+    importer.matches.forEach(wrappedFile => {
+      if (!Disk.exists(wrappedFile.cachePath)) return
+      const { content, file } = wrappedFile
+
+      const imageMatch = content.match(
+        /property\="og\:image" content\="([^"]+)"/
+      )
+      if (imageMatch && !file.has("nciImage"))
+        file.set("nciImage", imageMatch[1])
+
+      file.prettifyAndSave()
+      console.log(imageMatch)
+
+      if (file.has("phoneNumber")) return
       const hits = content
         .match(/href="tel:([^"]+)"/g)
         .filter(l => !l.includes("1-800-4-CANCER"))
@@ -753,8 +765,8 @@ sandbox/lib/show-hint.js`.split("\n")
               .replace(/^1-/, "")
         )
       console.log(hits)
-      file.file.appendUniqueLine(`phoneNumber ${hits[0]}`)
-      file.file.prettifyAndSave()
+      file.appendUniqueLine(`phoneNumber ${hits[0]}`)
+      file.prettifyAndSave()
     })
   }
 
