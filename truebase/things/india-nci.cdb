@@ -1,7 +1,8 @@
 title Rajiv Gandhi Cancer Institute and Research Centre
-type nciCancerCenter
+type cancerNonProfit researchCenter
 
 website https://www.rgcirc.org/
+wikipedia https://en.wikipedia.org/wiki/Rajiv_Gandhi_Cancer_Institute_and_Research_Centre
 twitter https://twitter.com/rgcirc
 facebook https://facebook.com/rgcirc
 
