@@ -11,3 +11,7 @@ nciCodeNode
  description NCI Concepts
  extends abstractTopLevelWordNode
  string sourceDomain ncithesaurus.nci.nih.gov
+nciLinkNode
+ description URL to the organization's page on the NCI website.
+ extends abstractUrlNode
+ string sourceDomain cancer.gov
