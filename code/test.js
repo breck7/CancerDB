@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 
+const path = require("path")
 const tap = require("tap")
-const { ScrollFolder } = require("scroll-cli")
+const { ScrollFolder, ScrollCli } = require("scroll-cli")
 const { CancerDB } = require("./CancerDB.js")
 const { TestRacer } = require("jtree/products/TestRacer.js")
 const { Utils } = require("jtree/products/Utils.js")
@@ -23,17 +24,25 @@ testTree.ensureGoodFilenames = areEqual => {
   )
 }
 
-// todo
 testTree.ensureNoErrorsInBlog = areEqual => {
   const checkScroll = folderPath => {
+    // Do not check all ~5K generated scroll files for errors b/c redundant and wastes time.
+    // Just check the Javascript one below.
+    if (folderPath.includes("truebase")) return
     const folder = new ScrollFolder(folderPath)
     areEqual(
-      folder.grammarErrors.length,
+      folder.grammarErrors.length + folder.errors.length,
       0,
-      `no grammarErrors in ${folderPath}`
+      `no scroll errors in ${folderPath}`
     )
     //areEqual(folder.errors.length, 0, `no errors in ${folderPath}`)
   }
+
+  const cli = new ScrollCli()
+  cli.verbose = false
+  Object.keys(cli.findScrollsInDirRecursive(path.join(__dirname, ".."))).map(
+    checkScroll
+  )
 }
 
 testTree.ensureNoErrorsInDb = areEqual => {

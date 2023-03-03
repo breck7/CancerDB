@@ -5,24 +5,12 @@ groups index
 startColumns 2
 
 # _never ever give up_
-* CancerDB is a public domain knowledge graph about cancer treatments that compiles to a CSV file. The focus is on
- *cancer treatments*, but the database also includes entities connected to cancer treatments in some way--from
- cancer types to organizations and more.
+* CancerDB is a public domain knowledge graph about cancer treatments that compiles to a CSV file. The focus is on *cancer treatments*, but the database also includes entities connected to cancer treatments in some way--from cancer types to organizations and more.
 
 * CancerDB is for two groups of people:
-* 1. *Cancer treatment researchers.* CancerDB is organized big data
- to help you create great new treatments and improve
- existing ones. When making design decisions, quickly look up
- what features other treatments have tried. Benefit from the experiences
- of millions that have built treatments before you. If you are researching something and can't
- find what you need here, open an issue and explain what you need.
+* 1. *Cancer treatment researchers.* CancerDB is organized big data to help you create great new treatments and improve existing ones. When making design decisions, quickly look up what features other treatments have tried. Benefit from the experiences of millions that have built treatments before you. If you are researching something and can't find what you need here, open an issue and explain what you need.
  https://github.com/breck7/CancerDB/issues/new open an issue
-* 2. *Those battling cancer right now.* CancerDB provides a
- data-driven view of the cancer treatment universe, to
- demystify the world of cancer treatments for you, and
- provide sound strategic and tactical advice to help you in
- your fight. If you have a question not answered
- by the data here, open an issue and explain what you need.
+* 2. *Those battling cancer right now.* CancerDB provides a data-driven view of the cancer treatment universe, to demystify the world of cancer treatments for you, and provide sound strategic and tactical advice to help you in your fight. If you have a question not answered by the data here, open an issue and explain what you need.
  https://github.com/breck7/CancerDB/issues/new open an issue
 
 ##  Open source
