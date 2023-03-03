@@ -1,4 +1,4 @@
-title Peritoneum
+title Peritoneal Cancer
 type cancerType
 mainType Peritoneal Cancer, NOS
 tissue Peritoneum
@@ -9,3 +9,6 @@ umls C0031153
 nciCode C12770
 oncoTreeLevel 1
 subTypes 2
+
+reference https://www.ucsfhealth.org/conditions/peritoneal-cancer
+reference https://www.cedars-sinai.org/health-library/diseases-and-conditions/p/peritoneal-cancer.html

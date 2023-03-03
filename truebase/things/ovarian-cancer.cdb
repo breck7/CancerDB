@@ -1,9 +1,18 @@
 title Ovarian Cancer
 type cancerType
+mainType Ovarian/Fallopian Tube Cancer, NOS
 uscsId Ovary
+tissue Ovary/Fallopian Tube
 uscsDeathsPerYear 13426
 uscsCasesPerYear 19561
 uscsMortalityRate 69%
+
+oncoTreeId OVARY
+parentOncoTreeId TISSUE
+umls C0029939
+nciCode C12404
+oncoTreeLevel 1
+subTypes 40
 
 wikipedia https://en.wikipedia.org/wiki/Ovarian_cancer
 cancerDotOrg https://cancer.org/cancer/ovarian-cancer.html
