@@ -3,3 +3,5 @@ type website
 parentOrganization american-cancer-society
 
 website https://cancerstatisticscenter.cancer.org
+
+domainName cancerstatisticscenter.cancer.org

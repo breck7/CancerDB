@@ -714,7 +714,13 @@ sandbox/lib/show-hint.js`.split("\n")
     const { WebsiteImporter } = require("../../truecrawler/website/Website.js")
     const importer = new WebsiteImporter(this.folder)
     await importer.downloadAllCommand()
-    importer.matches.forEach(file => file.extractPhoneNumber())
+    importer.matches.forEach(file => file.extractAll())
+  }
+
+  async crawlWhoIsCommand() {
+    const { WhoIsImporter } = require("../../truecrawler/whois/WhoIs.js")
+    const importer = new WhoIsImporter(this.folder)
+    await importer.updateAllCommand()
   }
 }
 

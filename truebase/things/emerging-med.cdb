@@ -3,3 +3,6 @@ type website onlineDatabase
 description Clinical trial finder.
 
 website https://emergingmed.com
+
+domainName emergingmed.com
+ registered 2000
