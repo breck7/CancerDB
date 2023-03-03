@@ -3,11 +3,11 @@ type cancerType
 mainType Melanoma
 tissue Eye
 
-wikipedia https://en.wikipedia.org/wiki/Uveal_melanoma
-
 oncoTreeId UM
 parentOncoTreeId OM
 umls C0220633
 nciCode C7712
 oncoTreeLevel 3
 subTypes 0
+
+wikipedia https://en.wikipedia.org/wiki/Uveal_melanoma
