@@ -1,0 +1,3 @@
+pinterestNode
+ extends abstractUrlNode
+ string sourceDomain pinterest.com

@@ -1,3 +1,3 @@
-linkedInNode
+linkedinNode
  extends abstractUrlNode
  string sourceDomain linkedin.com
