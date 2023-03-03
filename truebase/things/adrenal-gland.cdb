@@ -1,7 +1,8 @@
-title Adrenal Gland
+title Adrenal Cancer
 type cancerType
 mainType Adrenal Gland Cancer, NOS
 tissue Adrenal Gland
+aka adrenal cancer
 
 oncoTreeId ADRENAL_GLAND
 parentOncoTreeId TISSUE
@@ -11,3 +12,4 @@ oncoTreeLevel 1
 subTypes 3
 
 cancerDotOrg https://www.cancer.org/cancer/adrenal-cancer.html
+reference https://en.wikipedia.org/wiki/Adrenal_tumor
