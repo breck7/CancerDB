@@ -1,0 +1,3 @@
+einNode
+ description A U.S. Employer Identification Number.
+ extends abstractTopLevelWordNode
