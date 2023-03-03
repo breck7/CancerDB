@@ -7,6 +7,8 @@ uscsDeathsPerYear 2000
 uscsCasesPerYear 45272
 uscsMortalityRate 4%
 
+wikipedia https://en.wikipedia.org/wiki/Thyroid_cancer
+
 oncoTreeId THYROID
 parentOncoTreeId TISSUE
 umls C0040132
