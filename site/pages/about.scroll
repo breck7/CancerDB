@@ -5,12 +5,12 @@ groups index
 startColumns 2
 
 # _never ever give up_
-* CancerDB is a public domain knowledge graph about cancer treatments that compiles to a CSV file. The focus is on *cancer treatments*, but the database also includes entities connected to cancer treatments in some way--from cancer types to organizations and more.
+* CancerDB is a public domain knowledge graph about cancer preventions and treatments that compiles to a CSV file. The focus is on *cancer preventions and treatments*, but the database also includes closely connected things--from cancer types to organizations and more.
 
 * CancerDB is for two groups of people:
-* 1. *Cancer treatment researchers.* CancerDB is organized big data to help you create great new treatments and improve existing ones. When making design decisions, quickly look up what features other treatments have tried. Benefit from the experiences of millions that have built treatments before you. If you are researching something and can't find what you need here, open an issue and explain what you need.
+* 1. *Cancer researchers.* CancerDB is organized big data to help you create great new preventions and treatments and improve existing ones. Benefit from the experiences of millions that have gone before you. If you are researching something and can't find what you need here, open an issue and explain what you need.
  https://github.com/breck7/CancerDB/issues/new open an issue
-* 2. *Those battling cancer right now.* CancerDB provides a data-driven view of the cancer treatment universe, to demystify the world of cancer treatments for you, and provide sound strategic and tactical advice to help you in your fight. If you have a question not answered by the data here, open an issue and explain what you need.
+* 2. *Those battling cancer right now.* CancerDB provides a data-driven view of the cancer prevention and treatment universe, to demystify the world of cancer for you, and provide sound strategic and tactical advice to help you in your fight. If you have a question not answered by the data here, open an issue and explain what you need.
  https://github.com/breck7/CancerDB/issues/new open an issue
 
 ##  Open source
@@ -34,11 +34,11 @@ bash cd ..; cd ..; cloc --quiet --vcs git . --read-lang-def=code/clocLangs.txt
 quote
  https://cancerdb.com
 quote
- CancerDB team. (2022) - "CancerDB: A public domain knowledge graph about cancer treatments that compiles to a CSV file.". Retrieved from: 'https://cancerdb.com' [Online Resource]
+ CancerDB team. (2022) - "CancerDB: A public domain knowledge graph about cancer preventions and treatments that compiles to a CSV file.". Retrieved from: 'https://cancerdb.com' [Online Resource]
 code
  @article{cancerdb,
    author = {CancerDB team},
-   title = {CancerDB: A public domain knowledge graph about cancer treatments that compiles to a CSV file.},
+   title = {CancerDB: A public domain knowledge graph about cancer preventions and treatments that compiles to a CSV file.},
    journal = {CancerDB},
    year = {2022},
    note = {https://cancerdb.com}

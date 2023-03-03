@@ -3,7 +3,7 @@ import header.scroll
 title CancerDB
  hidden
 
-# CancerDB: a database of cancer treatments
+# CancerDB: a database of cancer preventions and treatments
 
 html <center>
 

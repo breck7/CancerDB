@@ -1,4 +1,4 @@
-title Squamous Cell Carcinoma, NOS
+title Squamous Cell Carcinoma
 type cancerType
 mainType Cancer of Unknown Primary
 tissue Other
@@ -8,6 +8,8 @@ parentOncoTreeId CUP
 oncoTreeLevel 3
 subTypes 0
 
+wikipedia https://en.wikipedia.org/wiki/Squamous-cell_carcinoma
 reference https://www.skincancer.org/skin-cancer-information/squamous-cell-carcinoma/
 reference https://www.mayoclinic.org/diseases-conditions/squamous-cell-carcinoma/symptoms-causes/syc-20352480
 reference https://www.cancer.org/cancer/basal-and-squamous-cell-skin-cancer.html
+reference https://www.aad.org/public/diseases/skin-cancer/types/common/scc

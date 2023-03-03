@@ -1,8 +1,8 @@
-# CancerDB: A public domain knowledge graph focused on cancer treatments distributed as a website and CSV file.
+# CancerDB: A public domain knowledge graph focused on cancer preventions and treatments distributed as a website and CSV file.
 
 import code/ciBadges.scroll
 
-* CancerDB is a public domain database and website containing facts about all cancer treaments and related entities.
+* CancerDB is a public domain database and website containing facts about all cancer preventions and treaments and related entities.
 
 * Someone's new treatment could by just 2 insights away from being the next great cure. CancerDB can help them figure out what those 2 missing insights are.
 
@@ -42,7 +42,7 @@ code
 code
  https://cancerdb.com
 code
- CancerDB team. (2022) - "CancerDB: A public domain knowledge graph about cancer treatments that compiles to a website and CSV file.". Retrieved from: 'https://cancerdb.com' [Online Resource]
+ CancerDB team. (2022) - "CancerDB: A public domain knowledge graph about cancer preventions and treatments that compiles to a website and CSV file.". Retrieved from: 'https://cancerdb.com' [Online Resource]
 code
  @article{cancerdb,
   author = {CancerDB team},
