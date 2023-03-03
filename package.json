@@ -9,6 +9,7 @@
     "open": "open site/index.html",
     "local": "./code/CancerDB.js startDevServer",
     "format": "./code/CancerDB.js format",
+    "fetchContributors": "wget -O site/pages/contributors.json https://api.github.com/repos/breck7/CancerDB/contributors",
     "launch": "git pull; npm install .; npm run build; npm run restart",
     "start": "pm2 start ./code/CancerDB.js -- startProdServer",
     "stop": "pm2 delete 0",
@@ -37,7 +38,7 @@
     "jtree": "^69.2.1",
     "lodash": "^4.17.21",
     "numeral": "^2.0.6",
-    "scroll-cli": "^58.2.2",
+    "scroll-cli": "^58.5.1",
     "truebase": "^4.2.0"
   },
   "devDependencies": {

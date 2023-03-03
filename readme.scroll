@@ -11,11 +11,9 @@ import code/ciBadges.scroll
 * This repo contains the entire database and website for https://cancerdb.com.
 
 ## To analyze the data
-* The CancerDB database will be freely available:
-- As CSV: (coming soon)
-- As JSON: (coming soon)
-
-* Documentation for the CSV will be available here: https://cancerdb.com/docs/csv.html (coming soon).
+* The CancerDB database is freely available:
+- As CSV: https://cancerdb.com/cancerdb.csv
+- As JSON: https://cancerdb.com/cancerdb.json
 
 ## To add a new treatment
 * Advanced method: Create a new file in `truebase/things` with a unique URL friendly filename ending in `.cdb` and send a pull request.
@@ -54,4 +52,4 @@ code
   note = {https://cancerdb.com}
  }
 
-* All sources for CancerDB you will be able to find here: https://cancerdb.com/pages/acknowledgements.html (coming soon)
+* All sources for CancerDB can be found here: https://cancerdb.com/pages/acknowledgements.html

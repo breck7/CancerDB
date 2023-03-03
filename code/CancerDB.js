@@ -20,6 +20,7 @@ const nodeModulesFolder = path.join(baseFolder, "node_modules")
 const jtreeFolder = path.join(nodeModulesFolder, "jtree")
 const truebaseModulesFolder = path.join(nodeModulesFolder, "truebase")
 const publishedFolder = path.join(siteFolder, "truebase")
+const pagesDir = path.join(siteFolder, "pages")
 
 const combineJsFiles = (baseDir = "", filepaths = []) =>
   filepaths
@@ -32,6 +33,32 @@ const scrollHeader = new ScrollFile(
 ).importResults.code
 
 const scrollFooter = Disk.read(path.join(siteFolder, "footer.scroll"))
+
+const buildImportsFile = (filepath, varMap) => {
+  Disk.writeIfChanged(
+    filepath,
+    `importOnly\n\n` +
+      Object.keys(varMap)
+        .map(key => {
+          let value = varMap[key]
+
+          if (value.rows)
+            return `replace ${key}
+ pipeTable
+  ${new TreeNode(value.rows)
+    .toDelimited("|", value.header, false)
+    .replace(/\n/g, "\n  ")}`
+
+          value = value.toString()
+
+          if (!value.includes("\n")) return `replace ${key} ${value}`
+
+          return `replace ${key}
+ ${value.replace(/\n/g, "\n ")}`
+        })
+        .join("\n\n")
+  )
+}
 
 class CancerDBFile extends TrueBaseFile {
   get webPermalink() {
@@ -56,6 +83,19 @@ class CancerDBFile extends TrueBaseFile {
 class CancerDBFolder extends TrueBaseFolder {
   createParser() {
     return new TreeNode.Parser(CancerDBFile)
+  }
+
+  // todo: upstream
+  get sources() {
+    const sources = Array.from(
+      new Set(
+        this.grammarCode
+          .split("\n")
+          .filter(line => line.includes("string sourceDomain"))
+          .map(line => line.split("string sourceDomain")[1].trim())
+      )
+    )
+    return sources.sort()
   }
 
   get cancerTypeMap() {
@@ -275,6 +315,10 @@ class CancerDBServer extends TrueBaseServer {
         .send(this.folder.typedMapJson)
     )
 
+    app.get("/cancerdb.csv", (req, res) =>
+      res.setHeader("content-type", "text/plain").send(this.folder.toCsv())
+    )
+
     const searchCache = {}
     app.get("/search.html", (req, res) => {
       const { searchServer } = this
@@ -384,6 +428,7 @@ ${scrollFooter}
       )
     )
     this.buildDistFolder()
+    this.buildAcknowledgementsImportsCommand()
   }
 
   buildDistFolder() {
@@ -429,6 +474,29 @@ sandbox/lib/show-hint.js`.split("\n")
       path.join(distFolder, "combined.css"),
       filepaths.map(Disk.read).join(`\n\n`)
     )
+  }
+
+  buildAcknowledgementsImportsCommand() {
+    const { sources } = this.folder
+    const npmPackages = Object.keys({
+      ...require("../package.json").dependencies
+    })
+    npmPackages.sort()
+
+    buildImportsFile(path.join(pagesDir, "acknowledgementsImports.scroll"), {
+      PACKAGES_TABLE: npmPackages
+        .map(s => `- ${s}\n https://www.npmjs.com/package/${s}`)
+        .join("\n"),
+      SOURCES_TABLE: sources
+        .map(s => `- ${s}\n linkify false\n https://${s}`)
+        .join("\n"),
+      CONTRIBUTORS_TABLE: JSON.parse(
+        Disk.read(path.join(pagesDir, "contributors.json"))
+      )
+        .filter(item => item.login !== "breck7")
+        .map(item => `- ${item.login}\n ${item.html_url}`)
+        .join("\n")
+    })
   }
 
   importFromOncoTreeCommand() {
