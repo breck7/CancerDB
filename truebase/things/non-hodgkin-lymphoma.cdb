@@ -4,6 +4,8 @@ mainType Non-Hodgkin Lymphoma
 uscsId Non-Hodgkin Lymphoma
 tissue Lymphoid
 uscsDeathsPerYear 20247
+uscsCasesPerYear 71565
+uscsMortalityRate 28%
 
 oncoTreeId NHL
 parentOncoTreeId LNM

@@ -4,6 +4,8 @@ mainType Liver Cancer, NOS
 uscsId Liver and Intrahepatic Bile Duct
 tissue Liver
 uscsDeathsPerYear 27882
+uscsCasesPerYear 35443
+uscsMortalityRate 79%
 
 oncoTreeId LIVER
 parentOncoTreeId TISSUE

@@ -4,6 +4,8 @@ mainType Kidney Cancer, NOS
 uscsId Kidney and Renal Pelvis
 tissue Kidney
 uscsDeathsPerYear 13940
+uscsCasesPerYear 68020
+uscsMortalityRate 20%
 
 oncoTreeId KIDNEY
 parentOncoTreeId TISSUE

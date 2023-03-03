@@ -2,6 +2,8 @@ title Multiple Myeloma
 type cancerType
 uscsId Myeloma
 uscsDeathsPerYear 12425
+uscsCasesPerYear 27799
+uscsMortalityRate 45%
 
 wikipedia https://en.wikipedia.org/wiki/Multiple_myeloma
 cancerDotOrg https://www.cancer.org/cancer/multiple-myeloma

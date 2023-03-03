@@ -3,6 +3,8 @@ type cancerType
 mainType Pancreatic Cancer, NOS
 tissue Pancreas
 uscsDeathsPerYear 45868
+uscsCasesPerYear 53957
+uscsMortalityRate 85%
 
 oncoTreeId PANCREAS
 parentOncoTreeId TISSUE

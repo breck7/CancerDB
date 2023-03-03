@@ -4,6 +4,8 @@ mainType Breast Cancer, NOS
 uscsId Female Breast
 tissue Breast
 uscsDeathsPerYear 42269
+uscsCasesPerYear 264115
+uscsMortalityRate 16%
 
 oncoTreeId BREAST
 parentOncoTreeId TISSUE

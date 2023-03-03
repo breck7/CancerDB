@@ -4,6 +4,8 @@ mainType CNS/Brain Cancer, NOS
 uscsId Brain and Other Nervous System
 tissue CNS/Brain
 uscsDeathsPerYear 17215
+uscsCasesPerYear 22538
+uscsMortalityRate 76%
 
 oncoTreeId BRAIN
 parentOncoTreeId TISSUE

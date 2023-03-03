@@ -2,6 +2,8 @@ title Bladder Cancer
 type cancerType
 uscsId Urinary Bladder
 uscsDeathsPerYear 16757
+uscsCasesPerYear 74949
+uscsMortalityRate 22%
 
 cancerDotGov https://www.cancer.gov/types/bladder
 cancerDotOrg https://www.cancer.org/cancer/bladder-cancer.html

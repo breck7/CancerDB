@@ -1,6 +1,8 @@
 title Mesothelioma
 type cancerType
 uscsDeathsPerYear 2402
+uscsCasesPerYear 2828
+uscsMortalityRate 85%
 
 wikipedia https://en.wikipedia.org/wiki/Mesothelioma
 cancerDotGov https://www.cancer.gov/types/mesothelioma

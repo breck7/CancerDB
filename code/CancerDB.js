@@ -112,8 +112,22 @@ wolframAlpha WolframAlpha`).toObject()
         .join(", ")}`
   }
 
+  //   uscsDeathsPerYear 16757
+  // uscsCasesPerYear 74949
+  // uscsMortalityRate 22%
+  const uscsMortalityRate = file.get("uscsMortalityRate")
+  let kpiTable = ""
+  if (uscsMortalityRate) {
+    kpiTable = `kpiTable
+ ${numeral(file.get("uscsDeathsPerYear")).format("0,0")} U.S. deaths per year
+ ${numeral(file.get("uscsCasesPerYear")).format("0,0")} U.S. cases per year
+ ${file.get("uscsMortalityRate")} U.S. mortality rate`
+  }
+
   if (pages) pages = `* ${title} on ${pages}`
-  return `${pages}
+  return `${kpiTable}
+
+${pages}
 ${parentMessage}
 ${subTypesMessage}
 `
@@ -519,11 +533,22 @@ sandbox/lib/show-hint.js`.split("\n")
       const file = this.folder.getFile(id)
       const sorted = lodash.sortBy(toAdd[id], "sex", row => parseInt(row.age))
       const tree = new TreeNode(sorted)
-      file.appendLineAndChildren("uscsTable 2019", tree.toDelimited("|"))
+      if (!file.has("uscsTable"))
+        file.appendLineAndChildren("uscsTable 2019", tree.toDelimited("|"))
       const deaths = lodash.sum(
         sorted.map(item => parseInt(item.deaths)).filter(num => !isNaN(num))
       )
       if (deaths) file.set("uscsDeathsPerYear", deaths.toString())
+      const cases = lodash.sum(
+        sorted.map(item => parseInt(item.cases)).filter(num => !isNaN(num))
+      )
+      if (cases) file.set("uscsCasesPerYear", cases.toString())
+
+      if (cases && deaths)
+        file.set(
+          "uscsMortalityRate",
+          numeral((100 * deaths) / cases).format("0") + "%"
+        )
       file.prettifyAndSave()
     })
   }

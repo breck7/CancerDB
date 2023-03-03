@@ -4,6 +4,8 @@ mainType Bowel Cancer, NOS
 uscsId Colon and Rectum
 tissue Bowel
 uscsDeathsPerYear 51874
+uscsCasesPerYear 142438
+uscsMortalityRate 36%
 
 oncoTreeId BOWEL
 parentOncoTreeId TISSUE

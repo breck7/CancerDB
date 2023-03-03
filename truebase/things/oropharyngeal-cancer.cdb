@@ -2,6 +2,8 @@ title Oropharyngeal cancer
 type cancerType
 uscsId Oral Cavity and Pharynx
 uscsDeathsPerYear 10447
+uscsCasesPerYear 47783
+uscsMortalityRate 22%
 aka Tonsil cancer
 
 wikipedia https://en.wikipedia.org/wiki/Oropharyngeal_cancer

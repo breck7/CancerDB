@@ -4,6 +4,8 @@ mainType Esophageal/Stomach Cancer, NOS
 uscsId Esophagus
 tissue Esophagus/Stomach
 uscsDeathsPerYear 15918
+uscsCasesPerYear 18872
+uscsMortalityRate 84%
 
 oncoTreeId STOMACH
 parentOncoTreeId TISSUE

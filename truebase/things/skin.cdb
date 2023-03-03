@@ -4,6 +4,8 @@ mainType Skin Cancer, NOS
 uscsId Melanomas of the Skin
 tissue Skin
 uscsDeathsPerYear 8059
+uscsCasesPerYear 88001
+uscsMortalityRate 9%
 
 oncoTreeId SKIN
 parentOncoTreeId TISSUE

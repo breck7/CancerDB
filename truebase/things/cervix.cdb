@@ -4,6 +4,8 @@ mainType Cervical Cancer, NOS
 uscsId Cervix
 tissue Cervix
 uscsDeathsPerYear 4144
+uscsCasesPerYear 12790
+uscsMortalityRate 32%
 
 oncoTreeId CERVIX
 parentOncoTreeId TISSUE

@@ -13,3 +13,11 @@ uscsDeathsPerYearNode
  extends abstractIntNode
  single
  description Cumulative number of deaths per year for a cancer type in the U.S. Cancer Statistics data set.
+uscsCasesPerYearNode
+ extends abstractIntNode
+ single
+ description Cumulative number of cases per year for a cancer type in the U.S. Cancer Statistics data set.
+uscsMortalityRateNode
+ extends abstractIntNode
+ single
+ description Deaths/cases in USCS data as a percentage between 0-100.

@@ -4,6 +4,8 @@ mainType Hodgkin Lymphoma
 uscsId Hodgkin Lymphoma
 tissue Lymphoid
 uscsDeathsPerYear 873
+uscsCasesPerYear 8515
+uscsMortalityRate 10%
 
 oncoTreeId HL
 parentOncoTreeId LNM

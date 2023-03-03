@@ -4,6 +4,8 @@ mainType Thyroid Cancer, NOS
 uscsId Thyroid
 tissue Thyroid
 uscsDeathsPerYear 2000
+uscsCasesPerYear 45272
+uscsMortalityRate 4%
 
 oncoTreeId THYROID
 parentOncoTreeId TISSUE

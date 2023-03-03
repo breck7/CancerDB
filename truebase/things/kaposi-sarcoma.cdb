@@ -1,6 +1,7 @@
 title Karposi's Sarcoma
 type cancerType
 uscsId Kaposi Sarcoma
+uscsCasesPerYear 54
 
 cancerDotOrg https://www.cancer.org/cancer/kaposi-sarcoma/about/what-is-kaposi-sarcoma.html
 reference https://www.mayoclinic.org/diseases-conditions/kaposis-sarcoma/cdc-20387726

@@ -2,6 +2,8 @@ title Leukemia
 type cancerType
 uscsId Leukemias
 uscsDeathsPerYear 23324
+uscsCasesPerYear 50627
+uscsMortalityRate 46%
 
 wikipedia https://en.wikipedia.org/wiki/Leukemia
 cancerDotOrg https://www.cancer.org/cancer/leukemia.html

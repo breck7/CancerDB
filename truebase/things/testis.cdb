@@ -3,6 +3,8 @@ type cancerType
 mainType Testicular Cancer, NOS
 tissue Testis
 uscsDeathsPerYear 421
+uscsCasesPerYear 8729
+uscsMortalityRate 5%
 
 oncoTreeId TESTIS
 parentOncoTreeId TISSUE

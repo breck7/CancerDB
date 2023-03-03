@@ -2,6 +2,8 @@ title Ovarian Cancer
 type cancerType
 uscsId Ovary
 uscsDeathsPerYear 13426
+uscsCasesPerYear 19561
+uscsMortalityRate 69%
 
 wikipedia https://en.wikipedia.org/wiki/Ovarian_cancer
 cancerDotOrg https://cancer.org/cancer/ovarian-cancer.html

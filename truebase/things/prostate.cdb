@@ -3,6 +3,8 @@ type cancerType
 mainType Prostate Cancer, NOS
 tissue Prostate
 uscsDeathsPerYear 31628
+uscsCasesPerYear 224703
+uscsMortalityRate 14%
 
 oncoTreeId PROSTATE
 parentOncoTreeId TISSUE

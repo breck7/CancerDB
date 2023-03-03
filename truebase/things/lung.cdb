@@ -4,6 +4,8 @@ mainType Lung Cancer, NOS
 uscsId Lung and Bronchus
 tissue Lung
 uscsDeathsPerYear 139558
+uscsCasesPerYear 221020
+uscsMortalityRate 63%
 
 oncoTreeId LUNG
 parentOncoTreeId TISSUE

@@ -2,6 +2,8 @@ title Laryngeal cancer
 type cancerType
 uscsId Larynx
 uscsDeathsPerYear 3789
+uscsCasesPerYear 12050
+uscsMortalityRate 31%
 
 wikipedia https://en.wikipedia.org/wiki/Laryngeal_cancer
 reference https://my.clevelandclinic.org/health/diseases/16611-laryngeal-cancer
