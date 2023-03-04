@@ -1,3 +1,4 @@
 linkedinNode
+ inScope followersNode
  extends abstractUrlNode
  string sourceDomain linkedin.com
