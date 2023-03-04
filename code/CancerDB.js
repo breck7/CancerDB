@@ -281,23 +281,14 @@ const delimitedEscapeFunction = value =>
 const delimiter = " DeLiM "
 
 class CancerDBServer extends TrueBaseServer {
-  prepareToServe() {
+  mainCsvFilename = "cancerdb.csv"
+
+  beforeListen() {
     // todo: cleanup
-    this.serveFolder(siteFolder)
     this.buildTqlExtension()
     this.initSearch()
     this.buildAutocomplete()
     this.notFoundPage = Disk.read(path.join(siteFolder, "custom_404.html"))
-  }
-
-  listenProd() {
-    this.prepareToServe()
-    return super.listenProd()
-  }
-
-  listen(port) {
-    this.prepareToServe()
-    return super.listen(port)
   }
 
   buildAutocomplete() {
@@ -782,7 +773,7 @@ const cancerDBFolder = new CancerDBFolder()
   .setDir(path.join(truebaseFolder, "things"))
   .setGrammarDir(path.join(truebaseFolder, "grammar"))
 
-const CancerDB = new CancerDBServer(cancerDBFolder, ignoreFolder)
+const CancerDB = new CancerDBServer(cancerDBFolder, ignoreFolder, siteFolder)
 
 module.exports = { CancerDB }
 
