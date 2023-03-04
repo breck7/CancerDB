@@ -2,7 +2,7 @@ cancerTypeCell
  enum breast prostate cervical colon lung skin bladder kidney lymphoma multiplemyeloma ovarian thyroid endometrial neuroendocrine liver leukemia oral
  highlightScope constant.language
 cancerTypesNode
- description Which category(ies) does this treatment fit into.
+ description Which cancer type(s) does this entity specialize in?
  cells keywordCell cancerTypeCell
  catchAllCellType cancerTypeCell
  extends abstractTopLevelNode

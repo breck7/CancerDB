@@ -1,6 +1,6 @@
 aliasCell
 titleNode
- description Title of the treatment.
+ description Title of the entity.
  extends abstractTopLevelStringNode
  cruxFromId
  single

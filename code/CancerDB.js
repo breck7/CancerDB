@@ -45,9 +45,7 @@ const buildImportsFile = (filepath, varMap) => {
           if (value.rows)
             return `replace ${key}
  pipeTable
-  ${new TreeNode(value.rows)
-    .toDelimited("|", value.header, false)
-    .replace(/\n/g, "\n  ")}`
+  ${value.rows.toDelimited("|", value.header, false).replace(/\n/g, "\n  ")}`
 
           value = value.toString()
 
@@ -321,10 +319,6 @@ class CancerDBServer extends TrueBaseServer {
         .send(this.folder.typedMapJson)
     )
 
-    app.get("/cancerdb.csv", (req, res) =>
-      res.setHeader("content-type", "text/plain").send(this.folder.toCsv())
-    )
-
     const searchCache = {}
     app.get("/search.html", (req, res) => {
       const { searchServer } = this
@@ -435,6 +429,8 @@ ${scrollFooter}
     )
     this.buildAcknowledgementsImportsCommand()
     this.buildDistFolder() // todo: fix CI
+    this.buildCsvFilesCommand()
+    this.buildCsvDocumentationImportsCommand()
   }
 
   buildDistFolder() {
@@ -502,6 +498,22 @@ sandbox/lib/show-hint.js`.split("\n")
         .filter(item => item.login !== "breck7")
         .map(item => `- ${item.login}\n ${item.html_url}`)
         .join("\n")
+    })
+  }
+
+  buildCsvDocumentationImportsCommand() {
+    const folder = this.folder
+    const { columnsCsvOutput } = folder
+    buildImportsFile(path.join(pagesDir, "csvDocumentationImports.scroll"), {
+      COL_COUNT: folder.colNamesForCsv.length,
+      ROW_COUNT: folder.length,
+      FILE_SIZE_UNCOMPRESSED: numeral(
+        folder.makeCsv("cancerdb.csv").length
+      ).format("0.0b"),
+      COLUMN_METADATA_TABLE: {
+        header: columnsCsvOutput.columnMetadataColumnNames,
+        rows: columnsCsvOutput.columnsMetadataTree
+      }
     })
   }
 

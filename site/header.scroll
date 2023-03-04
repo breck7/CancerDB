@@ -30,6 +30,8 @@ stumpNoSnippet
    href BASE_URL/search.html?q=select+type
   a Types
    href BASE_URL/search.html?q=where+type+%3D+cancerType%0D%0Aselect+mainType+tissue+subTypes+nciCode+umls+oncoTreeId+parentOncoTreeId%0D%0AsortBy+oncoTreeLevel
+  a CSV
+   href BASE_URL/pages/csvDocumentation.html
   a Blog
    href BASE_URL/posts/index.html
   a About
