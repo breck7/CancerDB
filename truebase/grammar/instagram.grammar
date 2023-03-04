@@ -1,3 +1,4 @@
 instagramNode
+ inScope followersNode
  extends abstractUrlNode
  string sourceDomain instagram.com
