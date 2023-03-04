@@ -1,3 +1,4 @@
 referenceNode
  extends abstractUrlNode
  description A URL to a reference about the thing.
+ single false

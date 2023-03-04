@@ -7,4 +7,3 @@ cancerTypesNode
  catchAllCellType cancerTypeCell
  extends abstractTopLevelNode
  cruxFromId
- single

@@ -8,7 +8,6 @@ const { Disk } = require("jtree/products/Disk.node.js")
 const { TreeNode } = require("jtree/products/TreeNode.js")
 const { TrueBaseServer } = require("truebase/code/TrueBaseServer.js")
 const { ScrollFile } = require("scroll-cli")
-const { GrammarCompiler } = require("jtree/products/GrammarCompiler.js")
 const { TrueBaseFolder, TrueBaseFile } = require("truebase/code/TrueBase.js")
 
 const baseFolder = path.join(__dirname, "..")
@@ -18,7 +17,6 @@ const siteFolder = path.join(baseFolder, "site")
 const distFolder = path.join(siteFolder, "dist")
 const nodeModulesFolder = path.join(baseFolder, "node_modules")
 const jtreeFolder = path.join(nodeModulesFolder, "jtree")
-const truebaseModulesFolder = path.join(nodeModulesFolder, "truebase")
 const publishedFolder = path.join(siteFolder, "truebase")
 const pagesDir = path.join(siteFolder, "pages")
 
@@ -281,11 +279,21 @@ const delimitedEscapeFunction = value =>
 const delimiter = " DeLiM "
 
 class CancerDBServer extends TrueBaseServer {
-  mainCsvFilename = "cancerdb.csv"
+  trueBaseId = "cancerdb"
+  distFolder = distFolder
 
   beforeListen() {
     // todo: cleanup
-    this.buildTqlExtension()
+    this.buildRunTimeGrammarsCommand()
+
+    const { app } = this
+
+    app.get("/cancerdb.json", (req, res) =>
+      res
+        .setHeader("content-type", "application/json")
+        .send(this.folder.typedMapJson)
+    )
+
     this.initSearch()
     this.buildAutocomplete()
     this.notFoundPage = Disk.read(path.join(siteFolder, "custom_404.html"))
@@ -312,13 +320,6 @@ class CancerDBServer extends TrueBaseServer {
   initSearch() {
     super.initSearch()
     const { app } = this
-
-    app.get("/cancerdb.json", (req, res) =>
-      res
-        .setHeader("content-type", "application/json")
-        .send(this.folder.typedMapJson)
-    )
-
     const searchCache = {}
     app.get("/search.html", (req, res) => {
       const { searchServer } = this
@@ -349,7 +350,7 @@ class CancerDBServer extends TrueBaseServer {
       description
     } = this.searchServer.search(
       decodeURIComponent(originalQuery).replace(/\r/g, ""),
-      this.tqlParser
+      this.extendedTqlParser
     )
     const { folder } = this
     const results = new TreeNode(hits)._toDelimited(
@@ -394,32 +395,6 @@ ${scrollFooter}
     ).html
   }
 
-  buildTqlExtension() {
-    if (!Disk.exists(distFolder)) Disk.mkdir(distFolder)
-    const tqlPath = path.join(truebaseModulesFolder, "tql", "tql.grammar")
-    const tqlGrammar = new TreeNode(Disk.read(tqlPath))
-    const columnNames = new TreeNode(this.folder.grammarCode)
-      .get("cdbNode sortTemplate")
-      .split(" ")
-      .filter(i => i)
-      .join(" ")
-    tqlGrammar.getNode("columnNameCell").set("enum", columnNames)
-
-    const cancerDbTqlPath = path.join(distFolder, "cdbTql.grammar")
-    Disk.write(cancerDbTqlPath, tqlGrammar.toString())
-    GrammarCompiler.compileGrammarForBrowser(
-      cancerDbTqlPath,
-      distFolder + "/",
-      false
-    )
-    const jsPath = GrammarCompiler.compileGrammarForNodeJs(
-      cancerDbTqlPath,
-      distFolder + "/",
-      true
-    )
-    this.tqlParser = require(jsPath)
-  }
-
   buildAllCommand() {
     this.folder.forEach(file =>
       Disk.write(
@@ -434,17 +409,8 @@ ${scrollFooter}
   }
 
   buildDistFolder() {
-    if (!Disk.exists(distFolder)) Disk.mkdir(distFolder)
-    this.buildTqlExtension()
-
-    Disk.write(path.join(distFolder, "cdb.grammar"), this.folder.grammarCode)
-
-    // todo: cleanup
-    GrammarCompiler.compileGrammarForBrowser(
-      path.join(distFolder, "cdb.grammar"),
-      distFolder + "/",
-      false
-    )
+    //todo: upstream this
+    this.buildRunTimeGrammarsCommand()
 
     const combinedJs =
       combineJsFiles(

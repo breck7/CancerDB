@@ -6,7 +6,8 @@ oncoTreeIdNode
  extends abstractTopLevelWordNode
  string sourceDomain oncotree.mskcc.org
 parentOncoTreeIdNode
- extends oncoTreeIdNode
+ extends abstractTopLevelWordNode
+ string sourceDomain oncotree.mskcc.org
 oncoTreeLevelNode
  extends abstractIntNode
  string sourceDomain oncotree.mskcc.org

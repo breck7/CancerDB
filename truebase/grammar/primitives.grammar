@@ -20,6 +20,7 @@ keywordCell
 abstractTopLevelNode
  cruxFromId
  cells keywordCell
+ single
 abstractTopLevelStringNode
  extends abstractTopLevelNode
  catchAllCellType stringCell
@@ -44,7 +45,6 @@ abstractBooleanNode
  cells keywordCell boolCell
  extends abstractTopLevelNode
  cruxFromId
- single
 abstractUrlNode
  cells keywordCell urlCell
  extends abstractTopLevelNode
