@@ -126,7 +126,8 @@ class CancerDBFolder extends TrueBaseFolder {
 const templates = {}
 templates.default = file => ``
 // todo: improve scroll image tag to be able to accept html attributes
-templates.nciCancerCenter = file => `image ${file.get("nciImage")}`
+templates.nciCancerCenter = file => `image ${file.get("nciImage")}
+ class nciImage`
 templates.cancerType = file => {
   const title = file.get("title")
   const keyMap = new TreeNode(`cancerDotGov Cancer.gov

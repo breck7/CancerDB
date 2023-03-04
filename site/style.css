@@ -234,6 +234,10 @@ a:hover {
   -webkit-font-smoothing: antialiased;
 }
 
+.nciImage img {
+  max-width: 400px;
+}
+
 .trueBaseThemeQuickLinks a {
   display: inline-block;
   color: black;
