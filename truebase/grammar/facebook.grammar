@@ -1,4 +1,3 @@
 facebookNode
- inScope followersNode
- extends abstractUrlNode
+ extends abstractSocialMediaNode
  string sourceDomain facebook.com

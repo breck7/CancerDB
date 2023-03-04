@@ -4,7 +4,6 @@ youTubeNode
  string sourceDomain youtube.com
  single false
 youTubeChannelNode
- inScope followersNode
+ extends abstractSocialMediaNode
  description URL of the entity's YouTube channel.
- extends abstractUrlNode
  string sourceDomain youtube.com

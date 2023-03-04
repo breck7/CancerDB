@@ -5,6 +5,8 @@ eventsPageNode
 domainNameNode
  extends abstractTopLevelWordNode
  inScope registeredNode
+ contentKey domain
 registeredNode
  cruxFromId
  cells keywordCell yearCell
+ single
