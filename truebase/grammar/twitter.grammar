@@ -1,3 +1,4 @@
 twitterNode
  extends abstractUrlNode
  string sourceDomain twitter.com
+ inScope followersNode

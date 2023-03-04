@@ -29,6 +29,11 @@ abstractTopLevelWordNode
 abstractIntNode
  cells keywordCell intCell
  extends abstractTopLevelNode
+followersNode
+ cells keywordCell intCell
+ description How many followers on this platform does this account have?
+ single
+ cruxFromId
 abstractPercentageNode
  cells keywordCell percentCell
  extends abstractTopLevelNode
