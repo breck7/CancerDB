@@ -81,6 +81,8 @@ class CancerDBFile extends TrueBaseFile {
 }
 
 class CancerDBFolder extends TrueBaseFolder {
+  githubRepoPath = "breck7/CancerDB"
+
   createParser() {
     return new TreeNode.Parser(CancerDBFile)
   }
