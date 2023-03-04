@@ -28,6 +28,9 @@ css
 * NCI Designated Cancer Centers
  class noMargin
  link search.html?q=select+nciDesignation+city+website%0D%0Awhere+type+includes+nciCancerCenter%0D%0Atitle+NCI+Designated+Cancer+Centers%0D%0Adescription+There+are+71+NCI-Designated+Cancer+Centers%2C+located+in+36+states+and+the+District+of+Columbia%2C+that+are+funded+by+NCI+to+deliver+cutting-edge+cancer+treatments+to+patients.+Source%3A+https%3A%2F%2Fwww.cancer.gov%2Fresearch%2Finfrastructure%2Fcancer-centers
+* U.S. News & World Report Best Hospitals for Cancer
+ class noMargin
+ link search.html?q=select+usNewsRank+type+city+website%0D%0AnotMissing+usNewsRank%0D%0AsortBy+usNewsRank%0D%0Atitle+U.S.+News+%26+World+Report+Best+Hospitals+for+Cancer%0D%0Adescription+Source%3A+https%3A%2F%2Fhealth.usnews.com%2Fbest-hospitals%2Frankings%2Fcancer
 
 * New posts
 loop
