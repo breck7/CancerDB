@@ -1,3 +1,4 @@
 pinterestNode
+ inScope followersNode
  extends abstractUrlNode
  string sourceDomain pinterest.com

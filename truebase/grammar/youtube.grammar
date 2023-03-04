@@ -3,6 +3,7 @@ youTubeNode
  description A URL to a YouTube video about the thing.
  string sourceDomain youtube.com
 youTubeChannelNode
+ inScope followersNode
  description URL of the entity's YouTube channel.
  extends abstractUrlNode
  string sourceDomain youtube.com
