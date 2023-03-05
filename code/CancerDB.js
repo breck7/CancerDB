@@ -285,6 +285,7 @@ class CancerDBServer extends TrueBaseServer {
   beforeListen() {
     // todo: cleanup
     this.buildRunTimeGrammarsCommand()
+    this.buildDistFolder()
 
     const { app } = this
 
@@ -403,15 +404,13 @@ ${scrollFooter}
       )
     )
     this.buildAcknowledgementsImportsCommand()
-    this.buildDistFolder() // todo: fix CI
+    this.buildRunTimeGrammarsCommand()
     this.buildCsvFilesCommand()
     this.buildCsvDocumentationImportsCommand()
   }
 
   buildDistFolder() {
     //todo: upstream this
-    this.buildRunTimeGrammarsCommand()
-
     const combinedJs =
       combineJsFiles(
         path.join(jtreeFolder),
