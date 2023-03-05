@@ -1,5 +1,5 @@
 title Novartis
-type company
+type publicCompany
 
 website https://www.novartis.com
 twitter https://twitter.com/novartis
@@ -10,3 +10,5 @@ instagram https://instagram.com/novartis
 
 domainName novartis.com
  registered 1996
+
+nyse https://www.nyse.com/quote/XNYS:NVS

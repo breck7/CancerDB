@@ -1,5 +1,5 @@
 title Viatris
-type company
+type publicCompany
 
 website https://www.viatris.com
 wikipedia https://en.wikipedia.org/wiki/Viatris
@@ -9,3 +9,5 @@ linkedin https://linkedin.com/company/viatris
 
 domainName viatris.com
  registered 1998
+
+nasdaq https://www.nasdaq.com/market-activity/stocks/vtrs

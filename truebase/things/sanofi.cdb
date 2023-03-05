@@ -1,5 +1,5 @@
 title Sanofi
-type company
+type publicCompany
 
 website https://www.sanofi.com
 wikipedia https://en.wikipedia.org/wiki/Sanofi
@@ -11,3 +11,5 @@ instagram https://instagram.com/sanofi
 
 domainName sanofi.com
  registered 1995
+
+nyse https://www.nyse.com/quote/XNYS:SNY

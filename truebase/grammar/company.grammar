@@ -1,2 +1,15 @@
 companyNode
  extends abstractTopLevelStringNode
+investorRelationsPageNode
+ extends abstractUrlNode
+ contentKey url
+abstractStockExchangeNode
+ extends abstractUrlNode
+nyseNode
+ description URL to the company's ticker on NYSE
+ extends abstractStockExchangeNode
+ source nyse.com
+nasdaqNode
+ description URL to the company's ticker on NASDAQ
+ extends abstractStockExchangeNode
+ source nasdaq.com

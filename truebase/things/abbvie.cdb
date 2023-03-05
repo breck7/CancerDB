@@ -1,5 +1,5 @@
 title AbbVie
-type company
+type publicCompany
 
 website https://www.abbvie.com/
 wikipedia https://en.wikipedia.org/wiki/AbbVie
@@ -12,3 +12,5 @@ instagram https://instagram.com/abbvie
 
 domainName abbvie.com
  registered 2012
+
+nyse https://www.nyse.com/quote/XNYS:ABBV

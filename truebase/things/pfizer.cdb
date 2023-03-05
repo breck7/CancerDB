@@ -1,7 +1,8 @@
 title Pfizer
-type company
+type publicCompany
 
 website https://www.pfizer.com/
+wikipedia https://en.wikipedia.org/wiki/Pfizer
 twitter https://twitter.com/pfizer
 facebook https://facebook.com/pfizer
 linkedin https://linkedin.com/company/pfizer
@@ -9,3 +10,5 @@ instagram https://instagram.com/pfizerinc
 
 domainName pfizer.com
  registered 1992
+
+nyse https://www.nyse.com/quote/XNYS:PFE
