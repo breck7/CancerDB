@@ -17,6 +17,7 @@ oldNameNode
  description What is the old name(s) of this thing?
  extends abstractTopLevelStringNode
  cruxFromId
+ single false
 tradenamesNode
  description Tradenames for the drug.
  extends abstractTopLevelStringNode
