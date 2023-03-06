@@ -1,0 +1,13 @@
+#csvCanvasHolder {
+	display: inline-block;
+	float: left;
+}
+#canvasHeader {
+	border-bottom: solid 3px green;
+}
+
+#rightSide {
+	float: left;
+	width: 400px;
+	margin: 15px;
+}

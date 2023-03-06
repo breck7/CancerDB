@@ -1,0 +1,74 @@
+import settings.scroll
+import ../code/scrollExtensions.scroll
+
+metaTags
+
+stumpNoSnippet
+ link
+  rel stylesheet
+  type text/css
+  href BASE_URL/dist/combined.css
+ link
+  rel stylesheet
+  type text/css
+  href BASE_URL/alpha.css
+
+title CancerDB Future Demo
+ hidden
+
+# Ask CancerDB anything
+
+html <center>
+
+comment
+ My dad got a surprise diagnosis of stage 4 pancreatic cancer, what should he do?
+ My husband has GBM, Grade 4, wild type, can you help?
+ Mom just got diagnosed yesterday with a malignant phyllodes tumor. What do we do?
+
+html
+ <div class="trueBaseSearchForm trueBaseSearchFormPadded">
+  <form style="display:inline;" method="get" action="/fullTextSearch">
+   <input name="q" placeholder="Search" autocomplete="off" type="search" id="searchFormInput" style="width: 800px;" value="Latest research on GBM">
+   <input class="searchButton" type="submit" value="Search">
+  </form>
+ </div>
+
+replace BASE_URL .
+
+html </center>
+
+html <div id="csvCanvasHolder"></div>
+
+html <div id="rightSide">
+
+# Top research centers
+loremIpsum
+
+# Ongoing clinical trials
+loremIpsum
+
+# Most cited papers
+loremIpsum
+
+comment
+ # Learn
+ loremIpsum
+ 
+ # Measure
+ loremIpsum
+ 
+ # React - Lifestyle improvements
+ loremIpsum
+ 
+ # Connect
+ loremIpsum
+ 
+ # Gather options
+ loremIpsum
+
+
+
+
+html </div>
+
+html <script type="text/javascript" src="csvCanvas.js"></script>
