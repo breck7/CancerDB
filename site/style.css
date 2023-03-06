@@ -1,12 +1,6 @@
 body {
   font-family: Helvetica;
 }
-a {
-  text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
-}
 
 .doubleWide {
   max-width: 800px;
