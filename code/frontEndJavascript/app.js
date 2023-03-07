@@ -1,6 +1,91 @@
+const localStorageKeys = {
+	email: "email",
+	password: "password"
+}
+
 class TrueBaseFrontEndApp {
 	constructor() {
 		window.app = this
+	}
+
+	get store() {
+		return window.localStorage
+	}
+
+	get loggedInUser() {
+		return this.store.getItem(localStorageKeys.email)
+	}
+
+	hideUserAccountsButtons() {
+		jQuery(".loggedIn,.notLoggedIn").hide()
+	}
+
+	revealUserAccountButtons() {
+		if (this.loggedInUser) {
+			jQuery(".loggedIn").show()
+			jQuery("#logoutButton").attr(
+				"title",
+				`Logout of ${this.store.getItem(localStorageKeys.email)}`
+			)
+		} else jQuery(".notLoggedIn").show()
+	}
+
+	logoutCommand() {
+		this.store.clear()
+		jQuery(".loginMessage").show()
+		jQuery(".loginMessage").html(`You are now logged out.`)
+		this.hideUserAccountsButtons()
+		this.revealUserAccountButtons()
+	}
+
+	attemptLoginCommand() {
+		const params = new URLSearchParams(window.location.search)
+		const email = params.get("email")
+		const password = params.get("password")
+		window.history.replaceState({}, null, "login.html")
+		if (this.loggedInUser) {
+			jQuery("#loginResult").html(
+				`You are already logged in as ${this.loggedInUser}`
+			)
+			return
+		}
+		if (!email || !password) {
+			jQuery("#loginResult").html(
+				`Email and password not in url. Try clicking your link again? If you think this is a bug please email loginProblems@cancerdb.com`
+			)
+			return
+		}
+		jQuery.post("/login", { email, password }, data => {
+			if (data === "OK") {
+				jQuery("#loginResult").html(`You are logged in as ${email}`)
+				this.store.setItem(localStorageKeys.email, email)
+				this.store.setItem(localStorageKeys.password, password)
+				this.hideUserAccountsButtons()
+				this.revealUserAccountButtons()
+			} else
+				jQuery("#loginResult").html(
+					"Sorry. Something went wrong. If you think this is a bug please email loginProblems@cancerdb.com"
+				)
+		})
+	}
+
+	verifyEmailAndSendLoginLinkCommand() {
+		// send link
+		const email = jQuery("#loginEmail").val()
+		const htmlEscapedEmail = Utils.htmlEscaped(email)
+		if (!Utils.isValidEmail(email)) {
+			jQuery(".loginMessage").show()
+			jQuery(".loginMessage").html(
+				`'${htmlEscapedEmail}' is not a valid email.`
+			)
+			return
+		}
+		jQuery(".notLoggedIn").hide()
+		jQuery.post("/sendLoginLink", { email }, data => {
+			jQuery(".loginMessage").show()
+			console.log(data)
+			jQuery(".loginMessage").html(`Login link sent to '${htmlEscapedEmail}'.`)
+		})
 	}
 
 	renderSearchPage() {

@@ -281,6 +281,8 @@ const delimiter = " DeLiM "
 class CancerDBServer extends TrueBaseServer {
   trueBaseId = "cancerdb"
   distFolder = distFolder
+  siteName = "CancerDB.com"
+  siteDomain = "cancerdb.com"
 
   beforeListen() {
     // todo: cleanup
@@ -296,6 +298,7 @@ class CancerDBServer extends TrueBaseServer {
     )
 
     this.initSearch()
+    this.initUserAccounts()
     this.buildAutocomplete()
     this.notFoundPage = Disk.read(path.join(siteFolder, "custom_404.html"))
   }
@@ -426,7 +429,7 @@ sandbox/lib/show-hint.js`.split("\n")
       "\n\n" +
       combineJsFiles(
         path.join(__dirname, "frontEndJavascript"),
-        `libs.js autocomplete.js app.js`.split(" ")
+        `libs.js jquery-3.4.1.min.js autocomplete.js app.js`.split(" ")
       )
 
     Disk.write(path.join(distFolder, "combined.js"), combinedJs)
