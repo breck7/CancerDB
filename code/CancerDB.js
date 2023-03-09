@@ -7,7 +7,6 @@ const { Utils } = require("jtree/products/Utils.js")
 const { Disk } = require("jtree/products/Disk.node.js")
 const { TreeNode } = require("jtree/products/TreeNode.js")
 const { TrueBaseServer } = require("truebase/server/TrueBaseServer.js")
-const { ScrollFile } = require("scroll-cli")
 const { TrueBaseFolder, TrueBaseFile } = require("truebase/server/TrueBase.js")
 
 const baseFolder = path.join(__dirname, "..")
@@ -17,11 +16,6 @@ const siteFolder = path.join(baseFolder, "site")
 const distFolder = path.join(siteFolder, "dist")
 const publishedFolder = path.join(siteFolder, "truebase")
 const pagesDir = path.join(siteFolder, "pages")
-
-const scrollHeader = new ScrollFile(
-  undefined,
-  path.join(siteFolder, "header.scroll")
-).importResults.code
 
 class CancerDBFile extends TrueBaseFile {
   get names() {
