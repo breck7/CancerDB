@@ -31,7 +31,7 @@ stumpNoSnippet
   a Types
    href BASE_URL/search.html?q=where+type+%3D+cancerType%0D%0Aselect+mainType+tissue+subTypes+nciCode+umls+oncoTreeId+parentOncoTreeId%0D%0AsortBy+oncoTreeLevel
   a CSV
-   href BASE_URL/pages/csvDocumentation.html
+   href BASE_URL/csv.html
   a Blog
    href BASE_URL/posts/index.html
   a About
@@ -39,7 +39,7 @@ stumpNoSnippet
   a Pricing
    href BASE_URL/pages/pricing.html
   a Logout
-   onclick new TrueBaseFrontEndApp().logoutCommand()
+   onclick new TrueBaseBrowserApp().logoutCommand()
    class loggedIn
    style display:none;
    id logoutButton
@@ -53,7 +53,7 @@ stumpNoSnippet
   button Login/Join
    style display:none;
    class notLoggedIn
-   onclick new TrueBaseFrontEndApp().verifyEmailAndSendLoginLinkCommand()
+   onclick new TrueBaseBrowserApp().verifyEmailAndSendLoginLinkCommand()
   span Login messages here.
    class loginMessage
    style display:none;
@@ -61,4 +61,4 @@ stumpNoSnippet
   class trueBaseThemeGitHubTopRight
   href https://github.com/breck7/CancerDB
 
-html <script>document.addEventListener("DOMContentLoaded", () => new TrueBaseFrontEndApp().revealUserAccountButtons())</script>
+html <script>document.addEventListener("DOMContentLoaded", () => new TrueBaseBrowserApp().render().revealUserAccountButtons())</script>

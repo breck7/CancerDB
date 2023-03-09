@@ -23,4 +23,4 @@ COLUMN_METADATA_TABLE
 * The table above is also available as csv.
  link BASE_URL/columns.csv csv
 
-import ../footer.scroll
+import footer.scroll

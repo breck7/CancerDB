@@ -14,7 +14,7 @@ import code/ciBadges.scroll
 * The CancerDB database is freely available:
 - As CSV: https://cancerdb.com/cancerdb.csv
 - As JSON: https://cancerdb.com/cancerdb.json
-* Documentation for the CSV is available here: https://cancerdb.com/pages/csvDocumentation.html.
+* Documentation for the CSV is available here: https://cancerdb.com/csv.html.
 
 ## To add a new treatment
 * Advanced method: Create a new file in `truebase/things` with a unique URL friendly filename ending in `.cdb` and send a pull request.
