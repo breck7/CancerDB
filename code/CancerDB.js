@@ -215,8 +215,10 @@ class CancerDBServer extends TrueBaseServer {
   distFolder = distFolder
   siteName = "CancerDB.com"
   siteDomain = "cancerdb.com"
+  devPort = 5150
 
   buildAllCommand() {
+    this.initSiteCommand()
     this.folder.forEach(file =>
       Disk.write(
         path.join(publishedFolder, `${file.id}.scroll`),
