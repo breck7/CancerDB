@@ -18,7 +18,7 @@ stumpNoSnippet
    href BASE_URL/search.html?q=select+type
   span ·
   a Day DAYS_SINCE_ALPHA_LAUNCH
-   href https://github.com/breck7/CancerDB/commit/826bcafef252b684751eddaae183a2f8ccb43d5d
+   href https://github.com/breck7/CancerDB/commit/298bb5823a411c905aa98bec02e8c0c2ed2bfbea
    title An early version of CancerDB.com shipped on February 24th, 2023
   span ·
   a Acknowledgements
