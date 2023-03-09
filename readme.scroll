@@ -32,6 +32,7 @@ code
  npm install .
  npm run build
  npm run test
+ npm run format
  npm run local
 
 ## To explore this repo
