@@ -2,7 +2,7 @@ importOnly
 
 viewSource
 
-replaceJs DAYS_SINCE_ALPHA_LAUNCH Math.floor(dayjs().diff(dayjs("2022-11-01"), "day", true))
+replaceJs DAYS_SINCE_ALPHA_LAUNCH Math.floor(dayjs().diff(dayjs("2023-2-21"), "day", true))
 
 stumpNoSnippet
  div
@@ -19,7 +19,7 @@ stumpNoSnippet
   span ·
   a Day DAYS_SINCE_ALPHA_LAUNCH
    href https://github.com/breck7/CancerDB/commit/826bcafef252b684751eddaae183a2f8ccb43d5d
-   title A very early version of CancerDB.com shipped on November 1st, 2022
+   title An early version of CancerDB.com shipped on February 24th, 2023
   span ·
   a Acknowledgements
    href BASE_URL/pages/acknowledgements.html
