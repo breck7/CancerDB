@@ -219,6 +219,7 @@ class CancerDBServer extends TrueBaseServer {
 
   buildAllCommand() {
     this.initSiteCommand()
+    this.buildCsvFilesCommand()
     this.folder.forEach(file =>
       Disk.write(
         path.join(publishedFolder, `${file.id}.scroll`),
