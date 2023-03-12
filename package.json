@@ -4,13 +4,12 @@
   "description": "Accelerate the cures.",
   "main": "index.js",
   "scripts": {
-    "test": "./code/test.js",
-    "build": "./code/CancerDB.js buildAll; scroll list | scroll build",
+    "test": "truebase test",
     "open": "open site/index.html",
     "local": "./code/CancerDB.js startDevServer",
     "format": "./code/CancerDB.js format",
     "fetchContributors": "wget -O site/pages/contributors.json https://api.github.com/repos/breck7/CancerDB/contributors",
-    "launch": "git pull; npm install .; npm run build; npm run restart",
+    "launch": "git pull; npm install .; npm run restart",
     "start": "pm2 start ./code/CancerDB.js -- startProdServer",
     "stop": "pm2 delete 0",
     "restart": "pm2 restart 0",
@@ -35,11 +34,11 @@
   },
   "homepage": "https://github.com/breck7/CancerDB#readme",
   "dependencies": {
-    "jtree": "^69.3.0",
+    "jtree": "^69.4.1",
     "lodash": "^4.17.21",
     "numeral": "^2.0.6",
-    "scroll-cli": "^59.3.0",
-    "truebase": "^7.2.1"
+    "scroll-cli": "^62.0.0",
+    "truebase": "^8.0.0"
   },
   "devDependencies": {
     "@types/node": "^18.7.18"

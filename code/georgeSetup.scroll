@@ -17,7 +17,6 @@ bashCode
  git clone https://github.com/breck7/CancerDB
  cd CancerDB
  npm install .
- npm run build
  # Test that it works over http
  node ./code/server.js startDevServer 80
  # Now get SSL cert for https
@@ -39,5 +38,4 @@ bashCode
  cd CancerDB
  git pull
  npm install .
- npm run build
  pm2 restart 0

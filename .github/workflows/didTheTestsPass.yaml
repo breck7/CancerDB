@@ -24,6 +24,5 @@ jobs:
           sudo apt-get install cloc
           npm install .
           npm install -g scroll-cli
-          npm run build
           npm run test
       # - run: npm run buildCoverageReport

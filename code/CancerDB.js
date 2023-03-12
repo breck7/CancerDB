@@ -13,8 +13,6 @@ const baseFolder = path.join(__dirname, "..")
 const truebaseFolder = path.join(baseFolder, "truebase")
 const ignoreFolder = path.join(baseFolder, "ignore")
 const siteFolder = path.join(baseFolder, "site")
-const distFolder = path.join(siteFolder, "dist")
-const publishedFolder = path.join(siteFolder, "truebase")
 const pagesDir = path.join(siteFolder, "pages")
 
 class CancerDBFile extends TrueBaseFile {
@@ -83,7 +81,7 @@ class CancerDBFile extends TrueBaseFile {
     const prevPage = this.getPrevious().permalink
     const nextPage = this.getNext().permalink
 
-    return `import header.scroll
+    return `import ../header.scroll
 viewSourceUrl ${this.sourceUrl}
 keyboardNav ${prevPage} ${nextPage}
 html <a class="trueBaseThemePreviousItem" href="${prevPage}">&lt;</a><a class="trueBaseThemeNextItem" href="${nextPage}">&gt;</a>
@@ -111,7 +109,8 @@ import ../footer.scroll
 }
 
 class CancerDBFolder extends TrueBaseFolder {
-  githubRepoPath = "breck7/CancerDB"
+  // todo: move to truebase settings file
+  gitRepoPath = "https://github.com/breck7/CancerDB"
 
   createParser() {
     return new TreeNode.Parser(CancerDBFile)
@@ -136,10 +135,6 @@ class CancerDBFolder extends TrueBaseFolder {
 
   get subTypesMap() {
     return this.getCustomIndex("parentOncoTreeId")
-  }
-
-  get filesWithInvalidFilenames() {
-    return this.filter(file => file.id !== Utils.titleToPermalink(file.id))
   }
 
   getCancerTypeFile(query) {
@@ -211,48 +206,41 @@ templates.documentary = file =>
   file.has("watchOnYouTube") ? `youTube ${file.get("watchOnYouTube")}` : ""
 
 class CancerDBServer extends TrueBaseServer {
-  trueBaseId = "cancerdb"
-  distFolder = distFolder
-  siteName = "CancerDB.com"
-  siteDomain = "cancerdb.com"
-  devPort = 5150
-
-  buildAllCommand() {
-    this.initSiteCommand()
-    this.buildCsvFilesCommand()
-    this.folder.forEach(file =>
-      Disk.write(
-        path.join(publishedFolder, `${file.id}.scroll`),
-        file.toScroll()
-      )
-    )
-    this.buildAcknowledgementsImportsCommand()
+  warmAll() {
+    super.warmAll()
+    this.warmAcknowledgementsPage()
   }
 
-  buildAcknowledgementsImportsCommand() {
+  // todo: should we do this?
+  get grammarId() {
+    return "cdb"
+  }
+
+  warmAcknowledgementsPage() {
     const { sources } = this.folder
     const npmPackages = Object.keys({
       ...require("../package.json").dependencies
     })
     npmPackages.sort()
 
-    this.buildImportsFile(
-      path.join(pagesDir, "acknowledgementsImports.scroll"),
-      {
-        PACKAGES_TABLE: npmPackages
-          .map(s => `- ${s}\n https://www.npmjs.com/package/${s}`)
-          .join("\n"),
-        SOURCES_TABLE: sources
-          .map(s => `- ${s}\n linkify false\n https://${s}`)
-          .join("\n"),
-        CONTRIBUTORS_TABLE: JSON.parse(
-          Disk.read(path.join(pagesDir, "contributors.json"))
-        )
-          .filter(item => item.login !== "breck7")
-          .map(item => `- ${item.login}\n ${item.html_url}`)
-          .join("\n")
-      }
-    )
+    const imports = this.makeVarSection({
+      "// PACKAGES_TABLE": npmPackages
+        .map(s => `- ${s}\n https://www.npmjs.com/package/${s}`)
+        .join("\n"),
+      "// SOURCES_TABLE": sources
+        .map(s => `- ${s}\n linkify false\n https://${s}`)
+        .join("\n"),
+      "// CONTRIBUTORS_TABLE": JSON.parse(
+        Disk.read(path.join(pagesDir, "contributors.json"))
+      )
+        .filter(item => item.login !== "breck7")
+        .map(item => `- ${item.login}\n ${item.html_url}`)
+        .join("\n")
+    })
+
+    virtualFiles["/pages/acknowledgements.scroll"] = virtualFiles[
+      "/pages/acknowledgements.scroll"
+    ].replace("// IMPORTS", imports)
   }
 
   importFromOncoTreeCommand() {
@@ -525,7 +513,10 @@ const cancerDBFolder = new CancerDBFolder()
   .setDir(path.join(truebaseFolder, "things"))
   .setGrammarDir(path.join(truebaseFolder, "grammar"))
 
-const CancerDB = new CancerDBServer(cancerDBFolder, ignoreFolder, siteFolder)
+const CancerDB = new CancerDBServer(
+  path.join(baseFolder, "cancerdb.truebase"),
+  cancerDBFolder
+)
 
 module.exports = { CancerDB }
 

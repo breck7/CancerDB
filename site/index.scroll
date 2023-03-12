@@ -7,7 +7,7 @@ title CancerDB
 
 html <center>
 
-import searchForm.scroll
+// import searchForm.scroll
 
 replace BASE_URL .
 
