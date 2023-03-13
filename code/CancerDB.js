@@ -10,7 +10,6 @@ const { TrueBaseServer } = require("truebase/server/TrueBaseServer.js")
 const { TrueBaseFolder, TrueBaseFile } = require("truebase/server/TrueBase.js")
 
 const baseFolder = path.join(__dirname, "..")
-const truebaseFolder = path.join(baseFolder, "truebase")
 const ignoreFolder = path.join(baseFolder, "ignore")
 const siteFolder = path.join(baseFolder, "site")
 const pagesDir = path.join(siteFolder, "pages")
@@ -104,7 +103,7 @@ import ../footer.scroll
   }
 
   get sourceUrl() {
-    return `https://github.com/breck7/CancerDB/blob/main/truebase/things/${this.id}.cdb`
+    return `https://github.com/breck7/CancerDB/blob/main/things/${this.id}.cdb`
   }
 }
 
@@ -510,8 +509,8 @@ class CancerDBServer extends TrueBaseServer {
 }
 
 const cancerDBFolder = new CancerDBFolder()
-  .setDir(path.join(truebaseFolder, "things"))
-  .setGrammarDir(path.join(truebaseFolder, "grammar"))
+  .setDir(path.join(baseFolder, "things"))
+  .setGrammarDir(path.join(baseFolder, "grammar"))
 
 const CancerDB = new CancerDBServer(
   path.join(baseFolder, "cancerdb.truebase"),
