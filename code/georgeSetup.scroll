@@ -13,6 +13,8 @@ bashCode
  npm install -g pm2 jtree
  # Generate keys
  # ssh-keygen -t rsa
+ # cat ~/.ssh/id_rsa.pub
+ # copy that to github
  # git clone git@github.com:breck7/CancerDB.git
  git clone https://github.com/breck7/CancerDB
  cd CancerDB
