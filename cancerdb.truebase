@@ -1,8 +1,8 @@
 trueBaseId cancerdb
 siteName CancerDB
 siteDomain cancerdb.com
-grammarFolder ./truebase/grammar
-thingsFolder ./truebase/things
+grammarFolder ./grammar
+thingsFolder ./things
 ignoreFolder ./ignore/
 siteFolder ./site
 devPort 8080
