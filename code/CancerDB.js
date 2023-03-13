@@ -216,6 +216,7 @@ class CancerDBServer extends TrueBaseServer {
   }
 
   warmAcknowledgementsPage() {
+    const { virtualFiles } = this
     const { sources } = this.folder
     const npmPackages = Object.keys({
       ...require("../package.json").dependencies
@@ -237,9 +238,11 @@ class CancerDBServer extends TrueBaseServer {
         .join("\n")
     })
 
-    virtualFiles["/pages/acknowledgements.scroll"] = virtualFiles[
-      "/pages/acknowledgements.scroll"
-    ].replace("// IMPORTS", imports)
+    const acksPath = this.settings.siteFolder + "/pages/acknowledgements.scroll"
+    virtualFiles[acksPath] = virtualFiles[acksPath].replace(
+      "// IMPORTS",
+      imports
+    )
   }
 
   importFromOncoTreeCommand() {
