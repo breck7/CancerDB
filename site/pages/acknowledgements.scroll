@@ -5,20 +5,44 @@ groups index
 
 startColumns 4
 
+nodejs
+ const {Disk} = require("jtree/products/Disk.node.js")
+ const path = require("path")
+ const {CancerDB} = require("../../code/CancerDB.js")
+ const { sources } = CancerDB.folder
+ const npmPackages = Object.keys({
+   ...require("../../package.json").dependencies
+ })
+ npmPackages.sort()
+ module.exports = {
+    PACKAGES_TABLE: npmPackages
+     .map(s => `- ${s}\n https://www.npmjs.com/package/${s}`)
+     .join("\n"),
+      SOURCES_TABLE: sources
+     .map(s => `- ${s}\n linkify false\n https://${s}`)
+     .join("\n"),
+   CONTRIBUTORS_TABLE: JSON.parse(
+     Disk.read(path.join(__dirname, "contributors.json"))
+   )
+     .filter(item => item.login !== "breck7")
+     .map(item => `- ${item.login}\n ${item.html_url}`)
+     .join("\n")
+ }
+
 ## Contributors
 * Thank you to everyone who has contributed directly to the CancerDB repo:
  https://github.com/breck7/CancerDB CancerDB repo
  https://api.github.com/repos/breck7/CancerDB/contributors everyone
-// CONTRIBUTORS_TABLE
+CONTRIBUTORS_TABLE
 
 ## Sources
 * The vast majority of the information on this site comes from other websites and projects and should always include a link back to the `source`. Thank you to all of those sites, including:
  wrap ` span title="And if there's a link missing somewhere, please report a bug!"
-// SOURCES_TABLE
+SOURCES_TABLE
 
 ## NPM Packages
 * Thank you to the developers building these packages used by CancerDB:
-// PACKAGES_TABLE
+PACKAGES_TABLE
 
 ## Doctors, Nurses, Researchers
 * Thank you to everyone working on the preventions and treatments that are the subject of this site.

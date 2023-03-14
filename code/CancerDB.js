@@ -205,44 +205,9 @@ templates.documentary = file =>
   file.has("watchOnYouTube") ? `youTube ${file.get("watchOnYouTube")}` : ""
 
 class CancerDBServer extends TrueBaseServer {
-  warmAll() {
-    super.warmAll()
-    this.warmAcknowledgementsPage()
-  }
-
   // todo: should we do this?
   get grammarId() {
     return "cdb"
-  }
-
-  warmAcknowledgementsPage() {
-    const { virtualFiles } = this
-    const { sources } = this.folder
-    const npmPackages = Object.keys({
-      ...require("../package.json").dependencies
-    })
-    npmPackages.sort()
-
-    const imports = this.makeVarSection({
-      "// PACKAGES_TABLE": npmPackages
-        .map(s => `- ${s}\n https://www.npmjs.com/package/${s}`)
-        .join("\n"),
-      "// SOURCES_TABLE": sources
-        .map(s => `- ${s}\n linkify false\n https://${s}`)
-        .join("\n"),
-      "// CONTRIBUTORS_TABLE": JSON.parse(
-        Disk.read(path.join(pagesDir, "contributors.json"))
-      )
-        .filter(item => item.login !== "breck7")
-        .map(item => `- ${item.login}\n ${item.html_url}`)
-        .join("\n")
-    })
-
-    const acksPath = this.settings.siteFolder + "/pages/acknowledgements.scroll"
-    virtualFiles[acksPath] = virtualFiles[acksPath].replace(
-      "// IMPORTS",
-      imports
-    )
   }
 
   importFromOncoTreeCommand() {
