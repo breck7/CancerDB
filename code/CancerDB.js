@@ -101,15 +101,13 @@ code
 import ../footer.scroll
 `.replace(/\n\n\n+/g, "\n\n")
   }
-
-  get sourceUrl() {
-    return `https://github.com/breck7/CancerDB/blob/main/things/${this.id}.cdb`
-  }
 }
 
 class CancerDBFolder extends TrueBaseFolder {
-  // todo: move to truebase settings file
-  gitRepoPath = "https://github.com/breck7/CancerDB"
+  // todo: move these to .truebase settings file
+  thingsViewSourcePath = `https://github.com/breck7/CancerDB/blob/main/things/`
+  grammarViewSourcePath = `https://github.com/breck7/CancerDB/blob/main/grammar/`
+  computedsViewSourcePath = `https://github.com/breck7/CancerDB/blob/main/code/CancerDB.js`
 
   createParser() {
     return new TreeNode.Parser(CancerDBFile)
@@ -476,9 +474,10 @@ class CancerDBServer extends TrueBaseServer {
   }
 }
 
-const cancerDBFolder = new CancerDBFolder()
-  .setDir(path.join(baseFolder, "things"))
-  .setGrammarDir(path.join(baseFolder, "grammar"))
+const cancerDBFolder = new CancerDBFolder().setSettings({
+  thingsFolder: path.join(baseFolder, "things"),
+  grammarFolder: path.join(baseFolder, "grammar")
+})
 
 const CancerDB = new CancerDBServer(
   path.join(baseFolder, "cancerdb.truebase"),
