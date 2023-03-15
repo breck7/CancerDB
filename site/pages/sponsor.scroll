@@ -1,10 +1,10 @@
 import header.scroll
-title Pricing
+title Sponsor CancerDB
 groups index
 
 startColumns 2
 
-* CancerDB is published freely to the public domain. But it takes a lot of resources to collect the data and write the software. To fund this work, we offer a some paid products:
+* CancerDB is published freely to the public domain. But it takes a lot of resources to collect the data and write the software. To fund this work, we rely on sponsors:
 
 # LOD: Prioritize Lines of Data
  https://buy.stripe.com/5kAcQybeV62x0w0eV2
@@ -15,7 +15,7 @@ startColumns 2
 
 endColumns
 
-html <div class="doubleWide">
+<div class="doubleWide">
 
 # Donate
 * If you believe in our work and just want to donate—thank you! Our addresses are below:
@@ -31,6 +31,6 @@ html <div class="doubleWide">
  https://www.buymeacoffee.com/cancerdb BuyMeACoffee.com
 * Cash or check: Public Domain Publishing Inc., One World Trade Center, 8th Floor, Long Beach, CA 90831
 
-html </div>
+</div>
 
 import ../footer.scroll

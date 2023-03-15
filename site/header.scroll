@@ -3,6 +3,7 @@ import settings.scroll
 import scrollExtensions.scroll
 
 metaTags
+copyButtons
 
 stumpNoSnippet
  link
@@ -36,8 +37,8 @@ stumpNoSnippet
    href BASE_URL/posts/index.html
   a About
    href BASE_URL/pages/about.html
-  a Pricing
-   href BASE_URL/pages/pricing.html
+  a Sponsor
+   href BASE_URL/pages/sponsor.html
   a Logout
    onclick new TrueBaseBrowserApp().logoutCommand()
    class loggedIn
@@ -50,7 +51,7 @@ stumpNoSnippet
    id loginEmail
    style display:none;
    placeholder Email
-  button Login/Join
+  button Join
    style display:none;
    class notLoggedIn
    onclick new TrueBaseBrowserApp().verifyEmailAndSendLoginLinkCommand()
@@ -61,4 +62,4 @@ stumpNoSnippet
   class trueBaseThemeGitHubTopRight
   href https://github.com/breck7/CancerDB
 
-html <script>document.addEventListener("DOMContentLoaded", () => new TrueBaseBrowserApp().render().revealUserAccountButtons())</script>
+<script>document.addEventListener("DOMContentLoaded", () => new TrueBaseBrowserApp().render().revealUserAccountButtons())</script>

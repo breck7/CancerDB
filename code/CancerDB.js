@@ -83,11 +83,11 @@ class CancerDBFile extends TrueBaseFile {
     return `import ../header.scroll
 viewSourceUrl ${this.sourceUrl}
 keyboardNav ${prevPage} ${nextPage}
-html <a class="trueBaseThemePreviousItem" href="${prevPage}">&lt;</a><a class="trueBaseThemeNextItem" href="${nextPage}">&gt;</a>
+<a class="trueBaseThemePreviousItem" href="${prevPage}">&lt;</a><a class="trueBaseThemeNextItem" href="${nextPage}">&gt;</a>
 
 title ${title}
 
-html <div class="trueBaseThemeQuickLinks">${this.quickLinks}</div>
+<div class="trueBaseThemeQuickLinks">${this.quickLinks}</div>
 
 ${description ? description : ""}
 
@@ -471,6 +471,113 @@ class CancerDBServer extends TrueBaseServer {
     const { WhoIsImporter } = require("../../truecrawler/whois/WhoIs.js")
     const importer = new WhoIsImporter(this.folder)
     await importer.updateAllCommand()
+  }
+
+  makeUscsTable(columnName) {
+    const query = `select uscsDeathsPerYear uscsTable
+notMissing uscsDeathsPerYear
+sortBy uscsDeathsPerYear
+reverse`
+    const data = new TreeNode(this._initSearch().searchServer.tree(query))
+    const groupedByTypeAndAgeBuckets = {}
+    data.forEach(cancerType => {
+      const buckets = {}
+      const table = TreeNode.fromDelimited(
+        cancerType.getNode("uscsTable").content +
+          "\n" +
+          cancerType.getNode("uscsTable").childrenToString(),
+        "|"
+      )
+      buckets["Age"] =
+        `<a href='${cancerType.get("titleLink")}'>` +
+        cancerType
+          .get("title")
+          .replace("Cancer", "")
+          .trim() +
+        "</a>"
+      table.forEach(row => {
+        const age = parseInt(row.get("age"))
+        const amount = parseInt(row.get(columnName))
+        let bucket
+        if (age < 10) bucket = "@@0-10"
+        else if (age < 20) bucket = "@@10-20"
+        else if (age < 30) bucket = "@@20-30"
+        else if (age < 40) bucket = "@@30-40"
+        else if (age < 50) bucket = "@@40-50"
+        else if (age < 60) bucket = "@@50-60"
+        else if (age < 70) bucket = "@@60-70"
+        else if (age < 80) bucket = "@@70-80"
+        else bucket = "@@80+"
+        const currentAmount = buckets[bucket] || 0
+        buckets[bucket] = currentAmount + (isNaN(amount) ? 0 : amount)
+      })
+      groupedByTypeAndAgeBuckets[cancerType.get("title")] = buckets
+    })
+    return groupedByTypeAndAgeBuckets
+  }
+
+  makeMagicSquaresOutput(groupedByTypeAndAgeBuckets) {
+    const dataTable = this.transposeTSV(
+      new TreeNode(groupedByTypeAndAgeBuckets).toTsv()
+    )
+    return {
+      dataTable: Utils.stripHtml(dataTable.replace(/\n/g, "\n ")).replace(
+        /@@/g,
+        ""
+      ),
+      magicSquares: dataTable.replace(/\n/g, "\n \t\t")
+    }
+  }
+
+  get overviewTables() {
+    const deathGroups = this.makeUscsTable("deaths")
+    const casesGroups = this.makeUscsTable("cases")
+
+    const deaths = this.makeMagicSquaresOutput(deathGroups)
+    const cases = this.makeMagicSquaresOutput(casesGroups)
+
+    Object.keys(deathGroups).forEach(key => {
+      const type = deathGroups[key]
+      Object.keys(type).forEach(bucket => {
+        if (bucket === "Age") return
+        const numerator = type[bucket]
+        const denominator = casesGroups[key][bucket]
+        type[bucket] = numeral(
+          denominator ? numerator / denominator : 0
+        ).format("0.00")
+      })
+    })
+
+    const mortality = this.makeMagicSquaresOutput(deathGroups)
+
+    return {
+      DEATHS_SQUARES: deaths.magicSquares,
+      DEATHS_TABLE: deaths.dataTable,
+      CASES_SQUARES: cases.magicSquares,
+      CASES_TABLE: cases.dataTable,
+      MORTALITY_SQUARES: mortality.magicSquares,
+      MORTALITY_TABLE: mortality.dataTable
+    }
+  }
+
+  // Written by ChatGPT :)
+  transposeTSV(tsvString) {
+    // Split the TSV string into rows
+    const rows = tsvString.trim().split("\n")
+
+    // Split each row into columns
+    const columns = rows.map(row => row.split("\t"))
+
+    // Transpose the matrix (i.e., swap rows and columns)
+    const transposedColumns = columns[0].map((_, columnIndex) =>
+      columns.map(row => row[columnIndex])
+    )
+
+    // Convert the transposed matrix back into a TSV string
+    const transposedRows = transposedColumns.map(row => row.join("\t"))
+    const transposedTsvString = transposedRows.join("\n")
+
+    return transposedTsvString
   }
 }
 

@@ -5,7 +5,7 @@ title CancerDB
 
 # CancerDB: a database of cancer preventions and treatments
 
-html <center>
+<center>
 
 import searchForm.scroll
 
@@ -32,13 +32,17 @@ css
  class noMargin
  link search.html?q=select+usNewsRank+type+city+website%0D%0AnotMissing+usNewsRank%0D%0AsortBy+usNewsRank%0D%0Atitle+U.S.+News+%26+World+Report+Best+Hospitals+for+Cancer%0D%0Adescription+Source%3A+https%3A%2F%2Fhealth.usnews.com%2Fbest-hospitals%2Frankings%2Fcancer
 
-* New posts
-loop
- groups posts/about
+* Newest post
+* Cancer in the United States: Heatmap visualizations
+ link /posts/cancer-heatmaps.html
+<a href="/posts/cancer-heatmaps.html"><img src="/posts/cancerHeatmap.jpg" width="300px"/></a>
+
+// loop
+ groups posts/cancer
  join <br>
  limit 3
  javascript `<a href="${item.relativeLink}">${item.title}</a>`
 
-html </center>
+</center>
 
 import footer.scroll

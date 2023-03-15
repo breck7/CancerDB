@@ -14,6 +14,8 @@ nciCode C12391
 oncoTreeLevel 1
 subTypes 23
 
+wikipedia https://en.wikipedia.org/wiki/Esophageal_cancer
+
 uscsTable 2019
  sex|age|population|cases|deaths
  F|0|1841226|~|~
