@@ -1,6 +1,6 @@
 cdbNode
  root
- description A database about cancer preventions and treatments and related concepts.
+ description A database containing all the key data on cancer in one file.
  catchAllNodeType errorNode
  todo Should not have to manually list each node type here, but should be able to mark some tag as inscope. Should be fixed upstream in Jtree.
  inScope blankLineNode abstractTopLevelNode membersNode annualDeathsReportNode
