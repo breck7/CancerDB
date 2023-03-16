@@ -1,6 +1,8 @@
 title MEDLINE
 type onlineDatabase
+appeared 1971
 parentOrganization nlm
+related pubmed
 
 website https://www.nlm.nih.gov/medline/medline_overview.html
 wikipedia https://en.wikipedia.org/wiki/MEDLINE
