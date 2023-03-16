@@ -17,6 +17,7 @@ subTypes 29
 wikipedia https://en.wikipedia.org/wiki/Skin_cancer
 cancerDotGov https://www.cancer.gov/types/skin
 cancerDotOrg https://www.cancer.org/cancer/skin-cancer.html
+gco https://gco.iarc.fr/today/data/factsheets/cancers/16-Melanoma-of-skin-fact-sheet.pdf
 reference https://www.aad.org/media/stats-skin-cancer
 wolframAlpha https://www.wolframalpha.com/input?i=skin+cancer
 

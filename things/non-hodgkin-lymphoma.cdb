@@ -14,6 +14,8 @@ nciCode C3211
 oncoTreeLevel 3
 subTypes 87
 
+gco https://gco.iarc.fr/today/data/factsheets/cancers/34-Non-hodgkin-lymphoma-fact-sheet.pdf
+
 uscsTable 2019
  sex|age|population|cases|deaths
  F|0|1841226|~|~

@@ -16,6 +16,7 @@ subTypes 40
 
 wikipedia https://en.wikipedia.org/wiki/Ovarian_cancer
 cancerDotOrg https://cancer.org/cancer/ovarian-cancer.html
+gco https://gco.iarc.fr/today/data/factsheets/cancers/25-Ovary-fact-sheet.pdf
 reference https://my.clevelandclinic.org/health/diseases/4447-ovarian-cancer
 reference https://medlineplus.gov/ovariancancer.html
 reference https://seer.cancer.gov/statfacts/html/ovary.html

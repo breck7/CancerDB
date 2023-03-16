@@ -17,6 +17,7 @@ subTypes 35
 wikipedia https://en.wikipedia.org/wiki/Breast_cancer
 cancerDotGov https://www.cancer.gov/types/breast
 cancerDotOrg https://www.cancer.org/cancer/breast-cancer.html
+gco https://gco.iarc.fr/today/data/factsheets/cancers/20-Breast-fact-sheet.pdf
 reference https://www.wolframalpha.com/input?i=breast+cancer
 
 annualDeathsReport US https://www.cdc.gov/cancer/dcpc/research/update-on-cancer-deaths/index.htm

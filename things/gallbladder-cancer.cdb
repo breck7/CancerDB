@@ -9,3 +9,5 @@ umls C0235782
 nciCode C3844
 oncoTreeLevel 2
 subTypes 3
+
+gco https://gco.iarc.fr/today/data/factsheets/cancers/12-Gallbladder-fact-sheet.pdf

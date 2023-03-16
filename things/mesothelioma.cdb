@@ -7,6 +7,7 @@ uscsMortalityRate 85%
 wikipedia https://en.wikipedia.org/wiki/Mesothelioma
 cancerDotGov https://www.cancer.gov/types/mesothelioma
 cancerDotOrg https://www.cancer.org/cancer/malignant-mesothelioma.html
+gco https://gco.iarc.fr/today/data/factsheets/cancers/18-Mesothelioma-fact-sheet.pdf
 
 uscsTable 2019
  sex|age|population|cases|deaths

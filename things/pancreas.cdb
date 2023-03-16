@@ -15,6 +15,7 @@ subTypes 12
 
 wikipedia https://en.wikipedia.org/wiki/Pancreatic_cancer
 cancerDotGov https://www.cancer.gov/types/pancreatic
+gco https://gco.iarc.fr/today/data/factsheets/cancers/13-Pancreas-fact-sheet.pdf
 reference https://www.wolframalpha.com/input?i=pancreatic+cancer
 
 annualDeathsReport US https://www.cdc.gov/cancer/dcpc/research/update-on-cancer-deaths/index.htm

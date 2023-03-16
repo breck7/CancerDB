@@ -17,6 +17,7 @@ oncoTreeLevel 1
 subTypes 24
 
 wikipedia https://en.wikipedia.org/wiki/Colorectal_cancer
+gco https://gco.iarc.fr/today/data/factsheets/cancers/8-Colon-fact-sheet.pdf
 
 uscsTable 2019
  sex|age|population|cases|deaths

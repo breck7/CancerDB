@@ -18,6 +18,7 @@ subTypes 17
 wikipedia https://en.wikipedia.org/wiki/Bladder_cancer
 cancerDotGov https://www.cancer.gov/types/bladder
 cancerDotOrg https://www.cancer.org/cancer/bladder-cancer.html
+gco https://gco.iarc.fr/today/data/factsheets/cancers/30-Bladder-fact-sheet.pdf
 reference https://www.cdc.gov/cancer/bladder/
 reference https://www.cancer.net/cancer-types/bladder-cancer/introduction
 

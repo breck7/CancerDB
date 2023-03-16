@@ -14,6 +14,8 @@ nciCode C9357
 oncoTreeLevel 3
 subTypes 6
 
+gco https://gco.iarc.fr/today/data/factsheets/cancers/33-Hodgkin-lymphoma-fact-sheet.pdf
+
 uscsTable 2019
  sex|age|population|cases|deaths
  F|0|1841226|~|~

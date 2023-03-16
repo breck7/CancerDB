@@ -7,6 +7,7 @@ uscsMortalityRate 45%
 
 wikipedia https://en.wikipedia.org/wiki/Multiple_myeloma
 cancerDotOrg https://www.cancer.org/cancer/multiple-myeloma
+gco https://gco.iarc.fr/today/data/factsheets/cancers/35-Multiple-myeloma-fact-sheet.pdf
 
 uscsTable 2019
  sex|age|population|cases|deaths

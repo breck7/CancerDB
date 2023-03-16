@@ -1,0 +1,3 @@
+gcoNode
+ extends abstractUrlNode
+ string sourceDomain gco.iarc.fr

@@ -15,6 +15,7 @@ oncoTreeLevel 1
 subTypes 23
 
 wikipedia https://en.wikipedia.org/wiki/Esophageal_cancer
+gco https://gco.iarc.fr/today/data/factsheets/cancers/6-Oesophagus-fact-sheet.pdf
 
 uscsTable 2019
  sex|age|population|cases|deaths

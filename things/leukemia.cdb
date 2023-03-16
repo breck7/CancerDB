@@ -7,6 +7,7 @@ uscsMortalityRate 46%
 
 wikipedia https://en.wikipedia.org/wiki/Leukemia
 cancerDotOrg https://www.cancer.org/cancer/leukemia.html
+gco https://gco.iarc.fr/today/data/factsheets/cancers/36-Leukaemia-fact-sheet.pdf
 
 uscsTable 2019
  sex|age|population|cases|deaths

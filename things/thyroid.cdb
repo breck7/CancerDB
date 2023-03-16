@@ -15,6 +15,7 @@ oncoTreeLevel 1
 subTypes 9
 
 wikipedia https://en.wikipedia.org/wiki/Thyroid_cancer
+gco https://gco.iarc.fr/today/data/factsheets/cancers/32-Thyroid-fact-sheet.pdf
 
 uscsTable 2019
  sex|age|population|cases|deaths

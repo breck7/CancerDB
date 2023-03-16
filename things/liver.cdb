@@ -15,6 +15,7 @@ oncoTreeLevel 1
 subTypes 9
 
 wikipedia https://en.wikipedia.org/wiki/Liver_cancer
+gco https://gco.iarc.fr/today/data/factsheets/cancers/11-Liver-fact-sheet.pdf
 
 annualDeathsReport US https://www.cdc.gov/cancer/dcpc/research/update-on-cancer-deaths/index.htm
  2020 28227
