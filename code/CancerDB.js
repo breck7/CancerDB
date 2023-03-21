@@ -1,5 +1,17 @@
 #!/usr/bin/env node
 
+/*
+* To investigate slowdowns:
+code
+ node --cpu-prof --cpu-prof-name=test.cpuprofile ./code/CancerDB.js testPerf
+* Then:
+- open a new Chrome tab
+- open devtools
+- click Performance
+- click "Load Profile..."
+- select your test.cpuprofile
+*/
+
 const path = require("path")
 const lodash = require("lodash")
 const numeral = require("numeral")
