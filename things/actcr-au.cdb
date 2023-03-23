@@ -1,0 +1,11 @@
+title ACTCR
+type registry
+appeared 1982
+standsFor  
+description The ACT Cancer Registry (ACTCR) registers all new cases of cancer diagnosed in ACT residents (excluding non-melanoma skin cancer) and all deaths of people with cancer to gain a comprehensive picture of the burden of cancer across the population. It is managed by the ACT Health Directorate. The ACT CR is a case-based registry in which all notifications relating to a particular case of cancer are linked to form a single record. A case of cancer is the occurrence of a malignant neoplasm in a particular person. Therefore a case of malignant melanoma in a particular person counts as one case. If the same person subsequently develops leukaemia, the leukaemia counts as a second case. The CHeReL has incorporated ACT CR data from 1994 into the Master Linkage Key. It is possible to obtain ACT CR data back to 1982, but the CHeReL and ACT CR data custodian recommend using data from 1994 for linkage studies.  From 1982 to 1994 the quality of the linkage is likely to be compromised by missing or estimated dates of birth, and incomplete pathology reports.  Researchers should therefore exercise caution if interpreting results including pre 1994 data.
+
+website https://www.aihw.gov.au/reports-data/health-conditions-disability-deaths/cancer/overview
+reference https://www.health.act.gov.au/about-our-health-system/data-and-publications/healthstats/data-collections
+reference https://www.cherel.org.au/media/20534/act_cr_data_dictionary_20170123.docx
+
+country Australia
