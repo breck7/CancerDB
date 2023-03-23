@@ -36,7 +36,7 @@
     "jtree": "^69.4.1",
     "lodash": "^4.17.21",
     "numeral": "^2.0.6",
-    "scroll-cli": "^62.2.0",
+    "scroll-cli": "^62.4.0",
     "truebase": "^11.0.1"
   },
   "devDependencies": {

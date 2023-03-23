@@ -94,6 +94,9 @@ class CancerDBFile extends TrueBaseFile {
 
     return `import ../header.scroll
 viewSourceUrl ${this.sourceUrl}
+
+baseUrl https://cancerdb.com/truebase/
+
 keyboardNav ${prevPage} ${nextPage}
 <a class="trueBaseThemePreviousItem" href="${prevPage}">&lt;</a><a class="trueBaseThemeNextItem" href="${nextPage}">&gt;</a>
 
