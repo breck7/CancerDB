@@ -1,4 +1,4 @@
-todo Add enum for: Comprehensive Cancer Center && Basic Laboratory Cancer Center && Cancer Center
+// todo Add enum for: Comprehensive Cancer Center && Basic Laboratory Cancer Center && Cancer Center
 nciDesignationNode
  extends abstractTopLevelStringNode
  description Which of the 3 NCI designations does this research center have?

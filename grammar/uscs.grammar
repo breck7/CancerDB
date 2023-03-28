@@ -2,12 +2,12 @@ uscsIdNode
  description The ID of the Cancer Type in the U.S. Cancer Statistics data.
  extends abstractTopLevelStringNode
  cruxFromId
- source cdc.gov
+ string sourceDomain cdc.gov
 uscsTableNode
  cells keywordCell yearCell
  description Data table from https://www.cdc.gov/cancer/uscs/dataviz/download_data.htm
  extends abstractDelimitedBlobNode
- source cdc.gov
+ string sourceDomain cdc.gov
 uscsDeathsPerYearNode
  extends abstractIntNode
  description Cumulative number of deaths per year for a cancer type in the U.S. Cancer Statistics data set.
