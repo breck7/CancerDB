@@ -1,10 +1,10 @@
 companyNode
- extends abstractTopLevelStringNode
+ extends abstractStringColumnNode
 investorRelationsPageNode
- extends abstractUrlNode
+ extends abstractUrlColumnNode
  contentKey url
 abstractStockExchangeNode
- extends abstractUrlNode
+ extends abstractUrlColumnNode
 nyseNode
  description URL to the company's ticker on NYSE
  extends abstractStockExchangeNode

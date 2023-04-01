@@ -1,19 +1,8 @@
 cdbNode
  root
  description A database containing all the key data on cancer in one file.
- catchAllNodeType errorNode
+ catchAllNodeType trueBaseErrorNode
  // todo Should not have to manually list each node type here, but should be able to mark some tag as inscope. Should be fixed upstream in Jtree.
- inScope blankLineNode abstractTopLevelNode membersNode annualDeathsReportNode
+ inScope blankLineNode abstractTrueBaseColumnNode
  string fileExtension cdb
  sortTemplate title type mainType uscsId tissue cancerTypes uscsDeathsPerYear uscsCasesPerYear uscsMortalityRate appeared oldName nextDate closed publicationFrequency originCommunity parentOrganization company standsFor author description isOpenSource isPublicDomain aka tradenames related  oncoTreeId parentOncoTreeId umls nciCode oncoTreeLevel subTypes  pdf journal  website coursera githubRepo eventsPage subreddit wikipedia cancerDotGov cancerDotOrg gco reference wolframAlpha youTube amazon github twitter facebook linkedin youTubeChannel instagram pinterest  youTube  phoneNumber  country city members  nciDesignation nciLink nciImage hostSchool usNewsRank  routesOfAdministration kegg drugBank medlinePlus pubChem  ein englandAndWalesCharityDetails charityNavigator guideStar greatNonProfits  annualDeathsReport  uscsTable  domainName  investorRelationsPage nyse nasdaq
-blankCell
-blankLineNode
- description Blank lines compile to nothing in the HTML.
- cells blankCell
- compiler
-  stringTemplate 
- pattern ^$
- tags doNotSynthesize
- boolean shouldSerialize false
-errorNode
- baseNodeType errorNode

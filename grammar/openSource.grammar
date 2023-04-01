@@ -1,6 +1,6 @@
 isOpenSourceNode
  description Is it an open source project?
- extends abstractBooleanNode
+ extends abstractBooleanColumnNode
 isPublicDomainNode
  description Is it a public domain project?
- extends abstractBooleanNode
+ extends abstractBooleanColumnNode

@@ -1,9 +1,7 @@
 abstractSocialMediaNode
- extends abstractUrlNode
+ extends abstractUrlColumnNode
  contentKey url
  inScope followersNode
 followersNode
- cells keywordCell intCell
+ extends abstractIntColumnNode
  description How many followers on this platform does this account have?
- single
- cruxFromId

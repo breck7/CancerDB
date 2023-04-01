@@ -1,12 +1,11 @@
 websiteNode
- extends abstractUrlNode
+ extends abstractUrlColumnNode
 eventsPageNode
- extends abstractUrlNode
+ extends abstractUrlColumnNode
 domainNameNode
- extends abstractTopLevelWordNode
+ extends abstractWordColumnNode
  inScope registeredNode
  contentKey domain
-registeredNode
- cruxFromId
- cells keywordCell yearCell
- single
+ registeredNode
+  extends abstractYearColumnNode
+  single

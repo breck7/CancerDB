@@ -1,2 +1,2 @@
 descriptionNode
- extends abstractTopLevelStringNode
+ extends abstractStringColumnNode

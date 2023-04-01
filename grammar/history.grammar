@@ -1,6 +1,6 @@
 appearedNode
- extends abstractYearNode
+ extends abstractYearColumnNode
 closedNode
- extends abstractYearNode
+ extends abstractYearColumnNode
 originCommunityNode
- extends abstractTopLevelStringNode
+ extends abstractStringColumnNode

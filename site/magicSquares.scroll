@@ -10,13 +10,13 @@ magicSquaresNode
  javascript
   compile() {
   class TabTree extends TreeNode {
-    getWordBreakSymbol() {
+    get wordBreakSymbol() {
       return "\t"
     }
-    getNodeBreakSymbol() {
+    get nodeBreakSymbol() {
       return "\n"
     }
-    getEdgeSymbol() {
+    get edgeSymbol() {
       return "\t"
     }
   }

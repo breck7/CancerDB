@@ -1,5 +1,4 @@
 annualDeathsReportNode
- cruxFromId
- cells keywordCell countryCodeCell urlCell
+ cells columnNameCell countryCodeCell urlCell
  description Data from an annual report on cancer deaths for a particular country.
  extends abstractAnnualPopulationCountMapNode

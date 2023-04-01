@@ -1,21 +1,21 @@
 mainTypeNode
  description Types from oncoTree dataset.
- extends abstractTopLevelStringNode
+ extends abstractStringColumnNode
  string sourceDomain oncotree.mskcc.org
 oncoTreeIdNode
- extends abstractTopLevelWordNode
+ extends abstractWordColumnNode
  string sourceDomain oncotree.mskcc.org
 parentOncoTreeIdNode
- extends abstractTopLevelWordNode
+ extends abstractWordColumnNode
  string sourceDomain oncotree.mskcc.org
 oncoTreeLevelNode
- extends abstractIntNode
+ extends abstractIntColumnNode
  string sourceDomain oncotree.mskcc.org
 subTypesNode
  description How many subtypes of this cancer type? Data from oncoTree.
- extends abstractIntNode
+ extends abstractIntColumnNode
  string sourceDomain oncotree.mskcc.org
 tissueNode
  description Tissues from oncoTree dataset.
- extends abstractTopLevelStringNode
+ extends abstractStringColumnNode
  string sourceDomain oncotree.mskcc.org

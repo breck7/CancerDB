@@ -89,8 +89,8 @@ class CancerDBFile extends TrueBaseFile {
       )
       .join(" · ")
 
-    const prevPage = this.getPrevious().permalink
-    const nextPage = this.getNext().permalink
+    const prevPage = this.previous.permalink
+    const nextPage = this.next.permalink
 
     return `import ../header.scroll
 viewSourceUrl ${this.sourceUrl}
@@ -269,11 +269,11 @@ class CancerDBServer extends TrueBaseServer {
 
     const typeCount = items.length
     const output = new TreeNode(items)
-    Disk.write(path.join(ignoreFolder, "types.csv"), output.toCsv())
+    Disk.write(path.join(ignoreFolder, "types.csv"), output.asCsv)
     const patch = new TreeNode()
     items.forEach(item =>
       this.applyPatch(
-        new TreeNode().appendLineAndChildren("create", item).toString()
+        new TreeNode().appendLineAndChildren("create", item).asString
       )
     )
   }
@@ -533,7 +533,7 @@ reverse`
 
   makeMagicSquaresOutput(groupedByTypeAndAgeBuckets) {
     const dataTable = this.transposeTSV(
-      new TreeNode(groupedByTypeAndAgeBuckets).toTsv()
+      new TreeNode(groupedByTypeAndAgeBuckets).asTsv
     )
     return {
       dataTable: Utils.stripHtml(dataTable.replace(/\n/g, "\n ")).replace(

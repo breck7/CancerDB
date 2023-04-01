@@ -1,0 +1,188 @@
+// WorldWideColumns is an experimental attempt to define reusuable base abstract column types for TrueBases.
+// Version 2.0.0
+
+// Cell Parsers
+blankCell
+anyCell
+
+// Enum Parsers
+enumCell
+boolCell
+ extends enumCell
+ enum true false
+
+// Numeric cell parsers
+numberCell
+intCell
+ extends numberCell
+ highlightScope constant.numeric.integer
+floatCell
+ extends numberCell
+ highlightScope constant.numeric.float
+percentCell
+ highlightScope constant.numeric.integer
+ regex \d+%
+
+// Common numeric cell extensions
+countCell
+ extends intCell
+populationCountCell
+ description A count of people.
+ extends countCell
+yearCell
+ extends intCell
+
+// String Cell Parsers
+stringCell
+ highlightScope string
+wordCell
+ extends stringCell
+ description Any string except for a blank cell.
+ regex .+
+columnNameCell
+ highlightScope keyword
+ regex [a-zA-Z0-9]+
+trueBaseIdCell
+ description A global identifier for this entity in a TrueBase. Currently a very restricted character set to ensure compatibility between a wide variety of URLs and filesystems.
+ regex [a-z0-9\-\.]+
+ highlightScope string
+urlCell
+ highlightScope constant.language
+ regex (ftp|https?)://.+
+externalGuidCell
+ description A GUID from another site.
+fileNameCell
+ highlightScope string
+
+// Line Parsers
+// The main line parser. Anything extending this will be included in the CSV dumps.
+abstractTrueBaseColumnNode
+ cells columnNameCell
+ cruxFromId
+ boolean isColumn true
+ single
+ javascript
+  get columnValue() {
+    return this.content
+  }
+  get columnName() {
+    return this.definition.cruxPathAsColumnName
+  }
+
+// Common string parsers
+abstractWordColumnNode
+ description A single word.
+ cells columnNameCell wordCell
+ extends abstractTrueBaseColumnNode
+abstractStringColumnNode
+ catchAllCellType stringCell
+ extends abstractTrueBaseColumnNode
+abstractStringListColumnNode
+ description A list of strings separated by the `listDelimiter`. The default `listDelimiter` is space.
+ extends abstractStringColumnNode
+ listDelimiter  
+abstractEnumColumnNode
+ cells columnNameCell enumCell
+ extends abstractTrueBaseColumnNode
+
+// Common blob parsers
+abstractStringBlobColumnNode
+ extends abstractTrueBaseColumnNode
+ baseNodeType blobNode
+ javascript
+  get columnValue() {
+    return this.childrenToString()
+  }
+abstractDelimitedValuesBlobColumnNode
+ description A CSV, TSV, or other delimited blob of text.
+ // todo: figure out how we want to dump these in CSV export.
+ extends abstractStringBlobColumnNode
+abstractCodeColumnNode
+ extends abstractStringBlobColumnNode
+ baseNodeType blobNode
+
+// Links between TrueBase files
+abstractTrueBaseLinksColumnNode
+ description Links to other files in the TrueBase.
+ catchAllCellType trueBaseIdCell
+ extends abstractStringListColumnNode
+ boolean containsTrueBaseIds true
+
+// Boolean column node
+abstractBooleanColumnNode
+ cells columnNameCell boolCell
+ extends abstractTrueBaseColumnNode
+
+// Commmon numeric parsers
+abstractNumericColumnNode
+ extends abstractTrueBaseColumnNode
+abstractIntColumnNode
+ cells columnNameCell intCell
+ extends abstractNumericColumnNode
+abstractFloatColumnNode
+ cells columnNameCell floatCell
+ extends abstractNumericColumnNode
+abstractCountColumnNode
+ description A positive count of something. People, for example. Min is 0.
+ cells columnNameCell countCell
+ extends abstractIntColumnNode
+abstractPercentageColumnNode
+ cells columnNameCell percentCell
+ extends abstractNumericColumnNode
+
+// Common time parsers
+abstractYearColumnNode
+ cells columnNameCell yearCell
+ extends abstractIntColumnNode
+
+// Common miscellaneous parsers
+blankLineNode
+ description Blank lines are okay.
+ cells blankCell
+ compiler
+  stringTemplate 
+ pattern ^$
+ tags doNotSynthesize
+ boolean shouldSerialize false
+trueBaseErrorNode
+ baseNodeType errorNode
+urlCitationNode
+ description Can serve as a catch all for linking to a source for columns.
+ cells urlCell
+
+// URL Parsers
+abstractUrlColumnNode
+ cells columnNameCell urlCell
+ extends abstractTrueBaseColumnNode
+
+// GUID Parsers
+abstractUrlGuidColumnNode
+ description A column containing a URL that is also a Globablly Unique Identifier (GUID) for an entity on that site.
+ extends abstractUrlColumnNode
+abstractOneWordGuidColumnNode
+ cells columnNameCell externalGuidCell
+ extends abstractTrueBaseColumnNode
+ description Use when you have a column that serves as a Globally Unique Identifier (GUID) where the GUID does not contain spaces.
+abstractMultiwordGuidColumnNode
+ description Use when you have a column that serves as a Globally Unique Identifier (GUID) where the GUID can contain spaces.
+ catchAllCellType externalGuidCell
+ extends abstractTrueBaseColumnNode
+
+// Hashmap parsers
+abstractHashMapColumnNode
+ extends abstractTrueBaseColumnNode
+ javascript
+  get columnValue() {
+    return this.childrenToString()
+  }
+
+// Common population columns
+abstractPopulationCountColumnNode
+ extends abstractCountColumnNode
+annualPopulationCountNode
+ cells yearCell populationCountCell
+ uniqueFirstWord
+abstractAnnualPopulationCountMapNode
+ catchAllNodeType annualPopulationCountNode
+ description A map of counts, one per year.
+ extends abstractHashMapColumnNode

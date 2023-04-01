@@ -1,6 +1,6 @@
 pdfNode
- extends abstractUrlNode
+ extends abstractUrlColumnNode
 journalNode
- extends abstractTopLevelStringNode
+ extends abstractStringColumnNode
 authorNode
- extends abstractTopLevelStringNode
+ extends abstractStringColumnNode

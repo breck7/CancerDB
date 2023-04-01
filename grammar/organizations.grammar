@@ -1,4 +1,3 @@
 membersNode
  extends abstractAnnualPopulationCountMapNode
  description How many members does this organization have?
- cruxFromId

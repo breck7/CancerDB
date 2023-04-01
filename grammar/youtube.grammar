@@ -1,5 +1,5 @@
 youTubeNode
- extends abstractUrlNode
+ extends abstractUrlColumnNode
  description A URL to a YouTube video about the thing.
  string sourceDomain youtube.com
  single false

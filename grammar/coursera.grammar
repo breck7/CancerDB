@@ -1,4 +1,4 @@
 courseraNode
  description Link to a course on Coursera.
- extends abstractUrlNode
+ extends abstractUrlColumnNode
  string sourceDomain coursera.com

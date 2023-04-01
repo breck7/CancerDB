@@ -1,5 +1,5 @@
 abstractCharityRegistryNode
- extends abstractUrlNode
+ extends abstractUrlColumnNode
 englandAndWalesCharityDetailsNode
  extends abstractCharityRegistryNode
  string sourceDomain register-of-charities.charitycommission.gov.uk

@@ -1,2 +1,2 @@
 amazonNode
- extends abstractUrlNode
+ extends abstractUrlColumnNode

@@ -3,7 +3,6 @@ cancerTypeCell
  highlightScope constant.language
 cancerTypesNode
  description Which cancer type(s) does this entity specialize in?
- cells keywordCell cancerTypeCell
+ cells columnNameCell cancerTypeCell
  catchAllCellType cancerTypeCell
- extends abstractTopLevelNode
- cruxFromId
+ extends abstractEnumColumnNode

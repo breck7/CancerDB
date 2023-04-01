@@ -3,8 +3,7 @@ typeCell
  highlightScope constant.language
 typeNode
  description What kind of thing is this entity?
- cells keywordCell typeCell
+ cells columnNameCell typeCell
  catchAllCellType typeCell
- extends abstractTopLevelNode
+ extends abstractEnumColumnNode
  required
- cruxFromId

@@ -6,11 +6,10 @@ cityStateCell
  extends stringCell
 countryNode
  boolean alwaysRecommended true
- cells keywordCell
  catchAllCellType countryNameCell
- extends abstractTopLevelNode
+ // todo make country a wwc kind
+ extends abstractStringColumnNode
 cityNode
  description City and state
- cells keywordCell
  catchAllCellType cityStateCell
- extends abstractTopLevelNode
+ extends abstractStringColumnNode

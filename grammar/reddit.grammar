@@ -1,12 +1,9 @@
 // todo trim the trailing slash
 subredditNode
- extends abstractUrlNode
+ extends abstractUrlColumnNode
  string sourceDomain reddit.com
  contentKey url
- cruxFromId
  description Url of a subreddit(s) for this thing.
- inScope subredditmembersNode
-subredditmembersNode
- extends abstractAnnualPopulationCountMapNode
- crux members
- description How many members in this subreddit.
+ membersNode
+  extends abstractAnnualPopulationCountMapNode
+  description How many members in this subreddit.
