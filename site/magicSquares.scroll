@@ -1,11 +1,11 @@
 importOnly
-magicSquaresCatchAllNode
+magicSquaresCatchAllParser
  // todo Fill this out
  catchAllCellType anyCell
-magicSquaresNode
+magicSquaresParser
  cruxFromId
- catchAllNodeType magicSquaresCatchAllNode
- extends abstractScrollNode
+ catchAllParser magicSquaresCatchAllParser
+ extends abstractScrollParser
  description Generate a magic squares data visualization.
  javascript
   compile() {

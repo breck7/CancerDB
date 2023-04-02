@@ -1,8 +1,8 @@
 cancerTypeCell
  enum breast prostate cervical colon lung skin bladder kidney lymphoma multiplemyeloma ovarian thyroid endometrial neuroendocrine liver leukemia oral
  highlightScope constant.language
-cancerTypesNode
+cancerTypesParser
  description Which cancer type(s) does this entity specialize in?
  cells columnNameCell cancerTypeCell
  catchAllCellType cancerTypeCell
- extends abstractEnumColumnNode
+ extends abstractEnumColumnParser

@@ -1,2 +1,2 @@
-nextDateNode
- extends abstractStringColumnNode
+nextDateParser
+ extends abstractStringColumnParser

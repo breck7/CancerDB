@@ -1,6 +1,6 @@
-pdfNode
- extends abstractUrlColumnNode
-journalNode
- extends abstractStringColumnNode
-authorNode
- extends abstractStringColumnNode
+pdfParser
+ extends abstractUrlColumnParser
+journalParser
+ extends abstractStringColumnParser
+authorParser
+ extends abstractStringColumnParser

@@ -1,4 +1,4 @@
-wikipediaNode
- extends abstractUrlColumnNode
+wikipediaParser
+ extends abstractUrlColumnParser
  description URL of the entity on Wikipedia, if and only if it has a page dedicated to it.
  string sourceDomain wikipedia.org

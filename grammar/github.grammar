@@ -1,8 +1,8 @@
-githubNode
+githubParser
  description URL to the organization's GitHub page.
- extends abstractUrlColumnNode
+ extends abstractUrlColumnParser
  string sourceDomain github.com
-githubRepoNode
+githubRepoParser
  description URL to a project on GitHub.
- extends abstractUrlColumnNode
+ extends abstractUrlColumnParser
  string sourceDomain github.com

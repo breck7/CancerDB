@@ -1,9 +1,9 @@
 // todo trim the trailing slash
-subredditNode
- extends abstractUrlColumnNode
+subredditParser
+ extends abstractUrlColumnParser
  string sourceDomain reddit.com
  contentKey url
  description Url of a subreddit(s) for this thing.
- membersNode
-  extends abstractAnnualPopulationCountMapNode
+ membersParser
+  extends abstractAnnualPopulationCountMapParser
   description How many members in this subreddit.

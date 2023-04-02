@@ -1,21 +1,21 @@
-mainTypeNode
+mainTypeParser
  description Types from oncoTree dataset.
- extends abstractStringColumnNode
+ extends abstractStringColumnParser
  string sourceDomain oncotree.mskcc.org
-oncoTreeIdNode
- extends abstractWordColumnNode
+oncoTreeIdParser
+ extends abstractWordColumnParser
  string sourceDomain oncotree.mskcc.org
-parentOncoTreeIdNode
- extends abstractWordColumnNode
+parentOncoTreeIdParser
+ extends abstractWordColumnParser
  string sourceDomain oncotree.mskcc.org
-oncoTreeLevelNode
- extends abstractIntColumnNode
+oncoTreeLevelParser
+ extends abstractIntColumnParser
  string sourceDomain oncotree.mskcc.org
-subTypesNode
+subTypesParser
  description How many subtypes of this cancer type? Data from oncoTree.
- extends abstractIntColumnNode
+ extends abstractIntColumnParser
  string sourceDomain oncotree.mskcc.org
-tissueNode
+tissueParser
  description Tissues from oncoTree dataset.
- extends abstractStringColumnNode
+ extends abstractStringColumnParser
  string sourceDomain oncotree.mskcc.org

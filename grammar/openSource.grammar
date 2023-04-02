@@ -1,6 +1,6 @@
-isOpenSourceNode
+isOpenSourceParser
  description Is it an open source project?
- extends abstractBooleanColumnNode
-isPublicDomainNode
+ extends abstractBooleanColumnParser
+isPublicDomainParser
  description Is it a public domain project?
- extends abstractBooleanColumnNode
+ extends abstractBooleanColumnParser

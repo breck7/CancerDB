@@ -1,4 +1,4 @@
-keggNode
- extends abstractChemicalGuidNode
+keggParser
+ extends abstractChemicalGuidParser
  string sourceDomain genome.jp
  description https://www.genome.jp/kegg/kegg1.html

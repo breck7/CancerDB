@@ -1,15 +1,15 @@
-companyNode
- extends abstractStringColumnNode
-investorRelationsPageNode
- extends abstractUrlColumnNode
+companyParser
+ extends abstractStringColumnParser
+investorRelationsPageParser
+ extends abstractUrlColumnParser
  contentKey url
-abstractStockExchangeNode
- extends abstractUrlColumnNode
-nyseNode
+abstractStockExchangeParser
+ extends abstractUrlColumnParser
+nyseParser
  description URL to the company's ticker on NYSE
- extends abstractStockExchangeNode
+ extends abstractStockExchangeParser
  string sourceDomain nyse.com
-nasdaqNode
+nasdaqParser
  description URL to the company's ticker on NASDAQ
- extends abstractStockExchangeNode
+ extends abstractStockExchangeParser
  string sourceDomain nasdaq.com

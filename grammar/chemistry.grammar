@@ -1,2 +1,2 @@
-abstractChemicalGuidNode
- extends abstractWordColumnNode
+abstractChemicalGuidParser
+ extends abstractWordColumnParser

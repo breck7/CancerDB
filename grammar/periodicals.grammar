@@ -1,6 +1,6 @@
 publicationFrequencyCell
  enum daily weekly biweekly monthly quarterly semiannually annually
-publicationFrequencyNode
- extends abstractEnumColumnNode
+publicationFrequencyParser
+ extends abstractEnumColumnParser
  description How often does the publication come out?
  cells columnNameCell publicationFrequencyCell

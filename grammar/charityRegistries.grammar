@@ -1,14 +1,14 @@
-abstractCharityRegistryNode
- extends abstractUrlColumnNode
-englandAndWalesCharityDetailsNode
- extends abstractCharityRegistryNode
+abstractCharityRegistryParser
+ extends abstractUrlColumnParser
+englandAndWalesCharityDetailsParser
+ extends abstractCharityRegistryParser
  string sourceDomain register-of-charities.charitycommission.gov.uk
-charityNavigatorNode
- extends abstractCharityRegistryNode
+charityNavigatorParser
+ extends abstractCharityRegistryParser
  string sourceDomain charitynavigator.org
-guideStarNode
- extends abstractCharityRegistryNode
+guideStarParser
+ extends abstractCharityRegistryParser
  string sourceDomain guidestar.org
-greatNonProfitsNode
- extends abstractCharityRegistryNode
+greatNonProfitsParser
+ extends abstractCharityRegistryParser
  string sourceDomain greatnonprofits.org

@@ -1,6 +1,6 @@
-appearedNode
- extends abstractYearColumnNode
-closedNode
- extends abstractYearColumnNode
-originCommunityNode
- extends abstractStringColumnNode
+appearedParser
+ extends abstractYearColumnParser
+closedParser
+ extends abstractYearColumnParser
+originCommunityParser
+ extends abstractStringColumnParser

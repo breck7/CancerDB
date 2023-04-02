@@ -1,4 +1,4 @@
-umlsNode
+umlsParser
  description Unified Medical Language System
- extends abstractWordColumnNode
+ extends abstractWordColumnParser
  string sourceDomain www.nlm.nih.gov

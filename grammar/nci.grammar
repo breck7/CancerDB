@@ -1,21 +1,21 @@
 // todo Add enum for: Comprehensive Cancer Center && Basic Laboratory Cancer Center && Cancer Center
-nciDesignationNode
- extends abstractStringColumnNode
+nciDesignationParser
+ extends abstractStringColumnParser
  description Which of the 3 NCI designations does this research center have?
  string sourceDomain cancer.gov
-hostSchoolNode
- extends abstractStringColumnNode
+hostSchoolParser
+ extends abstractStringColumnParser
  description What is the host university or college of this research center?
  string sourceDomain cancer.gov
-nciCodeNode
+nciCodeParser
  description NCI Concepts
- extends abstractWordColumnNode
+ extends abstractWordColumnParser
  string sourceDomain ncithesaurus.nci.nih.gov
-nciLinkNode
+nciLinkParser
  description URL to the organization's page on the NCI website.
- extends abstractUrlColumnNode
+ extends abstractUrlColumnParser
  string sourceDomain cancer.gov
-nciImageNode
+nciImageParser
  description URL to the organization's image on the NCI website.
- extends abstractUrlColumnNode
+ extends abstractUrlColumnParser
  string sourceDomain cancer.gov

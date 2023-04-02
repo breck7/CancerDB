@@ -1,4 +1,4 @@
-referenceNode
- extends abstractUrlColumnNode
+referenceParser
+ extends abstractUrlColumnParser
  description A URL to a reference about the thing.
  single false

@@ -1,3 +1,3 @@
-twitterNode
- extends abstractSocialMediaNode
+twitterParser
+ extends abstractSocialMediaParser
  string sourceDomain twitter.com

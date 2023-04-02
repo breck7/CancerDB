@@ -4,12 +4,12 @@ countryNameCell
  extends stringCell
 cityStateCell
  extends stringCell
-countryNode
+countryParser
  boolean alwaysRecommended true
  catchAllCellType countryNameCell
  // todo make country a wwc kind
- extends abstractStringColumnNode
-cityNode
+ extends abstractStringColumnParser
+cityParser
  description City and state
  catchAllCellType cityStateCell
- extends abstractStringColumnNode
+ extends abstractStringColumnParser

@@ -1,4 +1,4 @@
-pubChemNode
- extends abstractChemicalGuidNode
+pubChemParser
+ extends abstractChemicalGuidParser
  string sourceDomain pubchem.ncbi.nlm.nih.gov
  description https://pubchem.ncbi.nlm.nih.gov/

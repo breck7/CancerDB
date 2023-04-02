@@ -1,2 +1,2 @@
-descriptionNode
- extends abstractStringColumnNode
+descriptionParser
+ extends abstractStringColumnParser

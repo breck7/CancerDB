@@ -1,10 +1,10 @@
 importOnly
 
-bashNode
+bashParser
  cruxFromId
  description Run a bash oneliner via nodejs and dumps stdout to pre tag.
  catchAllCellType stringCell
- extends abstractScrollNode
+ extends abstractScrollParser
  javascript
   compile() {
    const command = this.content

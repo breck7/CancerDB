@@ -1,7 +1,7 @@
-abstractSocialMediaNode
- extends abstractUrlColumnNode
+abstractSocialMediaParser
+ extends abstractUrlColumnParser
  contentKey url
- inScope followersNode
-followersNode
- extends abstractIntColumnNode
+ inScope followersParser
+followersParser
+ extends abstractIntColumnParser
  description How many followers on this platform does this account have?

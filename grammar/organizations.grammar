@@ -1,3 +1,3 @@
-membersNode
- extends abstractAnnualPopulationCountMapNode
+membersParser
+ extends abstractAnnualPopulationCountMapParser
  description How many members does this organization have?

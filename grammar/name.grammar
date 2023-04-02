@@ -1,19 +1,19 @@
-titleNode
+titleParser
  description Title of the entity.
- extends abstractStringColumnNode
+ extends abstractStringColumnParser
  required
-standsForNode
+standsForParser
  description If the thing is an acronym what does/did it stand for?
- extends abstractStringColumnNode
-akaNode
+ extends abstractStringColumnParser
+akaParser
  description Another name for the thing. Entries can have multiple aka lines.
- extends abstractStringColumnNode
+ extends abstractStringColumnParser
  single false
-oldNameNode
+oldNameParser
  description What is the old name(s) of this thing?
- extends abstractStringColumnNode
+ extends abstractStringColumnParser
  single false
-tradenamesNode
+tradenamesParser
  description Tradenames for the drug.
- extends abstractStringColumnNode
+ extends abstractStringColumnParser
  listDelimiter  && 

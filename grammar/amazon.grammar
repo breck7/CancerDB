@@ -1,2 +1,2 @@
-amazonNode
- extends abstractUrlColumnNode
+amazonParser
+ extends abstractUrlColumnParser

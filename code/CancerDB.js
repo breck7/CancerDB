@@ -124,8 +124,8 @@ class CancerDBFolder extends TrueBaseFolder {
   grammarViewSourcePath = `https://github.com/breck7/CancerDB/blob/main/grammar/`
   computedsViewSourcePath = `https://github.com/breck7/CancerDB/blob/main/code/CancerDB.js`
 
-  createParser() {
-    return new TreeNode.Parser(CancerDBFile)
+  createParserCombinator() {
+    return new TreeNode.ParserCombinator(CancerDBFile)
   }
 
   // todo: upstream

@@ -1,11 +1,11 @@
-websiteNode
- extends abstractUrlColumnNode
-eventsPageNode
- extends abstractUrlColumnNode
-domainNameNode
- extends abstractWordColumnNode
- inScope registeredNode
+websiteParser
+ extends abstractUrlColumnParser
+eventsPageParser
+ extends abstractUrlColumnParser
+domainNameParser
+ extends abstractWordColumnParser
+ inScope registeredParser
  contentKey domain
- registeredNode
-  extends abstractYearColumnNode
+ registeredParser
+  extends abstractYearColumnParser
   single

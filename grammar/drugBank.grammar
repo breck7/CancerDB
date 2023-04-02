@@ -1,4 +1,4 @@
-drugBankNode
- extends abstractChemicalGuidNode
+drugBankParser
+ extends abstractChemicalGuidParser
  string sourceDomain drugbank.com
  description https://en.wikipedia.org/wiki/DrugBank
