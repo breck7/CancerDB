@@ -13,8 +13,7 @@ replace BASE_URL .
 
 * Top queries
 
-css
- .noMargin {margin: 0;}
+css .noMargin {margin: 0;}
 
 * Cancer types causing the most deaths
  class noMargin
