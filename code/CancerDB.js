@@ -198,16 +198,16 @@ wolframAlpha WolframAlpha`).toObject()
   // uscsCasesPerYear 74949
   // uscsMortalityRate 22%
   const uscsMortalityRate = file.get("uscsMortalityRate")
-  let kpiTable = ""
+  let dashboard = ""
   if (uscsMortalityRate) {
-    kpiTable = `kpiTable
+    dashboard = `dashboard
  ${numeral(file.get("uscsDeathsPerYear")).format("0,0")} U.S. deaths per year
  ${numeral(file.get("uscsCasesPerYear")).format("0,0")} U.S. cases per year
  ${file.get("uscsMortalityRate")} U.S. mortality rate`
   }
 
   if (pages) pages = `* ${title} on ${pages}`
-  return `${kpiTable}
+  return `${dashboard}
 
 ${pages}
 ${parentMessage}
