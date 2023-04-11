@@ -36,7 +36,7 @@
     "jtree": "^73.0.0",
     "lodash": "^4.17.21",
     "numeral": "^2.0.6",
-    "truebase": "^14.3.0"
+    "truebase": "^14.7.0"
   },
   "devDependencies": {
     "@types/node": "^18.7.18"
