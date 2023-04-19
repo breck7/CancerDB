@@ -5,7 +5,6 @@ countryNameCell
 cityStateCell
  extends stringCell
 countryParser
- boolean alwaysRecommended true
  catchAllCellType countryNameCell
  // todo make country a wwc kind
  extends abstractStringColumnParser

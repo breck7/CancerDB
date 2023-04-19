@@ -64,7 +64,7 @@ class CancerDBFile extends TrueBaseFile {
       instagram: this.get("instagram"),
       pinterest: this.get("pinterest"),
       wolframAlpha: this.get("wolframAlpha"),
-      edit: this.sourceUrl
+      edit: `/edit.html?id=${this.id}`
     }
     return Object.keys(links)
       .filter(key => links[key])
