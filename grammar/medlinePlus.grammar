@@ -1,4 +1,4 @@
 medlinePlusParser
  extends abstractChemicalGuidParser
  string sourceDomain medlineplus.gov
- description https://en.wikipedia.org/wiki/MedlinePlus
+ description What is the MedlinePlus ID for this thing?

@@ -1,3 +1,4 @@
 cancerDotOrgParser
  extends abstractUrlColumnParser
  string sourceDomain cancer.org
+ description What is the URL for this cancer type on cancer.org?

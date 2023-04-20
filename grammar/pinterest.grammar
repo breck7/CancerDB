@@ -1,3 +1,4 @@
 pinterestParser
  extends abstractSocialMediaParser
  string sourceDomain pinterest.com
+ description What is the URL to this entity's Pinterest page?

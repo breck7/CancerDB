@@ -1,3 +1,4 @@
 cancerDotGovParser
  extends abstractUrlColumnParser
  string sourceDomain cancer.gov
+ description What is the URL for this cancer type on cancer.gov?

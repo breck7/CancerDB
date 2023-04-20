@@ -1,21 +1,24 @@
 mainTypeParser
- description Types from oncoTree dataset.
+ description What is the main type of cancer this is categorized under in OncoTree?
  extends abstractStringColumnParser
  string sourceDomain oncotree.mskcc.org
 oncoTreeIdParser
+ description What is the OncoTree ID for this cancer type?
  extends abstractWordColumnParser
  string sourceDomain oncotree.mskcc.org
 parentOncoTreeIdParser
+ description What is the OncoTree ID for the parent of this cancer type?
  extends abstractWordColumnParser
  string sourceDomain oncotree.mskcc.org
 oncoTreeLevelParser
+ description What is the OncoTree level for this cancer type?
  extends abstractIntColumnParser
  string sourceDomain oncotree.mskcc.org
 subTypesParser
- description How many subtypes of this cancer type? Data from oncoTree.
+ description How many subtypes of this cancer type in OncoTree?
  extends abstractIntColumnParser
  string sourceDomain oncotree.mskcc.org
 tissueParser
- description Tissues from oncoTree dataset.
+ description What is the tissue type for this cancer type?
  extends abstractStringColumnParser
  string sourceDomain oncotree.mskcc.org

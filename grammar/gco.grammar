@@ -1,3 +1,4 @@
 gcoParser
  extends abstractUrlColumnParser
  string sourceDomain gco.iarc.fr
+ description What is the URL for this cancer type in the Global Cancer Observatory?

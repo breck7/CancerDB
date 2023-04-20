@@ -3,7 +3,7 @@ subredditParser
  extends abstractUrlColumnParser
  string sourceDomain reddit.com
  contentKey url
- description Url of a subreddit(s) for this thing.
+ description What is the URL of a subreddit(s) for this thing?
  membersParser
   extends abstractAnnualPopulationCountMapParser
-  description How many members in this subreddit.
+  description How many members in this subreddit?

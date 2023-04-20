@@ -1,2 +1,3 @@
 descriptionParser
  extends abstractStringColumnParser
+ description What is a short description of this thing?

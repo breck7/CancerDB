@@ -1,4 +1,4 @@
 referenceParser
  extends abstractUrlColumnParser
- description A URL to a reference about the thing.
+ description What is a URL to a reference about this thing?
  single false

@@ -4,3 +4,4 @@ routesOfAdministrationParser
  cells columnNameCell routesOfAdministrationCell
  catchAllCellType routesOfAdministrationCell
  extends abstractEnumColumnParser
+ description What is the route of administration for this drug?

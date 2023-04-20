@@ -5,10 +5,11 @@ countryNameCell
 cityStateCell
  extends stringCell
 countryParser
+ description In what country is this?
  catchAllCellType countryNameCell
  // todo make country a wwc kind
  extends abstractStringColumnParser
 cityParser
- description City and state
+ description What city and state is this in?
  catchAllCellType cityStateCell
  extends abstractStringColumnParser

@@ -1,4 +1,4 @@
 keggParser
  extends abstractChemicalGuidParser
  string sourceDomain genome.jp
- description https://www.genome.jp/kegg/kegg1.html
+ description What is the Kegg ID for this thing?

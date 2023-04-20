@@ -1,3 +1,4 @@
 twitterParser
  extends abstractSocialMediaParser
  string sourceDomain twitter.com
+ description What is the URL to the Twitter profile of this entity?

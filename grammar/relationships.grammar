@@ -2,7 +2,7 @@ abstractRelationshipParser
  extends abstractTrueBaseLinksColumnParser
 relatedParser
  extends abstractRelationshipParser
- description What entities are related? This serves as a catch all, and it is better to use a more specific relationship node.
+ description What entities are related?
 parentOrganizationParser
  extends abstractRelationshipParser
  description What is the parent entity(ies)?

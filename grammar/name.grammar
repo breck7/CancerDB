@@ -1,12 +1,12 @@
 titleParser
- description Title of the entity.
+ description What is the title of this entity?
  extends abstractStringColumnParser
  required
 standsForParser
- description If the thing is an acronym what does/did it stand for?
+ description If the title is an acronym what does/did it stand for?
  extends abstractStringColumnParser
 akaParser
- description Another name for the thing. Entries can have multiple aka lines.
+ description Is there another name(s) for the thing?
  extends abstractStringColumnParser
  single false
 oldNameParser
@@ -14,6 +14,6 @@ oldNameParser
  extends abstractStringColumnParser
  single false
 tradenamesParser
- description Tradenames for the drug.
+ description What are the tradenames for the drug?
  extends abstractStringColumnParser
  listDelimiter  && 

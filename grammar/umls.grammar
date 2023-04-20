@@ -1,4 +1,4 @@
 umlsParser
- description Unified Medical Language System
+ description What is the Unified Medical Language System ID for this?
  extends abstractWordColumnParser
  string sourceDomain www.nlm.nih.gov

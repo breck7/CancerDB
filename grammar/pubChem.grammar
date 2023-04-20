@@ -1,4 +1,4 @@
 pubChemParser
  extends abstractChemicalGuidParser
  string sourceDomain pubchem.ncbi.nlm.nih.gov
- description https://pubchem.ncbi.nlm.nih.gov/
+ description What is the PubChem Compound ID of this chemical?

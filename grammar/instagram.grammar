@@ -1,3 +1,4 @@
 instagramParser
+ description What is the URL to this thing's Instagram page?
  extends abstractSocialMediaParser
  string sourceDomain instagram.com

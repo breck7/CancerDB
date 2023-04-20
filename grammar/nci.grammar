@@ -8,14 +8,14 @@ hostSchoolParser
  description What is the host university or college of this research center?
  string sourceDomain cancer.gov
 nciCodeParser
- description NCI Concepts
+ description What is the NCI code for this concept?
  extends abstractWordColumnParser
  string sourceDomain ncithesaurus.nci.nih.gov
 nciLinkParser
- description URL to the organization's page on the NCI website.
+ description What is the URL to the organization's page on the NCI website?
  extends abstractUrlColumnParser
  string sourceDomain cancer.gov
 nciImageParser
- description URL to the organization's image on the NCI website.
+ description What is the URL to the organization's image on the NCI website?
  extends abstractUrlColumnParser
  string sourceDomain cancer.gov

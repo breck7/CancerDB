@@ -1,9 +1,9 @@
 youTubeParser
  extends abstractUrlColumnParser
- description A URL to a YouTube video about the thing.
+ description What is the URL to a YouTube video about this thing?
  string sourceDomain youtube.com
  single false
 youTubeChannelParser
  extends abstractSocialMediaParser
- description URL of the entity's YouTube channel.
+ description What is the URL of this entity's YouTube channel?
  string sourceDomain youtube.com

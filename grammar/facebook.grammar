@@ -1,3 +1,4 @@
 facebookParser
  extends abstractSocialMediaParser
  string sourceDomain facebook.com
+ description What is the URL of the Facebook page for this entity?

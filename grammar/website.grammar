@@ -1,11 +1,15 @@
 websiteParser
  extends abstractUrlColumnParser
+ description What is the URL to this entity's website?
 eventsPageParser
  extends abstractUrlColumnParser
+ description What is the URL to this entity's events page?
 domainNameParser
+ description What is the domain name owned by this entity, if any?
  extends abstractWordColumnParser
  inScope registeredParser
  contentKey domain
  registeredParser
   extends abstractYearColumnParser
+  description What year was this domain first purchased?
   single
