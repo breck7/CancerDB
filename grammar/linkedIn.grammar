@@ -2,3 +2,5 @@ linkedinParser
  description What is the LinkedIn page for this entity?
  extends abstractSocialMediaParser
  string sourceDomain linkedin.com
+ followersParser
+  extends abstractFollowersParser
