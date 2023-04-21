@@ -32,6 +32,14 @@ bashCode
  # Now start with pm2 over http2
  pm2 start ./code/server.js -- startProdServer
  pm2 startup systemd
+ # To enable web editing:
+ git config --global user.email "server@cancerdb.com"
+ git config --global user.name "CancerDB Server"
+ ssh-keygen -t rsa -b 4096 -C "server@cancerdb.com"
+ # Paste the below into a new deploy key: https://github.com/breck7/CancerDB/settings/keys
+ cat /root/.ssh/id_rsa.pub
+ # Update the git config to use SSH instead of HTTPS
+ vim /root/CancerDB/.git/config
 
 ## Deploying George Server
 
