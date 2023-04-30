@@ -30,25 +30,25 @@ nodejs
  }
 
 ## Contributors
-* Thank you to everyone who has contributed directly to the CancerDB repo:
+Thank you to everyone who has contributed directly to the CancerDB repo:
  https://github.com/breck7/CancerDB CancerDB repo
  https://api.github.com/repos/breck7/CancerDB/contributors everyone
 CONTRIBUTORS_TABLE
 
 ## Sources
-* The vast majority of the information on this site comes from other websites and projects and should always include a link back to the `source`. Thank you to all of those sites, including:
+The vast majority of the information on this site comes from other websites and projects and should always include a link back to the `source`. Thank you to all of those sites, including:
  wrap ` span title="And if there's a link missing somewhere, please report a bug!"
 SOURCES_TABLE
 
 ## NPM Packages
-* Thank you to the developers building these packages used by CancerDB:
+Thank you to the developers building these packages used by CancerDB:
 PACKAGES_TABLE
 
 ## Doctors, Nurses, Researchers
-* Thank you to everyone working on the preventions and treatments that are the subject of this site.
+Thank you to everyone working on the preventions and treatments that are the subject of this site.
 
 ## Patients and their familes
-* And of course, thank you to everyone suffering from cancer who are striving to understand it and beat it. This site is for you.
+And of course, thank you to everyone suffering from cancer who are striving to understand it and beat it. This site is for you.
 
 endColumns
 

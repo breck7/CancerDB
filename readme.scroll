@@ -2,28 +2,28 @@
 
 import code/ciBadges.scroll
 
-* CancerDB is a public domain database and website containing all the key data on cancer in one file.
+CancerDB is a public domain database and website containing all the key data on cancer in one file.
 
-* Someone's new treatment could by just 2 insights away from being the next great cure. CancerDB can help them figure out what those 2 missing insights are.
+Someone's new treatment could by just 2 insights away from being the next great cure. CancerDB can help them figure out what those 2 missing insights are.
 
-* For cancer patients and their loved ones, we want to provide you with the _absolute_ best data on cancer. We will deliver that information to you quickly, freely, and you will be able to trust it 100%.
+For cancer patients and their loved ones, we want to provide you with the _absolute_ best data on cancer. We will deliver that information to you quickly, freely, and you will be able to trust it 100%.
 
-* This repo contains the entire database and website for https://cancerdb.com.
+This repo contains the entire database and website for https://cancerdb.com.
 
 ## To analyze the data
-* The CancerDB database is freely available:
+The CancerDB database is freely available:
 - As CSV: https://cancerdb.com/cancerdb.csv
 - As JSON: https://cancerdb.com/cancerdb.json
-* Documentation for the CSV is available here: https://cancerdb.com/csv.html.
+Documentation for the CSV is available here: https://cancerdb.com/csv.html.
 
 ## To add a new entry
-* Advanced method: Create a new file in `things` with a unique URL friendly filename ending in `.cdb` and send a pull request.
+Advanced method: Create a new file in `things` with a unique URL friendly filename ending in `.cdb` and send a pull request.
 
 ## To update an entity
-* Advanced method: Edit the corresponding `things/*.cdb` file and send a pull request.
+Advanced method: Edit the corresponding `things/*.cdb` file and send a pull request.
 
 ## To add a new column
-* Advanced method: Edit or create a new file in `grammar` and add at least 1 example to an entity in `things` and send a pull request.
+Advanced method: Edit or create a new file in `grammar` and add at least 1 example to an entity in `things` and send a pull request.
 
 ## To run the site locally
 code
@@ -35,12 +35,12 @@ code
  npm run local
 
 ## To explore this repo
-* The most important folder is `things`, which contains a file for each entity. The folder `grammar` contains the grammar files (schema) for the truebase.
+The most important folder is `things`, which contains a file for each entity. The folder `grammar` contains the grammar files (schema) for the truebase.
 
-* The website content is in the `site` folder.
+The website content is in the `site` folder.
 
 ## To cite CancerDB
-* CancerDB content is published to the public domain and you can use it freely. If needed, here are 3 options for citing CancerDB:
+CancerDB content is published to the public domain and you can use it freely. If needed, here are 3 options for citing CancerDB:
 code
  https://cancerdb.com
 code
@@ -54,4 +54,4 @@ code
   note = {https://cancerdb.com}
  }
 
-* All sources for CancerDB can be found here: https://cancerdb.com/pages/acknowledgements.html
+All sources for CancerDB can be found here: https://cancerdb.com/pages/acknowledgements.html

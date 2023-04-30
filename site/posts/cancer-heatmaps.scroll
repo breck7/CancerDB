@@ -18,7 +18,7 @@ nodejs
  module.exports = CancerDB.overviewTables
 
 <center>
-* Cancer deaths per year in the USA by cancer type and age
+Cancer deaths per year in the USA by cancer type and age
 magicSquares
  table																										
  	%w40 %h40 %fs10																									
@@ -31,11 +31,11 @@ magicSquares
  	41ab5d	6400																								
  	238b45	32000																								
  	005a32	128000	
-* Data from United States Cancer Statistics (2019)
+Data from United States Cancer Statistics (2019)
  https://www.cdc.gov/cancer/uscs/dataviz/download_data.htm United States Cancer Statistics
  class visNotes
 
-* Cancer cases per year in the USA by cancer type and age
+Cancer cases per year in the USA by cancer type and age
 magicSquares
  table																										
  	%w40 %h40 %fs10																									
@@ -48,11 +48,11 @@ magicSquares
  	41ab5d	6400																								
  	238b45	32000																								
  	005a32	128000	
-* Data from United States Cancer Statistics (2019)
+Data from United States Cancer Statistics (2019)
  https://www.cdc.gov/cancer/uscs/dataviz/download_data.htm United States Cancer Statistics
  class visNotes
 
-* Crude mortality rate in the USA by cancer type and age.
+Crude mortality rate in the USA by cancer type and age.
 magicSquares
  table																										
  	%w40 %h40 %fs10																									
@@ -65,7 +65,7 @@ magicSquares
  	41ab5d	.32																								
  	238b45	.64																								
  	005a32	.9	
-* This provides a very rough estimate of cancer mortality rates by dividing annual deaths by the number of cases in each bucket. A better measure is 5 year survival rate. Data from United States Cancer Statistics (2019)
+This provides a very rough estimate of cancer mortality rates by dividing annual deaths by the number of cases in each bucket. A better measure is 5 year survival rate. Data from United States Cancer Statistics (2019)
  https://www.cdc.gov/cancer/uscs/dataviz/download_data.htm United States Cancer Statistics
  class visNotes
 

@@ -1,10 +1,13 @@
 #!/usr/bin/env node
 
 /*
-* To investigate slowdowns:
+
+To investigate slowdowns:
+
 code
  node --cpu-prof --cpu-prof-name=test.cpuprofile ./code/CancerDB.js testPerf
-* Then:
+
+Then:
 - open a new Chrome tab
 - open devtools
 - click Performance
