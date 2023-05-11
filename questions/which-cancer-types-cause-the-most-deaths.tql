@@ -1,0 +1,6 @@
+notMissing uscsDeathsPerYear
+select uscsDeathsPerYear
+sortBy uscsDeathsPerYear
+reverse
+title Which cancer types cause the most deaths?
+description Data is from the 2019 United States Cancer Statistics dataset from the CDC.

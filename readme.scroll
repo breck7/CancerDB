@@ -17,13 +17,13 @@ The CancerDB database is freely available:
 Documentation for the CSV is available here: https://cancerdb.com/csv.html.
 
 ## To add a new entry
-Advanced method: Create a new file in `things` with a unique URL friendly filename ending in `.cdb` and send a pull request.
+Advanced method: Create a new file in `rows` with a unique URL friendly filename ending in `.cdb` and send a pull request.
 
 ## To update an entity
-Advanced method: Edit the corresponding `things/*.cdb` file and send a pull request.
+Advanced method: Edit the corresponding `rows/*.cdb` file and send a pull request.
 
 ## To add a new column
-Advanced method: Edit or create a new file in `grammar` and add at least 1 example to an entity in `things` and send a pull request.
+Advanced method: Edit or create a new file in `grammar` and add at least 1 example to an entity in `rows` and send a pull request.
 
 ## To run the site locally
 code
@@ -35,7 +35,7 @@ code
  npm run local
 
 ## To explore this repo
-The most important folder is `things`, which contains a file for each entity. The folder `grammar` contains the grammar files (schema) for the truebase.
+The most important folder is `rows`, which contains a file for each entity. The folder `grammar` contains the grammar files (schema) for the truebase.
 
 The website content is in the `site` folder.
 

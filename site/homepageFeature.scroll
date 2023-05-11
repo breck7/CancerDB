@@ -1,0 +1,10 @@
+importOnly
+
+Newest posts
+ link /posts/
+ class headerLink
+
+Cancer in the United States: Heatmap visualizations
+ style text-align:center;
+ link /posts/cancer-heatmaps.html
+<a href="/posts/cancer-heatmaps.html"><img src="/posts/cancerHeatmap.jpg" width="300px"/></a>

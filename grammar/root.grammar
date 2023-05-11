@@ -1,4 +1,4 @@
-cdbParser
+cancerdbParser
  root
  description A database containing all the key data on cancer in one file.
  catchAllParser trueBaseErrorParser

@@ -123,7 +123,7 @@ import ../footer.scroll
 
 class CancerDBFolder extends TrueBaseFolder {
   // todo: move these to .truebase settings file
-  thingsViewSourcePath = `https://github.com/breck7/CancerDB/blob/main/things/`
+  rowsViewSourcePath = `https://github.com/breck7/CancerDB/blob/main/things/`
   grammarViewSourcePath = `https://github.com/breck7/CancerDB/blob/main/grammar/`
 
   createParserCombinator() {
@@ -220,11 +220,6 @@ templates.documentary = file =>
   file.has("watchOnYouTube") ? `youTube ${file.get("watchOnYouTube")}` : ""
 
 class CancerDBServer extends TrueBaseServer {
-  // todo: should we do this?
-  get grammarId() {
-    return "cdb"
-  }
-
   importFromOncoTreeCommand() {
     const walkType = (tree, items, oncoTreeLevel, parentOncoTreeId) => {
       const oncoTreeId = tree.get("code")
@@ -598,15 +593,10 @@ reverse`
   }
 }
 
-const cancerDBFolder = new CancerDBFolder().setSettings({
-  thingsFolder: path.join(baseFolder, "things"),
-  grammarFolder: path.join(baseFolder, "grammar")
-})
+const settingsPath = path.join(baseFolder, "cancerdb.truebase")
+const cancerDBFolder = new CancerDBFolder().setSettingsFromPath(settingsPath)
 
-const CancerDB = new CancerDBServer(
-  path.join(baseFolder, "cancerdb.truebase"),
-  cancerDBFolder
-)
+const CancerDB = new CancerDBServer(settingsPath, cancerDBFolder)
 
 module.exports = { CancerDB }
 
