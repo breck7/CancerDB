@@ -123,7 +123,7 @@ import ../footer.scroll
 
 class CancerDBFolder extends TrueBaseFolder {
   // todo: move these to .truebase settings file
-  rowsViewSourcePath = `https://github.com/breck7/CancerDB/blob/main/things/`
+  rowsViewSourcePath = `https://github.com/breck7/CancerDB/blob/main/rows/`
   grammarViewSourcePath = `https://github.com/breck7/CancerDB/blob/main/grammar/`
 
   createParserCombinator() {
