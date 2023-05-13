@@ -1,7 +1,7 @@
 trueBaseId cancerdb
 siteName CancerDB
 siteDomain cancerdb.com
-grammarFolder ./grammar
+grammarFolder ./columns
 rowsFolder ./rows
 questionsFolder ./questions
 ignoreFolder ./ignore/

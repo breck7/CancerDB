@@ -124,7 +124,7 @@ import ../footer.scroll
 class CancerDBFolder extends TrueBaseFolder {
   // todo: move these to .truebase settings file
   rowsViewSourcePath = `https://github.com/breck7/CancerDB/blob/main/rows/`
-  grammarViewSourcePath = `https://github.com/breck7/CancerDB/blob/main/grammar/`
+  grammarViewSourcePath = `https://github.com/breck7/CancerDB/blob/main/columns/`
 
   createParserCombinator() {
     return new TreeNode.ParserCombinator(CancerDBFile)
