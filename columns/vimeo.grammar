@@ -1,0 +1,6 @@
+vimeoParser
+ description What is the URL to this thing's vimeo page?
+ extends abstractSocialMediaParser
+ string sourceDomain vimeo.com
+ followersParser
+  extends abstractFollowersParser

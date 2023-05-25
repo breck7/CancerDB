@@ -1,5 +1,7 @@
 abstractSocialMediaParser
  extends abstractUrlColumnParser
+ // todo remove the need for the below from grammar
+ string sortKey abstractSocialMediaParser
  contentKey url
 abstractFollowersParser
  // todo: clarify that 1 columnParser definition will equate to a max of 1 column in a TrueBase CSV.
