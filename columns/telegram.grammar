@@ -1,0 +1,6 @@
+telegramParser
+ description What is the URL to this thing's Telegram page?
+ extends abstractSocialMediaParser
+ string sourceDomain t.me
+ followersParser
+  extends abstractFollowersParser

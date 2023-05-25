@@ -1,0 +1,6 @@
+gabParser
+ description What is the URL to this thing's gab page?
+ extends abstractSocialMediaParser
+ string sourceDomain gab.com
+ followersParser
+  extends abstractFollowersParser

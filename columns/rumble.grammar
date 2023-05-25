@@ -1,0 +1,6 @@
+rumbleParser
+ description What is the URL to this thing's rumble page?
+ extends abstractSocialMediaParser
+ string sourceDomain rumble.com
+ followersParser
+  extends abstractFollowersParser
