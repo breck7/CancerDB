@@ -3,7 +3,7 @@ siteName CancerDB
 siteDomain cancerdb.com
 grammarFolder ./columns
 rowsFolder ./rows
-questionsFolder ./questions
+queriesFolder ./queries
 ignoreFolder ./ignore/
 siteFolder ./site
 devPort 8080
