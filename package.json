@@ -7,6 +7,7 @@
     "test": "truebase test",
     "local": "./code/CancerDB.js startDevServer",
     "format": "./code/CancerDB.js format",
+    "static": "./code/CancerDB.js dumpStaticSite",
     "fetchContributors": "wget -O site/pages/contributors.json https://api.github.com/repos/breck7/CancerDB/contributors",
     "launch": "git pull; npm install .; npm run restart",
     "start": "pm2 start ./code/CancerDB.js -- startProdServer",
@@ -36,7 +37,7 @@
     "jtree": "^73.0.0",
     "lodash": "^4.17.21",
     "numeral": "^2.0.6",
-    "truebase": "^18.0.1"
+    "truebase": "^19.0.0"
   },
   "devDependencies": {
     "@types/node": "^18.7.18"
