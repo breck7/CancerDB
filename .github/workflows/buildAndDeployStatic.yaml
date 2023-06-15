@@ -13,7 +13,7 @@ jobs:
       - name: Install and Build
         run: |
           npm install .
-          npm run dumpStaticSite
+          npm run static
           # The line below is needed if you have *.html in your gitignore file
           rm .gitignore
       - name: Deploy 🚀
