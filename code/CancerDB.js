@@ -490,7 +490,8 @@ class CancerDBServer extends TrueBaseServer {
 notMissing uscsDeathsPerYear
 sortBy uscsDeathsPerYear
 reverse`
-    const data = new TreeNode(this._initSearch().searchServer.tree(query))
+    this._initSearch()
+    const data = new TreeNode(this.searchServer.tree(query))
     const groupedByTypeAndAgeBuckets = {}
     data.forEach(cancerType => {
       const buckets = {}
