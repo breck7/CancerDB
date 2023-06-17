@@ -1,7 +1,7 @@
 {
   "name": "cancerdb",
   "version": "1.0.0",
-  "description": "Accelerate the cures.",
+  "description": "Key concepts about cancer in one model.",
   "main": "index.js",
   "scripts": {
     "test": "truebase test",

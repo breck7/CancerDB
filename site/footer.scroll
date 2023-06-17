@@ -17,7 +17,7 @@ stumpNoSnippet
   a Search
    href BASE_URL/search.html?q=select+type
   span ·
-  a Add Row
+  a Add Concept
    href BASE_URL/create.html
   span ·
   a About

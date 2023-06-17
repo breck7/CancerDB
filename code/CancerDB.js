@@ -123,7 +123,7 @@ import ../footer.scroll
 
 class CancerDBFolder extends TrueBaseFolder {
   // todo: move these to .truebase settings file
-  rowsViewSourcePath = `https://github.com/breck7/CancerDB/blob/main/rows/`
+  conceptsViewSourcePath = `https://github.com/breck7/CancerDB/blob/main/concepts/`
   grammarViewSourcePath = `https://github.com/breck7/CancerDB/blob/main/columns/`
 
   createParserCombinator() {
@@ -277,12 +277,12 @@ class CancerDBServer extends TrueBaseServer {
 
   async crawlCdcCommand() {
     // https://www.cdc.gov/cancer/uscs/dataviz/download_data.htm
-    const rows = TreeNode.fromDelimited(
+    const concepts = TreeNode.fromDelimited(
       Disk.read(path.join(ignoreFolder, "BYAGE.TXT")),
       "|"
     )
     const toAdd = {}
-    rows
+    concepts
       .filter(
         row =>
           row.get("YEAR") === "2019" &&

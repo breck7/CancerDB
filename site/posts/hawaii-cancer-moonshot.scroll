@@ -11,7 +11,7 @@ startColumns 2
 # Theory
 The pen is mightier than the sword. _The CSV is mightier than the pen_.
  dateline
-If we build a public domain real-time collaborative spreadsheet of ~100,000 rows (one row for each existing cancer treament or idea), and ~1,000 columns (sparse features like appeared, location, team, type, clinical trial status...), for a total of a spreadsheet of ~100,000,000 cells, we can radically accelerate the cures for cancers^1.
+If we build a public domain real-time collaborative spreadsheet of ~100,000 concepts (one row for each existing cancer treament or idea), and ~1,000 columns (sparse features like appeared, location, team, type, clinical trial status...), for a total of a spreadsheet of ~100,000,000 cells, we can radically accelerate the cures for cancers^1.
 
 endSnippet
 

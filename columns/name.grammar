@@ -1,5 +1,5 @@
 titleParser
- description What is the title of this entity?
+ description What is the title of this concept?
  extends abstractStringColumnParser
  required
 standsForParser

@@ -7,7 +7,7 @@ import ../scrollExtensions.scroll
 startColumns 2
 
 # _never ever give up_
-CancerDB is a public domain knowledge graph with the goal of containing all the key data on cancer in one file. The focus is on *cancer preventions and treatments*, but the database also includes closely connected things--from cancer types to organizations and more.
+CancerDB is a public domain knowledge graph with the goal of containing all the key concepts on cancer in one model. The focus is on *cancer, cancer preventions and treatments*, but the database also includes closely connected things--from cancer types to organizations and more.
 
 CancerDB is for two groups of people:
 1. *Cancer researchers.* CancerDB is organized big data to help you create great new preventions and treatments and improve existing ones. Benefit from the experiences of millions that have gone before you. If you are researching something and can't find what you need here, open an issue and explain what you need.
@@ -31,20 +31,20 @@ bash cd ..; cd ..; cloc --quiet --vcs git . --read-lang-def=code/clocLangs.txt
 ##  History
 CancerDB.com was purchased by Breck Yunits on September 3, 2022.
 
-##  Citation
+## To cite CancerDB
 CancerDB content is published to the public domain and you can use it freely. If needed, here are 3 options for citing CancerDB:
-quote
+code
  https://cancerdb.com
-quote
- CancerDB team. (2022) - "CancerDB: A public domain knowledge graph containing all the key data on cancer in one file". Retrieved from: 'https://cancerdb.com' [Online Resource]
+code
+ CancerDB team. (2022) - "CancerDB: A public domain database and website containing structured data on key concepts in cancer integrated into one model". Retrieved from: 'https://cancerdb.com' [Online Resource]
 code
  @article{cancerdb,
-   author = {CancerDB team},
-   title = {CancerDB: A public domain knowledge graph containing all the key data on cancer in one file.},
-   journal = {CancerDB},
-   year = {2022},
-   note = {https://cancerdb.com}
-  }
+  author = {CancerDB team},
+  title = {CancerDB: A public domain database and website containing structured data on key concepts in cancer integrated into one model.},
+  journal = {CancerDB},
+  year = {2022},
+  note = {https://cancerdb.com}
+ }
 
 endColumns
 

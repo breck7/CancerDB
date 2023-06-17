@@ -1,8 +1,8 @@
-# CancerDB: A public domain knowledge graph containing all the key data on cancer in one file.
+# CancerDB: Key concepts about cancer in one model.
 
 import code/ciBadges.scroll
 
-CancerDB is a public domain database and website containing all the key data on cancer in one file.
+CancerDB is a public domain database and website containing structured data on key concepts in cancer integrated into one model.
 
 Someone's new treatment could by just 2 insights away from being the next great cure. CancerDB can help them figure out what those 2 missing insights are.
 
@@ -16,14 +16,14 @@ The CancerDB database is freely available:
 - As JSON: https://cancerdb.com/cancerdb.json
 Documentation for the CSV is available here: https://cancerdb.com/csv.html.
 
-## To add a new entry
-Advanced method: Create a new file in `rows` with a unique URL friendly filename ending in `.cdb` and send a pull request.
+## To add a new concept
+Advanced method: Create a new file in `concepts` with a unique URL friendly filename ending in `.cdb` and send a pull request.
 
-## To update an entity
-Advanced method: Edit the corresponding `rows/*.cdb` file and send a pull request.
+## To update a concept
+Advanced method: Edit the corresponding `concepts/*.cdb` file and send a pull request.
 
 ## To add a new column
-Advanced method: Edit or create a new file in `columns` and add at least 1 example to an entity in `rows` and send a pull request.
+Advanced method: Edit or create a new file in `columns` and add at least 1 example to a concept in `concepts` and send a pull request.
 
 ## To run the site locally
 code
@@ -35,7 +35,7 @@ code
  npm run local
 
 ## To explore this repo
-The most important folder is `rows`, which contains a file for each entity. The folder `columns` contains the grammar files (schema) for the truebase.
+The most important folder is `concepts`, which contains a file for each concept. The folder `columns` contains the grammar files (schema) for the truebase.
 
 The website content is in the `site` folder.
 
@@ -44,11 +44,11 @@ CancerDB content is published to the public domain and you can use it freely. If
 code
  https://cancerdb.com
 code
- CancerDB team. (2022) - "CancerDB: A public domain knowledge graph containing all the key data on cancer in one file". Retrieved from: 'https://cancerdb.com' [Online Resource]
+ CancerDB team. (2022) - "CancerDB: A public domain database and website containing structured data on key concepts in cancer integrated into one model". Retrieved from: 'https://cancerdb.com' [Online Resource]
 code
  @article{cancerdb,
   author = {CancerDB team},
-  title = {CancerDB: A public domain knowledge graph about cancer treatments that compiles to a website and CSV file.},
+  title = {CancerDB: A public domain database and website containing structured data on key concepts in cancer integrated into one model.},
   journal = {CancerDB},
   year = {2022},
   note = {https://cancerdb.com}

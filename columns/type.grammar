@@ -2,7 +2,7 @@ typeCell
  enum cancerType book company publicCompany drug chemotherapyDrug journal nationalCancerInstitute intergovernmentalCancerOrganization nationalGovernmentAgency stateGovernmentOrganization researchCenter paper anthracycline alkylatingAgent taxane researchHospital nciCancerCenter registry website cancerNonProfit nonProfit breathTreatment exercise mentalTreatment vitamin touchTreatment surgery organTransplant documentary lifestyle diet hospital childrensHospital professionalOrganization app caregiverService software lotion device clothing prosthetic subreddit toxinAvoidance hospiceCareService immunotherapy ctScan ultrasound imagingProcedure herbal diagnosticTest onlineForum majorResearchEffort onlineDatabase organizationDivision internationalOrganization consortium governmentFundedNonProfit awarenessEvent recurringEvent routeOfAdministration magazine procedure onlineCourse ontology microscope ablationProcedure tyrosineKinaseInhibitor radiationTherapy chemotherapyProcedure treatmentCenter
  highlightScope constant.language
 typeParser
- description What kind of thing is this entity?
+ description What kind of concept is this?
  cells columnNameCell typeCell
  catchAllCellType typeCell
  extends abstractEnumColumnParser

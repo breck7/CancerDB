@@ -2,7 +2,7 @@ trueBaseId cancerdb
 siteName CancerDB
 siteDomain cancerdb.com
 grammarFolder ./columns
-rowsFolder ./rows
+rowsFolder ./concepts
 queriesFolder ./queries
 ignoreFolder ./ignore/
 siteFolder ./site

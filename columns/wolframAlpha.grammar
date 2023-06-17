@@ -1,4 +1,4 @@
 wolframAlphaParser
  extends abstractUrlColumnParser
- description What is the URL to this entity on WolframAlpha?
+ description What is the URL to this concept on WolframAlpha?
  string sourceDomain wolframalpha.com
