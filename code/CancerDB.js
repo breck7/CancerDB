@@ -124,7 +124,7 @@ import ../footer.scroll
 class CancerDBFolder extends TrueBaseFolder {
   // todo: move these to .truebase settings file
   conceptsViewSourcePath = `https://github.com/breck7/CancerDB/blob/main/concepts/`
-  grammarViewSourcePath = `https://github.com/breck7/CancerDB/blob/main/columns/`
+  grammarViewSourcePath = `https://github.com/breck7/CancerDB/blob/main/question/`
 
   createParserCombinator() {
     return new TreeNode.ParserCombinator(CancerDBFile)
@@ -543,6 +543,8 @@ reverse`
   }
 
   get overviewTables() {
+    this.warmGrammarFiles() // todo: cleanup
+
     const deathGroups = this.makeUscsTable("deaths")
     const casesGroups = this.makeUscsTable("cases")
 
