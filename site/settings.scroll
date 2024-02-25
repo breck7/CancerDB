@@ -2,7 +2,7 @@ importOnly
 
 replaceDefault BASE_URL 
 replace SITE_NAME CancerDB
-replace SITE_DESCRIPTION key concepts about cancer in one model
+replace SITE_DESCRIPTION Key data about cancer in one table
 replace TRUEBASE_ID cancerdb
 replace DOMAIN_NAME cancerdb.com
 replace GIT_URL https://github.com/breck7/CancerDB

@@ -1,7 +1,7 @@
 {
   "name": "cancerdb",
   "version": "1.0.0",
-  "description": "Key concepts about cancer in one model.",
+  "description": "Key data about cancer in one table.",
   "main": "index.js",
   "scripts": {
     "test": "truebase test",
@@ -37,7 +37,7 @@
     "jtree": "^73.0.0",
     "lodash": "^4.17.21",
     "numeral": "^2.0.6",
-    "truebase": "^20.0.0"
+    "truebase": "^21.1.0"
   },
   "devDependencies": {
     "@types/node": "^18.7.18"

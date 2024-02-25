@@ -1,7 +1,7 @@
 trueBaseId cancerdb
 siteName CancerDB
 siteDomain cancerdb.com
-questionsFolder ./questions
+measuresFolder ./measures
 conceptsFolder ./concepts
 queriesFolder ./queries
 ignoreFolder ./ignore/
