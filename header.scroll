@@ -23,7 +23,7 @@ stumpNoSnippet
     name q
     placeholder Search
     autocomplete off
-  a Questions
+  a Measures
    href BASE_URL/csv.html
   a Concepts
    href BASE_URL/queries/all.html

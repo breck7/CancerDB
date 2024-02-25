@@ -258,10 +258,10 @@ class TrueBaseBrowserApp {
 
     this.codeMirrorInstance.setValue(localValue ? localValue.childrenToString() : data.content)
     const title = new TreeNode(this.value).get("title") || filename
-    document.getElementById("topUnansweredQuestions").innerHTML = `<h3>Open questions about ${title}</h3>
-    ${data.topUnansweredQuestions
+    document.getElementById("topMissingMeasurements").innerHTML = `<h3>Missing measurements about ${title}</h3>
+    ${data.topMissingMeasurements
       .slice(0, 8)
-      .map(question => `<div title="${question.column}">${question.question}</div>`)
+      .map(measure => `<div title="${measure.column}">${measure.question}</div>`)
       .join("")}`
 
     document.getElementById("helpfulResearchLinks").innerHTML = data.helpfulResearchLinks
@@ -330,7 +330,7 @@ class TrueBaseBrowserApp {
    <div id="tqlErrors"></div> <!-- todo: cleanup. -->
  </div>
  <div class="cell">
-   <div id="topUnansweredQuestions"></div>
+   <div id="topMissingMeasurements"></div>
    <div id="helpfulResearchLinks"></div>
    <div id="exampleSection"></div>
  </div>

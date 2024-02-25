@@ -2,9 +2,9 @@ import header.scroll
 title SITE_NAME Stats
 
 dashboard
+ 15,503 Measurements
  1,453 Concepts
- 96 Questions
- 15,503 Filled
+ 96 Measures
  123,985 Missing
  61 Concept links
  1,456 URLs
@@ -18,7 +18,7 @@ startColumns 1
 <center>
 <div id="modelVis"></div>
 </center>
-The image above has a pixel for each concept and question in the database. The top left pixel represents the questions with the most answers. The pixels then flow left to right, then top down, showing the answer count for the question with the next most answers. After a pixel for each question is shown then a pixel is shown for each concept.
+The image above has a pixel for each concept and measure in the database. The top left pixel represents the measure with the most measurements. The pixels then flow left to right, then top down, showing the measurement count for the measure with the next most measurements. After the pixels for measures comes a pixel for each concept.
 endColumns
 
 <script>document.addEventListener("DOMContentLoaded", () => TrueBaseBrowserApp.getApp().fetchAndVisualizeDb())</script>

@@ -2,7 +2,7 @@ importOnly
 
 replaceDefault BASE_URL 
 replace SITE_NAME PlanetsDB
-replace SITE_DESCRIPTION key concepts about the solar system in one model
+replace SITE_DESCRIPTION key data on the solar system in one table
 replace TRUEBASE_ID planetsdb
 replace DOMAIN_NAME localhost
 replace GIT_URL https://github.com/breck7/pldb
