@@ -15,8 +15,6 @@ Saved queries
  link queries.html
  class headerLink
 
-import newQueries.scroll
-
 import homepageFeature.scroll
 
 </center>

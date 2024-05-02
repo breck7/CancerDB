@@ -6,23 +6,11 @@ groups index
 startColumns 4
 
 nodejs
- const {Disk} = require("jtree/products/Disk.node.js")
+ const fs = require("fs")
  const path = require("path")
- const {CancerDB} = require("../../code/CancerDB.js")
- const { sources } = CancerDB.folder
- const npmPackages = Object.keys({
-   ...require("../../package.json").dependencies
- })
- npmPackages.sort()
  module.exports = {
-    PACKAGES_TABLE: npmPackages
-     .map(s => `- ${s}\n https://www.npmjs.com/package/${s}`)
-     .join("\n"),
-      SOURCES_TABLE: sources
-     .map(s => `- ${s}\n linkify false\n https://${s}`)
-     .join("\n"),
    CONTRIBUTORS_TABLE: JSON.parse(
-     Disk.read(path.join(__dirname, "contributors.json"))
+     fs.readFileSync(path.join(__dirname, "contributors.json"), "utf8")
    )
      .filter(item => item.login !== "breck7")
      .map(item => `- ${item.login}\n ${item.html_url}`)

@@ -5,6 +5,8 @@
   "scripts": {
     "build": "scroll list | scroll build",
     "test": "scroll list | scroll test",
+    "format": "scroll list | scroll format",
+    "fetchContributors": "wget -O pages/contributors.json https://api.github.com/repos/breck7/CancerDB/contributors",
     "open": "open index.html",
     "up": "npm install scroll-cli@latest"
   },
