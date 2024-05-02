@@ -1,4 +1,4 @@
 import header.scroll
 title The CancerDB Blog
-snippets index
+snippets All
 import ../footer.scroll

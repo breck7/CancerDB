@@ -7,8 +7,6 @@ title SITE_NAME
 
 <center>
 
-import searchForm.scroll
-
 replace BASE_URL .
 
 import homepageFeature.scroll

@@ -1,7 +1,7 @@
 import header.scroll
 date 03-15-2023
 openGraphImage https://cancerdb.com/posts/cancerHeatmap.jpg
-groups index cancer
+groups All
 
 title Cancer in the United States
 

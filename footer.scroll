@@ -2,7 +2,7 @@ importOnly
 
 viewSource
 
-replaceJs DAYS_SINCE_ALPHA_LAUNCH Math.floor(dayjs().diff(dayjs("2023-2-21"), "day", true))
+replaceJs DAYS_SINCE_INITIAL_COMMIT Math.floor(dayjs().diff(dayjs("2022-9-05"), "day", true))
 
 stumpNoSnippet
  div
@@ -14,21 +14,21 @@ stumpNoSnippet
   a #CancerMoonshot
    href https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/12/remarks-by-president-biden-on-the-cancer-moonshot-initiative/
   span ·
-  a Search
-   href BASE_URL/search.html?q=select+type
-  span ·
   a About
    href BASE_URL/pages/about.html
   span ·
   a Blog
    href BASE_URL/posts/index.html
   span ·
+  a Humor
+   href BASE_URL/posts/humor.html
+  span ·
   a Acknowledgements
    href BASE_URL/pages/acknowledgements.html
   span ·
-  a Day DAYS_SINCE_ALPHA_LAUNCH
-   href https://github.com/breck7/CancerDB/commit/298bb5823a411c905aa98bec02e8c0c2ed2bfbea
-   title An early version of CancerDB.com shipped on February 24th, 2023
+  a Day DAYS_SINCE_INITIAL_COMMIT
+   href https://github.com/breck7/CancerDB/commit/9cf883c9573176207842fbbb3180a08656401b1a
+   title Initial commit on September 5th, 2022
   span ·
   a help@cancerdb.com
    href mailto:help@cancerdb.com
