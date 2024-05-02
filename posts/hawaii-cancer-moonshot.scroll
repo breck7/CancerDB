@@ -1,10 +1,10 @@
+author https://github.com/breck7 Breck Yunits
+date 09-15-2022
+groups index cancer
+openGraphImage https://cancerdb.com/posts/japan.jpeg
+
 import header.scroll
 title The Hawai'i #CancerMoonshot
-date 09-15-2022
-openGraphImage https://cancerdb.com/posts/japan.jpeg
-groups index cancer
-
-author https://github.com/breck7 Breck Yunits
 
 startColumns 2
 

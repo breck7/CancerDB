@@ -1,6 +1,8 @@
+groups index
+replaceJs BUILT_ON_DAY dayjs().format("MM/DD/YYYY")
+
 import header.scroll
 title About
-groups index
 
 startColumns 2
 
@@ -16,8 +18,6 @@ CancerDB is for two groups of people:
 ##  Open source
 All data and source code used to generate this site are on GitHub and public domain.
  https://github.com/breck7/CancerDB GitHub
-
-replaceJs BUILT_ON_DAY dayjs().format("MM/DD/YYYY")
 
 ##  History
 CancerDB.com was purchased by Breck Yunits on September 3, 2022.

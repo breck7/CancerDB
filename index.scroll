@@ -1,3 +1,5 @@
+replace BASE_URL .
+
 import header.scroll
 
 title SITE_NAME
@@ -6,8 +8,6 @@ title SITE_NAME
 # SITE_NAME: SITE_DESCRIPTION
 
 <center>
-
-replace BASE_URL .
 
 import homepageFeature.scroll
 

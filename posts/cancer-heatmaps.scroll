@@ -1,36 +1,35 @@
-import header.scroll
+author https://github.com/breck7 Breck Yunits
 date 03-15-2023
-openGraphImage https://cancerdb.com/posts/cancerHeatmap.jpg
 groups All
+nodejs
+ module.exports = require(`./heatmap.json`)
+openGraphImage https://cancerdb.com/posts/cancerHeatmap.jpg
+
+import header.scroll
 
 title Cancer in the United States
 
 # Heatmap visualizations
 
-author https://github.com/breck7 Breck Yunits
-
 endSnippet
 
 import ../magicSquares.scroll
-
-nodejs
- module.exports = require(`./heatmap.json`)
 
 <center>
 Cancer deaths per year in the USA by cancer type and age
  style text-align:center;
 magicSquares
- table																										
- 	%w40 %h40 %fs10																									
+ table
+ 	%w40 %h40 %fs10
  		DEATHS_SQUARES
- scale																										
- 	#ebedf0	0																								
- 	#c7e9c0	100																								
- 	#a1d99b	400																								
- 	#74c476	1600																								
- 	#41ab5d	6400																								
- 	#238b45	32000																								
- 	#005a32	128000	
+ scale
+ 	#ebedf0	0
+ 	#c7e9c0	100
+ 	#a1d99b	400
+ 	#74c476	1600
+ 	#41ab5d	6400
+ 	#238b45	32000
+ 	#005a32	128000
 Data from United States Cancer Statistics (2019)
  https://www.cdc.gov/cancer/uscs/dataviz/download_data.htm United States Cancer Statistics
  class visNotes
@@ -38,17 +37,17 @@ Data from United States Cancer Statistics (2019)
 Cancer cases per year in the USA by cancer type and age
  style text-align:center;
 magicSquares
- table																										
- 	%w40 %h40 %fs10																									
+ table
+ 	%w40 %h40 %fs10
  		CASES_SQUARES
- scale																										
- 	#ebedf0	0																								
- 	#c7e9c0	100																								
- 	#a1d99b	400																								
- 	#74c476	1600																								
- 	#41ab5d	6400																								
- 	#238b45	32000																								
- 	#005a32	128000	
+ scale
+ 	#ebedf0	0
+ 	#c7e9c0	100
+ 	#a1d99b	400
+ 	#74c476	1600
+ 	#41ab5d	6400
+ 	#238b45	32000
+ 	#005a32	128000
 Data from United States Cancer Statistics (2019)
  https://www.cdc.gov/cancer/uscs/dataviz/download_data.htm United States Cancer Statistics
  class visNotes
@@ -56,17 +55,17 @@ Data from United States Cancer Statistics (2019)
 Crude mortality rate in the USA by cancer type and age.
  style text-align:center;
 magicSquares
- table																										
- 	%w40 %h40 %fs10																									
+ table
+ 	%w40 %h40 %fs10
  		MORTALITY_SQUARES
- scale																										
- 	#ebedf0	0																								
- 	#c7e9c0	.01																								
- 	#a1d99b	.04																							
- 	#74c476	.16																								
- 	#41ab5d	.32																								
- 	#238b45	.64																								
- 	#005a32	.9	
+ scale
+ 	#ebedf0	0
+ 	#c7e9c0	.01
+ 	#a1d99b	.04
+ 	#74c476	.16
+ 	#41ab5d	.32
+ 	#238b45	.64
+ 	#005a32	.9
 This provides a very rough estimate of cancer mortality rates by dividing annual deaths by the number of cases in each bucket. A better measure is 5 year survival rate. Data from United States Cancer Statistics (2019)
  https://www.cdc.gov/cancer/uscs/dataviz/download_data.htm United States Cancer Statistics
  class visNotes

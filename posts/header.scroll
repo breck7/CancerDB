@@ -1,7 +1,8 @@
 importOnly
-replace BASE_URL ..
-import ../header.scroll
-rssFeedUrl feed.xml
-keyboardNav
 baseUrl https://cancerdb.com/posts/
+replace BASE_URL ..
+rssFeedUrl feed.xml
 viewSourceBaseUrl https://github.com/breck7/CancerDB/blob/main/site/posts/
+
+import ../header.scroll
+keyboardNav
