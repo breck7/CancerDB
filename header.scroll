@@ -3,11 +3,13 @@ import settings.scroll
 
 metaTags
 
+gazetteCss
+
 stumpNoSnippet
  link
   rel stylesheet
   type text/css
-  href BASE_URL/combined.css
+  href BASE_URL/TrueBaseTheme.css
  div
   class trueBaseThemeHeader
   a SITE_NAME

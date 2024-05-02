@@ -17,9 +17,6 @@ stumpNoSnippet
   a Search
    href BASE_URL/search.html?q=select+type
   span ·
-  a Add Concept
-   href BASE_URL/create.html
-  span ·
   a About
    href BASE_URL/pages/about.html
   span ·
@@ -29,22 +26,9 @@ stumpNoSnippet
   a Acknowledgements
    href BASE_URL/pages/acknowledgements.html
   span ·
-  a Queries
-   href BASE_URL/queries.html
-  span ·
-  a Stats
-   href BASE_URL/stats.html
-  span ·
-  a Sponsor
-   href /pages/sponsor.html
-  span ·
   a Day DAYS_SINCE_ALPHA_LAUNCH
    href https://github.com/breck7/CancerDB/commit/298bb5823a411c905aa98bec02e8c0c2ed2bfbea
    title An early version of CancerDB.com shipped on February 24th, 2023
   span ·
-  a manager@cancerdb.com
-   href mailto:manager@cancerdb.com
-  span ·
-  span 1-808-727-1111
-
-<script src="BASE_URL/combined.js" defer></script>
+  a help@cancerdb.com
+   href mailto:help@cancerdb.com

@@ -11,10 +11,6 @@ import searchForm.scroll
 
 replace BASE_URL .
 
-Saved queries
- link queries.html
- class headerLink
-
 import homepageFeature.scroll
 
 </center>

@@ -4,3 +4,5 @@ node_modules/
 package-lock.json
 *.html
 *.log
+helpfulNotFound.js
+posts/feed.xml
