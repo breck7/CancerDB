@@ -1,7 +1,9 @@
 importOnly
+
 magicSquaresCatchAllParser
  // todo Fill this out
  catchAllCellType anyCell
+
 magicSquaresParser
  cruxFromId
  catchAllParser magicSquaresCatchAllParser

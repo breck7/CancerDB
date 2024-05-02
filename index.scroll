@@ -1,0 +1,24 @@
+import header.scroll
+
+title SITE_NAME
+ hidden
+
+# SITE_NAME: SITE_DESCRIPTION
+
+<center>
+
+import searchForm.scroll
+
+replace BASE_URL .
+
+Saved queries
+ link queries.html
+ class headerLink
+
+import newQueries.scroll
+
+import homepageFeature.scroll
+
+</center>
+
+import footer.scroll

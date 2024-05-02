@@ -1,21 +1,12 @@
 {
   "name": "cancerdb",
-  "version": "1.0.0",
-  "description": "Key data about cancer in one table.",
-  "main": "index.js",
+  "version": "2.0.0",
+  "description": "Datasets about Cancer.",
   "scripts": {
-    "test": "truebase test",
-    "local": "./code/CancerDB.js startDevServer",
-    "format": "./code/CancerDB.js format",
-    "static": "./code/CancerDB.js dumpStaticSite",
-    "fetchContributors": "wget -O site/pages/contributors.json https://api.github.com/repos/breck7/CancerDB/contributors",
-    "launch": "git pull; npm install .; npm run restart",
-    "start": "pm2 start ./code/CancerDB.js -- startProdServer",
-    "stop": "pm2 delete 0",
-    "restart": "pm2 restart 0",
-    "jtreeBeta": "npm install ~/jtree",
-    "scrollBeta": "npm install ~/scroll",
-    "trueBaseBeta": "npm install ~/truebase"
+    "build": "scroll list | scroll build",
+    "test": "scroll list | scroll test",
+    "open": "open index.html",
+    "up": "npm install scroll-cli@latest"
   },
   "repository": {
     "type": "git",
@@ -29,17 +20,5 @@
     "data"
   ],
   "author": "Breck Yunits et al.",
-  "bugs": {
-    "url": "https://github.com/breck7/CancerDB/issues"
-  },
-  "homepage": "https://github.com/breck7/CancerDB#readme",
-  "dependencies": {
-    "jtree": "^73.0.0",
-    "lodash": "^4.17.21",
-    "numeral": "^2.0.6",
-    "truebase": "^21.1.0"
-  },
-  "devDependencies": {
-    "@types/node": "^18.7.18"
-  }
+  "homepage": "https://cancerdb.com"
 }

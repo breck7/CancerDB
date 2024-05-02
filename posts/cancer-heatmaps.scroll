@@ -14,8 +14,7 @@ endSnippet
 import ../magicSquares.scroll
 
 nodejs
- const { CancerDB } = require(`../../code/CancerDB.js`)
- module.exports = CancerDB.overviewTables
+ module.exports = require(`./heatmap.json`)
 
 <center>
 Cancer deaths per year in the USA by cancer type and age

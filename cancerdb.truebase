@@ -1,9 +1,0 @@
-trueBaseId cancerdb
-siteName CancerDB
-siteDomain cancerdb.com
-measuresFolder ./measures
-conceptsFolder ./concepts
-queriesFolder ./queries
-ignoreFolder ./ignore/
-siteFolder ./site
-devPort 8080

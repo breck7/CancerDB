@@ -2,8 +2,6 @@ import header.scroll
 title About
 groups index
 
-import ../scrollExtensions.scroll
-
 startColumns 2
 
 # _never ever give up_
@@ -20,13 +18,6 @@ All data and source code used to generate this site are on GitHub and public dom
  https://github.com/breck7/CancerDB GitHub
 
 replaceJs BUILT_ON_DAY dayjs().format("MM/DD/YYYY")
-
-## Cloc Stats
-Below are the cloc stats for this repo as of BUILT_ON_DAY.
- https://pldb.com/languages/cloc.html cloc
- https://github.com/breck7/CancerDB this repo
-
-bash cd ..; cd ..; cloc --quiet --vcs git . --read-lang-def=code/clocLangs.txt
 
 ##  History
 CancerDB.com was purchased by Breck Yunits on September 3, 2022.
