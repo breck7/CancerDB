@@ -1,6 +1,6 @@
 title Your Disease Risk
 type website
 description Cancer risk calculator
-related mycanceriq
+relatedConcepts mycanceriq
 
 website https://siteman.wustl.edu/prevention/ydr/

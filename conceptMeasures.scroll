@@ -361,10 +361,10 @@ abstractRelationshipParser
  extends abstractConceptIdsMeasureParser
 relatedParser
  extends abstractRelationshipParser
- description What entities are related?
+ description What concepts are related?
 parentOrganizationParser
  extends abstractRelationshipParser
- description What is the parent entity(ies)?
+ description What is the parent concept(s)?
 
 // rumble
 rumbleParser
