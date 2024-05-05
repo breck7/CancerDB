@@ -12,11 +12,6 @@ abstractHashMapMeasureParser
     return this.definition.cruxPathAsColumnName
   }
 
-abstractEnumMeasureParser
- string typeForCsvDocs enum
- cells measureNameCell enumCell
- extends abstractMeasureParser
-
 abstractCountMeasureParser
  description A positive count of something. People, for example. Min is 0.
  cells measureNameCell countCell
