@@ -5,4 +5,4 @@ cancerTypesParser
  description Which cancer type(s) does this entity specialize in?
  cells columnNameCell cancerTypeCell
  catchAllCellType cancerTypeCell
- extends abstractEnumColumnParser
+ extends abstractEnumMeasureParser

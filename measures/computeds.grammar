@@ -1,11 +1,11 @@
 lengthParser
- extends abstractComputedSumColumnParser
+ extends abstractComputedSumMeasureParser
  // todo: bug the below line should be included via inheritance from WWC.
  boolean suggestInAutocomplete false
  description How many top level questions do we have about this?
 
 idParser
  description What is the name of this file without the extension?
- extends abstractStringColumnParser
+ extends abstractStringMeasureParser
  boolean isComputed true
  boolean suggestInAutocomplete false

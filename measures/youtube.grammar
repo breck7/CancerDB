@@ -1,5 +1,5 @@
 youTubeParser
- extends abstractUrlColumnParser
+ extends abstractUrlMeasureParser
  description What is the URL to a YouTube video about this thing?
  string sourceDomain youtube.com
  single false

@@ -8,8 +8,8 @@ countryParser
  description In what country is this?
  catchAllCellType countryNameCell
  // todo make country a wwc kind
- extends abstractStringColumnParser
+ extends abstractStringMeasureParser
 cityParser
  description What city and state is this in?
  catchAllCellType cityStateCell
- extends abstractStringColumnParser
+ extends abstractStringMeasureParser

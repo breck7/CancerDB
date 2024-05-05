@@ -1,6 +1,6 @@
 // todo trim the trailing slash
 subredditParser
- extends abstractUrlColumnParser
+ extends abstractUrlMeasureParser
  string sourceDomain reddit.com
  contentKey url
  description What is the URL of a subreddit(s) for this thing?

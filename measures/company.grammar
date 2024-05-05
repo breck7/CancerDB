@@ -1,12 +1,12 @@
 companyParser
- extends abstractStringColumnParser
+ extends abstractStringMeasureParser
  description What is the name of the company that makes this product?
 investorRelationsPageParser
- extends abstractUrlColumnParser
+ extends abstractUrlMeasureParser
  contentKey url
  description What is the URL to the company's investor relations page?
 abstractStockExchangeParser
- extends abstractUrlColumnParser
+ extends abstractUrlMeasureParser
 nyseParser
  description What is the URL to the company's ticker on NYSE?
  extends abstractStockExchangeParser

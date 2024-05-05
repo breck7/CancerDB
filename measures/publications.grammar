@@ -1,9 +1,9 @@
 pdfParser
- extends abstractUrlColumnParser
+ extends abstractUrlMeasureParser
  description What is the URL of the PDF file?
 journalParser
- extends abstractStringColumnParser
+ extends abstractStringMeasureParser
  description What journal did this paper appear in?
 authorParser
- extends abstractStringColumnParser
+ extends abstractStringMeasureParser
  description What is the name of the author(s)?

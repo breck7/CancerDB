@@ -1,8 +1,8 @@
 githubParser
  description What is the URL to the organization's GitHub page?
- extends abstractUrlColumnParser
+ extends abstractUrlMeasureParser
  string sourceDomain github.com
 githubRepoParser
  description What is the URL to this project on GitHub?
- extends abstractUrlColumnParser
+ extends abstractUrlMeasureParser
  string sourceDomain github.com

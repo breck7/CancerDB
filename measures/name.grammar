@@ -1,19 +1,19 @@
 titleParser
  description What is the title of this concept?
- extends abstractStringColumnParser
+ extends abstractStringMeasureParser
  required
 standsForParser
  description If the title is an acronym what does/did it stand for?
- extends abstractStringColumnParser
+ extends abstractStringMeasureParser
 akaParser
  description Is there another name(s) for the thing?
- extends abstractStringColumnParser
+ extends abstractStringMeasureParser
  single false
 oldNameParser
  description What is the old name(s) of this thing?
- extends abstractStringColumnParser
+ extends abstractStringMeasureParser
  single false
 tradenamesParser
  description What are the tradenames for the drug?
- extends abstractStringColumnParser
+ extends abstractStringMeasureParser
  listDelimiter  && 

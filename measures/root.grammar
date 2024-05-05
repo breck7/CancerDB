@@ -2,7 +2,7 @@ cancerdbParser
  root
  description A database containing all the key data on cancer in one file.
  catchAllParser trueBaseErrorParser
- inScope blankLineParser abstractTrueBaseColumnParser
+ inScope blankLineParser abstractTrueBaseMeasureParser
  string fileExtension cdb
  sortTemplate title type mainType uscsId tissue cancerTypes uscsDeathsPerYear uscsCasesPerYear uscsMortalityRate appeared oldName nextDate closed publicationFrequency originCommunity parentOrganization company standsFor author description isOpenSource isPublicDomain aka tradenames related  oncoTreeId parentOncoTreeId umls nciCode oncoTreeLevel subTypes  pdf journal  website coursera githubRepo eventsPage subreddit wikipedia cancerDotGov cancerDotOrg gco reference wolframAlpha youTube amazon github abstractSocialMediaParser  youTube  phoneNumber  country city members  nciDesignation nciLink nciImage hostSchool usNewsRank  routesOfAdministration kegg drugBank medlinePlus pubChem  ein englandAndWalesCharityDetails charityNavigator guideStar greatNonProfits  annualDeathsReport  uscsTable  domainName  investorRelationsPage nyse nasdaq
  example

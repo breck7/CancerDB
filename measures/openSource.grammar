@@ -1,6 +1,6 @@
 isOpenSourceParser
  description Is this an open source project?
- extends abstractBooleanColumnParser
+ extends abstractBooleanMeasureParser
 isPublicDomainParser
  description Is this a public domain project?
- extends abstractBooleanColumnParser
+ extends abstractBooleanMeasureParser

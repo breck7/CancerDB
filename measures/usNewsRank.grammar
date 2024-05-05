@@ -1,4 +1,4 @@
 usNewsRankParser
- extends abstractIntColumnParser
+ extends abstractIntMeasureParser
  description Where does this hospital rank in the U.S. News cancer rankings located at https://health.usnews.com/best-hospitals/rankings/cancer?
  string sourceDomain usnews.com

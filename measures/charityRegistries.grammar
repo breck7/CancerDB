@@ -1,5 +1,5 @@
 abstractCharityRegistryParser
- extends abstractUrlColumnParser
+ extends abstractUrlMeasureParser
 englandAndWalesCharityDetailsParser
  description What is the URL for the charity's details page on the Charity Commission website?
  extends abstractCharityRegistryParser

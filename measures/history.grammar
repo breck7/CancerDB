@@ -1,9 +1,9 @@
 appearedParser
  description What year did this first appear?
- extends abstractYearColumnParser
+ extends abstractYearMeasureParser
 closedParser
  description What year did this close?
- extends abstractYearColumnParser
+ extends abstractYearMeasureParser
 originCommunityParser
  description What community did this originate in?
- extends abstractStringColumnParser
+ extends abstractStringMeasureParser

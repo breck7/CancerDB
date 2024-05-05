@@ -1,5 +1,5 @@
 abstractRelationshipParser
- extends abstractTrueBaseLinksColumnParser
+ extends abstractTrueBaseLinksMeasureParser
 relatedParser
  extends abstractRelationshipParser
  description What entities are related?

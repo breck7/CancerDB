@@ -1,5 +1,5 @@
 abstractSocialMediaParser
- extends abstractUrlColumnParser
+ extends abstractUrlMeasureParser
  // todo remove the need for the below from grammar
  string sortKey abstractSocialMediaParser
  contentKey url
@@ -7,5 +7,5 @@ abstractFollowersParser
  // todo: clarify that 1 columnParser definition will equate to a max of 1 column in a TrueBase CSV.
  // Extending an abstract parser with inScope parsers will not create new columns for each of those inScope parsers.
  // We should either fix this or throw a warning or something if it occurs.
- extends abstractIntColumnParser
+ extends abstractIntMeasureParser
  description How many followers on this platform does this account have?

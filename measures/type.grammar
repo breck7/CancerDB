@@ -5,5 +5,5 @@ typeParser
  description What kind of concept is this?
  cells columnNameCell typeCell
  catchAllCellType typeCell
- extends abstractEnumColumnParser
+ extends abstractEnumMeasureParser
  required
