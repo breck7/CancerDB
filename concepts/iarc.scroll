@@ -1,4 +1,4 @@
-title IARC
+id IARC
 type intergovernmentalCancerOrganization
 parentOrganization who
 standsFor International Agency for Research on Cancer

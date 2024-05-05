@@ -1,4 +1,4 @@
-title gFOBT
+id gFOBT
 type diagnosticTest
 cancerTypes colon
 standsFor guaiac-based Fecal Occult Blood Test

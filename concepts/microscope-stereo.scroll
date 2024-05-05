@@ -1,3 +1,3 @@
-title Stereo Microscope
+id Stereo Microscope
 type microscope
 conceptDescription Provides a 3D image with magnification between 10x-40x. Good for coins, wires, insects and flowers.

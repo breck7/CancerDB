@@ -1,4 +1,4 @@
-title Mammogram
+id Mammogram
 type imagingProcedure
 cancerTypes breast
 aka Mammography

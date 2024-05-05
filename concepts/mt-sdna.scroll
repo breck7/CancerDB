@@ -1,4 +1,4 @@
-title MT-sDNA
+id MT-sDNA
 type diagnosticTest
 cancerTypes colon
 standsFor Multi-targeted stool DNA test

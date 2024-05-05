@@ -1,4 +1,4 @@
-title LDCT
+id LDCT
 type ctScan imagingProcedure
 cancerTypes lung
 standsFor Low-dose Spiral Computed Tomography

@@ -1,4 +1,4 @@
-title Fecal immunochemical test
+id Fecal immunochemical test
 type diagnosticTest
 cancerTypes colon
 
