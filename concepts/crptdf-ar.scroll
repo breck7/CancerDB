@@ -1,7 +1,7 @@
 title CRPTDF 
 type registry
 standsFor Cancer Registry of the Province of Tierra del Fuego 
-description Population-based Cancer Registry of the Province of Tierra del Fuego.
+conceptDescription Population-based Cancer Registry of the Province of Tierra del Fuego.
 
 reference https://gco.iarc.fr/includes/CSA_WorkingGroup.pdf
 

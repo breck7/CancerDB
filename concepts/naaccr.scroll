@@ -3,7 +3,7 @@ type professionalOrganization
 appeared 1987
 parentOrganization american-cancer-society acs canadian-partnership-against-cancer cdc college-of-american-pathologists nci ncra phac
 standsFor North American Association of Central Cancer Registries
-description All central cancer registries in the United States and Canada are members.
+conceptDescription All central cancer registries in the United States and Canada are members.
 
 website https://www.naaccr.org/
 wikipedia https://en.wikipedia.org/wiki/North_American_Association_of_Central_Cancer_Registries

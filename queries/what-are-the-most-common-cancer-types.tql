@@ -3,4 +3,4 @@ select uscsCasesPerYear
 sortBy uscsCasesPerYear
 reverse
 title What are the most common cancer types?
-description Data is from the 2019 United States Cancer Statistics dataset from the CDC.
+conceptDescription Data is from the 2019 United States Cancer Statistics dataset from the CDC.

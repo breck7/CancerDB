@@ -3,7 +3,7 @@ type governmentFundedNonProfit
 appeared 1956
 oldName Southwest Oncology Group
 oldName Southwest Cancer Chemotherapy Study Group
-description SWOG Cancer Research Network is a global cancer research community that designs and conducts publicly funded clinical trials.
+conceptDescription SWOG Cancer Research Network is a global cancer research community that designs and conducts publicly funded clinical trials.
 
 website https://www.swog.org/
 wikipedia https://en.wikipedia.org/wiki/SWOG

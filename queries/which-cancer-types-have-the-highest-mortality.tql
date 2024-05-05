@@ -3,4 +3,4 @@ select uscsMortalityRate uscsDeathsPerYear
 sortBy uscsMortalityRate
 reverse
 title Which cancer types have the highest mortality?
-description Annual cancer deaths divided by annual new cases. Not a perfect measure but gives a rough estimate of deadliness of cancer types. Data is from the 2019 United States Cancer Statistics dataset from the CDC.
+conceptDescription Annual cancer deaths divided by annual new cases. Not a perfect measure but gives a rough estimate of deadliness of cancer types. Data is from the 2019 United States Cancer Statistics dataset from the CDC.

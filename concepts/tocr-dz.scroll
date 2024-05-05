@@ -1,7 +1,7 @@
 title TOCR
 type registry
 standsFor Tizi-Ouzou Cancer Registry
-description Unknown
+conceptDescription Unknown
 
 reference http://www.dsp-tiziouzou.dz/index.php/ncer
 reference https://gco.iarc.fr/today/data/factsheets/populations/12-algeria-fact-sheets.pdf

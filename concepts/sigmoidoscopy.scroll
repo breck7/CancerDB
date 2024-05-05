@@ -1,7 +1,7 @@
 title Sigmoidoscopy
 type diagnosticTest
 cancerTypes colon
-description The minimally invasive medical examination of the large intestine from the rectum through to the nearest part of the colon, the sigmoid colon. There are two types of sigmoidoscopy: flexible sigmoidoscopy, which uses a flexible endoscope, and rigid sigmoidoscopy, which uses a rigid device. Flexible sigmoidoscopy is generally the preferred procedure. A sigmoidoscopy is similar to, but not the same as, a colonoscopy. A sigmoidoscopy only examines up to the sigmoid, the most distal part of the colon, while colonoscopy examines the whole large bowel.
+conceptDescription The minimally invasive medical examination of the large intestine from the rectum through to the nearest part of the colon, the sigmoid colon. There are two types of sigmoidoscopy: flexible sigmoidoscopy, which uses a flexible endoscope, and rigid sigmoidoscopy, which uses a rigid device. Flexible sigmoidoscopy is generally the preferred procedure. A sigmoidoscopy is similar to, but not the same as, a colonoscopy. A sigmoidoscopy only examines up to the sigmoid, the most distal part of the colon, while colonoscopy examines the whole large bowel.
 relatedConcepts colonoscopy
 
 wikipedia https://en.wikipedia.org/wiki/Sigmoidoscopy

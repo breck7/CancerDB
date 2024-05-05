@@ -2,7 +2,7 @@ title NCDB
 type onlineDatabase
 parentOrganization acs american-cancer-society
 standsFor National Cancer Database
-description The NCDB is a clinical oncology database sourced from hospital registry data collected in more than 1,500 Commission on Cancer-accredited facilities.
+conceptDescription The NCDB is a clinical oncology database sourced from hospital registry data collected in more than 1,500 Commission on Cancer-accredited facilities.
 isOpenSource false
 isPublicDomain false
 

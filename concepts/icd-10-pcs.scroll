@@ -1,6 +1,6 @@
 title ICD-10-PCS
 type onlineDatabase ontology
 standsFor International Classification of Diseases 10 Procedure Coding System
-description The ICD-10 Procedure Coding System (ICD-10-PCS) is an international system of medical classification used for procedural coding. The Centers for Medicare and Medicaid Services, the agency responsible for maintaining the inpatient procedure code set in the U.S., contracted with 3M Health Information Systems in 1995 to design and then develop a procedure classification system to replace Volume 3 of ICD-9-CM.
+conceptDescription The ICD-10 Procedure Coding System (ICD-10-PCS) is an international system of medical classification used for procedural coding. The Centers for Medicare and Medicaid Services, the agency responsible for maintaining the inpatient procedure code set in the U.S., contracted with 3M Health Information Systems in 1995 to design and then develop a procedure classification system to replace Volume 3 of ICD-9-CM.
 
 wikipedia https://en.wikipedia.org/wiki/ICD-10_Procedure_Coding_System

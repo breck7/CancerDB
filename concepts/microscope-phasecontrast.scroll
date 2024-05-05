@@ -1,5 +1,5 @@
 title Phase Contrast Microscope
 type microscope
-description Uses a special filter to produce contrast in transparent specimens, making them visible under brightfield illumination.
+conceptDescription Uses a special filter to produce contrast in transparent specimens, making them visible under brightfield illumination.
 
 wikipedia https://en.wikipedia.org/wiki/Phase-contrast_microscopy

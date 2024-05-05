@@ -1,6 +1,6 @@
 importOnly
 baseUrl https://cancerdb.com/
-description SITE_NAME: SITE_DESCRIPTION
+conceptDescription SITE_NAME: SITE_DESCRIPTION
 email help@cancerdb.com
 git GIT_URL
 replace DOMAIN_NAME cancerdb.com

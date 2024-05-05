@@ -1,7 +1,7 @@
 title ClinicalTrials.gov
 type onlineDatabase
 parentOrganization nlm
-description ClinicalTrials.gov is a database of privately and publicly funded clinical studies conducted around the world.
+conceptDescription ClinicalTrials.gov is a database of privately and publicly funded clinical studies conducted around the world.
 
 website https://clinicaltrials.gov/
 

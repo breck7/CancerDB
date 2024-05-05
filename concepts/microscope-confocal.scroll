@@ -1,5 +1,5 @@
 title Confocal Microscope
 type microscope
-description Uses a laser and computer to generate highly detailed images of fluorescently labeled specimens in 3D.
+conceptDescription Uses a laser and computer to generate highly detailed images of fluorescently labeled specimens in 3D.
 
 wikipedia https://en.wikipedia.org/wiki/Confocal_microscopy

@@ -1,4 +1,4 @@
 select nciDesignation city website
 where type includes nciCancerCenter
 title How many NCI Designated Cancer Centers are there?
-description There are 71 NCI-Designated Cancer Centers, located in 36 states and the District of Columbia, that are funded by NCI to deliver cutting-edge cancer treatments to patients. Source: https://www.cancer.gov/research/infrastructure/cancer-centers
+conceptDescription There are 71 NCI-Designated Cancer Centers, located in 36 states and the District of Columbia, that are funded by NCI to deliver cutting-edge cancer treatments to patients. Source: https://www.cancer.gov/research/infrastructure/cancer-centers

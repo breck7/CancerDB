@@ -86,12 +86,6 @@ lengthParser
  boolean suggestInAutocomplete false
  description How many top level questions do we have about this?
 
-idParser
- description What is the name of this file without the extension?
- extends abstractStringMeasureParser
- boolean isComputed true
- boolean suggestInAutocomplete false
-
 // coursera
 courseraParser
  description What is the link to this course on Coursera?
@@ -99,7 +93,7 @@ courseraParser
  string sourceDomain coursera.com
 
 // description
-descriptionParser
+conceptDescriptionParser
  extends abstractStringMeasureParser
  description What is a short description of this thing?
 
@@ -359,7 +353,7 @@ referenceParser
 // relationships
 abstractRelationshipParser
  extends abstractConceptIdsMeasureParser
-relatedParser
+relatedConceptsParser
  extends abstractRelationshipParser
  description What concepts are related?
 parentOrganizationParser
