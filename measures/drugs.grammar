@@ -1,7 +1,0 @@
-routesOfAdministrationCell
- enum oral topical intravenous subcutaneousInjection intramuscularInjection intravesical
-routesOfAdministrationParser
- cells columnNameCell routesOfAdministrationCell
- catchAllCellType routesOfAdministrationCell
- extends abstractEnumMeasureParser
- description What is the route of administration for this drug?

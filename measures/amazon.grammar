@@ -1,3 +1,0 @@
-amazonParser
- extends abstractUrlMeasureParser
- description What is the Amazon product URL for this item?

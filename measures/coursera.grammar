@@ -1,4 +1,0 @@
-courseraParser
- description What is the link to this course on Coursera?
- extends abstractUrlMeasureParser
- string sourceDomain coursera.com

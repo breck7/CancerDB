@@ -1,3 +1,0 @@
-phoneNumberParser
- extends abstractStringMeasureParser
- description What is the phone number for the organization?

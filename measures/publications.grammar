@@ -1,9 +1,0 @@
-pdfParser
- extends abstractUrlMeasureParser
- description What is the URL of the PDF file?
-journalParser
- extends abstractStringMeasureParser
- description What journal did this paper appear in?
-authorParser
- extends abstractStringMeasureParser
- description What is the name of the author(s)?

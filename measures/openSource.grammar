@@ -1,6 +1,0 @@
-isOpenSourceParser
- description Is this an open source project?
- extends abstractBooleanMeasureParser
-isPublicDomainParser
- description Is this a public domain project?
- extends abstractBooleanMeasureParser

@@ -1,9 +1,0 @@
-appearedParser
- description What year did this first appear?
- extends abstractYearMeasureParser
-closedParser
- description What year did this close?
- extends abstractYearMeasureParser
-originCommunityParser
- description What community did this originate in?
- extends abstractStringMeasureParser

@@ -1,4 +1,0 @@
-umlsParser
- description What is the Unified Medical Language System ID for this?
- extends abstractWordMeasureParser
- string sourceDomain www.nlm.nih.gov

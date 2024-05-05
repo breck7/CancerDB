@@ -1,4 +1,0 @@
-wikipediaParser
- extends abstractUrlMeasureParser
- description What is the URL of this concept on Wikipedia, if and only if it has a page dedicated to it?
- string sourceDomain wikipedia.org

@@ -1,4 +1,0 @@
-wolframAlphaParser
- extends abstractUrlMeasureParser
- description What is the URL to this concept on WolframAlpha?
- string sourceDomain wolframalpha.com

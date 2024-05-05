@@ -1,4 +1,0 @@
-cancerDotGovParser
- extends abstractUrlMeasureParser
- string sourceDomain cancer.gov
- description What is the URL for this cancer type on cancer.gov?
