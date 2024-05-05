@@ -1,5 +1,7 @@
 importOnly
 
+import advancedMeasures.scroll
+
 // amazon
 amazonParser
  extends abstractUrlMeasureParser
@@ -273,11 +275,11 @@ parentOncoTreeIdParser
  string sourceDomain oncotree.mskcc.org
 oncoTreeLevelParser
  description What is the OncoTree level for this cancer type?
- extends abstractIntMeasureParser
+ extends abstractIntegerMeasureParser
  string sourceDomain oncotree.mskcc.org
 subTypesParser
  description How many subtypes of this cancer type in OncoTree?
- extends abstractIntMeasureParser
+ extends abstractIntegerMeasureParser
  string sourceDomain oncotree.mskcc.org
 tissueParser
  description What is the tissue type for this cancer type?
@@ -354,7 +356,7 @@ referenceParser
 
 // relationships
 abstractRelationshipParser
- extends abstractTrueBaseLinksMeasureParser
+ extends abstractConceptIdsMeasureParser
 relatedParser
  extends abstractRelationshipParser
  description What entities are related?
@@ -394,7 +396,7 @@ abstractFollowersParser
  // todo: clarify that 1 columnParser definition will equate to a max of 1 column in a TrueBase CSV.
  // Extending an abstract parser with inScope parsers will not create new columns for each of those inScope parsers.
  // We should either fix this or throw a warning or something if it occurs.
- extends abstractIntMeasureParser
+ extends abstractIntegerMeasureParser
  description How many followers on this platform does this account have?
 
 // telegram
@@ -432,7 +434,7 @@ umlsParser
 
 // usNewsRank
 usNewsRankParser
- extends abstractIntMeasureParser
+ extends abstractIntegerMeasureParser
  description Where does this hospital rank in the U.S. News cancer rankings located at https://health.usnews.com/best-hospitals/rankings/cancer?
  string sourceDomain usnews.com
 
@@ -447,10 +449,10 @@ uscsTableParser
  extends abstractDelimitedValuesBlobMeasureParser
  string sourceDomain cdc.gov
 uscsDeathsPerYearParser
- extends abstractIntMeasureParser
+ extends abstractIntegerMeasureParser
  description What are the cumulative number of deaths per year for a cancer type in the U.S. Cancer Statistics report for this year?
 uscsCasesPerYearParser
- extends abstractIntMeasureParser
+ extends abstractIntegerMeasureParser
  description What are the cumulative number of cases per year for a cancer type in the U.S. Cancer Statistics report for this year?
 uscsMortalityRateParser
  extends abstractPercentageMeasureParser

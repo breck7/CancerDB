@@ -1,0 +1,69 @@
+importOnly
+
+// Hashmap parsers
+abstractHashMapMeasureParser
+ string typeForCsvDocs multilineStringMap
+ extends abstractMeasureParser
+ javascript
+  get measureValue() {
+    return this.childrenToString()
+  }
+  get measureName() {
+    return this.definition.cruxPathAsColumnName
+  }
+
+abstractEnumMeasureParser
+ string typeForCsvDocs enum
+ cells measureNameCell enumCell
+ extends abstractMeasureParser
+
+abstractCountMeasureParser
+ description A positive count of something. People, for example. Min is 0.
+ cells measureNameCell countCell
+ extends abstractIntegerMeasureParser
+
+abstractYearMeasureParser
+ cells measureNameCell yearCell
+ extends abstractIntegerMeasureParser
+
+abstractComputedSumMeasureParser
+ boolean isComputed true
+ boolean suggestInAutocomplete false
+ extends abstractIntegerMeasureParser
+abstractComputedEstimateMeasureParser
+ boolean isComputed true
+ boolean suggestInAutocomplete false
+ extends abstractCountMeasureParser
+abstractComputedRankMeasureParser
+ boolean isComputed true
+ boolean suggestInAutocomplete false
+ extends abstractIntegerMeasureParser
+
+ // computeds
+lengthParser
+ extends abstractComputedSumMeasureParser
+ // todo: bug the below line should be included via inheritance from WWC.
+ boolean suggestInAutocomplete false
+ description How many top level questions do we have about this?
+
+
+annualPopulationCountParser
+ cells yearCell countCell
+ uniqueFirstWord
+abstractAnnualPopulationCountMapParser
+ catchAllParser annualPopulationCountParser
+ description A map of counts, one per year.
+ extends abstractHashMapMeasureParser
+
+
+// Links between concepts
+abstractConceptIdsMeasureParser
+ description Link one concept to other concepts.
+ catchAllCellType idCell
+ string typeForCsvDocs conceptId[]
+ extends abstractStringMeasureParser
+ javascript
+  get conceptIds() {
+    return this.getWordsFrom(1)
+  }
+  // todo: re-add the method to update these foreign keys if an ID changes.
