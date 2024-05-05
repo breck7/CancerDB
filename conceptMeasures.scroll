@@ -195,20 +195,21 @@ linkedinParser
   extends abstractFollowersParser
 
 // location
-countryCodeCell
- extends stringCell
-countryNameCell
- extends stringCell
-cityStateCell
- extends stringCell
+//
+ countryCodeCell
+  extends stringCell
+ countryNameCell
+  extends stringCell
+ cityStateCell
+  extends stringCell
 countryParser
  description In what country is this?
- catchAllCellType countryNameCell
+ catchAllCellType stringCell
  // todo make country a wwc kind
  extends abstractStringMeasureParser
 cityParser
  description What city and state is this in?
- catchAllCellType cityStateCell
+ catchAllCellType stringCell
  extends abstractStringMeasureParser
 
 // medlinePlus
