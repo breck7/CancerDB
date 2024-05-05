@@ -27,13 +27,13 @@ cancerDotOrgParser
  description What is the URL for this cancer type on cancer.org?
 
 // cancerTypes
-cancerTypeCell
- enum breast prostate cervical colon lung skin bladder kidney lymphoma multiplemyeloma ovarian thyroid endometrial neuroendocrine liver leukemia oral
+ // cancerTypeCell
+  enum breast prostate cervical colon lung skin bladder kidney lymphoma multiplemyeloma ovarian thyroid endometrial neuroendocrine liver leukemia oral
  highlightScope constant.language
 cancerTypesParser
  description Which cancer type(s) does this entity specialize in?
- cells columnNameCell cancerTypeCell
- catchAllCellType cancerTypeCell
+ cells columnNameCell stringCell
+ catchAllCellType stringCell
  extends abstractEnumMeasureParser
 
 // charityRegistries
@@ -110,11 +110,12 @@ drugBankParser
  description What is the DrugBank ID of this drug?
 
 // drugs
-routesOfAdministrationCell
- enum oral topical intravenous subcutaneousInjection intramuscularInjection intravesical
+ // Todo: support custom cell types in Scroll?
+ routesOfAdministrationCell
+  enum oral topical intravenous subcutaneousInjection intramuscularInjection intravesical
 routesOfAdministrationParser
- cells columnNameCell routesOfAdministrationCell
- catchAllCellType routesOfAdministrationCell
+ cells columnNameCell stringCell
+ catchAllCellType stringCell
  extends abstractEnumMeasureParser
  description What is the route of administration for this drug?
 
@@ -300,12 +301,12 @@ membersParser
  description How many members does this organization have?
 
 // periodicals
-publicationFrequencyCell
- enum daily weekly biweekly monthly quarterly semiannually annually
+ publicationFrequencyCell
+  enum daily weekly biweekly monthly quarterly semiannually annually
 publicationFrequencyParser
  extends abstractEnumMeasureParser
  description How often does the publication come out?
- cells columnNameCell publicationFrequencyCell
+ cells columnNameCell stringCell
 
 // phoneNumber
 phoneNumberParser
@@ -416,13 +417,13 @@ twitterParser
   extends abstractFollowersParser
 
 // type
-typeCell
- enum cancerType book company publicCompany drug chemotherapyDrug journal nationalCancerInstitute intergovernmentalCancerOrganization nationalGovernmentAgency stateGovernmentOrganization researchCenter paper anthracycline alkylatingAgent taxane researchHospital nciCancerCenter registry website cancerNonProfit nonProfit breathTreatment exercise mentalTreatment vitamin touchTreatment surgery organTransplant documentary lifestyle diet hospital childrensHospital professionalOrganization app caregiverService software lotion device clothing prosthetic subreddit toxinAvoidance hospiceCareService immunotherapy ctScan ultrasound imagingProcedure herbal diagnosticTest onlineForum majorResearchEffort onlineDatabase organizationDivision internationalOrganization consortium governmentFundedNonProfit awarenessEvent recurringEvent routeOfAdministration magazine procedure onlineCourse ontology microscope ablationProcedure tyrosineKinaseInhibitor radiationTherapy chemotherapyProcedure treatmentCenter
+ // typeCell
+  enum cancerType book company publicCompany drug chemotherapyDrug journal nationalCancerInstitute intergovernmentalCancerOrganization nationalGovernmentAgency stateGovernmentOrganization researchCenter paper anthracycline alkylatingAgent taxane researchHospital nciCancerCenter registry website cancerNonProfit nonProfit breathTreatment exercise mentalTreatment vitamin touchTreatment surgery organTransplant documentary lifestyle diet hospital childrensHospital professionalOrganization app caregiverService software lotion device clothing prosthetic subreddit toxinAvoidance hospiceCareService immunotherapy ctScan ultrasound imagingProcedure herbal diagnosticTest onlineForum majorResearchEffort onlineDatabase organizationDivision internationalOrganization consortium governmentFundedNonProfit awarenessEvent recurringEvent routeOfAdministration magazine procedure onlineCourse ontology microscope ablationProcedure tyrosineKinaseInhibitor radiationTherapy chemotherapyProcedure treatmentCenter
  highlightScope constant.language
 typeParser
  description What kind of concept is this?
- cells columnNameCell typeCell
- catchAllCellType typeCell
+ cells columnNameCell stringCell
+ catchAllCellType stringCell
  extends abstractEnumMeasureParser
  required
 
