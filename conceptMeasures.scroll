@@ -10,7 +10,7 @@ amazonParser
 
 // annualDeathsReport
 annualDeathsReportParser
- cells columnNameCell countryCodeCell urlCell
+ cells measureNameCell stringCell urlCell
  description Data from an annual report on cancer deaths for a particular country.
  extends abstractAnnualPopulationCountMapParser
 
@@ -32,7 +32,7 @@ cancerDotOrgParser
  highlightScope constant.language
 cancerTypesParser
  description Which cancer type(s) does this entity specialize in?
- cells columnNameCell stringCell
+ cells measureNameCell stringCell
  catchAllCellType stringCell
  extends abstractEnumMeasureParser
 
@@ -114,7 +114,7 @@ drugBankParser
  routesOfAdministrationCell
   enum oral topical intravenous subcutaneousInjection intramuscularInjection intravesical
 routesOfAdministrationParser
- cells columnNameCell stringCell
+ cells measureNameCell stringCell
  catchAllCellType stringCell
  extends abstractEnumMeasureParser
  description What is the route of administration for this drug?
@@ -307,7 +307,7 @@ membersParser
 publicationFrequencyParser
  extends abstractEnumMeasureParser
  description How often does the publication come out?
- cells columnNameCell stringCell
+ cells measureNameCell stringCell
 
 // phoneNumber
 phoneNumberParser
@@ -366,20 +366,6 @@ parentOrganizationParser
  extends abstractRelationshipParser
  description What is the parent entity(ies)?
 
-// root
-cancerdbParser
- root
- description A database containing all the key data on cancer in one file.
- catchAllParser trueBaseErrorParser
- inScope blankLineParser abstractTrueBaseMeasureParser
- string fileExtension cdb
- sortTemplate title type mainType uscsId tissue cancerTypes uscsDeathsPerYear uscsCasesPerYear uscsMortalityRate appeared oldName nextDate closed publicationFrequency originCommunity parentOrganization company standsFor author description isOpenSource isPublicDomain aka tradenames related  oncoTreeId parentOncoTreeId umls nciCode oncoTreeLevel subTypes  pdf journal  website coursera githubRepo eventsPage subreddit wikipedia cancerDotGov cancerDotOrg gco reference wolframAlpha youTube amazon github abstractSocialMediaParser  youTube  phoneNumber  country city members  nciDesignation nciLink nciImage hostSchool usNewsRank  routesOfAdministration kegg drugBank medlinePlus pubChem  ein englandAndWalesCharityDetails charityNavigator guideStar greatNonProfits  annualDeathsReport  uscsTable  domainName  investorRelationsPage nyse nasdaq
- example
-  title CancerDB
-  type onlineDatabase website
-  appeared 2022
-  website https://cancerdb.com/
-
 // rumble
 rumbleParser
  description What is the URL to this thing's rumble page?
@@ -423,7 +409,7 @@ twitterParser
  highlightScope constant.language
 typeParser
  description What kind of concept is this?
- cells columnNameCell stringCell
+ cells measureNameCell stringCell
  catchAllCellType stringCell
  extends abstractEnumMeasureParser
  required
@@ -446,7 +432,7 @@ uscsIdParser
  extends abstractStringMeasureParser
  string sourceDomain cdc.gov
 uscsTableParser
- cells columnNameCell yearCell
+ cells measureNameCell yearCell
  description What is the data for this year from https://www.cdc.gov/cancer/uscs/dataviz/download_data.htm?
  extends abstractDelimitedValuesBlobMeasureParser
  string sourceDomain cdc.gov

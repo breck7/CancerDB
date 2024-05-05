@@ -47,6 +47,10 @@ lengthParser
  description How many top level questions do we have about this?
 
 
+abstractPercentageMeasureParser
+ cells measureNameCell floatCell
+ extends abstractNumericMeasureParser
+
 annualPopulationCountParser
  cells yearCell countCell
  uniqueFirstWord
