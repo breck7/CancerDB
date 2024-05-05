@@ -1,4 +1,4 @@
-conceptDescription CancerDB: a knowledge graph on Cancer that compiles to a public domain CSV file. #AccelerateTheCures
+description CancerDB: a knowledge graph on Cancer that compiles to a public domain CSV file. #AccelerateTheCures
 permalink feed.xml
 replace BASE_URL ..
 
