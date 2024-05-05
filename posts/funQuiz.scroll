@@ -5,7 +5,7 @@ openGraphImage https://cancerdb.com/posts/funQuiz.jpg
 import header.scroll
 title Fun quiz
 
-youTube https://www.youtube.com/embed/b4VE9cx8bhQ
+youTubeVideo https://www.youtube.com/embed/b4VE9cx8bhQ
 
 keyboardNav
 import ../footer.scroll

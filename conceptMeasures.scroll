@@ -484,7 +484,7 @@ wolframAlphaParser
  string sourceDomain wolframalpha.com
 
 // youtube
-youTubeParser
+youTubeVideoParser
  extends abstractUrlMeasureParser
  description What is the URL to a YouTube video about this thing?
  string sourceDomain youtube.com

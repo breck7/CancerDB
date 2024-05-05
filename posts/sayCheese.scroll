@@ -5,7 +5,7 @@ openGraphImage https://cancerdb.com/posts/sayCheese.jpg
 import header.scroll
 title Say cheese
 
-youTube https://www.youtube.com/embed/cGXILXiMpJI
+youTubeVideo https://www.youtube.com/embed/cGXILXiMpJI
 
 keyboardNav
 import ../footer.scroll

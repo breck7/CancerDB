@@ -5,7 +5,7 @@ openGraphImage https://cancerdb.com/posts/catfood.png
 import header.scroll
 title Cat food
 
-youTube https://www.youtube.com/embed/e0fPvvDBY6s
+youTubeVideo https://www.youtube.com/embed/e0fPvvDBY6s
 
 keyboardNav
 import ../footer.scroll

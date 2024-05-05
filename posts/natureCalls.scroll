@@ -5,7 +5,7 @@ openGraphImage https://cancerdb.com/posts/natureCalls.jpg
 import header.scroll
 title Nature calls
 
-youTube https://www.youtube.com/embed/aKlVuSuOnjs
+youTubeVideo https://www.youtube.com/embed/aKlVuSuOnjs
 
 keyboardNav
 import ../footer.scroll

@@ -21,8 +21,8 @@ gco https://gco.iarc.fr/today/data/factsheets/cancers/16-Melanoma-of-skin-fact-s
 reference https://www.aad.org/media/stats-skin-cancer
 wolframAlpha https://www.wolframalpha.com/input?i=skin+cancer
 
-youTube https://www.youtube.com/watch?v=oPtGeHBSly4
-youTube https://www.youtube.com/watch?v=YWppfk2Np6A
+youTubeVideo https://www.youtube.com/watch?v=oPtGeHBSly4
+youTubeVideo https://www.youtube.com/watch?v=YWppfk2Np6A
 
 uscsTable 2019
  sex|age|population|cases|deaths
