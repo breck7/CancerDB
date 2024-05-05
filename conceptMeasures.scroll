@@ -213,10 +213,6 @@ medlinePlusParser
  description What is the MedlinePlus ID for this thing?
 
 // name
-titleParser
- description What is the title of this concept?
- extends abstractStringMeasureParser
- required
 standsForParser
  description If the title is an acronym what does/did it stand for?
  extends abstractStringMeasureParser
