@@ -1,12 +1,6 @@
 importOnly
 baseUrl https://cancerdb.com/
-description SITE_NAME: SITE_DESCRIPTION
+description CancerDB: Datasets about Cancer
 email help@cancerdb.com
-git GIT_URL
-replace DOMAIN_NAME cancerdb.com
-replace GIT_URL https://github.com/breck7/CancerDB
-replace SITE_DESCRIPTION Datasets about Cancer
-replace SITE_NAME CancerDB
-replace TRUEBASE_ID cancerdb
-replaceDefault BASE_URL
+git https://github.com/breck7/CancerDB
 viewSourceBaseUrl https://github.com/breck7/CancerDB/blob/main/site/

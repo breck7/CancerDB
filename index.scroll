@@ -2,10 +2,10 @@ replace BASE_URL .
 
 import header.scroll
 
-title SITE_NAME
+title CancerDB
  hidden
 
-# SITE_NAME: SITE_DESCRIPTION
+# CancerDB: Datasets about Cancer
 
 <center>
 
