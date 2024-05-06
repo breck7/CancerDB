@@ -5,7 +5,7 @@ openGraphImage https://cancerdb.com/posts/prostate.jpg
 import header.scroll
 title Prostate Exams
 
-youTubeVideo https://www.youtube.com/embed/WQZvEsTcf74
+youTube https://www.youtube.com/embed/WQZvEsTcf74
 
 keyboardNav
 import ../footer.scroll

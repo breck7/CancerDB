@@ -5,7 +5,7 @@ openGraphImage https://cancerdb.com/posts/moon.png
 import header.scroll
 title Moonbathing
 
-youTubeVideo https://www.youtube.com/embed/xahwYBjHc2Y
+youTube https://www.youtube.com/embed/xahwYBjHc2Y
 
 keyboardNav
 import ../footer.scroll
