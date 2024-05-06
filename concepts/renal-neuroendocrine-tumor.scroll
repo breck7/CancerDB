@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Renal Neuroendocrine Tumor
 type cancerType
 mainType Renal Neuroendocrine Tumor

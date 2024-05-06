@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Papillary Tumor of the Pineal Region
 type cancerType
 mainType Pineal Tumor

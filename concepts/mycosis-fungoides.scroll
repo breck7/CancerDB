@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Mycosis Fungoides
 type cancerType
 mainType Mature T and NK Neoplasms

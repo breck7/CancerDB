@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Mucinous Carcinoma
 type cancerType
 mainType Cervical Cancer

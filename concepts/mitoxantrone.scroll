@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Mitoxantrone
 type chemotherapyDrug anthracycline
 tradenames Novantrone

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Thymoma
 type cancerType
 mainType Thymic Tumor

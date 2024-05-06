@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Solitary Plasmacytoma of Bone
 type cancerType
 mainType Mature B-Cell Neoplasms

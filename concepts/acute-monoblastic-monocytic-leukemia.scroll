@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Acute Monoblastic/Monocytic Leukemia
 type cancerType
 mainType Leukemia

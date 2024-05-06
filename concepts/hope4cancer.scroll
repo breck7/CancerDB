@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Hope4Cancer
 type treatmentCenter
 appeared 2000

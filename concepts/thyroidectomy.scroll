@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Thyroidectomy
 type surgery
 conceptDescription A surgery that involves the removal of all or part of the thyroid gland. It may be used to treat thyroid cancer.

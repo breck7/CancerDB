@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Subcutaneous Panniculitis-Like T-Cell Lymphoma
 type cancerType
 mainType Mature T and NK Neoplasms

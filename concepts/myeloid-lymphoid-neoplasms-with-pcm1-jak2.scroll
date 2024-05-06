@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Myeloid/Lymphoid Neoplasms with PCM1-JAK2
 type cancerType
 mainType Leukemia

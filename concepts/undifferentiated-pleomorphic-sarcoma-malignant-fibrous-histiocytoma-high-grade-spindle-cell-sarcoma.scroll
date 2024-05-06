@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma
 type cancerType
 mainType Soft Tissue Sarcoma

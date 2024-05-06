@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Dedifferentiated Chordoma
 type cancerType
 mainType Bone Cancer

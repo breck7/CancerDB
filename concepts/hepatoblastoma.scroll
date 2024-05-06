@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Hepatoblastoma
 type cancerType
 mainType Hepatobiliary Cancer

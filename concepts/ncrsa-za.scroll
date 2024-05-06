@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id ncr-sa
 type registry
 appeared 1986

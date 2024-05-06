@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Infantile Fibrosarcoma
 type cancerType
 mainType Infantile Fibrosarcoma

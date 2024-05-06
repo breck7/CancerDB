@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Temozolomide
 type chemotherapyDrug alkylatingAgent
 tradenames Temodar && Temodal && Temcad

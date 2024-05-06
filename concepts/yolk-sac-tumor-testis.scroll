@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Yolk Sac Tumor Testis
 type cancerType
 mainType Germ Cell Tumor

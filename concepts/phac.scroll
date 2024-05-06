@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Public Health Agency of Canada
 type nationalGovernmentAgency
 appeared 2004

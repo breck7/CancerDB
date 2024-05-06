@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Pilocytic Astrocytoma
 type cancerType
 mainType Glioma

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Myxoid/Round-Cell Liposarcoma
 type cancerType
 mainType Soft Tissue Sarcoma

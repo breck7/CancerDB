@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Norwegian Cancer Society
 type cancerNonProfit
 appeared 1938

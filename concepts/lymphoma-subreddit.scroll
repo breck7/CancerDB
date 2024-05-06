@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Lymphoma Subreddit
 type subreddit onlineForum
 cancerTypes lymphoma

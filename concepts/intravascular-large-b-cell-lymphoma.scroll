@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Intravascular Large B-Cell Lymphoma
 type cancerType
 mainType Mature B-Cell Neoplasms

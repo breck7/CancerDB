@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Sinonasal Adenocarcinoma
 type cancerType
 mainType Head and Neck Cancer

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Myelodysplastic/Myeloproliferative Neoplasms
 type cancerType
 mainType Myelodysplastic/Myeloproliferative Neoplasms

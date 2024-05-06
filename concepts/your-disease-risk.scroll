@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Your Disease Risk
 type website
 conceptDescription Cancer risk calculator

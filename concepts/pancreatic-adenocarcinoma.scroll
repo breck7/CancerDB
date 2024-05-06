@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Pancreatic Adenocarcinoma
 type cancerType
 mainType Pancreatic Cancer

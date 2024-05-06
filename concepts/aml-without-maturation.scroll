@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id AML without Maturation
 type cancerType
 mainType Leukemia

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Pleural Mesothelioma, Biphasic Type
 type cancerType
 mainType Mesothelioma

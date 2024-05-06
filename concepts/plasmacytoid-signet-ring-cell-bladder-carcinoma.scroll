@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Plasmacytoid/Signet Ring Cell Bladder Carcinoma
 type cancerType
 mainType Bladder Cancer

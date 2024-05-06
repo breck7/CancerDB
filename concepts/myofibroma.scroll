@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Myofibroma
 type cancerType
 mainType Soft Tissue Sarcoma

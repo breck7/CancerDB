@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Imatinib
 type chemotherapyDrug
 tradenames Gleevec && Glivec

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Testicular Lymphoma
 type cancerType
 mainType Non-Hodgkin Lymphoma

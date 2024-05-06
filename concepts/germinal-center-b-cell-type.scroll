@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Germinal Center B-Cell Type
 type cancerType
 mainType Mature B-Cell Neoplasms

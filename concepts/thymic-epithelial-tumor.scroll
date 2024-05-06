@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Thymic Epithelial Tumor
 type cancerType
 mainType Thymic Tumor

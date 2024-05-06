@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Paclitaxel
 type chemotherapyDrug taxane
 tradenames Taxol

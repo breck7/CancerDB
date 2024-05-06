@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Complete Hydatidiform Mole
 type cancerType
 mainType Gestational Trophoblastic Disease

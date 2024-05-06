@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id B-Lymphoblastic Leukemia/Lymphoma with Recurrent Genetic Abnormalities
 type cancerType
 mainType B-Lymphoblastic Leukemia/Lymphoma

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Metaplastic Carcinosarcoma
 type cancerType
 mainType Breast Cancer

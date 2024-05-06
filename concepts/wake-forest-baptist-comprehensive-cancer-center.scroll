@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Wake Forest Baptist Comprehensive Cancer Center
 type nciCancerCenter
 

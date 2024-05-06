@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Chondroblastoma
 type cancerType
 mainType Bone Cancer

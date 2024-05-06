@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Oral Cancer
 type cancerType
 uscsId Oral Cavity and Pharynx

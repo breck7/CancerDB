@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Bortezomib
 type chemotherapyDrug
 tradenames Velcade && Chemobort && Bortecad

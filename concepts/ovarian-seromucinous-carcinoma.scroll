@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Ovarian Seromucinous Carcinoma
 type cancerType
 mainType Ovarian Cancer

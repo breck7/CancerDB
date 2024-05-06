@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Chronic Lymphoproliferative Disorder of NK Cells
 type cancerType
 mainType Mature T and NK Neoplasms

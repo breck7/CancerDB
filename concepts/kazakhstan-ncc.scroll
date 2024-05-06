@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Institute of Oncology and Radiology of Kazakhstan
 type nationalCancerInstitute
 

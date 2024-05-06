@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Pineal Parenchymal Tumor of Intermediate Differentiation
 type cancerType
 mainType Pineal Tumor

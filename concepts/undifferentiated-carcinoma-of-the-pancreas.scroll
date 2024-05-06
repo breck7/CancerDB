@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Undifferentiated Carcinoma of the Pancreas
 type cancerType
 mainType Pancreatic Cancer

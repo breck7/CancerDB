@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Primary Cutaneous DLBCL, Leg Type
 type cancerType
 mainType Mature B-Cell Neoplasms

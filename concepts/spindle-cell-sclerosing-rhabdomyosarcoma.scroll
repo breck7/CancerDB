@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Spindle Cell/Sclerosing Rhabdomyosarcoma
 type cancerType
 mainType Soft Tissue Sarcoma

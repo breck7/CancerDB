@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Adenosquamous Carcinoma of the Stomach
 type cancerType
 mainType Esophagogastric Cancer

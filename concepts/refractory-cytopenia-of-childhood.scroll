@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Refractory Cytopenia of Childhood
 type cancerType
 mainType Myelodysplastic Syndromes

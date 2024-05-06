@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Bexarotene
 type chemotherapyDrug
 tradenames Targretin

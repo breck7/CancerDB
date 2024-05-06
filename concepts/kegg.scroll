@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id KEGG
 type onlineDatabase ontology
 standsFor Kyoto Encyclopedia of Genes and Genomes

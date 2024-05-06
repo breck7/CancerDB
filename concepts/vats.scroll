@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id VATS
 type surgery
 standsFor Video-assisted thoracoscopic surgery

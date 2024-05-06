@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Glioma, NOS
 type cancerType
 mainType Glioma

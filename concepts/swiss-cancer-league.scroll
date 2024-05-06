@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Swiss Cancer League
 type cancerNonProfit
 appeared 1910

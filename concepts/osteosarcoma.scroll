@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Osteosarcoma
 type cancerType
 mainType Bone Cancer

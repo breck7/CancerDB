@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id NCR-AR
 type registry
 appeared 2007

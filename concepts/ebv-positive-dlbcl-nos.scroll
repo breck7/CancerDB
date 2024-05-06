@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id EBV Positive DLBCL, NOS
 type cancerType
 mainType Mature B-Cell Neoplasms

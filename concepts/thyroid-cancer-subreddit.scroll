@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Thyroid Cancer Subreddit
 type subreddit onlineForum
 cancerTypes thyroid

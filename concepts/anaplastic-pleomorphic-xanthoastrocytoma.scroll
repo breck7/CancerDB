@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Anaplastic Pleomorphic Xanthoastrocytoma
 type cancerType
 mainType Glioma

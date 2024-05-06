@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Myelodysplastic Syndromes
 type cancerType
 mainType Myelodysplastic Syndromes

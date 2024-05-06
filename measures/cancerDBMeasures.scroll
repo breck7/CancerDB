@@ -1,6 +1,6 @@
 importOnly
 
-import advancedMeasures.scroll
+import commonMeasures.scroll
 
 // amazon
 amazonParser

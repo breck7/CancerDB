@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id NACR
 type registry
 standsFor Nigeria Abuja Cancer Registry

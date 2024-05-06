@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Hairy Cell Leukemia-Variant
 type cancerType
 mainType Mature B-Cell Neoplasms

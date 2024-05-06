@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Cisplatin
 type chemotherapyDrug
 tradenames Platinol

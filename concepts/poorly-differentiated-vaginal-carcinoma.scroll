@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Poorly Differentiated Vaginal Carcinoma
 type cancerType
 mainType Vaginal Cancer

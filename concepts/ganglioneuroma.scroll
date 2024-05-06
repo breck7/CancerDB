@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Ganglioneuroma
 type cancerType
 mainType Peripheral Nervous System

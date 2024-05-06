@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Germ Cell Tumor with Somatic-Type Malignancy
 type cancerType
 mainType Germ Cell Tumor

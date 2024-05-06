@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id ENCR
 type registry
 standsFor Eswatini National Cancer Registry

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Novo Nordisk
 type publicCompany
 

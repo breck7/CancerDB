@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id NCBI Gene
 type onlineDatabase
 parentOrganization ncbi

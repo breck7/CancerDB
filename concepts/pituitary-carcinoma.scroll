@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Pituitary Carcinoma
 type cancerType
 mainType Sellar Tumor

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Extraosseous Plasmacytoma
 type cancerType
 mainType Mature B-Cell Neoplasms

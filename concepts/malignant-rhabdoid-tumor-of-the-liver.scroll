@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Malignant Rhabdoid Tumor of the Liver
 type cancerType
 mainType Malignant Rhabdoid Tumor of the Liver

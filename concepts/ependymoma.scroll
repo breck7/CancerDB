@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Ependymoma
 type cancerType
 mainType Glioma

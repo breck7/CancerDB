@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id MMCR
 type registry
 standsFor Mozambique Maputo Cancer Registry

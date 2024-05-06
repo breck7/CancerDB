@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Acute Basophilic Leukemia
 type cancerType
 mainType Leukemia

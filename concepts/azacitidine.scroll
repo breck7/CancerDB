@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Azacitidine
 type chemotherapyDrug
 tradenames Vidaza && Azadine && Onureg

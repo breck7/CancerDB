@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Renal Mucinous Tubular Spindle Cell Carcinoma
 type cancerType
 mainType Renal Cell Carcinoma

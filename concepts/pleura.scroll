@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Pleura
 type cancerType
 mainType Pleural Cancer, NOS

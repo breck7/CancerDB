@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id High-Grade Surface Osteosarcoma
 type cancerType
 mainType Bone Cancer

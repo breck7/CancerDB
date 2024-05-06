@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Mucinous Adenocarcinoma of the Appendix
 type cancerType
 mainType Appendiceal Cancer

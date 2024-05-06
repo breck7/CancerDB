@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Colonic Type Adenocarcinoma of the Appendix
 type cancerType
 mainType Appendiceal Cancer

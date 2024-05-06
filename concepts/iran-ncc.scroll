@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Iranian National Cancer Institute
 type nationalCancerInstitute
 

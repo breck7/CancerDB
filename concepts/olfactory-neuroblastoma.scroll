@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Olfactory Neuroblastoma
 type cancerType
 mainType Embryonal Tumor

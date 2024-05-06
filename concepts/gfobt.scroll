@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id gFOBT
 type diagnosticTest
 cancerTypes colon

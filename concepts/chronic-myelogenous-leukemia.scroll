@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Chronic Myelogenous Leukemia
 type cancerType
 mainType Myeloproliferative Neoplasms

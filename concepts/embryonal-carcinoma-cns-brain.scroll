@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Embryonal Carcinoma CNS/Brain
 type cancerType
 mainType Germ Cell Tumor

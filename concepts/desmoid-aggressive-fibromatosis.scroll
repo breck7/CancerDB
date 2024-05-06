@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Desmoid/Aggressive Fibromatosis
 type cancerType
 mainType Soft Tissue Sarcoma

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Hawaiʻi Tumor Registry
 type registry
 appeared 1960

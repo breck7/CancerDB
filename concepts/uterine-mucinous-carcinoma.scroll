@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Uterine Mucinous Carcinoma
 type cancerType
 mainType Endometrial Cancer

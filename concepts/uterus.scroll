@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Uterine Cancer
 type cancerType
 mainType Uterine Cancer, NOS

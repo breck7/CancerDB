@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Cytarabine
 type chemotherapyDrug
 tradenames Cytosar-U && Depocyt

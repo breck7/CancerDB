@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Mucinous Cystic Neoplasm
 type cancerType
 mainType Pancreatic Cancer

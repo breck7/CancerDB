@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Oropharyngeal cancer
 type cancerType
 aka Tonsil cancer

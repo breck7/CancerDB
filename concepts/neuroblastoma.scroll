@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Neuroblastoma
 type cancerType
 mainType Peripheral Nervous System

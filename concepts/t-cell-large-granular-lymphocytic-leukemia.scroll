@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id T-Cell Large Granular Lymphocytic Leukemia
 type cancerType
 mainType Mature T and NK Neoplasms

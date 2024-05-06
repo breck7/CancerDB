@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Primary Cutaneous CD30 Positive T-Cell Lymphoproliferative Disorders
 type cancerType
 mainType Mature T and NK Neoplasms

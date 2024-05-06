@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Anaplastic Ependymoma
 type cancerType
 mainType CNS Cancer

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Chlorambucil
 type chemotherapyDrug alkylatingAgent
 tradenames Leukeran

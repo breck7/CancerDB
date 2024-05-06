@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Intrahepatic Cholangiocarcinoma
 type cancerType
 mainType Hepatobiliary Cancer

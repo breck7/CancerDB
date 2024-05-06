@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Granular Cell Tumor
 type cancerType
 mainType Sellar Tumor

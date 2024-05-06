@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id TOCR
 type registry
 standsFor Tizi-Ouzou Cancer Registry

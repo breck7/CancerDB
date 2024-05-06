@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Merkel Cell Carcinoma
 type cancerType
 mainType Skin Cancer, Non-Melanoma

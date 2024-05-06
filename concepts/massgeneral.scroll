@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Massachusetts General Hospital
 type hospital
 

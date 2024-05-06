@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id AML with Minimal Differentiation
 type cancerType
 mainType Leukemia

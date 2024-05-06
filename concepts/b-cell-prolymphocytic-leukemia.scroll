@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id B-Cell Prolymphocytic Leukemia
 type cancerType
 mainType Mature B-Cell Neoplasms

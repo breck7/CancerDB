@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Dermatofibrosarcoma Protuberans
 type cancerType
 mainType Skin Cancer, Non-Melanoma

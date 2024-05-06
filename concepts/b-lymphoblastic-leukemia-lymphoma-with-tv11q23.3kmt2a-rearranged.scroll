@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id B-Lymphoblastic Leukemia/Lymphoma with t(v;11q23.3);KMT2A Rearranged
 type cancerType
 mainType B-Lymphoblastic Leukemia/Lymphoma

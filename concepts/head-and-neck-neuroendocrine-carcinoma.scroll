@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Head and Neck Neuroendocrine Carcinoma
 type cancerType
 mainType Head and Neck Cancer

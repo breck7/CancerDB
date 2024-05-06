@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Sweat Gland Adenocarcinoma
 type cancerType
 mainType Skin Cancer, Non-Melanoma

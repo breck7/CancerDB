@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id RDCDB
 type registry
 standsFor Registre des cancers de Brazzaville

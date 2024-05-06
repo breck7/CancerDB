@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Myeloid Neoplasms with Germ Line Predisposition
 type cancerType
 mainType Myeloid Neoplasms with Germ Line Predisposition

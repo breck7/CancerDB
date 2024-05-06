@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Amyloidosis
 type cancerType
 mainType Mature B-Cell Neoplasms

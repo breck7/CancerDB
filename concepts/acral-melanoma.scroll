@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Acral Melanoma
 type cancerType
 mainType Melanoma

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Pineal Tumor
 type cancerType
 mainType Pineal Tumor

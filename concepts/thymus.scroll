@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Thymus Cancer
 type cancerType
 mainType Thymic Cancer, NOS

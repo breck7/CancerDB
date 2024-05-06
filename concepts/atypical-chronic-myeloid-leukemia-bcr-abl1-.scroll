@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Atypical Chronic Myeloid Leukemia, BCR-ABL1-
 type cancerType
 mainType Myelodysplastic/Myeloproliferative Neoplasms

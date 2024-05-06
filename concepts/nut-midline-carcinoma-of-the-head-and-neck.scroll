@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id NUT Midline Carcinoma of the Head and Neck
 type cancerType
 mainType Head and Neck Cancer

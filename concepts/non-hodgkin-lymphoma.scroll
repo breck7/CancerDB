@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Non-Hodgkin Lymphoma
 type cancerType
 mainType Non-Hodgkin Lymphoma

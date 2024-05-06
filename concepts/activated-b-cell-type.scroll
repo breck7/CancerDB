@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Activated B-cell Type
 type cancerType
 mainType Mature B-Cell Neoplasms

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Acute lymphoblastic leukemia
 type cancerType
 aka ALL

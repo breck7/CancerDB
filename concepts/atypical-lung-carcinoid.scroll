@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Atypical Lung Carcinoid
 type cancerType
 mainType Non-Small Cell Lung Cancer

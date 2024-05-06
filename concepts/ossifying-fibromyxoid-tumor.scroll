@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Ossifying Fibromyxoid Tumor
 type cancerType
 mainType Soft Tissue Sarcoma

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Acute Panmyelosis with Myelofibrosis
 type cancerType
 mainType Leukemia

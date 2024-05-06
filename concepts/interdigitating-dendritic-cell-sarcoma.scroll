@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Interdigitating Dendritic Cell Sarcoma
 type cancerType
 mainType Soft Tissue Sarcoma

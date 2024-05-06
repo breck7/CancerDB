@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Lymphocyte-Rich Classical Hodgkin Lymphoma
 type cancerType
 mainType Hodgkin Lymphoma

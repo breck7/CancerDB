@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Renal Clear Cell Carcinoma with Sarcomatoid Features
 type cancerType
 mainType Renal Cell Carcinoma

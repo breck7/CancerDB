@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id B-Lymphoblastic Leukemia/Lymphoma with t(1;19)(q23;p13.3);TCF3-PBX1
 type cancerType
 mainType B-Lymphoblastic Leukemia/Lymphoma

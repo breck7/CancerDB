@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id My CancerIQ: Cancer Risk Assessment
 type website
 conceptDescription Cancer risk calculator

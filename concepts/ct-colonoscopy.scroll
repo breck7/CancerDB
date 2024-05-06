@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id CT Colonoscopy
 type imagingProcedure diagnosticTest
 cancerTypes colon

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Cutaneous Squamous Cell Carcinoma
 type cancerType
 mainType Skin Cancer, Non-Melanoma

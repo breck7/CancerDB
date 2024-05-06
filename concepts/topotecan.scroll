@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Topotecan
 type chemotherapyDrug
 tradenames Hycamtin && Potactasol

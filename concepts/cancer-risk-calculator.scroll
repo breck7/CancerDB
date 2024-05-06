@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Cancer Risk Calculator
 type website
 conceptDescription Cancer risk calculator

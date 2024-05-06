@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Gefitinib
 type chemotherapyDrug
 tradenames Iressa

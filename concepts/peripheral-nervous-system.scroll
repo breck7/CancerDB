@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Peripheral Nervous System
 type cancerType
 mainType Peripheral Nervous System Cancer, NOS

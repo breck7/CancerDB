@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Myxoma
 type cancerType
 mainType Soft Tissue Sarcoma

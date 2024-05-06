@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Adrenocortical Adenoma
 type cancerType
 mainType Adrenocortical Adenoma

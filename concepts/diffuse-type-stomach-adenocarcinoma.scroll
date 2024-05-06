@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Diffuse Type Stomach Adenocarcinoma
 type cancerType
 mainType Esophagogastric Cancer

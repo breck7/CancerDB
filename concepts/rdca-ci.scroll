@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id RDCA
 type registry
 standsFor Registre des Cancers d’Abidjan

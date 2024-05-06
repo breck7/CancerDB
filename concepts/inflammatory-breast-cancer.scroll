@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Inflammatory Breast Cancer
 type cancerType
 mainType Breast Cancer

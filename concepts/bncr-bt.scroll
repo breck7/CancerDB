@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id BNCR
 type registry
 standsFor Botswana National Cancer Registry

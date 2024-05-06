@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id AML with Recurrent Genetic Abnormalities
 type cancerType
 mainType Leukemia

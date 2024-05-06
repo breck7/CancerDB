@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Uveal Melanoma
 type cancerType
 mainType Melanoma

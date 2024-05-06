@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Head and Neck Cancer
 type cancerType
 mainType Head and Neck Cancer, NOS

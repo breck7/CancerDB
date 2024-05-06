@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id The Wistar Institute Cancer Center
 type nciCancerCenter
 

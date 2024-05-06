@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Other
 type cancerType
 mainType Other Cancer, NOS

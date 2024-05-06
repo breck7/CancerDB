@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Mantle Cell Lymphoma
 type cancerType
 mainType Mature B-Cell Neoplasms

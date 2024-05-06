@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id World Lymphoma Awareness Day
 type awarenessEvent
 cancerTypes lymphoma

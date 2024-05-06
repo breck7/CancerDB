@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Breast Cancer
 type cancerType
 mainType Breast Cancer, NOS

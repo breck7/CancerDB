@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Mature B-Cell Neoplasms
 type cancerType
 mainType Mature B-Cell Neoplasms

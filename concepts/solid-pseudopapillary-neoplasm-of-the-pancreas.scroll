@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Solid Pseudopapillary Neoplasm of the Pancreas
 type cancerType
 mainType Pancreatic Cancer

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Mammogram
 type imagingProcedure
 cancerTypes breast

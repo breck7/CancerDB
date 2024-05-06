@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Instituto Nacional del Cáncer
 type nationalCancerInstitute
 

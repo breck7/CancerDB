@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Gamma Heavy-Chain Disease
 type cancerType
 mainType Mature B-Cell Neoplasms

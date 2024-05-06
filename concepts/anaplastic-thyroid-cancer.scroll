@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Anaplastic Thyroid Cancer
 type cancerType
 mainType Thyroid Cancer

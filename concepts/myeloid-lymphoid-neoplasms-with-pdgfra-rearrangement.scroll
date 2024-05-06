@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Myeloid/Lymphoid Neoplasms with PDGFRA Rearrangement
 type cancerType
 mainType Leukemia

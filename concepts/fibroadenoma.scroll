@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Fibroadenoma
 type cancerType
 mainType Breast Sarcoma

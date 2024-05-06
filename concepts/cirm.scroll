@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id CIRM
 type stateGovernmentOrganization
 standsFor California Institute for Regenerative Medicine

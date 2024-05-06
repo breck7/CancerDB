@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Monoclonal Immunoglobulin Deposition Diseases, Other
 type cancerType
 mainType Mature B-Cell Neoplasms

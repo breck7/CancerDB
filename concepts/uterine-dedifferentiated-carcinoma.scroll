@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Uterine Dedifferentiated Carcinoma
 type cancerType
 mainType Endometrial Cancer

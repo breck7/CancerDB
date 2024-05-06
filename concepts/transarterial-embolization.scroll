@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Transarterial Embolization
 type surgery
 cancerTypes liver kidney neuroendocrine

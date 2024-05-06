@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id LDCT
 type ctScan imagingProcedure
 cancerTypes lung

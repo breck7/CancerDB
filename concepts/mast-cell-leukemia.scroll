@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Mast Cell Leukemia
 type cancerType
 mainType Mastocytosis

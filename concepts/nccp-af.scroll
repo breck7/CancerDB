@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id NCCPA
 type nationalCancerInstitute
 appeared 2016

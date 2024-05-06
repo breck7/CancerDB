@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Dysplastic Gangliocytoma of the Cerebellum/Lhermitte-Duclos Disease
 type cancerType
 mainType Miscellaneous Neuroepithelial Tumor

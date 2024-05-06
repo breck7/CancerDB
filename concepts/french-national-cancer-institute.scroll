@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id French National Cancer Institute
 type nationalCancerInstitute
 aka Institut National du Cancer

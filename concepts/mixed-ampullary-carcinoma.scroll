@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Mixed Ampullary Carcinoma
 type cancerType
 mainType Ampullary Cancer

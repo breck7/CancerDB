@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Sinopharm
 type company
 

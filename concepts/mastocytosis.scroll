@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Mastocytosis
 type cancerType
 mainType Mastocytosis

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Diffuse Intrinsic Pontine Glioma
 type cancerType
 mainType Glioma

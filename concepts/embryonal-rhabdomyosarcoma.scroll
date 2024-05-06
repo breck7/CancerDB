@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Embryonal Rhabdomyosarcoma
 type cancerType
 mainType Soft Tissue Sarcoma

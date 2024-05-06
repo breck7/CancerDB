@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Primitive Neuroectodermal Tumor
 type cancerType
 mainType Embryonal Tumor

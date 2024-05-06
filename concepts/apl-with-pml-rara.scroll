@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id APL with PML-RARA
 type cancerType
 mainType Leukemia

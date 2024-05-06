@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Peritoneal Serous Carcinoma
 type cancerType
 mainType Peritoneal Cancer, NOS

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Choriocarcinoma Testis
 type cancerType
 mainType Germ Cell Tumor

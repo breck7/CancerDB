@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Liver Cancer
 type cancerType
 mainType Liver Cancer, NOS

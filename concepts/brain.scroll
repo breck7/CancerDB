@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Brain Cancer
 type cancerType
 mainType CNS/Brain Cancer, NOS

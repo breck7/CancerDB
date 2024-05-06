@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Uterine Adenosquamous Carcinoma
 type cancerType
 mainType Endometrial Cancer

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Astrocytoma
 type cancerType
 mainType Glioma

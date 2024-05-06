@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id KECR
 type registry
 standsFor Kenya Eldoret Cancer Registry

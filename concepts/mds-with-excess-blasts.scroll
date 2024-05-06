@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id MDS with Excess Blasts
 type cancerType
 mainType Myelodysplastic Syndromes

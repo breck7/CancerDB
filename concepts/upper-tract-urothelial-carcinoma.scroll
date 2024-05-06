@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Upper Tract Urothelial Carcinoma
 type cancerType
 mainType Bladder Cancer

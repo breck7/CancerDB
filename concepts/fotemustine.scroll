@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Fotemustine
 type chemotherapyDrug alkylatingAgent
 tradenames Mustophoran

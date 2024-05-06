@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id High-Grade Glioma, NOS
 type cancerType
 mainType Glioma

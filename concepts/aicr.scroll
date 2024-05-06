@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id AICR
 type cancerNonProfit
 appeared 1982

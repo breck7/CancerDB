@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Skin Adnexal Carcinoma
 type cancerType
 mainType Skin Cancer, Non-Melanoma

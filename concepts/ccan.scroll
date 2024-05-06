@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id C/Can
 type cancerNonProfit
 appeared 2017

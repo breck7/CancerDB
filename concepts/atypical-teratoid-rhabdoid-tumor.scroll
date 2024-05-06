@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Atypical Teratoid/Rhabdoid Tumor
 type cancerType
 mainType Embryonal Tumor

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Breast Angiosarcoma
 type cancerType
 mainType Breast Sarcoma

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Myeloid Leukemia Associated with Down Syndrome
 type cancerType
 mainType Leukemia

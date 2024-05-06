@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Intestinal Ampullary Carcinoma
 type cancerType
 mainType Ampullary Cancer

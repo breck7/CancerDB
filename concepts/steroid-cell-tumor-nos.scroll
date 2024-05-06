@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Steroid Cell Tumor, NOS
 type cancerType
 mainType Sex Cord Stromal Tumor

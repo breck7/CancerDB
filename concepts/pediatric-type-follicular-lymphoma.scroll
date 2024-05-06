@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Pediatric-Type Follicular Lymphoma
 type cancerType
 mainType Mature B-Cell Neoplasms

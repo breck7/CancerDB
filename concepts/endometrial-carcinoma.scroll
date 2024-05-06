@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Endometrial Carcinoma
 type cancerType
 mainType Endometrial Cancer

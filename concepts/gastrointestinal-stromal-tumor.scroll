@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Gastrointestinal Stromal Tumor
 type cancerType
 mainType Gastrointestinal Stromal Tumor

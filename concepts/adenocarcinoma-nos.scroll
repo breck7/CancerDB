@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Adenocarcinoma, NOS
 type cancerType
 mainType Cancer of Unknown Primary

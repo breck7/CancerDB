@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Urothelial Papilloma
 type cancerType
 mainType Bladder Cancer

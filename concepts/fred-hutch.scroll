@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Fred Hutchinson Cancer Center
 type hospital researchCenter
 appeared 1975

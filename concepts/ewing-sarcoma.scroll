@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Ewing Sarcoma
 type cancerType
 mainType Bone Cancer

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Sweat Gland Carcinoma/Apocrine Eccrine Carcinoma
 type cancerType
 mainType Skin Cancer, Non-Melanoma

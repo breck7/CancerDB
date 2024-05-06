@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Malignant Teratoma
 type cancerType
 mainType Germ Cell Tumor

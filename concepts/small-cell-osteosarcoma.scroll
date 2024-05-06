@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Small Cell Osteosarcoma
 type cancerType
 mainType Bone Cancer

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Primary Mediastinal (Thymic) Large B-Cell Lymphoma
 type cancerType
 mainType Mature B-Cell Neoplasms

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Ependymomal Tumor
 type cancerType
 mainType CNS Cancer

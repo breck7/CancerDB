@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Acinic Cell Carcinoma
 type cancerType
 mainType Salivary Gland Cancer

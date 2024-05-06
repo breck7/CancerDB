@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Chordoid Glioma of the Third Ventricle
 type cancerType
 mainType Miscellaneous Neuroepithelial Tumor

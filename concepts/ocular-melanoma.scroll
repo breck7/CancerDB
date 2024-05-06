@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Ocular Melanoma
 type cancerType
 mainType Melanoma

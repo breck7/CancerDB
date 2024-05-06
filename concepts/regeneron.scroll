@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Regeneron
 type publicCompany
 appeared 1988

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Medullary Carcinoma of the Colon
 type cancerType
 mainType Colorectal Cancer

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id NCC
 type cancerNonProfit
 appeared 1953

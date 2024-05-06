@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Altretamine
 type chemotherapyDrug alkylatingAgent
 tradenames Hexalen

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Other Uterine Tumor
 type cancerType
 mainType Endometrial Cancer

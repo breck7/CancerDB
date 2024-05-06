@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Undifferentiated Uterine Sarcoma
 type cancerType
 mainType Uterine Sarcoma

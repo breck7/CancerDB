@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id AML with t(8;21)(q22;q22.1);RUNX1-RUNX1T1
 type cancerType
 mainType Leukemia

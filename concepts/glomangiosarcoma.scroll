@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Glomangiosarcoma
 type cancerType
 mainType Soft Tissue Sarcoma

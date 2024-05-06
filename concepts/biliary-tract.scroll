@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Biliary Tract
 type cancerType
 mainType Biliary Tract Cancer, NOS

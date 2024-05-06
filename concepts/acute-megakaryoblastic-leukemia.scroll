@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Acute Megakaryoblastic Leukemia
 type cancerType
 mainType Leukemia

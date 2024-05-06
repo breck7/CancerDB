@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Inflammatory Myofibroblastic Bladder Tumor
 type cancerType
 mainType Bladder Cancer

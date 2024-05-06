@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Salivary Adenocarcinoma
 type cancerType
 mainType Salivary Gland Cancer

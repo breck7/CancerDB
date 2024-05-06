@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Angiomatoid Fibrous Histiocytoma
 type cancerType
 mainType Angiomatoid Fibrous Histiocytoma

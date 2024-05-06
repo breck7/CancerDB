@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Myxofibrosarcoma
 type cancerType
 mainType Soft Tissue Sarcoma

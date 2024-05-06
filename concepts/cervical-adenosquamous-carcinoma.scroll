@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Cervical Adenosquamous Carcinoma
 type cancerType
 mainType Cervical Cancer

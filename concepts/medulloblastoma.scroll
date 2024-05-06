@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Medulloblastoma
 type cancerType
 mainType Embryonal Tumor

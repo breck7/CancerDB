@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Primary CNS Melanocytic Tumors
 type cancerType
 mainType Primary CNS Melanocytic Tumors

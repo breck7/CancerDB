@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Fibrolamellar Carcinoma
 type cancerType
 mainType Hepatobiliary Cancer

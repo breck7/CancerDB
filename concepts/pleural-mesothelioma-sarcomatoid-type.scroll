@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Pleural Mesothelioma, Sarcomatoid Type
 type cancerType
 mainType Mesothelioma

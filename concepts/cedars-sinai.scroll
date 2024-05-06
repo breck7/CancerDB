@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Cedars-Sinai Medical Center
 type hospital
 

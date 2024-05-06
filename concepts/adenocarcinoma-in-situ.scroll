@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Adenocarcinoma In Situ
 type cancerType
 mainType Adenocarcinoma In Situ

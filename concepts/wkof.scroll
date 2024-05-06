@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id WKOF
 type cancerNonProfit
 standsFor Wereld Kanker Onderzoek Fond

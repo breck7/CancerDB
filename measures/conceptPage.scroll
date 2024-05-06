@@ -1,0 +1,16 @@
+importOnly
+replace BASE_URL .
+import cancerDBMeasures.scroll
+
+keyboardNav
+
+import ../header.scroll
+
+nodejs
+ const { TreeNode } = require("jtree/products/TreeNode.js")
+ const tree = TreeNode.fromDisk(__filename)
+ module.exports = {TEMPLATE : `title ${tree.get("id")}`}
+TEMPLATE
+
+import ../footer.scroll
+

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Splenic B-Cell Lymphoma/Leukemia, Unclassifiable
 type cancerType
 mainType Mature B-Cell Neoplasms

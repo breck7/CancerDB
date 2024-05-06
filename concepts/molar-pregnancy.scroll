@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Molar Pregnancy
 type cancerType
 mainType Gestational Trophoblastic Disease

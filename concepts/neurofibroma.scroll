@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Neurofibroma
 type cancerType
 mainType Nerve Sheath Tumor

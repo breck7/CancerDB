@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Systemic Mastocytosis with an Associated Hematological Neoplasm
 type cancerType
 mainType Mastocytosis

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Clear Cell Odontogenic Carcinoma
 type cancerType
 mainType Head and Neck Cancer

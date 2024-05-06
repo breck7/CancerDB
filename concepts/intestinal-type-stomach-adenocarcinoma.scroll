@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Intestinal Type Stomach Adenocarcinoma
 type cancerType
 mainType Esophagogastric Cancer

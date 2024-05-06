@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Atypical Meningioma
 type cancerType
 mainType CNS Cancer

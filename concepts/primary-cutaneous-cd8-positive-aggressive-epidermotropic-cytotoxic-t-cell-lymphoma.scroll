@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma
 type cancerType
 mainType Mature T and NK Neoplasms

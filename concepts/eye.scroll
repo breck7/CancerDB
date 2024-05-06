@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Eye Cancer
 type cancerType
 mainType Eye Cancer, NOS

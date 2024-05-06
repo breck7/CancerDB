@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Primary Neuroepithelial Tumor
 type cancerType
 mainType Miscellaneous Brain Tumor

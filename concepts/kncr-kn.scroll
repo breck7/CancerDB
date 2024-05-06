@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id KNCR
 type registry
 standsFor Kenya - Nairobi Cancer Registry

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id MDS with Ring Sideroblasts and Multilineage Dysplasia
 type cancerType
 mainType Myelodysplastic Syndromes

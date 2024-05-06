@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id High-Grade Neuroepithelial Tumor
 type cancerType
 mainType Miscellaneous Brain Tumor

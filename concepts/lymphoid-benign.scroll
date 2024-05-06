@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Lymphoid Benign
 type cancerType
 mainType Lymphatic Cancer, NOS

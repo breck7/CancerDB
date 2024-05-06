@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Splenic Diffuse Red Pulp Small B-Cell Lymphoma
 type cancerType
 mainType Mature B-Cell Neoplasms

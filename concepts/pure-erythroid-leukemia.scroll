@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Pure Erythroid Leukemia
 type cancerType
 mainType Leukemia

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Monoclonal Gammopathy of Undetermined Significance
 type cancerType
 mainType Mature B-Cell Neoplasms

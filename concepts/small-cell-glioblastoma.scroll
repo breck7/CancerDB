@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Small Cell Glioblastoma
 type cancerType
 mainType Glioma

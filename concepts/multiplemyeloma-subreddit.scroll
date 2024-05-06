@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Multiplemyeloma Subreddit
 type subreddit onlineForum
 cancerTypes multiplemyeloma

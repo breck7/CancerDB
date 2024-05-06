@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Histiocytic and Dendritic Cell Neoplasms
 type cancerType
 mainType Histiocytosis

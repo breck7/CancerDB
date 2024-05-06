@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id RDCM
 type registry
 standsFor Registre des cancers du Mali

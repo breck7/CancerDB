@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Leukemia
 type cancerType
 uscsId Leukemias

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Myeloid/Lymphoid Neoplasms with FGFR1 Rearrangement
 type cancerType
 mainType Leukemia

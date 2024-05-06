@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Desmoplastic Infantile Astrocytoma
 type cancerType
 mainType Miscellaneous Neuroepithelial Tumor

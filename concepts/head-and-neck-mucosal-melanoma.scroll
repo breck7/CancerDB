@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Head and Neck Mucosal Melanoma
 type cancerType
 mainType Melanoma

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Hysterectomy
 type surgery
 conceptDescription A surgery that involves the removal of the uterus and type  in some cases the cervix.

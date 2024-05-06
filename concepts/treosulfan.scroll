@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Treosulfan
 type chemotherapyDrug alkylatingAgent
 tradenames Trecondi && Ovastat

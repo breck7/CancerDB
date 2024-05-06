@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Multiple Myeloma
 type cancerType
 uscsId Myeloma

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Bleomycin
 type chemotherapyDrug
 tradenames Blenoxane

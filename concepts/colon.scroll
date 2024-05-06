@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Colon Cancer
 type cancerType
 mainType Bowel Cancer, NOS

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Bladder Cancer
 type cancerType
 mainType Bladder/Urinary Tract Cancer, NOS

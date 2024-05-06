@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Germinoma
 type cancerType
 mainType Germ Cell Tumor

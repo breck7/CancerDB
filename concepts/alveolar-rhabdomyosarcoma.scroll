@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Alveolar Rhabdomyosarcoma
 type cancerType
 mainType Soft Tissue Sarcoma

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id The Hope Foundation For Cancer Research
 type cancerNonProfit
 parentOrganization swog

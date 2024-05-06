@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Index Medicus
 type journal
 appeared 1879

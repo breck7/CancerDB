@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id American Academy of Dermatology
 type professionalOrganization
 cancerTypes skin

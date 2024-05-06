@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Germ Cell Tumor of the Vulva
 type cancerType
 mainType Germ Cell Tumor

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Dermatofibroma
 type cancerType
 mainType Skin Cancer, Non-Melanoma

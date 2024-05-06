@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Primary Brain Tumor
 type cancerType
 mainType Miscellaneous Brain Tumor

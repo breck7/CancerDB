@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Lung Adenocarcinoma
 type cancerType
 mainType Non-Small Cell Lung Cancer

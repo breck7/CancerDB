@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Melanoma of Unknown Primary
 type cancerType
 mainType Melanoma

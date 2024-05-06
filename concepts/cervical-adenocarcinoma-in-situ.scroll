@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Cervical Adenocarcinoma In Situ
 type cancerType
 mainType Cervical Cancer

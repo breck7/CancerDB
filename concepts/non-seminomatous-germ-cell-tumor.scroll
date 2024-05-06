@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Non-Seminomatous Germ Cell Tumor
 type cancerType
 mainType Germ Cell Tumor

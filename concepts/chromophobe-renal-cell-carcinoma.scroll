@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Chromophobe Renal Cell Carcinoma
 type cancerType
 mainType Renal Cell Carcinoma

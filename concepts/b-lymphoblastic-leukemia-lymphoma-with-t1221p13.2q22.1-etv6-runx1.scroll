@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id B-Lymphoblastic Leukemia/Lymphoma with t(12;21)(p13.2;q22.1); ETV6-RUNX1
 type cancerType
 mainType B-Lymphoblastic Leukemia/Lymphoma

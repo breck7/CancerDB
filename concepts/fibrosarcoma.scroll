@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Fibrosarcoma
 type cancerType
 mainType Soft Tissue Sarcoma

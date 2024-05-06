@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id AML with BCR-ABL1
 type cancerType
 mainType Leukemia

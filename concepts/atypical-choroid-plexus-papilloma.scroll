@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Atypical Choroid Plexus Papilloma
 type cancerType
 mainType Choroid Plexus Tumor

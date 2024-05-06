@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Vinblastine
 type chemotherapyDrug
 tradenames Velban && Velbe

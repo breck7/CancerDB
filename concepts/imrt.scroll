@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Intensity-Modulated Radiation Therapy
 type radiationTherapy
 aka IMRT

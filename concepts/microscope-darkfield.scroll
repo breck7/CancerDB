@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Darkfield Microscope
 type microscope
 conceptDescription illuminates specimens from the side to produce a bright image of objects against a dark background.

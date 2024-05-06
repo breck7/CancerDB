@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Mesenchymal Chondrosarcoma of the CNS
 type cancerType
 mainType Miscellaneous Brain Tumor

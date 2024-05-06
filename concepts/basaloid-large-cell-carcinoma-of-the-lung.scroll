@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Basaloid Large Cell Carcinoma of the Lung
 type cancerType
 mainType Non-Small Cell Lung Cancer

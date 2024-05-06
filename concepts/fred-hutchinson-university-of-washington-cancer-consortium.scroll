@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Fred Hutchinson/University of Washington Cancer Consortium
 type nciCancerCenter
 

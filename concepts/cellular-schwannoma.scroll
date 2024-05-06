@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Cellular Schwannoma
 type cancerType
 mainType Nerve Sheath Tumor

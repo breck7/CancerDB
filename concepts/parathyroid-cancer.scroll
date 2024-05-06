@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Parathyroid Cancer
 type cancerType
 mainType Parathyroid Cancer

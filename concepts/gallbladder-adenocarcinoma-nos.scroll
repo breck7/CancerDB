@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Gallbladder Adenocarcinoma, NOS
 type cancerType
 mainType Hepatobiliary Cancer

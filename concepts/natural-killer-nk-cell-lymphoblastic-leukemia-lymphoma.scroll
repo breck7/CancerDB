@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Natural Killer (NK) Cell Lymphoblastic Leukemia/Lymphoma
 type cancerType
 mainType T-Lymphoblastic Leukemia/Lymphoma

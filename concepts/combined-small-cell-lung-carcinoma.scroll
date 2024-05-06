@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Combined Small Cell Lung Carcinoma
 type cancerType
 mainType Small Cell Lung Cancer

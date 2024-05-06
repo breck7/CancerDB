@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Nerve Sheath Tumor
 type cancerType
 mainType Nerve Sheath Tumor

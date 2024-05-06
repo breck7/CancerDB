@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id WACANREG
 type registry
 appeared 1982

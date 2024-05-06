@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Small Bowel Cancer
 type cancerType
 mainType Small Bowel Cancer

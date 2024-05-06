@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id AML with t(6;9)(p23;q34.1);DEK-NUP214
 type cancerType
 mainType Leukemia

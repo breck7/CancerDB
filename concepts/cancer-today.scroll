@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Cancer Today
 type magazine
 appeared 2010

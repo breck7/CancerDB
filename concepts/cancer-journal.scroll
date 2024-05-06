@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Cancer
 type journal
 parentOrganization american-cancer-society

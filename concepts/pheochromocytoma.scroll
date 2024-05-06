@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Pheochromocytoma
 type cancerType
 mainType Pheochromocytoma

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Monoclonal B-Cell Lymphocytosis
 type cancerType
 mainType Mature B-Cell Neoplasms

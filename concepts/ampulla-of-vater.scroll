@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Ampulla of Vater
 type cancerType
 mainType Ampullary Carcinoma, NOS

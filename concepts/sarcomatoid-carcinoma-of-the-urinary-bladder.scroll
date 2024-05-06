@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Sarcomatoid Carcinoma of the Urinary Bladder
 type cancerType
 mainType Bladder Cancer

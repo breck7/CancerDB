@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Renal Oncocytoma
 type cancerType
 mainType Renal Cell Carcinoma

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Blastic Plasmacytoid Dendritic Cell Neoplasm
 type cancerType
 mainType Blastic Plasmacytoid Dendritic Cell Neoplasm

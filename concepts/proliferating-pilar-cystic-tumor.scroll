@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Proliferating Pilar Cystic Tumor
 type cancerType
 mainType Skin Cancer, Non-Melanoma

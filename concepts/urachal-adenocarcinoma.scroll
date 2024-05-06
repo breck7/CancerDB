@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Urachal Adenocarcinoma
 type cancerType
 mainType Bladder Cancer

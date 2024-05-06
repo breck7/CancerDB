@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Lymphoid Atypical
 type cancerType
 mainType Lymphatic Cancer, NOS

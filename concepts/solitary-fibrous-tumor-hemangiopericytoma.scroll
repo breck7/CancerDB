@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Solitary Fibrous Tumor/Hemangiopericytoma
 type cancerType
 mainType Soft Tissue Sarcoma

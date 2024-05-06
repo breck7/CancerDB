@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id 3D-CRT
 type radiationTherapy
 conceptDescription A procedure that uses a computer to create a 3-dimensional picture of the tumor. This allows doctors to give the highest possible dose of radiation to the tumor, while sparing the normal tissue as much as possible. Also called 3-dimensional conformal radiation therapy and 3-dimensional radiation therapy.

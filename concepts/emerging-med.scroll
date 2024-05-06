@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id EmergingMed.com
 type website onlineDatabase
 conceptDescription Clinical trial finder.

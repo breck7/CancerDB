@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id California Cancer Registry
 type registry
 appeared 1988

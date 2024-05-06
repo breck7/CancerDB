@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id HOPA
 type professionalOrganization
 standsFor Hematology/Oncology Pharmacy Association

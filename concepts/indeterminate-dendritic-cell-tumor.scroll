@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Indeterminate Dendritic Cell Tumor
 type cancerType
 mainType Histiocytosis

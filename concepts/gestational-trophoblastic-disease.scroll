@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Gestational Trophoblastic Disease
 type cancerType
 mainType Gestational Trophoblastic Disease

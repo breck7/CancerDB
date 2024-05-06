@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Embryonal Carcinoma Testis
 type cancerType
 mainType Germ Cell Tumor

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Stomach Cancer
 type cancerType
 uscsId Stomach

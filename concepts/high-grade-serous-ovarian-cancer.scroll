@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id High-Grade Serous Ovarian Cancer
 type cancerType
 mainType Ovarian Cancer

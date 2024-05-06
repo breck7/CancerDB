@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Choroid Plexus Tumor
 type cancerType
 mainType Choroid Plexus Tumor

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id MDS with Multilineage Dysplasia
 type cancerType
 mainType Myelodysplastic Syndromes

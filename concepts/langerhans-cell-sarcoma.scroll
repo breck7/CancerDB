@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Langerhans Cell Sarcoma
 type cancerType
 mainType Histiocytosis

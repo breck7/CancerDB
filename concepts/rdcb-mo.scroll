@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id RDCB
 type registry
 standsFor Registro de Cancro de Beira

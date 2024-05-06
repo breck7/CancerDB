@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Germ Cell Tumor, Brain
 type cancerType
 mainType Germ Cell Tumor

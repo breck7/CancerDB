@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Acute Myelomonocytic Leukemia
 type cancerType
 mainType Leukemia

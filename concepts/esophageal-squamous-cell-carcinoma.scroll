@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Esophageal Squamous Cell Carcinoma
 type cancerType
 mainType Esophagogastric Cancer

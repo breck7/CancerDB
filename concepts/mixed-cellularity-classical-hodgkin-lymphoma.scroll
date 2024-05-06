@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Mixed Cellularity Classical Hodgkin Lymphoma
 type cancerType
 mainType Hodgkin Lymphoma

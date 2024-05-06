@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Myeloid Atypical
 type cancerType
 mainType Blood Cancer, NOS

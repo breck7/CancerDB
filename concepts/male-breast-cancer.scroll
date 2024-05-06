@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Male Breast Cancer
 type cancerType
 uscsId Male Breast

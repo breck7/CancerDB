@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id PACT
 type intergovernmentalCancerOrganization
 appeared 2004

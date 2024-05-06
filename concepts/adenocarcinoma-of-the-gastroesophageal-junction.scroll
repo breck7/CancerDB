@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Adenocarcinoma of the Gastroesophageal Junction
 type cancerType
 mainType Esophagogastric Cancer

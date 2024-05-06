@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Breast Invasive Ductal Carcinoma
 type cancerType
 mainType Breast Cancer

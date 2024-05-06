@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id KsCR
 type registry
 standsFor Kumasi Cancer Registry

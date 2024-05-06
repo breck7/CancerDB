@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Embryonal Tumor with Abundant Neuropil and True Rosettes
 type cancerType
 mainType Embryonal Tumor

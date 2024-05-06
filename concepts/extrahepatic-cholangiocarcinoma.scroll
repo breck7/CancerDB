@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Extrahepatic Cholangiocarcinoma
 type cancerType
 mainType Hepatobiliary Cancer

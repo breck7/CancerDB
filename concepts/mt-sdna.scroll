@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id MT-sDNA
 type diagnosticTest
 cancerTypes colon

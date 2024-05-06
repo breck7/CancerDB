@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Serous Ovarian Cancer
 type cancerType
 mainType Ovarian Cancer

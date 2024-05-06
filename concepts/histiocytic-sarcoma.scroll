@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Histiocytic Sarcoma
 type cancerType
 mainType Histiocytosis

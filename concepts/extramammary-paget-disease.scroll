@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Extramammary Paget Disease
 type cancerType
 mainType Skin Cancer, Non-Melanoma

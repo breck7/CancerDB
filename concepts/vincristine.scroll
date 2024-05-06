@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Vincristine
 type chemotherapyDrug
 tradenames Oncovin && Vincasar && Marqibo

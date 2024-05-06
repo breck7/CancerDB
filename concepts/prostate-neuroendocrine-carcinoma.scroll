@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Prostate Neuroendocrine Carcinoma
 type cancerType
 mainType Prostate Cancer

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Sezary Syndrome
 type cancerType
 mainType Mature T and NK Neoplasms

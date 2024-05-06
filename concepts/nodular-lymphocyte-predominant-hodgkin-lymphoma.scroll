@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Nodular Lymphocyte-Predominant Hodgkin Lymphoma
 type cancerType
 mainType Hodgkin Lymphoma

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Adenoid Cystic Carcinoma
 type cancerType
 mainType Salivary Gland Cancer

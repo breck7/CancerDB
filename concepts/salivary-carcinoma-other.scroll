@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Salivary Carcinoma, Other
 type cancerType
 mainType Salivary Gland Cancer

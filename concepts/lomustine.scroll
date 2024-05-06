@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Lomustine
 type chemotherapyDrug alkylatingAgent
 tradenames Gleostine

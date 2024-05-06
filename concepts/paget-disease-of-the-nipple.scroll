@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Paget Disease of the Nipple
 type cancerType
 mainType Breast Cancer

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Laryngeal cancer
 type cancerType
 uscsId Larynx

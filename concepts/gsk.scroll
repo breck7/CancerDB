@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id GSK plc
 type publicCompany
 oldName GlaxoSmithKline plc

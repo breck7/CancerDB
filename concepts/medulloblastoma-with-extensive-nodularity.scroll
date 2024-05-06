@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Medulloblastoma with Extensive Nodularity
 type cancerType
 mainType Embryonal Tumor

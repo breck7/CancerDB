@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Transient Abnormal Myelopoiesis
 type cancerType
 mainType Leukemia

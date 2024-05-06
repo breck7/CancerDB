@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Lung Cancer
 type cancerType
 mainType Lung Cancer, NOS

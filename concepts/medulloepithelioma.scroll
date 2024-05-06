@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Medulloepithelioma
 type cancerType
 mainType Embryonal Tumor

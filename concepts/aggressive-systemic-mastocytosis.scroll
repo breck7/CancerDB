@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Aggressive Systemic Mastocytosis
 type cancerType
 mainType Mastocytosis

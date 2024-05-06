@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Epithelioid Trophoblastic Tumor
 type cancerType
 mainType Gestational Trophoblastic Disease

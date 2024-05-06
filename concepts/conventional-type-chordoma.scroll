@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Conventional Type Chordoma
 type cancerType
 mainType Bone Cancer

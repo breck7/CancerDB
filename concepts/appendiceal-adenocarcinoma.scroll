@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Appendiceal Adenocarcinoma
 type cancerType
 mainType Appendiceal Cancer

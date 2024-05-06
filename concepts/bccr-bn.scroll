@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id BCCR
 type registry
 standsFor Benin - Cotonou Cancer Registry

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Electron Microscope
 type microscope
 conceptDescription Uses a beam of electrons instead of light to create high-resolution images of very small specimens.

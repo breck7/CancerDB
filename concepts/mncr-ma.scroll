@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id MNCR
 type registry
 standsFor Mauritius National Cancer Registry

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Carcinoma with Osseous Metaplasia
 type cancerType
 mainType Breast Cancer

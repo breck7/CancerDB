@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id EBV Positive Mucocutaneous Ulcer
 type cancerType
 mainType Mature B-Cell Neoplasms

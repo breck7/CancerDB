@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Tretinoin
 type chemotherapyDrug
 tradenames Retin-a && Avita && Renova

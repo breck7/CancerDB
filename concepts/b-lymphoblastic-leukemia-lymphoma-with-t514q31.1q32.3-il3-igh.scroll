@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id B-Lymphoblastic Leukemia/Lymphoma with t(5;14)(q31.1;q32.3) IL3-IGH
 type cancerType
 mainType B-Lymphoblastic Leukemia/Lymphoma

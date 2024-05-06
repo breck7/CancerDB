@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Endometrioid Ovarian Cancer
 type cancerType
 mainType Ovarian Cancer

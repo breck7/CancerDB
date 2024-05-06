@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Urethral Squamous Cell Carcinoma
 type cancerType
 mainType Bladder Cancer

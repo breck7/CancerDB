@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Dacarbazine
 type chemotherapyDrug alkylatingAgent
 tradenames DTIC-Dome

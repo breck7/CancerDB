@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Rosette-forming Glioneuronal Tumor of the Fourth Ventricle
 type cancerType
 mainType Miscellaneous Neuroepithelial Tumor

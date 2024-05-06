@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Fibroblastic Reticular Cell Tumor
 type cancerType
 mainType Histiocytosis

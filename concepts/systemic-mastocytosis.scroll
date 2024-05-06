@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Systemic Mastocytosis
 type cancerType
 mainType Mastocytosis

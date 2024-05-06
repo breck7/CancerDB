@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Endocrine Mucin Producing Sweat Gland Carcinoma
 type cancerType
 mainType Skin Cancer, Non-Melanoma

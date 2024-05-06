@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Malignant Peripheral Nerve Sheath Tumor
 type cancerType
 mainType Nerve Sheath Tumor

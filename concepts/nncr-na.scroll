@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id NNCR
 type registry
 standsFor Namibian National Cancer Registry

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Small Cell Gallbladder Carcinoma
 type cancerType
 mainType Hepatobiliary Cancer

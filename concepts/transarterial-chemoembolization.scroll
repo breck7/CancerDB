@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Transarterial Chemoembolization
 type surgery
 conceptDescription Transarterial embolization along with chemotherapy injected via catheter.

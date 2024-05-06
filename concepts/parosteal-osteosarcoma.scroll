@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Parosteal Osteosarcoma
 type cancerType
 mainType Bone Cancer

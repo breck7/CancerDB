@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Gastric Remnant Adenocarcinoma
 type cancerType
 mainType Esophagogastric Cancer

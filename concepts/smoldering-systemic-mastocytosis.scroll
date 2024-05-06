@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Smoldering Systemic Mastocytosis
 type cancerType
 mainType Mastocytosis

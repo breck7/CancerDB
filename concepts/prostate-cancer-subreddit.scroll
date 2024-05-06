@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Prostate Cancer Subreddit
 type subreddit onlineForum
 cancerTypes prostate

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Soft Tissue Myoepithelial Carcinoma
 type cancerType
 mainType Soft Tissue Sarcoma

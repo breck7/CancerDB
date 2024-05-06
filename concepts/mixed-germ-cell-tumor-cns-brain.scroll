@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Mixed Germ Cell Tumor CNS/Brain
 type cancerType
 mainType Germ Cell Tumor

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Erdheim-Chester Disease
 type cancerType
 mainType Histiocytosis

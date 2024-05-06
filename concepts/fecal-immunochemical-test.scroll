@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Fecal immunochemical test
 type diagnosticTest
 cancerTypes colon

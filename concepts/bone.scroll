@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Bone Cancer
 type cancerType
 mainType Bone Cancer, NOS

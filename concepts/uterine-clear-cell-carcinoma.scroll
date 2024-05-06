@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Uterine Clear Cell Carcinoma
 type cancerType
 mainType Endometrial Cancer

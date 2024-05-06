@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Esophagogastric Adenocarcinoma
 type cancerType
 mainType Esophagogastric Cancer

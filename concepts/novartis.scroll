@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Novartis
 type publicCompany
 

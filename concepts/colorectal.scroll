@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Colorectal Cancer
 type cancerType
 tissue Colon

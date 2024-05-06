@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Breast Invasive Lobular Carcinoma
 type cancerType
 mainType Breast Cancer

@@ -1,3 +1,4 @@
+import ../measures/conceptPage.scroll
 id Mucosal Melanoma of the Vulva/Vagina
 type cancerType
 mainType Melanoma
