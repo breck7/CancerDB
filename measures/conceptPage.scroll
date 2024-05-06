@@ -8,7 +8,7 @@ import ../header.scroll
 
 nodejs
  const { TreeNode } = require("jtree/products/TreeNode.js")
- const tree = TreeNode.fromDisk(__filename)
+ const tree = TreeNode.fromDisk(__filename.replace(".js", ""))
  module.exports = {TEMPLATE : `title ${tree.get("id")}`}
 TEMPLATE
 
