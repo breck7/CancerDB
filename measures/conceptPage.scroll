@@ -2,6 +2,8 @@ importOnly
 replace BASE_URL ..
 import cancerDBMeasures.scroll
 
+groups All
+
 keyboardNav
 
 import ../header.scroll
@@ -9,7 +11,8 @@ import ../header.scroll
 nodejs
  const { TreeNode } = require("jtree/products/TreeNode.js")
  const tree = TreeNode.fromDisk(__filename.replace(".js", ""))
- module.exports = {TEMPLATE : `title ${tree.get("id")}`}
+ const code = tree.toString().replace("import ../measures/conceptPage.scroll\n", "")
+ module.exports = {TEMPLATE : `title ${tree.get("id")}\ncode\n ${code.replace(/\n/g, "\n ")}`}
 TEMPLATE
 
 import ../footer.scroll

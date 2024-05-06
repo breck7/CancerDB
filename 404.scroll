@@ -1,6 +1,6 @@
 permalink 404.html
 
-import header.scroll
+import rootHeader.scroll
 title Page not found
 startColumns 1
 

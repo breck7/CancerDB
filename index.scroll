@@ -1,6 +1,4 @@
-replace BASE_URL .
-
-import header.scroll
+import rootHeader.scroll
 
 title CancerDB
  hidden
