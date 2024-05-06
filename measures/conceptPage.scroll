@@ -1,5 +1,5 @@
 importOnly
-replace BASE_URL .
+replace BASE_URL ..
 import cancerDBMeasures.scroll
 
 keyboardNav
