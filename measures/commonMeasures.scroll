@@ -21,19 +21,6 @@ abstractYearMeasureParser
  cells measureNameCell yearCell
  extends abstractIntegerMeasureParser
 
-abstractComputedSumMeasureParser
- boolean isComputed true
- boolean suggestInAutocomplete false
- extends abstractIntegerMeasureParser
-abstractComputedEstimateMeasureParser
- boolean isComputed true
- boolean suggestInAutocomplete false
- extends abstractCountMeasureParser
-abstractComputedRankMeasureParser
- boolean isComputed true
- boolean suggestInAutocomplete false
- extends abstractIntegerMeasureParser
-
 abstractAnnualPopulationCountParser
  cells yearCell countCell
  uniqueFirstWord

@@ -205,6 +205,22 @@ medlinePlusParser
  string sourceDomain medlineplus.gov
  description What is the MedlinePlus ID for this thing?
 
+measurementsParser
+ boolean isComputed true
+ extends abstractIntegerMeasureParser
+ int sortIndex 1
+ boolean suggestInAutocomplete false
+ description How many measurements do we have about this thing?
+ javascript
+  computeValue(concept) {
+    let count = 0
+    concept.forEach(node => {
+      if (node.isMeasure)
+        count++
+    })
+    return count
+  }
+
 // name
 standsForParser
  description If the title is an acronym what does/did it stand for?
