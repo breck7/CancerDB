@@ -10,3 +10,6 @@ cancerdb.json
 cancerdb.csv
 cancerdb.tsv
 measures.*
+*.js
+*.txt
+*.css
