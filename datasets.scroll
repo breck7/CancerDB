@@ -1,8 +1,0 @@
-import measures/cancerDBMeasures.scroll
-
-
-loadConcepts concepts
-
-writeConcepts cancerdb.csv
-writeConcepts cancerdb.json
-writeConcepts cancerdb.tsv
