@@ -13,3 +13,5 @@ measures.*
 *.js
 *.txt
 *.css
+*.heapprofile
+*.cpuprofile
