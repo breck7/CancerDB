@@ -1,4 +1,4 @@
-import rootHeader.scroll
+import header.scroll
 groups index
 
 <div class="singleColumn">
@@ -8,7 +8,7 @@ endSnippet
 
 replaceNodejs
  const lodash = require("lodash")
- const data = lodash.chain(require("./cancerdb.json"))
+ const data = lodash.chain(require("../cancerdb.json"))
   .orderBy(['measurements'], ['desc'])
   .map(row => lodash.pick(row, "id measurements type tissue  mainType wikipedia website country conceptDescription appeared twitter".split(" ")))
   .value()
@@ -21,5 +21,5 @@ ALL
 
 </div>
 
-import footer.scroll
+import ../footer.scroll
 tableSearch
