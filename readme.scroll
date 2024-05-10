@@ -12,7 +12,7 @@ This repo contains the entire database and website for https://cancerdb.com.
 The CancerDB database is freely available:
 - As CSV: https://cancerdb.com/cancerdb.csv
 - As JSON: https://cancerdb.com/cancerdb.json
-Documentation for the CSV is available here: https://cancerdb.com/csv.html.
+Documentation for the CSV is available here: https://cancerdb.com/download.html.
 
 ## To add a new concept
 Advanced method: Create a new file in `concepts` with a unique URL friendly filename ending in `.cdb` and send a pull request.

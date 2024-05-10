@@ -1,5 +1,5 @@
 import rootHeader.scroll
-title CancerDB.CSV
+title Download CancerDB
 
 css
  .scrollTable td {
