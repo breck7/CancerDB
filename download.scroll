@@ -15,17 +15,14 @@ Download the CancerDB concept dataset as: CSV | TSV | JSON
 
 import measures/cancerDBMeasures.scroll
 loadConcepts concepts
-writeConcepts cancerdb.csv
-writeConcepts cancerdb.json
-writeConcepts cancerdb.tsv
+writeConcepts cancerdb.csv cancerdb.json cancerdb.tsv
+ sortBy -measurements
 
 Statistics on the measures (columns) are below and can be downloaded as: CSV | TSV | JSON
  link measures.csv CSV
  link measures.tsv TSV
  link measures.json JSON
-writeMeasures measures.tsv
-writeMeasures measures.csv
-writeMeasures measures.json
+writeMeasures measures.tsv measures.csv measures.json
 printMeasures
 tableSearch
 

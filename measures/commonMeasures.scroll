@@ -8,10 +8,7 @@ abstractHashMapMeasureParser
  extends abstractMeasureParser
  javascript
   get measureValue() {
-    return this.childrenToString()
-  }
-  get measureName() {
-    return this.definition.cruxPathAsColumnName
+    return this.content
   }
 
 abstractCountMeasureParser
@@ -52,7 +49,7 @@ abstractStringBlobMeasureParser
  baseParser blobParser
  javascript
   get measureValue() {
-    return this.childrenToString()
+    return this.childrenToString().replace(/\n/g, "\\n")
   }
 abstractDelimitedValuesBlobMeasureParser
  description A CSV, TSV, or other delimited blob of text.
