@@ -4,7 +4,7 @@ replaceJs BUILT_ON_DAY dayjs().format("MM/DD/YYYY")
 import header.scroll
 title About
 
-startColumns 2
+thinColumns 2
 
 # _never ever give up_
 CancerDB is a public domain blog assembling key datasets on cancer for dependable models. The focus is on *cancer, cancer preventions and treatments*, but the database also includes datasets on closely connected things--from cancer types to organizations and more.
