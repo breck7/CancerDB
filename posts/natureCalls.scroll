@@ -1,9 +1,10 @@
 date 12-16-2022
 groups Commercials
 openGraphImage https://cancerdb.com/posts/natureCalls.jpg
+title Nature calls
 
 import header.scroll
-title Nature calls
+printTitle
 
 youTube https://www.youtube.com/embed/aKlVuSuOnjs
 

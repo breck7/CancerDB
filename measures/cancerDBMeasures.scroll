@@ -9,7 +9,6 @@ amazonParser
  extends abstractUrlMeasureParser
  description What is the Amazon product URL for this item?
 
-
 // annualDeathsReport
 annualDeathsReportParser
  cells measureNameCell stringCell urlCell
@@ -237,7 +236,7 @@ oldNameParser
 tradenamesParser
  description What are the tradenames for the drug?
  extends abstractStringMeasureParser
- listDelimiter  && 
+ listDelimiter  &&
 
 // nci
 // todo Add enum for: Comprehensive Cancer Center && Basic Laboratory Cancer Center && Cancer Center

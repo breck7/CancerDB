@@ -1,13 +1,14 @@
 author https://github.com/breck7 Breck Yunits
 date 03-15-2023
 groups All
+openGraphImage https://cancerdb.com/posts/cancerHeatmap.jpg
 replaceNodejs
  module.exports = require(`./heatmap.json`)
-openGraphImage https://cancerdb.com/posts/cancerHeatmap.jpg
+title Cancer in the United States
 
 import header.scroll
 
-title Cancer in the United States
+printTitle
 
 # Heatmap visualizations
 

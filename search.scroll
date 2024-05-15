@@ -1,6 +1,8 @@
+title Search CancerDB
+
 import rootHeader.scroll
 
-title Search CancerDB
+printTitle
 
 wideColumns 2
 printSearchTable All concepts/All

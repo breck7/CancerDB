@@ -1,22 +1,20 @@
 importOnly
-replace BASE_URL ..
-import cancerDBMeasures.scroll
-
 groups All
-
-keyboardNav
-
-import ../header.scroll
-
-viewSourceBaseUrl https://github.com/breck7/CancerDB/blob/main/concepts/
-
+replace BASE_URL ..
 replaceJs TEMPLATE
  {
   const code = originalScrollCode.replace("import ../measures/conceptPage.scroll\n", "");
   const template = `title ${tree.get("id")}\ncode\n ${code.replace(/\n/g, "\n ")}`;
   template;
  }
+viewSourceBaseUrl https://github.com/breck7/CancerDB/blob/main/concepts/
+
+import cancerDBMeasures.scroll
+
+keyboardNav
+
+import ../header.scroll
+
 TEMPLATE
 
 import ../footer.scroll
-

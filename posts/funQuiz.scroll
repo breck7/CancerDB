@@ -1,9 +1,10 @@
 date 12-09-2022
 groups Commercials
 openGraphImage https://cancerdb.com/posts/funQuiz.jpg
+title Fun quiz
 
 import header.scroll
-title Fun quiz
+printTitle
 
 youTube https://www.youtube.com/embed/b4VE9cx8bhQ
 

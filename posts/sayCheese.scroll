@@ -1,9 +1,10 @@
 date 12-04-2022
 groups Commercials
 openGraphImage https://cancerdb.com/posts/sayCheese.jpg
+title Say cheese
 
 import header.scroll
-title Say cheese
+printTitle
 
 youTube https://www.youtube.com/embed/cGXILXiMpJI
 

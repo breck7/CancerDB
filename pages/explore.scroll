@@ -1,11 +1,4 @@
-import header.scroll
 groups index
-
-<div class="singleColumn">
-title Explore CancerDB
-
-endSnippet
-
 replaceNodejs
  const lodash = require("lodash")
  const data = lodash.chain(require("../cancerdb.json"))
@@ -16,6 +9,14 @@ replaceNodejs
  const rows = lodash.map(data, row => lodash.values(row).join('\t'));
  const tsv = [header, ...rows].join('\n ');
  module.exports = {ALL : 'tabTable\n ' + tsv}
+title Explore CancerDB
+
+import header.scroll
+
+<div class="singleColumn">
+printTitle
+
+endSnippet
 
 ALL
 

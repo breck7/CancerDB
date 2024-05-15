@@ -10,9 +10,10 @@ replaceNodejs
      .map(item => `- ${item.login}\n ${item.html_url}`)
      .join("\n")
  }
+title Acknowledgements
 
 import header.scroll
-title Acknowledgements
+printTitle
 // IMPORTS
 
 thinColumns 4

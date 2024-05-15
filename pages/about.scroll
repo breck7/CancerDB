@@ -1,8 +1,9 @@
 groups index
 replaceJs BUILT_ON_DAY dayjs().format("MM/DD/YYYY")
+title About
 
 import header.scroll
-title About
+printTitle
 
 thinColumns 2
 

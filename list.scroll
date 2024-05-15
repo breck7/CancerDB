@@ -1,5 +1,7 @@
-import rootHeader.scroll
 title CancerDB - All Concepts
+
+import rootHeader.scroll
+printTitle
 
 snippets concepts/All
 

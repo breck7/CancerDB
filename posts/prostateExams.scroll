@@ -1,9 +1,10 @@
 date 11-22-2022
 groups Commercials
 openGraphImage https://cancerdb.com/posts/prostate.jpg
+title Prostate Exams
 
 import header.scroll
-title Prostate Exams
+printTitle
 
 youTube https://www.youtube.com/embed/WQZvEsTcf74
 

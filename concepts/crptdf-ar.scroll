@@ -1,7 +1,7 @@
 import ../measures/conceptPage.scroll
-id CRPTDF 
+id CRPTDF
 type registry
-standsFor Cancer Registry of the Province of Tierra del Fuego 
+standsFor Cancer Registry of the Province of Tierra del Fuego
 conceptDescription Population-based Cancer Registry of the Province of Tierra del Fuego.
 
 reference https://gco.iarc.fr/includes/CSA_WorkingGroup.pdf

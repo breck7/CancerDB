@@ -1,9 +1,10 @@
 date 09-30-2022
 groups Commercials
 openGraphImage https://cancerdb.com/posts/moon.png
+title Holey Moley
 
 import header.scroll
-title Holey Moley
+printTitle
 
 youTube https://www.youtube.com/embed/d_SgTnYdbk0
 
