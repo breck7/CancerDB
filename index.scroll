@@ -1,9 +1,6 @@
 title CancerDB
- hidden
 
 import rootHeader.scroll
-
-printTitle
 
 # CancerDB: Datasets about Cancer
 

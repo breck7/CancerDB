@@ -4,7 +4,7 @@ replace BASE_URL ..
 replaceJs TEMPLATE
  {
   const code = originalScrollCode.replace("import ../code/conceptPage.scroll\n", "");
-  const template = `title ${tree.get("id")}\ncode\n ${code.replace(/\n/g, "\n ")}`;
+  const template = `title ${tree.get("id")}\nprintTitle\ncode\n ${code.replace(/\n/g, "\n ")}`;
   template;
  }
 viewSourceBaseUrl https://github.com/breck7/CancerDB/blob/main/concepts/
