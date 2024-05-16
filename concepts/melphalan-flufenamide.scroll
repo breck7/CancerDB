@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Melphalan flufenamide
 type chemotherapyDrug alkylatingAgent
 tradenames Pepaxto && Pepaxti

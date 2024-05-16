@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Mature Teratoma CNS/Brain
 type cancerType
 mainType Germ Cell Tumor

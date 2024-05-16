@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Small Cell Carcinoma of the Cervix
 type cancerType
 mainType Cervical Cancer

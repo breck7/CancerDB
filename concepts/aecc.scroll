@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Asociación Española Contra el Cancer
 type cancerNonProfit
 appeared 1953

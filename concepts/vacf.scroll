@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id VACF
 type cancerNonProfit
 standsFor Vietnamese American Cancer Foundation

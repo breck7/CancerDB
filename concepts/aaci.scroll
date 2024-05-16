@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Association of American Cancer Institutes
 type professionalOrganization
 

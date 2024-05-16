@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Ovarian Cancer, Other
 type cancerType
 mainType Ovarian Cancer

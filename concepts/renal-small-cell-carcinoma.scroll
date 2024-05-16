@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Renal Small Cell Carcinoma
 type cancerType
 mainType Renal Cell Carcinoma

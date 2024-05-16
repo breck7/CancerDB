@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Mature T and NK Neoplasms
 type cancerType
 mainType Mature T and NK Neoplasms

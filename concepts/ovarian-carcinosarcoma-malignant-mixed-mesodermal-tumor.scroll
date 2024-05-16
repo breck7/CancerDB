@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Ovarian Carcinosarcoma/Malignant Mixed Mesodermal Tumor
 type cancerType
 mainType Ovarian Cancer

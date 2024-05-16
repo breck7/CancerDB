@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Head and Neck Carcinoma, Other
 type cancerType
 mainType Head and Neck Cancer

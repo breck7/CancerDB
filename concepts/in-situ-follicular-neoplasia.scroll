@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id In Situ Follicular Neoplasia
 type cancerType
 mainType Mature B-Cell Neoplasms

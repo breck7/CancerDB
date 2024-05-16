@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id T-Lymphoblastic Leukemia/Lymphoma
 type cancerType
 mainType T-Lymphoblastic Leukemia/Lymphoma

@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Optical Microscope
 type microscope
 conceptDescription Uses visible light and lenses to magnify and observe small specimens.

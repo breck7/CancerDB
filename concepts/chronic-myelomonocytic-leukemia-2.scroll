@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Chronic Myelomonocytic Leukemia-2
 type cancerType
 mainType Myelodysplastic/Myeloproliferative Neoplasms

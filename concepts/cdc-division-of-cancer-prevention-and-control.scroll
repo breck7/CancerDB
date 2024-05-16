@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id CDC Division of Cancer Prevention and Control
 type nationalGovernmentAgency
 parentOrganization cdc

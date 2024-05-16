@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Fox Chase Cancer Center
 type nciCancerCenter
 

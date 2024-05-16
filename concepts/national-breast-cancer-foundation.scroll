@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id National Breast Cancer Foundation
 type cancerNonProfit
 appeared 1991

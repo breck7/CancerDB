@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Tenosynovial Giant Cell Tumor Diffuse Type
 type cancerType
 mainType Soft Tissue Sarcoma

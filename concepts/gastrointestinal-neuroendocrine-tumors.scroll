@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Gastrointestinal Neuroendocrine Tumors
 type cancerType
 mainType Gastrointestinal Neuroendocrine Tumor

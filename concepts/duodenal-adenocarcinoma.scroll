@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Duodenal Adenocarcinoma
 type cancerType
 mainType Small Bowel Cancer

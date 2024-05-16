@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Phase Contrast Microscope
 type microscope
 conceptDescription Uses a special filter to produce contrast in transparent specimens, making them visible under brightfield illumination.

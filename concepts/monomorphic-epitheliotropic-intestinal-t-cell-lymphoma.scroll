@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Monomorphic Epitheliotropic Intestinal T-Cell Lymphoma
 type cancerType
 mainType Mature T and NK Neoplasms

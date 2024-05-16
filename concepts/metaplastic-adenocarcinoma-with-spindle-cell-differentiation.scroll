@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Metaplastic Adenocarcinoma with Spindle Cell Differentiation
 type cancerType
 mainType Breast Cancer

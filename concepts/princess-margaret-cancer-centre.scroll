@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Princess Margaret Cancer Centre
 type hospital researchCenter
 conceptDescription The Princess Margaret Cancer Centre has 12 site groups and 26 specialty clinics, and more than 3,000 staff who see over 400,000 patient visits every year. 850,000 square feet of clinical space house 202 inpatient beds, 16 linear accelerators, a state-of-the-art Magnetic Resonance-guided Radiation Therapy (MRgRT) suite, and two Leksell Gamma Knife Perfexion units, making it one of the largest comprehensive cancer treatment facilities in the world and the largest radiation treatment centre in Canada. Princess Margaret sees over 1,000 patients every day and has the capacity to deliver diagnostic, treatment, and follow-up care to close to 200,000 patients and their families every year. In 2016, we saw 17,751 new patients. Among the services provided this past year, we delivered 6,031 cancer surgeries, as well as 37,754 system therapy visits, 91,517 radiation visits, and 428 stem cell transplants.

@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Meningothelial Tumor
 type cancerType
 mainType CNS Cancer

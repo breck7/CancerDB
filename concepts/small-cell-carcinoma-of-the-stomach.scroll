@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Small Cell Carcinoma of the Stomach
 type cancerType
 mainType Esophagogastric Cancer

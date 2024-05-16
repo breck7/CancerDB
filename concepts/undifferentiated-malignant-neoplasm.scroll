@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Undifferentiated Malignant Neoplasm
 type cancerType
 mainType Cancer of Unknown Primary

@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Kidney Cancer Subreddit
 type subreddit onlineForum
 cancerTypes kidney

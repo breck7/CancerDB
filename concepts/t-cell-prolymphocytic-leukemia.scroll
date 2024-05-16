@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id T-Cell Prolymphocytic Leukemia
 type cancerType
 mainType Mature T and NK Neoplasms

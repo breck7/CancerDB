@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Vaginal Adenocarcinoma
 type cancerType
 mainType Vaginal Cancer

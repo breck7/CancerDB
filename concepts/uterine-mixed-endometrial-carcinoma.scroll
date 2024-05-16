@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Uterine Mixed Endometrial Carcinoma
 type cancerType
 mainType Endometrial Cancer

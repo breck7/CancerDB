@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Florid Follicular Hyperplasia PTLD
 type cancerType
 mainType Posttransplant Lymphoproliferative Disorders

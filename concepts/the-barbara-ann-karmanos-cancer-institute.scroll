@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id The Barbara Ann Karmanos Cancer Institute
 type nciCancerCenter
 

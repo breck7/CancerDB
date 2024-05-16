@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Mucinous Cystic Neoplasm
 type cancerType
 mainType Pancreatic Cancer

@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Urachal Carcinoma
 type cancerType
 mainType Bladder Cancer

@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id World Health Organization
 type internationalOrganization
 appeared 1948

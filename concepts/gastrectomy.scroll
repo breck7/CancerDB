@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Gastrectomy
 type surgery
 conceptDescription A surgery that involves the removal of all or part of the stomach.

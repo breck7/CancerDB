@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Instituto Nacional de Cancerología (Mexico)
 type hospital
 appeared 1946

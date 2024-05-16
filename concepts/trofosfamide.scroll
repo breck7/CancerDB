@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Trofosfamide
 type chemotherapyDrug alkylatingAgent
 tradenames Ixoten

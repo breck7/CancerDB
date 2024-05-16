@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Classical Hodgkin Lymphoma PTLD
 type cancerType
 mainType Posttransplant Lymphoproliferative Disorders

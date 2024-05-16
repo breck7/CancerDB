@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Choriocarcinoma Uterus
 type cancerType
 mainType Gestational Trophoblastic Disease

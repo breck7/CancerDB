@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id MDS/MPN with Ring Sideroblasts and Thrombocytosis
 type cancerType
 mainType Myelodysplastic/Myeloproliferative Neoplasms

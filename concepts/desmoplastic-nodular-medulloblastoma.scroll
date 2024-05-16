@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Desmoplastic/Nodular Medulloblastoma
 type cancerType
 mainType Embryonal Tumor

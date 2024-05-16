@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Cold Spring Harbor Laboratory Cancer Center
 type nciCancerCenter
 

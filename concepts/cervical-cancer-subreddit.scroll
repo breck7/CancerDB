@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Cervical Cancer Subreddit
 type subreddit onlineForum
 cancerTypes cervical

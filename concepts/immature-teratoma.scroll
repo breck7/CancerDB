@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Immature Teratoma
 type cancerType
 mainType Germ Cell Tumor

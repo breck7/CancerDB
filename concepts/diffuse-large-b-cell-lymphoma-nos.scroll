@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Diffuse Large B-Cell Lymphoma, NOS
 type cancerType
 mainType Mature B-Cell Neoplasms

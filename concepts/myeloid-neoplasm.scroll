@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Myeloid Neoplasm
 type cancerType
 mainType Blood Cancer, NOS

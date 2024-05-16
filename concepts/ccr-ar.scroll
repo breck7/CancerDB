@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id CCRAR
 type registry
 standsFor Chaco Cancer Registry in Argentina

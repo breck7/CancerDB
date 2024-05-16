@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id ERCR
 type registry
 standsFor Entre Ríos Cancer Registry

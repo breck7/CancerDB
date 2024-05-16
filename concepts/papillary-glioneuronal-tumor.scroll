@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Papillary Glioneuronal Tumor
 type cancerType
 mainType Miscellaneous Neuroepithelial Tumor

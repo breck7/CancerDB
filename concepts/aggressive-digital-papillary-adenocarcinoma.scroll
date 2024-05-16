@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Aggressive Digital Papillary Adenocarcinoma
 type cancerType
 mainType Skin Cancer, Non-Melanoma

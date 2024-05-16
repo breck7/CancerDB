@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Breast Neoplasm, NOS
 type cancerType
 mainType Breast Cancer

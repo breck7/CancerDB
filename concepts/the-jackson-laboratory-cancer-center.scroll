@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id The Jackson Laboratory Cancer Center
 type nciCancerCenter
 aka JAX Cancer Center

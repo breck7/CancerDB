@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id High-Grade Serous Fallopian Tube Cancer
 type cancerType
 mainType Ovarian Cancer

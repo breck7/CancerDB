@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Scanning Probe Microscope
 type microscope
 conceptDescription Uses a physical probe to create high-resolution images of surface features at the atomic or molecular scale.

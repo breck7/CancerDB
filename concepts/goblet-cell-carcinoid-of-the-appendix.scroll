@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Goblet Cell Carcinoid of the Appendix
 type cancerType
 mainType Appendiceal Cancer

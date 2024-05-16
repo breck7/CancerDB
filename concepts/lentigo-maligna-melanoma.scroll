@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Lentigo Maligna Melanoma
 type cancerType
 mainType Melanoma

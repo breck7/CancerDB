@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Extraskeletal Myxoid Chondrosarcoma
 type cancerType
 mainType Bone Cancer

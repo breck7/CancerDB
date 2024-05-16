@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Medullary Thyroid Cancer
 type cancerType
 mainType Thyroid Cancer

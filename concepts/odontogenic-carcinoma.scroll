@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Odontogenic Carcinoma
 type cancerType
 mainType Head and Neck Cancer

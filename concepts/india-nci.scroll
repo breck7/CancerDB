@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Rajiv Gandhi Cancer Institute and Research Centre
 type cancerNonProfit researchCenter
 

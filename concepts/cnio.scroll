@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Spanish National Cancer Research Center
 type nationalCancerInstitute
 aka CNIO

@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Adenosquamous Carcinoma of the Pancreas
 type cancerType
 mainType Pancreatic Cancer

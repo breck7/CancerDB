@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id The Immortal Life of Henrietta Lacks
 type book
 appeared 2010

@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Confocal Microscope
 type microscope
 conceptDescription Uses a laser and computer to generate highly detailed images of fluorescently labeled specimens in 3D.

@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Acupressure
 type touchTreatment
 conceptDescription Physical pressure is applied to acupuncture points.

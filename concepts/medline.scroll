@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id MEDLINE
 type onlineDatabase
 appeared 1971

@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Esophagus/Stomach Cancer
 type cancerType
 mainType Esophageal/Stomach Cancer, NOS

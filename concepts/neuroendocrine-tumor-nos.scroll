@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Neuroendocrine Tumor, NOS
 type cancerType
 mainType Cancer of Unknown Primary

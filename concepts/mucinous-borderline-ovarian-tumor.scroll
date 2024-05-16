@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Mucinous Borderline Ovarian Tumor
 type cancerType
 mainType Ovarian Cancer

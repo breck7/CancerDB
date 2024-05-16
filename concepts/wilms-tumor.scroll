@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Wilms' Tumor
 type cancerType
 mainType Wilms Tumor

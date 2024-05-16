@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id The Centers for Medicare and Medicaid Services
 type nationalGovernmentAgency
 appeared 1977

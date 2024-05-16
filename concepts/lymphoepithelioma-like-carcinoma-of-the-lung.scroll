@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Lymphoepithelioma-like Carcinoma of the Lung
 type cancerType
 mainType Non-Small Cell Lung Cancer

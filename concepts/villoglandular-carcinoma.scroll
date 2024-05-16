@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Villoglandular Carcinoma
 type cancerType
 mainType Cervical Cancer

@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Oral Cancer Foundation
 type cancerNonProfit
 cancerTypes oral

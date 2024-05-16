@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id The Ohio State University Comprehensive Cancer Center
 type nciCancerCenter
 aka The James

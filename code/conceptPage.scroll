@@ -3,7 +3,7 @@ groups All
 replace BASE_URL ..
 replaceJs TEMPLATE
  {
-  const code = originalScrollCode.replace("import ../measures/conceptPage.scroll\n", "");
+  const code = originalScrollCode.replace("import ../code/conceptPage.scroll\n", "");
   const template = `title ${tree.get("id")}\ncode\n ${code.replace(/\n/g, "\n ")}`;
   template;
  }

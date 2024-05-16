@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Brenner Tumor, Malignant
 type cancerType
 mainType Ovarian Cancer

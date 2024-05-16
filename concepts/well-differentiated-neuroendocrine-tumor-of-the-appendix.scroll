@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Well-Differentiated Neuroendocrine Tumor of the Appendix
 type cancerType
 mainType Gastrointestinal Neuroendocrine Tumor

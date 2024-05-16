@@ -1,3 +1,3 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Exercise
 type lifestyle

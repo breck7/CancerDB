@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id AML with Biallelic Mutations of CEBPA
 type cancerType
 mainType Leukemia

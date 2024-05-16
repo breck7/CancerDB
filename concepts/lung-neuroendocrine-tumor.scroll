@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Lung Neuroendocrine Tumor
 type cancerType
 mainType Non-Small Cell Lung Cancer

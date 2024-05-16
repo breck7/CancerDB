@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Solitary Fibrous Tumor of the Central Nervous System
 type cancerType
 mainType CNS Cancer

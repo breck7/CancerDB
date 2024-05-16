@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Clinical Cancer Research
 type journal
 parentOrganization aacr

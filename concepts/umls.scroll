@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Unified Medical Language System
 type onlineDatabase ontology
 appeared 1986

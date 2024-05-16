@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Ultraviolet Microscope
 type microscope
 conceptDescription uses ultraviolet light to observe fluorescent specimens and materials that are invisible under normal light.

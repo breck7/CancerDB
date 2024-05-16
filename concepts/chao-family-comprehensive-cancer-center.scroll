@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Chao Family Comprehensive Cancer Center
 type nciCancerCenter
 

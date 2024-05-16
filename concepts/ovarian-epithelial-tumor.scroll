@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Ovarian Epithelial Tumor
 type cancerType
 mainType Ovarian Cancer

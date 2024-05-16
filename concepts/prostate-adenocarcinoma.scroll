@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Prostate Adenocarcinoma
 type cancerType
 mainType Prostate Cancer

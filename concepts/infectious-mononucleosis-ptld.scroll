@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Infectious Mononucleosis PTLD
 type cancerType
 mainType Posttransplant Lymphoproliferative Disorders

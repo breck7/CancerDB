@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Adult T-Cell Leukemia/Lymphoma
 type cancerType
 mainType Mature T and NK Neoplasms

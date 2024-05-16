@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Squamous Cell Carcinoma of the Vulva/Vagina
 type cancerType
 mainType Vaginal Cancer

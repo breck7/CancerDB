@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id High-Grade B-Cell Lymphoma, with MYC and BCL2 and/or BCL6 Rearrangements
 type cancerType
 mainType Mature B-Cell Neoplasms

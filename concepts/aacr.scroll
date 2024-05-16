@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id AACR
 type cancerNonProfit
 standsFor American Association of Cancer Research

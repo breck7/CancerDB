@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id RDCG
 type registry
 standsFor Registre de Cancer de Guinée

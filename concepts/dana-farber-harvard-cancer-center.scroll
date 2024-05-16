@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Dana-Farber/Harvard Cancer Center
 type nciCancerCenter
 

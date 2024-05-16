@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Indolent T-Cell Lymphoproliferative Disorder of the GI Tract
 type cancerType
 mainType Mature T and NK Neoplasms

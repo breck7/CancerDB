@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Desmoplastic Infantile Ganglioglioma
 type cancerType
 mainType Miscellaneous Neuroepithelial Tumor

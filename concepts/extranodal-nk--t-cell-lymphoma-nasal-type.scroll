@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Extranodal NK-/T-Cell Lymphoma, Nasal Type
 type cancerType
 mainType Mature T and NK Neoplasms

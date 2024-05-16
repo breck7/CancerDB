@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Mucinous Ovarian Cancer
 type cancerType
 mainType Ovarian Cancer

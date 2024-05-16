@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Stereotactic Body Radiation Therapy
 type radiationTherapy
 conceptDescription Stereotactic body radiation therapy, or SBRT, is a cancer treatment that delivers extremely precise, very intense doses of radiation to cancer cells while minimizing damage to healthy tissue. SBRT involves the use of sophisticated image guidance that pinpoints the exact three-dimensional location of a tumor so that the radiation can be more precisely delivered to cancer cells.

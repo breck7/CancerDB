@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Uterine Mucinous Carcinoma
 type cancerType
 mainType Endometrial Cancer

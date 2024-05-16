@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Houston Methodist Hospital
 type hospital
 appeared 1919

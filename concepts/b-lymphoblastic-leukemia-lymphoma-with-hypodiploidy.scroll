@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id B-Lymphoblastic Leukemia/Lymphoma with Hypodiploidy
 type cancerType
 mainType B-Lymphoblastic Leukemia/Lymphoma

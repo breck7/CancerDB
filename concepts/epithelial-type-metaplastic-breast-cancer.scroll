@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Epithelial Type Metaplastic Breast Cancer
 type cancerType
 mainType Breast Cancer

@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id University of New Mexico Cancer Research and Treatment Center
 type nciCancerCenter
 

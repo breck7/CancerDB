@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id High-Grade B-Cell Lymphoma, NOS
 type cancerType
 mainType Mature B-Cell Neoplasms

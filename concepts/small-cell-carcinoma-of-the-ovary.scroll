@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Small Cell Carcinoma of the Ovary
 type cancerType
 mainType Ovarian Cancer

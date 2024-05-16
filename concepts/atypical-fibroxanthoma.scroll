@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Atypical Fibroxanthoma
 type cancerType
 mainType Skin Cancer, Non-Melanoma

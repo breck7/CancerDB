@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Ewing Sarcoma of Soft Tissue
 type cancerType
 mainType Soft Tissue Sarcoma

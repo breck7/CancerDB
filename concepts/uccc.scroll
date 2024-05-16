@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id UCCC
 type consortium
 standsFor University of California Cancer Consortium

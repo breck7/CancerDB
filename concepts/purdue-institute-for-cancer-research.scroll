@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Purdue Institute for Cancer Research
 type nciCancerCenter
 

@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Pleural Mesothelioma, Epithelioid Type
 type cancerType
 mainType Mesothelioma

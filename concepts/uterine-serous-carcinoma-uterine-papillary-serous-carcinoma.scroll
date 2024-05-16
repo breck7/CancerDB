@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma
 type cancerType
 mainType Endometrial Cancer

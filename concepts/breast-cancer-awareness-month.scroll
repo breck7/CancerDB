@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Breast Cancer Awareness Month
 type awarenessEvent
 cancerTypes breast

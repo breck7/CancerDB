@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Dana-Farber Cancer Institute
 type hospital cancerNonProfit
 

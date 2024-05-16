@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id MEDLARS
 type onlineDatabase
 appeared 1964

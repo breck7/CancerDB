@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Breast Ductal Carcinoma In Situ
 type cancerType
 mainType Breast Cancer

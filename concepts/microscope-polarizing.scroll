@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Polarizing Microscope
 type microscope
 conceptDescription Uses polarized light to observe the optical properties of materials and minerals.

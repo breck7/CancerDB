@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Burkitt-Like Lymphoma with 11q Aberration
 type cancerType
 mainType Mature B-Cell Neoplasms

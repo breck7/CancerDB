@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id EBUS
 type ultrasound imagingProcedure diagnosticTest
 cancerTypes lung

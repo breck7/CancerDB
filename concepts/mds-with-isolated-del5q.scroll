@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id MDS with Isolated Del(5q)
 type cancerType
 mainType Myelodysplastic Syndromes

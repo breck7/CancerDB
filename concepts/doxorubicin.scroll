@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Doxorubicin
 type chemotherapyDrug anthracycline
 tradenames Adriamycin && Caelyx && Myocet

@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Hepatocellular Carcinoma
 type cancerType
 mainType Hepatobiliary Cancer

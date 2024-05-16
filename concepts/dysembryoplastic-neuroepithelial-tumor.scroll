@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Dysembryoplastic Neuroepithelial Tumor
 type cancerType
 mainType Glioma

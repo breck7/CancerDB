@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Marie-Josée and Henry R. Kravis Center for Molecular Oncology
 type researchCenter
 parentOrganization memorial-sloan-kettering-cancer-center

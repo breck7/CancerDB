@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Signet Ring Cell Adenocarcinoma of the Colon and Rectum
 type cancerType
 mainType Colorectal Cancer

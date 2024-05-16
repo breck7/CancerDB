@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id CRSBA
 type registry
 standsFor Cancer Registry of Sidi-Bel-Abbès

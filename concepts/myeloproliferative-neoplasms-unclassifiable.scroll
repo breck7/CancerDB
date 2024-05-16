@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Myeloproliferative Neoplasms, Unclassifiable
 type cancerType
 mainType Myeloproliferative Neoplasms

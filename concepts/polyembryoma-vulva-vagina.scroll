@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Polyembryoma Vulva/Vagina
 type cancerType
 mainType Germ Cell Tumor

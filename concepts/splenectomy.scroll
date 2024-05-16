@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Splenectomy
 type surgery
 conceptDescription A surgery that involves the removal of the spleen. It may be used to treat spleen cancer or other conditions that affect the spleen.

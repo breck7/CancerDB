@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id USC Norris Comprehensive Cancer Center
 type nciCancerCenter
 

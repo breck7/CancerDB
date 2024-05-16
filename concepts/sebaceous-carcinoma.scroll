@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Sebaceous Carcinoma
 type cancerType
 mainType Skin Cancer, Non-Melanoma

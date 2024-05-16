@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Polymorphic PTLD
 type cancerType
 mainType Posttransplant Lymphoproliferative Disorders

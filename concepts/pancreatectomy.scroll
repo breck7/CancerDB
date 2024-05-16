@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Pancreatectomy
 type surgery
 conceptDescription A surgery that involves the removal of part or all of the pancreas.

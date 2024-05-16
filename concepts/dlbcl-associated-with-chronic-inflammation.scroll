@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id DLBCL Associated with Chronic Inflammation
 type cancerType
 mainType Mature B-Cell Neoplasms

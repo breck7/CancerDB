@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id World Cancer Day
 type awarenessEvent
 appeared 2000

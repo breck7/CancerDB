@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id National Center for Biotechnology Information
 type nationalGovernmentAgency
 appeared 1988

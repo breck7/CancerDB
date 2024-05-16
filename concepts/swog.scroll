@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id SWOG Cancer Research Network
 type governmentFundedNonProfit
 appeared 1956

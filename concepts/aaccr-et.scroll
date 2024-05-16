@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id AACCR
 type registry
 standsFor Addis Ababa City Cancer Registry

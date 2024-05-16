@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Pancreatic Cancer
 type cancerType
 mainType Pancreatic Cancer, NOS

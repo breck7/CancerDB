@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Granulosa Cell Tumor
 type cancerType
 mainType Sex Cord Stromal Tumor

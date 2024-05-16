@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id ALK Positive Large B-Cell Lymphoma
 type cancerType
 mainType Mature B-Cell Neoplasms

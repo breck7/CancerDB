@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id A Lucky Man: A Memoir
 type book
 appeared 2018

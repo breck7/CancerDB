@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Mixed Ovarian Carcinoma
 type cancerType
 mainType Ovarian Cancer

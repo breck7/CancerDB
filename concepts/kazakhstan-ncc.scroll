@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Institute of Oncology and Radiology of Kazakhstan
 type nationalCancerInstitute
 

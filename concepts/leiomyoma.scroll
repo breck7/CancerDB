@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Leiomyoma
 type cancerType
 mainType Soft Tissue Cancer

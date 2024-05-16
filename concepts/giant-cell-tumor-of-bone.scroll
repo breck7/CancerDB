@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Giant Cell Tumor of Bone
 type cancerType
 mainType Bone Cancer

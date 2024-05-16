@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Uterine Myxoid Leiomyosarcoma
 type cancerType
 mainType Uterine Sarcoma

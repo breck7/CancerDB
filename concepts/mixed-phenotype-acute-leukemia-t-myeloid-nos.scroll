@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Mixed Phenotype Acute Leukemia, T/Myeloid, NOS
 type cancerType
 mainType Leukemia

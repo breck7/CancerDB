@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id University of Michigan Rogel Cancer Center
 type nciCancerCenter
 

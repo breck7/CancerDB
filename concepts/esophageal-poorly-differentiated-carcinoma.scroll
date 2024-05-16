@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Esophageal Poorly Differentiated Carcinoma
 type cancerType
 mainType Esophagogastric Cancer

@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Monomorphic PTLD (B- and T-/NK-cell types)
 type cancerType
 mainType Posttransplant Lymphoproliferative Disorders

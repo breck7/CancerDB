@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Malignant Nonepithelial Tumor of the Liver
 type cancerType
 mainType Hepatobiliary Cancer

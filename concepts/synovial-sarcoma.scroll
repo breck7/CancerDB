@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Synovial Sarcoma
 type cancerType
 mainType Soft Tissue Sarcoma

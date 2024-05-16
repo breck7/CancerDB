@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
 type cancerType
 mainType Mature B-Cell Neoplasms

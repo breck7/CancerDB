@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Adrenalectomy
 type surgery
 conceptDescription A surgery that involves the removal of one or both adrenal glands. It may be used to treat adrenal cancer.

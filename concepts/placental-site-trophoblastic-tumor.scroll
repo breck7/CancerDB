@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id Placental Site Trophoblastic Tumor
 type cancerType
 mainType Gestational Trophoblastic Disease

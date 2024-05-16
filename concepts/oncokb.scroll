@@ -1,4 +1,4 @@
-import ../measures/conceptPage.scroll
+import ../code/conceptPage.scroll
 id OncoKB
 type onlineDatabase ontology
 parentOrganization memorial-sloan-kettering-cancer-center
