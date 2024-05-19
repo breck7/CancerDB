@@ -9,7 +9,7 @@ replaceJs TEMPLATE
  }
 viewSourceBaseUrl https://github.com/breck7/CancerDB/blob/main/concepts/
 
-import cancerDBMeasures.scroll
+import measures.scroll
 
 keyboardNav
 

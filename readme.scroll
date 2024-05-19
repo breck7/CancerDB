@@ -15,27 +15,23 @@ The CancerDB database is freely available:
 Documentation for the CSV is available here: https://cancerdb.com/download.html.
 
 ## To add a new concept
-Advanced method: Create a new file in `concepts` with a unique URL friendly filename ending in `.cdb` and send a pull request.
+Advanced method: Create a new file in `concepts` with a unique URL friendly filename ending in `.scroll` and send a pull request.
 
 ## To update a concept
-Advanced method: Edit the corresponding `concepts/*.cdb` file and send a pull request.
+Advanced method: Edit the corresponding `concepts/*.scroll` file and send a pull request.
 
 ## To add a new measure
-Advanced method: Edit or create a new file in `measures` and add at least 1 example to a concept in `concepts` and send a pull request.
+Advanced method: Add your measure to `code/measures.scroll` and add at least 1 example to a concept in `concepts` and send a pull request.
 
 ## To run the site locally
 code
  git clone https://github.com/breck7/CancerDB
  cd CancerDB
  npm install .
- npm run test
- npm run format
- npm run local
+ npm run build
 
 ## To explore this repo
-The most important folder is `concepts`, which contains a file for each concept. The folder `measures` contains the grammar files (schema) for the truebase.
-
-The website content is in the `site` folder.
+The most important folder is `concepts`, which contains a file for each concept. The folder `measures` contains the grammar files (schema) for the ScrollSet.
 
 ## To cite CancerDB
 CancerDB content is published to the public domain and you can use it freely. If needed, here are 3 options for citing CancerDB:

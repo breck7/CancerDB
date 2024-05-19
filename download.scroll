@@ -18,7 +18,7 @@ Download the CancerDB concept dataset as: CSV | TSV | JSON
  link cancerdb.tsv TSV
  link cancerdb.json JSON
 
-import code/cancerDBMeasures.scroll
+import code/measures.scroll
 loadConcepts concepts
 
 Statistics on the measures (columns) are below and can be downloaded as: CSV | TSV | JSON
