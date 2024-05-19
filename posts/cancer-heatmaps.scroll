@@ -9,6 +9,7 @@ title Cancer in the United States
 import header.scroll
 
 printTitle
+printAuthor
 
 # Heatmap visualizations
 

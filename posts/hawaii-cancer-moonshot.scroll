@@ -6,6 +6,7 @@ title The Hawai'i #CancerMoonshot
 
 import header.scroll
 printTitle
+printAuthor
 
 thinColumns 2
 
