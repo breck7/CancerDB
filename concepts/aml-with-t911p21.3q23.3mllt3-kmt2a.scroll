@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id AML with t(9;11)(p21.3;q23.3);MLLT3-KMT2A
+id aml-with-t911p21.3q23.3mllt3-kmt2a
+title AML with t(9;11)(p21.3;q23.3);MLLT3-KMT2A
 type cancerType
 mainType Leukemia
 tissue Myeloid

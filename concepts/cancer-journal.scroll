@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Cancer
+id cancer-journal
+title Cancer
 type journal
 parentOrganization american-cancer-society
 

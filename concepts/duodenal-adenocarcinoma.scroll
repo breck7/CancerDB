@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Duodenal Adenocarcinoma
+id duodenal-adenocarcinoma
+title Duodenal Adenocarcinoma
 type cancerType
 mainType Small Bowel Cancer
 tissue Bowel

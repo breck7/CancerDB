@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Amgen
+id amgen
+title Amgen
 type publicCompany
 
 website https://www.amgen.com/

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id SNCR
+id swedish-national-cancer-register
+title SNCR
 type registry
 appeared 1958
 standsFor Swedish Cancer Registry or National Cancer Register

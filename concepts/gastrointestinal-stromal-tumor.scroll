@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Gastrointestinal Stromal Tumor
+id gastrointestinal-stromal-tumor
+title Gastrointestinal Stromal Tumor
 type cancerType
 mainType Gastrointestinal Stromal Tumor
 tissue Soft Tissue

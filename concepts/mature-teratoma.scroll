@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Mature Teratoma
+id mature-teratoma
+title Mature Teratoma
 type cancerType
 mainType Germ Cell Tumor
 tissue Ovary/Fallopian Tube

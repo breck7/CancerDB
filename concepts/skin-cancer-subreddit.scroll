@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Skin Cancer Subreddit
+id skin-cancer-subreddit
+title Skin Cancer Subreddit
 type subreddit onlineForum
 cancerTypes skin
 

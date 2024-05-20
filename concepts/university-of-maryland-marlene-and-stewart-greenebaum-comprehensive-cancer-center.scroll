@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id University of Maryland Marlene and Stewart Greenebaum Comprehensive Cancer Center
+id university-of-maryland-marlene-and-stewart-greenebaum-comprehensive-cancer-center
+title University of Maryland Marlene and Stewart Greenebaum Comprehensive Cancer Center
 type nciCancerCenter
 
 website https://www.umms.org/umgccc

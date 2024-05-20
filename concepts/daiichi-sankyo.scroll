@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Daiichi Sankyo
+id daiichi-sankyo
+title Daiichi Sankyo
 type company
 
 website https://www.daiichisankyo.com/

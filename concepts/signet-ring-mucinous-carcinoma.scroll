@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Signet Ring Mucinous Carcinoma
+id signet-ring-mucinous-carcinoma
+title Signet Ring Mucinous Carcinoma
 type cancerType
 mainType Cervical Cancer
 tissue Cervix

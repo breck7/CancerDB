@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id RPT
+id rpt-ar
+title RPT
 type registry
 appeared 2003
 standsFor The Mendoza Provincial Tumor Registry

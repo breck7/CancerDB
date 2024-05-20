@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Hepatoblastoma
+id hepatoblastoma
+title Hepatoblastoma
 type cancerType
 mainType Hepatobiliary Cancer
 tissue Liver

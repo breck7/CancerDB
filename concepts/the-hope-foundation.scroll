@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id The Hope Foundation For Cancer Research
+id the-hope-foundation
+title The Hope Foundation For Cancer Research
 type cancerNonProfit
 parentOrganization swog
 

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Mixed Cervical Carcinoma
+id mixed-cervical-carcinoma
+title Mixed Cervical Carcinoma
 type cancerType
 mainType Cervical Cancer
 tissue Cervix

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Pancreatobiliary Ampullary Carcinoma
+id pancreatobiliary-ampullary-carcinoma
+title Pancreatobiliary Ampullary Carcinoma
 type cancerType
 mainType Ampullary Cancer
 tissue Ampulla of Vater

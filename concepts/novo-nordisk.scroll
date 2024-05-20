@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Novo Nordisk
+id novo-nordisk
+title Novo Nordisk
 type publicCompany
 
 wikipedia https://en.wikipedia.org/wiki/Novo_Nordisk

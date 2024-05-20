@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Mucinous Adenocarcinoma of the Colon and Rectum
+id mucinous-adenocarcinoma-of-the-colon-and-rectum
+title Mucinous Adenocarcinoma of the Colon and Rectum
 type cancerType
 mainType Colorectal Cancer
 tissue Bowel

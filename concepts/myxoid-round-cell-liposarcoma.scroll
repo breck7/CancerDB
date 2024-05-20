@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Myxoid/Round-Cell Liposarcoma
+id myxoid-round-cell-liposarcoma
+title Myxoid/Round-Cell Liposarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

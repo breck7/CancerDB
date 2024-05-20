@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Renal Small Cell Carcinoma
+id renal-small-cell-carcinoma
+title Renal Small Cell Carcinoma
 type cancerType
 mainType Renal Cell Carcinoma
 tissue Kidney

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Vanderbilt-Ingram Cancer Center
+id vanderbilt-ingram-cancer-center
+title Vanderbilt-Ingram Cancer Center
 type nciCancerCenter
 
 website https://www.vicc.org/

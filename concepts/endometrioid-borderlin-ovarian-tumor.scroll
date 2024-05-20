@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Endometrioid Borderlin Ovarian Tumor
+id endometrioid-borderlin-ovarian-tumor
+title Endometrioid Borderlin Ovarian Tumor
 type cancerType
 mainType Ovarian Cancer
 tissue Ovary/Fallopian Tube

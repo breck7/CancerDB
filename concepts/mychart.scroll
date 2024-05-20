@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id MyChart
+id mychart
+title MyChart
 type software
 company Epic
 conceptDescription Patient portal software from Epic.

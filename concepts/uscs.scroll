@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id USCS
+id uscs
+title USCS
 type nationalGovernmentAgency
 appeared 1992
 standsFor United States Cancer Statistics

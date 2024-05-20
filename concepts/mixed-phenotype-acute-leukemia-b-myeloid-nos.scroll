@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Mixed Phenotype Acute Leukemia, B/Myeloid, NOS
+id mixed-phenotype-acute-leukemia-b-myeloid-nos
+title Mixed Phenotype Acute Leukemia, B/Myeloid, NOS
 type cancerType
 mainType Leukemia
 tissue Myeloid

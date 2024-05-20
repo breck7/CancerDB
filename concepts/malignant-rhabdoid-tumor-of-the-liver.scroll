@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Malignant Rhabdoid Tumor of the Liver
+id malignant-rhabdoid-tumor-of-the-liver
+title Malignant Rhabdoid Tumor of the Liver
 type cancerType
 mainType Malignant Rhabdoid Tumor of the Liver
 tissue Liver

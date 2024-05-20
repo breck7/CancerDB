@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id DLBCL Associated with Chronic Inflammation
+id dlbcl-associated-with-chronic-inflammation
+title DLBCL Associated with Chronic Inflammation
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

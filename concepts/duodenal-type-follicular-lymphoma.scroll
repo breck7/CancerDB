@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Duodenal-Type Follicular Lymphoma
+id duodenal-type-follicular-lymphoma
+title Duodenal-Type Follicular Lymphoma
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

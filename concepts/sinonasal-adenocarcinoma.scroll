@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Sinonasal Adenocarcinoma
+id sinonasal-adenocarcinoma
+title Sinonasal Adenocarcinoma
 type cancerType
 mainType Head and Neck Cancer
 tissue Head and Neck

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id LDCT
+id low-dose-spiral-computed-tomography
+title LDCT
 type ctScan imagingProcedure
 cancerTypes lung
 standsFor Low-dose Spiral Computed Tomography

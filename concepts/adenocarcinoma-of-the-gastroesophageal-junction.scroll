@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Adenocarcinoma of the Gastroesophageal Junction
+id adenocarcinoma-of-the-gastroesophageal-junction
+title Adenocarcinoma of the Gastroesophageal Junction
 type cancerType
 mainType Esophagogastric Cancer
 tissue Esophagus/Stomach

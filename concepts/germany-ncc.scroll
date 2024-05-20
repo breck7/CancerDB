@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id German Cancer Research Center
+id germany-ncc
+title German Cancer Research Center
 type nationalCancerInstitute
 
 website https://www.dkfz.de/en/index.html

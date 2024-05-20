@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Moffitt Cancer Center
+id moffitt-cancer-center
+title Moffitt Cancer Center
 type nciCancerCenter
 
 website https://moffitt.org/

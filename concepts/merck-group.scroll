@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Merck Group
+id merck-group
+title Merck Group
 type publicCompany
 
 website https://www.emdgroup.com/

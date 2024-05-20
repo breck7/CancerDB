@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Winship Cancer Institute
+id winship-cancer-institute
+title Winship Cancer Institute
 type nciCancerCenter
 
 website https://winshipcancer.emory.edu/

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id EBV Positive Mucocutaneous Ulcer
+id ebv-positive-mucocutaneous-ulcer
+title EBV Positive Mucocutaneous Ulcer
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Teva Pharmaceutical Industries Ltd.
+id teva
+title Teva Pharmaceutical Industries Ltd.
 type company
 
 website https://www.tevapharm.com/

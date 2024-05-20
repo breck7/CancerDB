@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Bladder Adenocarcinoma
+id bladder-adenocarcinoma
+title Bladder Adenocarcinoma
 type cancerType
 mainType Bladder Cancer
 tissue Bladder/Urinary Tract

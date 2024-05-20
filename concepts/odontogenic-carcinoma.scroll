@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Odontogenic Carcinoma
+id odontogenic-carcinoma
+title Odontogenic Carcinoma
 type cancerType
 mainType Head and Neck Cancer
 tissue Head and Neck

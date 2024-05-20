@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id National Breast Cancer Foundation
+id national-breast-cancer-foundation
+title National Breast Cancer Foundation
 type cancerNonProfit
 appeared 1991
 

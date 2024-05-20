@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id International Atomic Energy Agency
+id iaea
+title International Atomic Energy Agency
 type internationalOrganization
 
 wikipedia https://en.wikipedia.org/wiki/International_Atomic_Energy_Agency

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Tamoxifen
+id tamoxifen
+title Tamoxifen
 type drug
 cancerTypes breast
 tradenames Nolvadex && Genox && Tamifen

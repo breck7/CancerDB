@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Erdheim-Chester Disease
+id erdheim-chester-disease
+title Erdheim-Chester Disease
 type cancerType
 mainType Histiocytosis
 tissue Myeloid

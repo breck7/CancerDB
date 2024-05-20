@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Hope4Cancer
+id hope4cancer
+title Hope4Cancer
 type treatmentCenter
 appeared 2000
 

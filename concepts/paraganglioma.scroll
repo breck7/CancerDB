@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Paraganglioma
+id paraganglioma
+title Paraganglioma
 type cancerType
 mainType Miscellaneous Neuroepithelial Tumor
 tissue Soft Tissue

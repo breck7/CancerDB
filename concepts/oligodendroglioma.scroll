@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Oligodendroglioma
+id oligodendroglioma
+title Oligodendroglioma
 type cancerType
 mainType Glioma
 tissue CNS/Brain

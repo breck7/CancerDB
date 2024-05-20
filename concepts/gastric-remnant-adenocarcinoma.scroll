@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Gastric Remnant Adenocarcinoma
+id gastric-remnant-adenocarcinoma
+title Gastric Remnant Adenocarcinoma
 type cancerType
 mainType Esophagogastric Cancer
 tissue Esophagus/Stomach

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Cerebellar Liponeurocytoma
+id cerebellar-liponeurocytoma
+title Cerebellar Liponeurocytoma
 type cancerType
 mainType Miscellaneous Neuroepithelial Tumor
 tissue CNS/Brain

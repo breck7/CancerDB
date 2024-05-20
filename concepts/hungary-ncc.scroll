@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id National Institute of Oncology
+id hungary-ncc
+title National Institute of Oncology
 type nationalCancerInstitute
 
 website http://www.oncol.hu/

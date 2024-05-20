@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Cryoablation
+id cryoablation
+title Cryoablation
 type ablationProcedure
 
 wikipedia https://en.wikipedia.org/wiki/Cryoablation

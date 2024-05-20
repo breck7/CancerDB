@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Rectal Adenocarcinoma
+id rectal-adenocarcinoma
+title Rectal Adenocarcinoma
 type cancerType
 mainType Colorectal Cancer
 tissue Bowel

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Intramuscular injection
+id intramuscular-injection
+title Intramuscular injection
 type routeOfAdministration
 
 wikipedia https://en.wikipedia.org/wiki/Intramuscular_injection

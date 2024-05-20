@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id ERCR
+id ercr-ar
+title ERCR
 type registry
 standsFor Entre Ríos Cancer Registry
 conceptDescription Entre Ríos State Population-Based Cancer Registry, also seems to be called Registro Poblacional de Tumores de Concordia (Cancer Registry of Concordia)

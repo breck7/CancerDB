@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Goblet Cell Carcinoid of the Appendix
+id goblet-cell-carcinoid-of-the-appendix
+title Goblet Cell Carcinoid of the Appendix
 type cancerType
 mainType Appendiceal Cancer
 tissue Bowel

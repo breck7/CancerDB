@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Cancer Australia
+id cancer-australia
+title Cancer Australia
 type nationalCancerInstitute
 
 website https://www.canceraustralia.gov.au/

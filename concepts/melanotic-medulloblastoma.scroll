@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Melanotic Medulloblastoma
+id melanotic-medulloblastoma
+title Melanotic Medulloblastoma
 type cancerType
 mainType Embryonal Tumor
 tissue CNS/Brain

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Gastrointestinal Neuroendocrine Tumors
+id gastrointestinal-neuroendocrine-tumors
+title Gastrointestinal Neuroendocrine Tumors
 type cancerType
 mainType Gastrointestinal Neuroendocrine Tumor
 tissue Bowel

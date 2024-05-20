@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Breastcancer.org
+id breastcancer-dot-org
+title Breastcancer.org
 type website cancerNonProfit
 cancerTypes breast
 

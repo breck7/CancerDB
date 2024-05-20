@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Cervical Serous Carcinoma
+id cervical-serous-carcinoma
+title Cervical Serous Carcinoma
 type cancerType
 mainType Cervical Cancer
 tissue Cervix

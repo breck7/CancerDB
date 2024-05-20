@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Chao Family Comprehensive Cancer Center
+id chao-family-comprehensive-cancer-center
+title Chao Family Comprehensive Cancer Center
 type nciCancerCenter
 
 website http://cancer.uci.edu/

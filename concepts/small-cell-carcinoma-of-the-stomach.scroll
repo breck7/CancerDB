@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Small Cell Carcinoma of the Stomach
+id small-cell-carcinoma-of-the-stomach
+title Small Cell Carcinoma of the Stomach
 type cancerType
 mainType Esophagogastric Cancer
 tissue Esophagus/Stomach

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Thyroid Cancer
+id thyroid
+title Thyroid Cancer
 type cancerType
 mainType Thyroid Cancer, NOS
 uscsId Thyroid

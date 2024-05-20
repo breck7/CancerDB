@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id United States Department of Health and Human Services
+id hhs
+title United States Department of Health and Human Services
 type nationalGovernmentAgency
 
 website https://www.hhs.gov/

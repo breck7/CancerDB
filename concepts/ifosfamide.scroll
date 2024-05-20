@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Ifosfamide
+id ifosfamide
+title Ifosfamide
 type chemotherapyDrug alkylatingAgent
 tradenames Ifex
 

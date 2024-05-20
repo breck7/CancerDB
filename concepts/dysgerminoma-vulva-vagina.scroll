@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Dysgerminoma Vulva/Vagina
+id dysgerminoma-vulva-vagina
+title Dysgerminoma Vulva/Vagina
 type cancerType
 mainType Germ Cell Tumor
 tissue Vulva/Vagina

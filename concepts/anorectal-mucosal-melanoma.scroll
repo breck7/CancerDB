@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Anorectal Mucosal Melanoma
+id anorectal-mucosal-melanoma
+title Anorectal Mucosal Melanoma
 type cancerType
 mainType Melanoma
 tissue Bowel

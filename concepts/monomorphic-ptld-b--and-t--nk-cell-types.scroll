@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Monomorphic PTLD (B- and T-/NK-cell types)
+id monomorphic-ptld-b--and-t--nk-cell-types
+title Monomorphic PTLD (B- and T-/NK-cell types)
 type cancerType
 mainType Posttransplant Lymphoproliferative Disorders
 tissue Lymphoid

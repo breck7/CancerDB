@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Topical medication
+id topical-medication
+title Topical medication
 type routeOfAdministration
 
 wikipedia https://en.wikipedia.org/wiki/Topical_medication

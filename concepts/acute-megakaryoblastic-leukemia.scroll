@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Acute Megakaryoblastic Leukemia
+id acute-megakaryoblastic-leukemia
+title Acute Megakaryoblastic Leukemia
 type cancerType
 mainType Leukemia
 tissue Myeloid

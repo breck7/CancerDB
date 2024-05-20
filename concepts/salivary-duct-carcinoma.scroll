@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Salivary Duct Carcinoma
+id salivary-duct-carcinoma
+title Salivary Duct Carcinoma
 type cancerType
 mainType Salivary Gland Cancer
 tissue Head and Neck

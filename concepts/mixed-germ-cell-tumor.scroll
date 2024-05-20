@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Mixed Germ Cell Tumor
+id mixed-germ-cell-tumor
+title Mixed Germ Cell Tumor
 type cancerType
 mainType Germ Cell Tumor
 tissue Ovary/Fallopian Tube

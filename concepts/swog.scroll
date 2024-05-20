@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id SWOG Cancer Research Network
+id swog
+title SWOG Cancer Research Network
 type governmentFundedNonProfit
 appeared 1956
 oldName Southwest Oncology Group

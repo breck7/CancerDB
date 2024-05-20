@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Signet Ring Cell Carcinoma of the Stomach
+id signet-ring-cell-carcinoma-of-the-stomach
+title Signet Ring Cell Carcinoma of the Stomach
 type cancerType
 mainType Esophagogastric Cancer
 tissue Esophagus/Stomach

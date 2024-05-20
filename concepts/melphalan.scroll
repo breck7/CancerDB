@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Melphalan
+id melphalan
+title Melphalan
 type chemotherapyDrug alkylatingAgent
 tradenames Alkeran && Evomela && Phelinun
 

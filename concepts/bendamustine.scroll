@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Bendamustine
+id bendamustine
+title Bendamustine
 type chemotherapyDrug alkylatingAgent
 tradenames Treanda && Treakisym && Ribomustin && Levact
 

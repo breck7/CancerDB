@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Satraplatin
+id satraplatin
+title Satraplatin
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Satraplatin

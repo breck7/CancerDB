@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Dermatofibroma
+id dermatofibroma
+title Dermatofibroma
 type cancerType
 mainType Skin Cancer, Non-Melanoma
 tissue Skin

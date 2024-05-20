@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Fotemustine
+id fotemustine
+title Fotemustine
 type chemotherapyDrug alkylatingAgent
 tradenames Mustophoran
 

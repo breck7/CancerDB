@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Papillary Thyroid Cancer
+id papillary-thyroid-cancer
+title Papillary Thyroid Cancer
 type cancerType
 mainType Thyroid Cancer
 tissue Thyroid

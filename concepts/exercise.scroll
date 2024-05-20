@@ -1,3 +1,4 @@
 import ../code/conceptPage.scroll
-id Exercise
+id exercise
+title Exercise
 type lifestyle

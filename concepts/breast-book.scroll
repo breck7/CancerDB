@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Dr. Susan Love’s Breast Book
+id breast-book
+title Dr. Susan Love’s Breast Book
 type book
 appeared 2010
 conceptAuthor Susan M. Love

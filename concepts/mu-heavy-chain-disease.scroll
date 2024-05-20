@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Mu Heavy-Chain Disease
+id mu-heavy-chain-disease
+title Mu Heavy-Chain Disease
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

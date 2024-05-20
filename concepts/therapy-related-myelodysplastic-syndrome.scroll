@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Therapy-Related Myelodysplastic Syndrome
+id therapy-related-myelodysplastic-syndrome
+title Therapy-Related Myelodysplastic Syndrome
 type cancerType
 mainType Leukemia
 tissue Myeloid

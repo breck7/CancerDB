@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Myeloid Proliferations Related to Down Syndrome
+id myeloid-proliferations-related-to-down-syndrome
+title Myeloid Proliferations Related to Down Syndrome
 type cancerType
 mainType Leukemia
 tissue Myeloid

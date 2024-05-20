@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Testicular Cancer
+id testis
+title Testicular Cancer
 type cancerType
 mainType Testicular Cancer, NOS
 tissue Testis

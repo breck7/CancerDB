@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Astrocytoma
+id astrocytoma
+title Astrocytoma
 type cancerType
 mainType Glioma
 tissue CNS/Brain

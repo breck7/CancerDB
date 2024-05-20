@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Gamma Heavy-Chain Disease
+id gamma-heavy-chain-disease
+title Gamma Heavy-Chain Disease
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Medullary Carcinoma of the Colon
+id medullary-carcinoma-of-the-colon
+title Medullary Carcinoma of the Colon
 type cancerType
 mainType Colorectal Cancer
 tissue Bowel

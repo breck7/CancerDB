@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Cancerfonden
+id cancerfonden
+title Cancerfonden
 type cancerNonProfit
 aka Swedish Cancer Society
 

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Ocular Melanoma
+id ocular-melanoma
+title Ocular Melanoma
 type cancerType
 mainType Melanoma
 tissue Eye

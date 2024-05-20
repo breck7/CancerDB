@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Iranian National Cancer Institute
+id iran-ncc
+title Iranian National Cancer Institute
 type nationalCancerInstitute
 
 website https://gsia.tums.ac.ir/en/page/18368/Cancer-Institute

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Choriocarcinoma Uterus
+id choriocarcinoma-uterus
+title Choriocarcinoma Uterus
 type cancerType
 mainType Gestational Trophoblastic Disease
 tissue Uterus

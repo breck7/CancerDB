@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id MEDLINE
+id medline
+title MEDLINE
 type onlineDatabase
 appeared 1971
 parentOrganization nlm

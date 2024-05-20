@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Pure Erythroid Leukemia
+id pure-erythroid-leukemia
+title Pure Erythroid Leukemia
 type cancerType
 mainType Leukemia
 tissue Myeloid

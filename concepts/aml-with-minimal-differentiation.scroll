@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id AML with Minimal Differentiation
+id aml-with-minimal-differentiation
+title AML with Minimal Differentiation
 type cancerType
 mainType Leukemia
 tissue Myeloid

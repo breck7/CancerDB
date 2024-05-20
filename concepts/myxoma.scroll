@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Myxoma
+id myxoma
+title Myxoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

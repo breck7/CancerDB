@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Lung Cancer Subreddit
+id lung-cancer-subreddit
+title Lung Cancer Subreddit
 type subreddit onlineForum
 cancerTypes lung
 

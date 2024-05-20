@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id College of American Pathologists
+id college-of-american-pathologists
+title College of American Pathologists
 type professionalOrganization
 aka CAP
 

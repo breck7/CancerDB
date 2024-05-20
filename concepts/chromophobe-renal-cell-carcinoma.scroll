@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Chromophobe Renal Cell Carcinoma
+id chromophobe-renal-cell-carcinoma
+title Chromophobe Renal Cell Carcinoma
 type cancerType
 mainType Renal Cell Carcinoma
 tissue Kidney

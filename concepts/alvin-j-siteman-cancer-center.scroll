@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Alvin J. Siteman Cancer Center
+id alvin-j-siteman-cancer-center
+title Alvin J. Siteman Cancer Center
 type nciCancerCenter
 
 website https://siteman.wustl.edu/

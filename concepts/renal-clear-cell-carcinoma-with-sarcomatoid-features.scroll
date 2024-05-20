@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Renal Clear Cell Carcinoma with Sarcomatoid Features
+id renal-clear-cell-carcinoma-with-sarcomatoid-features
+title Renal Clear Cell Carcinoma with Sarcomatoid Features
 type cancerType
 mainType Renal Cell Carcinoma
 tissue Kidney

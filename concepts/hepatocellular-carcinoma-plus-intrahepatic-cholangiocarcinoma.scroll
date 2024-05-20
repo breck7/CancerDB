@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Hepatocellular Carcinoma plus Intrahepatic Cholangiocarcinoma
+id hepatocellular-carcinoma-plus-intrahepatic-cholangiocarcinoma
+title Hepatocellular Carcinoma plus Intrahepatic Cholangiocarcinoma
 type cancerType
 mainType Hepatobiliary Cancer
 tissue Liver

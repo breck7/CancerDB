@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Myxofibrosarcoma
+id myxofibrosarcoma
+title Myxofibrosarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

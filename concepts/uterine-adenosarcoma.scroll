@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Uterine Adenosarcoma
+id uterine-adenosarcoma
+title Uterine Adenosarcoma
 type cancerType
 mainType Uterine Sarcoma
 tissue Uterus

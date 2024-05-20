@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Vaginal Adenocarcinoma
+id vaginal-adenocarcinoma
+title Vaginal Adenocarcinoma
 type cancerType
 mainType Vaginal Cancer
 tissue Vulva/Vagina

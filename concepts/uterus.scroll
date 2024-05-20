@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Uterine Cancer
+id uterus
+title Uterine Cancer
 type cancerType
 mainType Uterine Cancer, NOS
 uscsId Corpus and Uterus, NOS

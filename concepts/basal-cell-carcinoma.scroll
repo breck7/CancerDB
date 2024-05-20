@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Basal Cell Carcinoma
+id basal-cell-carcinoma
+title Basal Cell Carcinoma
 type cancerType
 mainType Skin Cancer, Non-Melanoma
 tissue Skin

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Intraductal Papillary Mucinous Neoplasm
+id intraductal-papillary-mucinous-neoplasm
+title Intraductal Papillary Mucinous Neoplasm
 type cancerType
 mainType Pancreatic Cancer
 tissue Pancreas

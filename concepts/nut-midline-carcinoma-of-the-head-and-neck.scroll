@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id NUT Midline Carcinoma of the Head and Neck
+id nut-midline-carcinoma-of-the-head-and-neck
+title NUT Midline Carcinoma of the Head and Neck
 type cancerType
 mainType Head and Neck Cancer
 tissue Head and Neck

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Pineal Parenchymal Tumor of Intermediate Differentiation
+id pineal-parenchymal-tumor-of-intermediate-differentiation
+title Pineal Parenchymal Tumor of Intermediate Differentiation
 type cancerType
 mainType Pineal Tumor
 tissue CNS/Brain

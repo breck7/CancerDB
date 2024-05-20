@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Abramson Cancer Center
+id abramson-cancer-center
+title Abramson Cancer Center
 type nciCancerCenter
 
 website https://www.pennmedicine.org/cancer

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Early T-Cell Precursor Lymphoblastic Leukemia
+id early-t-cell-precursor-lymphoblastic-leukemia
+title Early T-Cell Precursor Lymphoblastic Leukemia
 type cancerType
 mainType T-Lymphoblastic Leukemia/Lymphoma
 tissue Lymphoid

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Sebaceous Carcinoma
+id sebaceous-carcinoma
+title Sebaceous Carcinoma
 type cancerType
 mainType Skin Cancer, Non-Melanoma
 tissue Skin

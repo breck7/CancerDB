@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id AACR
+id aacr
+title AACR
 type cancerNonProfit
 standsFor American Association of Cancer Research
 

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Neuroendocrine Carcinoma, NOS
+id neuroendocrine-carcinoma-nos
+title Neuroendocrine Carcinoma, NOS
 type cancerType
 mainType Cancer of Unknown Primary
 tissue Other

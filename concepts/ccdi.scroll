@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id CCDI
+id ccdi
+title CCDI
 type nationalGovernmentAgency
 parentOrganization nci
 standsFor Childhood Cancer Data Initiative

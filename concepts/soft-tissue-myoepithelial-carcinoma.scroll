@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Soft Tissue Myoepithelial Carcinoma
+id soft-tissue-myoepithelial-carcinoma
+title Soft Tissue Myoepithelial Carcinoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

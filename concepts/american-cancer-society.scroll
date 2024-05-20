@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id American Cancer Society
+id american-cancer-society
+title American Cancer Society
 type cancerNonProfit
 appeared 1913
 

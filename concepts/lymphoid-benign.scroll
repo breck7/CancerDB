@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Lymphoid Benign
+id lymphoid-benign
+title Lymphoid Benign
 type cancerType
 mainType Lymphatic Cancer, NOS
 tissue Lymphoid

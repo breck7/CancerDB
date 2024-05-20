@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Head and Neck Carcinoma, Other
+id head-and-neck-carcinoma-other
+title Head and Neck Carcinoma, Other
 type cancerType
 mainType Head and Neck Cancer
 tissue Head and Neck

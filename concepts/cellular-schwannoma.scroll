@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Cellular Schwannoma
+id cellular-schwannoma
+title Cellular Schwannoma
 type cancerType
 mainType Nerve Sheath Tumor
 tissue Peripheral Nervous System

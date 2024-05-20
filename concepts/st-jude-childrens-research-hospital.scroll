@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id St. Jude Children's Research Hospital
+id st-jude-childrens-research-hospital
+title St. Jude Children's Research Hospital
 type nciCancerCenter
 appeared 1962
 

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Gefitinib
+id gefitinib
+title Gefitinib
 type chemotherapyDrug
 tradenames Iressa
 

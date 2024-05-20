@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Colon Adenocarcinoma
+id colon-adenocarcinoma
+title Colon Adenocarcinoma
 type cancerType
 mainType Colorectal Cancer
 tissue Bowel

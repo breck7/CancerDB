@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Ixabepilone
+id ixabepilone
+title Ixabepilone
 type chemotherapyDrug
 tradenames Ixempra
 

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Gastric Type Mucinous Carcinoma
+id gastric-type-mucinous-carcinoma
+title Gastric Type Mucinous Carcinoma
 type cancerType
 mainType Cervical Cancer
 tissue Cervix

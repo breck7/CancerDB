@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Solitary Fibrous Tumor/Hemangiopericytoma
+id solitary-fibrous-tumor-hemangiopericytoma
+title Solitary Fibrous Tumor/Hemangiopericytoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

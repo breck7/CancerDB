@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Pilomyxoid Astrocytoma
+id pilomyxoid-astrocytoma
+title Pilomyxoid Astrocytoma
 type cancerType
 mainType Glioma
 tissue CNS/Brain

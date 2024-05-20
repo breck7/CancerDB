@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id AICR
+id aicr
+title AICR
 type cancerNonProfit
 appeared 1982
 standsFor American Institute for Cancer Research

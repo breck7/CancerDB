@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Dacarbazine
+id dacarbazine
+title Dacarbazine
 type chemotherapyDrug alkylatingAgent
 tradenames DTIC-Dome
 

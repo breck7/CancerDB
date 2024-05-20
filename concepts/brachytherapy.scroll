@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Brachytherapy
+id brachytherapy
+title Brachytherapy
 type radiationTherapy
 
 wikipedia https://en.wikipedia.org/wiki/Brachytherapy

@@ -1,3 +1,4 @@
 import ../code/conceptPage.scroll
-id Nutrition
+id nutrition
+title Nutrition
 type lifestyle

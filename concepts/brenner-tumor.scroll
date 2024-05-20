@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Brenner Tumor
+id brenner-tumor
+title Brenner Tumor
 type cancerType
 mainType Ovarian Cancer
 tissue Ovary/Fallopian Tube

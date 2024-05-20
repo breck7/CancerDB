@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Radiofrequency ablation
+id radiofrequency-ablation
+title Radiofrequency ablation
 type ablationProcedure
 aka RFA
 aka fulguration

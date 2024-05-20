@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Steam Bath
+id steam-bath
+title Steam Bath
 type breathTreatment
 
 wikipedia https://en.wikipedia.org/wiki/Steam_bath

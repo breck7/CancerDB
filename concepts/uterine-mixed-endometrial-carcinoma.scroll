@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Uterine Mixed Endometrial Carcinoma
+id uterine-mixed-endometrial-carcinoma
+title Uterine Mixed Endometrial Carcinoma
 type cancerType
 mainType Endometrial Cancer
 tissue Uterus

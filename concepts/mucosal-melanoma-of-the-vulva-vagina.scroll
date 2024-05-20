@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Mucosal Melanoma of the Vulva/Vagina
+id mucosal-melanoma-of-the-vulva-vagina
+title Mucosal Melanoma of the Vulva/Vagina
 type cancerType
 mainType Melanoma
 tissue Vulva/Vagina

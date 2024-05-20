@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id RPCC
+id rpcc
+title RPCC
 type registry
 appeared 1962
 standsFor Registro Poblacional De Cancer De Cali

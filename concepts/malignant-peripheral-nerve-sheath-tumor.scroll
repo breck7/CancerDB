@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Malignant Peripheral Nerve Sheath Tumor
+id malignant-peripheral-nerve-sheath-tumor
+title Malignant Peripheral Nerve Sheath Tumor
 type cancerType
 mainType Nerve Sheath Tumor
 tissue Peripheral Nervous System

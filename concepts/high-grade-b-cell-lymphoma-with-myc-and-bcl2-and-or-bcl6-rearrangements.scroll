@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id High-Grade B-Cell Lymphoma, with MYC and BCL2 and/or BCL6 Rearrangements
+id high-grade-b-cell-lymphoma-with-myc-and-bcl2-and-or-bcl6-rearrangements
+title High-Grade B-Cell Lymphoma, with MYC and BCL2 and/or BCL6 Rearrangements
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

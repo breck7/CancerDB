@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Pineocytoma
+id pineocytoma
+title Pineocytoma
 type cancerType
 mainType Pineal Tumor
 tissue CNS/Brain

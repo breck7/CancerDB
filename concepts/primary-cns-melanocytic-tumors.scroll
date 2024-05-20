@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Primary CNS Melanocytic Tumors
+id primary-cns-melanocytic-tumors
+title Primary CNS Melanocytic Tumors
 type cancerType
 mainType Primary CNS Melanocytic Tumors
 tissue CNS/Brain

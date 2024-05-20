@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Tubular Stomach Adenocarcinoma
+id tubular-stomach-adenocarcinoma
+title Tubular Stomach Adenocarcinoma
 type cancerType
 mainType Esophagogastric Cancer
 tissue Esophagus/Stomach

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Low-Grade Glioma, NOS
+id low-grade-glioma-nos
+title Low-Grade Glioma, NOS
 type cancerType
 mainType Glioma
 tissue CNS/Brain

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id kcr
+id kcr-ug
+title kcr
 type registry
 appeared 1954
 standsFor Kampala Cancer Registry

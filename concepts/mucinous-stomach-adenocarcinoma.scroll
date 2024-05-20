@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Mucinous Stomach Adenocarcinoma
+id mucinous-stomach-adenocarcinoma
+title Mucinous Stomach Adenocarcinoma
 type cancerType
 mainType Esophagogastric Cancer
 tissue Esophagus/Stomach

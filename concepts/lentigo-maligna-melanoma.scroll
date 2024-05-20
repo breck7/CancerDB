@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Lentigo Maligna Melanoma
+id lentigo-maligna-melanoma
+title Lentigo Maligna Melanoma
 type cancerType
 mainType Melanoma
 tissue Skin

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Tretinoin
+id tretinoin
+title Tretinoin
 type chemotherapyDrug
 tradenames Retin-a && Avita && Renova
 

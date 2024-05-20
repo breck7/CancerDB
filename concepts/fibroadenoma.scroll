@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Fibroadenoma
+id fibroadenoma
+title Fibroadenoma
 type cancerType
 mainType Breast Sarcoma
 tissue Breast

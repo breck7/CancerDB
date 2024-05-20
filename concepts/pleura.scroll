@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Pleura
+id pleura
+title Pleura
 type cancerType
 mainType Pleural Cancer, NOS
 tissue Pleura

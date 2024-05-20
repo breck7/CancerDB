@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Partial Hydatidiform Mole
+id partial-hydatidiform-mole
+title Partial Hydatidiform Mole
 type cancerType
 mainType Gestational Trophoblastic Disease
 tissue Uterus

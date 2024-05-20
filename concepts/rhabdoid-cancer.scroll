@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Rhabdoid Cancer
+id rhabdoid-cancer
+title Rhabdoid Cancer
 type cancerType
 mainType Rhabdoid Cancer
 tissue Kidney

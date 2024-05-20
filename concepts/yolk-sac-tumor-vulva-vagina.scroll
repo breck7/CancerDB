@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Yolk Sac Tumor Vulva/Vagina
+id yolk-sac-tumor-vulva-vagina
+title Yolk Sac Tumor Vulva/Vagina
 type cancerType
 mainType Germ Cell Tumor
 tissue Vulva/Vagina

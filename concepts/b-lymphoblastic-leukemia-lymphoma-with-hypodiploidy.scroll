@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id B-Lymphoblastic Leukemia/Lymphoma with Hypodiploidy
+id b-lymphoblastic-leukemia-lymphoma-with-hypodiploidy
+title B-Lymphoblastic Leukemia/Lymphoma with Hypodiploidy
 type cancerType
 mainType B-Lymphoblastic Leukemia/Lymphoma
 tissue Lymphoid

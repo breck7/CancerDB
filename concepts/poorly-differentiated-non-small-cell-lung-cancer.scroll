@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Poorly Differentiated Non-Small Cell Lung Cancer
+id poorly-differentiated-non-small-cell-lung-cancer
+title Poorly Differentiated Non-Small Cell Lung Cancer
 type cancerType
 mainType Non-Small Cell Lung Cancer
 tissue Lung

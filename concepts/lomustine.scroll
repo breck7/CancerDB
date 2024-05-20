@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Lomustine
+id lomustine
+title Lomustine
 type chemotherapyDrug alkylatingAgent
 tradenames Gleostine
 

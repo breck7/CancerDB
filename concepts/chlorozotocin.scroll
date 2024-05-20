@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Chlorozotocin
+id chlorozotocin
+title Chlorozotocin
 type chemotherapyDrug alkylatingAgent
 
 wikipedia https://en.wikipedia.org/wiki/Chlorozotocin

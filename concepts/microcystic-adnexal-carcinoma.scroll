@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Microcystic Adnexal Carcinoma
+id microcystic-adnexal-carcinoma
+title Microcystic Adnexal Carcinoma
 type cancerType
 mainType Skin Cancer, Non-Melanoma
 tissue Skin

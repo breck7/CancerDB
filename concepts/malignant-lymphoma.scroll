@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Malignant Lymphoma
+id malignant-lymphoma
+title Malignant Lymphoma
 type cancerType
 mainType Miscellaneous Brain Tumor
 tissue CNS/Brain

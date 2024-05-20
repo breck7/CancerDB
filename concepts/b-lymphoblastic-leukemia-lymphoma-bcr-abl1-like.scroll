@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id B-Lymphoblastic Leukemia/Lymphoma, BCR-ABL1 Like
+id b-lymphoblastic-leukemia-lymphoma-bcr-abl1-like
+title B-Lymphoblastic Leukemia/Lymphoma, BCR-ABL1 Like
 type cancerType
 mainType B-Lymphoblastic Leukemia/Lymphoma
 tissue Lymphoid

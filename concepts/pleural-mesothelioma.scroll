@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Pleural Mesothelioma
+id pleural-mesothelioma
+title Pleural Mesothelioma
 type cancerType
 mainType Mesothelioma
 tissue Pleura

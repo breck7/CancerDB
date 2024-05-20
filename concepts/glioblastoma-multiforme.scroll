@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Glioblastoma Multiforme
+id glioblastoma-multiforme
+title Glioblastoma Multiforme
 type cancerType
 mainType Glioma
 tissue CNS/Brain

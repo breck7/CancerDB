@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id WCRF
+id wcrf
+title WCRF
 type cancerNonProfit
 appeared 1999
 standsFor World Cancer Research Fund International

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Diffuse Glioma
+id diffuse-glioma
+title Diffuse Glioma
 type cancerType
 mainType Glioma
 tissue CNS/Brain

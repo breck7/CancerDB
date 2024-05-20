@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Hemangioma
+id hemangioma
+title Hemangioma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

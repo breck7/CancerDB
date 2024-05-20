@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id B-Lymphoblastic Leukemia/Lymphoma with t(v;11q23.3);KMT2A Rearranged
+id b-lymphoblastic-leukemia-lymphoma-with-tv11q23.3kmt2a-rearranged
+title B-Lymphoblastic Leukemia/Lymphoma with t(v;11q23.3);KMT2A Rearranged
 type cancerType
 mainType B-Lymphoblastic Leukemia/Lymphoma
 tissue Lymphoid

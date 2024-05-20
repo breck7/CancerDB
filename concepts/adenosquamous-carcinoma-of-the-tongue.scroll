@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Adenosquamous Carcinoma of the Tongue
+id adenosquamous-carcinoma-of-the-tongue
+title Adenosquamous Carcinoma of the Tongue
 type cancerType
 mainType Head and Neck Cancer
 tissue Head and Neck

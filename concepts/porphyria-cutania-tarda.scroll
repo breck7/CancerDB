@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Porphyria Cutania Tarda
+id porphyria-cutania-tarda
+title Porphyria Cutania Tarda
 type cancerType
 mainType Skin Cancer, Non-Melanoma
 tissue Skin

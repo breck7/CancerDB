@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id AML with t(8;21)(q22;q22.1);RUNX1-RUNX1T1
+id aml-with-t821q22q22.1runx1-runx1t1
+title AML with t(8;21)(q22;q22.1);RUNX1-RUNX1T1
 type cancerType
 mainType Leukemia
 tissue Myeloid

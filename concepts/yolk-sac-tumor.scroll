@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Yolk Sac Tumor
+id yolk-sac-tumor
+title Yolk Sac Tumor
 type cancerType
 mainType Germ Cell Tumor
 tissue Ovary/Fallopian Tube

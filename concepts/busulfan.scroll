@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Busulfan
+id busulfan
+title Busulfan
 type chemotherapyDrug alkylatingAgent
 tradenames Myleran && Busilvex && Busulfex IV
 

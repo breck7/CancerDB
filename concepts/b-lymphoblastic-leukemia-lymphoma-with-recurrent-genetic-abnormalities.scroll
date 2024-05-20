@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id B-Lymphoblastic Leukemia/Lymphoma with Recurrent Genetic Abnormalities
+id b-lymphoblastic-leukemia-lymphoma-with-recurrent-genetic-abnormalities
+title B-Lymphoblastic Leukemia/Lymphoma with Recurrent Genetic Abnormalities
 type cancerType
 mainType B-Lymphoblastic Leukemia/Lymphoma
 tissue Lymphoid

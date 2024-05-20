@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Bristol Myers Squibb
+id bristol-myers-squibb
+title Bristol Myers Squibb
 type publicCompany
 
 website https://www.bms.com/

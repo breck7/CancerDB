@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Yale Cancer Center
+id yale-cancer-center
+title Yale Cancer Center
 type nciCancerCenter
 
 website https://www.yalecancercenter.org/

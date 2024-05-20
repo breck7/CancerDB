@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id ncr-sa
+id ncrsa-za
+title ncr-sa
 type registry
 appeared 1986
 standsFor South Africa National Cancer Registry

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Mayo Clinic Phoenix
+id mayo-clinic-phoenix
+title Mayo Clinic Phoenix
 type nciCancerCenter
 aka Mayo Clinic Arizona
 

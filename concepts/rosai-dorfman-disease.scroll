@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Rosai-Dorfman Disease
+id rosai-dorfman-disease
+title Rosai-Dorfman Disease
 type cancerType
 mainType Histiocytosis
 tissue Myeloid

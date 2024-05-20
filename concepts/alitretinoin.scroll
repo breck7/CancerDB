@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Alitretinoin
+id alitretinoin
+title Alitretinoin
 type chemotherapyDrug
 tradenames Panretin (gel) && Toctino (oral)
 

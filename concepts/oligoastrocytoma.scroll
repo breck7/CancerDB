@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Oligoastrocytoma
+id oligoastrocytoma
+title Oligoastrocytoma
 type cancerType
 mainType Glioma
 tissue CNS/Brain

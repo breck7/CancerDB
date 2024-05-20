@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Parathyroid Cancer
+id parathyroid-cancer
+title Parathyroid Cancer
 type cancerType
 mainType Parathyroid Cancer
 tissue Head and Neck

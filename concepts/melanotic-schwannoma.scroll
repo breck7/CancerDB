@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Melanotic Schwannoma
+id melanotic-schwannoma
+title Melanotic Schwannoma
 type cancerType
 mainType Nerve Sheath Tumor
 tissue Peripheral Nervous System

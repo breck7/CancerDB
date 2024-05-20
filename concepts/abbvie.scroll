@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id AbbVie
+id abbvie
+title AbbVie
 type publicCompany
 
 website https://www.abbvie.com/

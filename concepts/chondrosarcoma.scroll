@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Chondrosarcoma
+id chondrosarcoma
+title Chondrosarcoma
 type cancerType
 mainType Bone Cancer
 tissue Bone

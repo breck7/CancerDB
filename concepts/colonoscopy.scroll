@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Colonoscopy
+id colonoscopy
+title Colonoscopy
 type diagnosticTest
 conceptDescription The endoscopic examination of the large bowel and the distal part of the small bowel with a CCD camera or a fiber optic camera on a flexible tube passed through the anus.
 

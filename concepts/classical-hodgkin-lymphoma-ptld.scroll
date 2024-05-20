@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Classical Hodgkin Lymphoma PTLD
+id classical-hodgkin-lymphoma-ptld
+title Classical Hodgkin Lymphoma PTLD
 type cancerType
 mainType Posttransplant Lymphoproliferative Disorders
 tissue Lymphoid

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id B-Lymphoblastic Leukemia/Lymphoma, NOS
+id b-lymphoblastic-leukemia-lymphoma-nos
+title B-Lymphoblastic Leukemia/Lymphoma, NOS
 type cancerType
 mainType B-Lymphoblastic Leukemia/Lymphoma
 tissue Lymphoid

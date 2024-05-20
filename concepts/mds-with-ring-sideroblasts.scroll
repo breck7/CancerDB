@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id MDS with Ring Sideroblasts
+id mds-with-ring-sideroblasts
+title MDS with Ring Sideroblasts
 type cancerType
 mainType Myelodysplastic Syndromes
 tissue Myeloid

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Large Cell Lung Carcinoma With Rhabdoid Phenotype
+id large-cell-lung-carcinoma-with-rhabdoid-phenotype
+title Large Cell Lung Carcinoma With Rhabdoid Phenotype
 type cancerType
 mainType Non-Small Cell Lung Cancer
 tissue Lung

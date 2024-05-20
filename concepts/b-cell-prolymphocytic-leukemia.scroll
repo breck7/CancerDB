@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id B-Cell Prolymphocytic Leukemia
+id b-cell-prolymphocytic-leukemia
+title B-Cell Prolymphocytic Leukemia
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

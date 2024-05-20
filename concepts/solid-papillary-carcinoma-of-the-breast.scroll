@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Solid Papillary Carcinoma of the Breast
+id solid-papillary-carcinoma-of-the-breast
+title Solid Papillary Carcinoma of the Breast
 type cancerType
 mainType Breast Cancer
 tissue Breast

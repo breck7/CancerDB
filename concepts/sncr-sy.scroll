@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id sncr
+id sncr-sy
+title sncr
 type registry
 appeared 2008
 standsFor Seychelles National Cancer Registry

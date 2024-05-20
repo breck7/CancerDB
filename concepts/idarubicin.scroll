@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Idarubicin
+id idarubicin
+title Idarubicin
 type chemotherapyDrug anthracycline
 
 wikipedia https://en.wikipedia.org/wiki/Idarubicin

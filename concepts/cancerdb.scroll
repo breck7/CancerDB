@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id CancerDB
+id cancerdb
+title CancerDB
 type onlineDatabase website
 appeared 2022
 

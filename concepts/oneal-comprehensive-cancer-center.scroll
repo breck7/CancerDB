@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id O’Neal Comprehensive Cancer Center
+id oneal-comprehensive-cancer-center
+title O’Neal Comprehensive Cancer Center
 type nciCancerCenter
 
 website https://www.onealcanceruab.org/

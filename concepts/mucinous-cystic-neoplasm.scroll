@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Mucinous Cystic Neoplasm
+id mucinous-cystic-neoplasm
+title Mucinous Cystic Neoplasm
 type cancerType
 mainType Pancreatic Cancer
 tissue Pancreas

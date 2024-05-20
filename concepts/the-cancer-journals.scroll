@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id The Cancer Journals
+id the-cancer-journals
+title The Cancer Journals
 type book
 appeared 1980
 conceptAuthor Audre Lorde

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Astroblastoma
+id astroblastoma
+title Astroblastoma
 type cancerType
 mainType Miscellaneous Neuroepithelial Tumor
 tissue CNS/Brain

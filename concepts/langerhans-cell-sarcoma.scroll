@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Langerhans Cell Sarcoma
+id langerhans-cell-sarcoma
+title Langerhans Cell Sarcoma
 type cancerType
 mainType Histiocytosis
 tissue Myeloid

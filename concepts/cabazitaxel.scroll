@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Cabazitaxel
+id cabazitaxel
+title Cabazitaxel
 type chemotherapyDrug taxane
 tradenames Jevtana
 

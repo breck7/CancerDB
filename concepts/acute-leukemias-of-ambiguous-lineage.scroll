@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Acute Leukemias of Ambiguous Lineage
+id acute-leukemias-of-ambiguous-lineage
+title Acute Leukemias of Ambiguous Lineage
 type cancerType
 mainType Leukemia
 tissue Myeloid

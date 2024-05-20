@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id GDC
+id gdc
+title GDC
 type onlineDatabase
 standsFor Genomic Data Commons
 conceptDescription The GDC Data Portal is a robust data-driven platform that allows cancer researchers and bioinformaticians to search and download cancer data for analysis.

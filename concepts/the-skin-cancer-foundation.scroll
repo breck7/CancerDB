@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id The Skin Cancer Foundation
+id the-skin-cancer-foundation
+title The Skin Cancer Foundation
 type cancerNonProfit
 cancerTypes skin
 

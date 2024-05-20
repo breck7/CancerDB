@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Trofosfamide
+id trofosfamide
+title Trofosfamide
 type chemotherapyDrug alkylatingAgent
 tradenames Ixoten
 

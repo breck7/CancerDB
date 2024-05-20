@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Inflammatory Myofibroblastic Tumor
+id inflammatory-myofibroblastic-tumor
+title Inflammatory Myofibroblastic Tumor
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

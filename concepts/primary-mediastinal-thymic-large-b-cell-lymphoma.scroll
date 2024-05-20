@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Primary Mediastinal (Thymic) Large B-Cell Lymphoma
+id primary-mediastinal-thymic-large-b-cell-lymphoma
+title Primary Mediastinal (Thymic) Large B-Cell Lymphoma
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Adenosquamous Carcinoma of the Pancreas
+id adenosquamous-carcinoma-of-the-pancreas
+title Adenosquamous Carcinoma of the Pancreas
 type cancerType
 mainType Pancreatic Cancer
 tissue Pancreas

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Anal Squamous Cell Carcinoma
+id anal-squamous-cell-carcinoma
+title Anal Squamous Cell Carcinoma
 type cancerType
 mainType Anal Cancer
 tissue Bowel

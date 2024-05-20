@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Cytarabine
+id cytarabine
+title Cytarabine
 type chemotherapyDrug
 tradenames Cytosar-U && Depocyt
 

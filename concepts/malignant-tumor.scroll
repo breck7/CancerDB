@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Malignant Tumor
+id malignant-tumor
+title Malignant Tumor
 type cancerType
 mainType Miscellaneous Brain Tumor
 tissue CNS/Brain

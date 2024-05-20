@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Extrahepatic Cholangiocarcinoma
+id extrahepatic-cholangiocarcinoma
+title Extrahepatic Cholangiocarcinoma
 type cancerType
 mainType Hepatobiliary Cancer
 tissue Biliary Tract

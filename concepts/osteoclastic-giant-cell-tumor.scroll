@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Osteoclastic Giant Cell Tumor
+id osteoclastic-giant-cell-tumor
+title Osteoclastic Giant Cell Tumor
 type cancerType
 mainType Pancreatic Cancer
 tissue Pancreas

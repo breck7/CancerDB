@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Mayo Clinic Jacksonville
+id mayo-clinic-jacksonville
+title Mayo Clinic Jacksonville
 type nciCancerCenter
 aka Mayo Clinic Florida
 

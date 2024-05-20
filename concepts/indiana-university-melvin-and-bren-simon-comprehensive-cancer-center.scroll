@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Indiana University Melvin and Bren Simon Comprehensive Cancer Center
+id indiana-university-melvin-and-bren-simon-comprehensive-cancer-center
+title Indiana University Melvin and Bren Simon Comprehensive Cancer Center
 type nciCancerCenter
 
 website https://cancer.iu.edu/

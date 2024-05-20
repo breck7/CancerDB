@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Chlormethine
+id chlormethine
+title Chlormethine
 type chemotherapyDrug alkylatingAgent
 
 wikipedia https://en.wikipedia.org/wiki/Chlormethine

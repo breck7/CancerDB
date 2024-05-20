@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Uterine Mucinous Carcinoma
+id uterine-mucinous-carcinoma
+title Uterine Mucinous Carcinoma
 type cancerType
 mainType Endometrial Cancer
 tissue Uterus

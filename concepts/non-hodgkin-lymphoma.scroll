@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Non-Hodgkin Lymphoma
+id non-hodgkin-lymphoma
+title Non-Hodgkin Lymphoma
 type cancerType
 mainType Non-Hodgkin Lymphoma
 uscsId Non-Hodgkin Lymphoma

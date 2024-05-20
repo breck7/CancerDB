@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Endometrial Carcinoma
+id endometrial-carcinoma
+title Endometrial Carcinoma
 type cancerType
 mainType Endometrial Cancer
 tissue Uterus

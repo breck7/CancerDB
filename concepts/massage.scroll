@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Massage
+id massage
+title Massage
 type touchTreatment
 
 wikipedia https://en.wikipedia.org/wiki/Massage

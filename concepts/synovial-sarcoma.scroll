@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Synovial Sarcoma
+id synovial-sarcoma
+title Synovial Sarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

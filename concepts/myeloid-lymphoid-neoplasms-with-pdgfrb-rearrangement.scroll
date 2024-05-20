@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Myeloid/Lymphoid Neoplasms with PDGFRB Rearrangement
+id myeloid-lymphoid-neoplasms-with-pdgfrb-rearrangement
+title Myeloid/Lymphoid Neoplasms with PDGFRB Rearrangement
 type cancerType
 mainType Leukemia
 tissue Myeloid

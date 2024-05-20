@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Serene Hospice Care
+id serene-hospice-care
+title Serene Hospice Care
 type caregiverService hospiceCareService
 
 website https://serenehospicecare.com/

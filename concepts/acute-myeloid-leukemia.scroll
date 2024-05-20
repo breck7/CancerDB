@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Acute Myeloid Leukemia
+id acute-myeloid-leukemia
+title Acute Myeloid Leukemia
 type cancerType
 mainType Leukemia
 tissue Myeloid

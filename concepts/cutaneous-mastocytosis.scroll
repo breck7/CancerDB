@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Cutaneous Mastocytosis
+id cutaneous-mastocytosis
+title Cutaneous Mastocytosis
 type cancerType
 mainType Mastocytosis
 tissue Myeloid

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Medulloblastoma with Extensive Nodularity
+id medulloblastoma-with-extensive-nodularity
+title Medulloblastoma with Extensive Nodularity
 type cancerType
 mainType Embryonal Tumor
 tissue CNS/Brain

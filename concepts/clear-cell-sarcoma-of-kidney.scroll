@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Clear Cell Sarcoma of Kidney
+id clear-cell-sarcoma-of-kidney
+title Clear Cell Sarcoma of Kidney
 type cancerType
 mainType Clear Cell Sarcoma of Kidney
 tissue Kidney

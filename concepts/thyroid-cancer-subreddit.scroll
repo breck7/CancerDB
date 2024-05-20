@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Thyroid Cancer Subreddit
+id thyroid-cancer-subreddit
+title Thyroid Cancer Subreddit
 type subreddit onlineForum
 cancerTypes thyroid
 

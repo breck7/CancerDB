@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Extranodal NK-/T-Cell Lymphoma, Nasal Type
+id extranodal-nk--t-cell-lymphoma-nasal-type
+title Extranodal NK-/T-Cell Lymphoma, Nasal Type
 type cancerType
 mainType Mature T and NK Neoplasms
 tissue Lymphoid

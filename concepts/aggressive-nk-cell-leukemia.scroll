@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Aggressive NK-Cell Leukemia
+id aggressive-nk-cell-leukemia
+title Aggressive NK-Cell Leukemia
 type cancerType
 mainType Mature T and NK Neoplasms
 tissue Lymphoid

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id CRPTDF
+id crptdf-ar
+title CRPTDF
 type registry
 standsFor Cancer Registry of the Province of Tierra del Fuego
 conceptDescription Population-based Cancer Registry of the Province of Tierra del Fuego.

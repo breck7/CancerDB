@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Mixed Germ Cell Tumor Vulva/Vagina
+id mixed-germ-cell-tumor-vulva-vagina
+title Mixed Germ Cell Tumor Vulva/Vagina
 type cancerType
 mainType Germ Cell Tumor
 tissue Vulva/Vagina

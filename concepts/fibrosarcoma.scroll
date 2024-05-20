@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Fibrosarcoma
+id fibrosarcoma
+title Fibrosarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

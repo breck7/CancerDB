@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Mastocytosis
+id mastocytosis
+title Mastocytosis
 type cancerType
 mainType Mastocytosis
 tissue Myeloid

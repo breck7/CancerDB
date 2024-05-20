@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Malignant Teratoma
+id malignant-teratoma
+title Malignant Teratoma
 type cancerType
 mainType Germ Cell Tumor
 tissue CNS/Brain

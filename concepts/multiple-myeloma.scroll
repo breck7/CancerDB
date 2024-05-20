@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Multiple Myeloma
+id multiple-myeloma
+title Multiple Myeloma
 type cancerType
 uscsId Myeloma
 uscsDeathsPerYear 12425

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Nivolumab
+id nivolumab
+title Nivolumab
 type drug
 
 wikipedia https://en.wikipedia.org/wiki/Nivolumab

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Follicular T-Cell Lymphoma
+id follicular-t-cell-lymphoma
+title Follicular T-Cell Lymphoma
 type cancerType
 mainType Mature T and NK Neoplasms
 tissue Lymphoid

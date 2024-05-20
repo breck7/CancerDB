@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id OncoTree
+id oncotree
+title OncoTree
 type onlineDatabase
 parentOrganization memorial-sloan-kettering-cancer-center
 

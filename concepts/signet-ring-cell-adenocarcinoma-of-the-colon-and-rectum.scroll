@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Signet Ring Cell Adenocarcinoma of the Colon and Rectum
+id signet-ring-cell-adenocarcinoma-of-the-colon-and-rectum
+title Signet Ring Cell Adenocarcinoma of the Colon and Rectum
 type cancerType
 mainType Colorectal Cancer
 tissue Bowel

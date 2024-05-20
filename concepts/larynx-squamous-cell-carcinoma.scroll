@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Larynx Squamous Cell Carcinoma
+id larynx-squamous-cell-carcinoma
+title Larynx Squamous Cell Carcinoma
 type cancerType
 mainType Head and Neck Cancer
 tissue Head and Neck

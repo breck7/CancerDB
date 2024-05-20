@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Dartmouth Cancer Center
+id dartmouth-cancer-center
+title Dartmouth Cancer Center
 type nciCancerCenter
 
 website https://cancer.dartmouth.edu/

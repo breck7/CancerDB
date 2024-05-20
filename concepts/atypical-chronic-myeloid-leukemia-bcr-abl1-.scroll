@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Atypical Chronic Myeloid Leukemia, BCR-ABL1-
+id atypical-chronic-myeloid-leukemia-bcr-abl1-
+title Atypical Chronic Myeloid Leukemia, BCR-ABL1-
 type cancerType
 mainType Myelodysplastic/Myeloproliferative Neoplasms
 tissue Myeloid

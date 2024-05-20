@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Ovarian Germ Cell Tumor
+id ovarian-germ-cell-tumor
+title Ovarian Germ Cell Tumor
 type cancerType
 mainType Germ Cell Tumor
 tissue Ovary/Fallopian Tube

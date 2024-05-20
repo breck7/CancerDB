@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Georgetown Lombardi Comprehensive Cancer Center
+id georgetown-lombardi-comprehensive-cancer-center
+title Georgetown Lombardi Comprehensive Cancer Center
 type nciCancerCenter
 
 website https://lombardi.georgetown.edu/

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Jonsson Comprehensive Cancer Center
+id jonsson-comprehensive-cancer-center
+title Jonsson Comprehensive Cancer Center
 type nciCancerCenter
 
 website https://cancer.ucla.edu/

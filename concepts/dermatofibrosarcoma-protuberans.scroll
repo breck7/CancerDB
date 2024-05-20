@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Dermatofibrosarcoma Protuberans
+id dermatofibrosarcoma-protuberans
+title Dermatofibrosarcoma Protuberans
 type cancerType
 mainType Skin Cancer, Non-Melanoma
 tissue Skin

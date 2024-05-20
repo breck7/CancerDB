@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Fibrothecoma
+id fibrothecoma
+title Fibrothecoma
 type cancerType
 mainType Sex Cord Stromal Tumor
 tissue Ovary/Fallopian Tube

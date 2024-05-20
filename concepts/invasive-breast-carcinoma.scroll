@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Invasive Breast Carcinoma
+id invasive-breast-carcinoma
+title Invasive Breast Carcinoma
 type cancerType
 mainType Breast Cancer
 tissue Breast

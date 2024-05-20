@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Spanish National Cancer Research Center
+id cnio
+title Spanish National Cancer Research Center
 type nationalCancerInstitute
 aka CNIO
 

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id T-Lymphoblastic Leukemia/Lymphoma
+id t-lymphoblastic-leukemia-lymphoma
+title T-Lymphoblastic Leukemia/Lymphoma
 type cancerType
 mainType T-Lymphoblastic Leukemia/Lymphoma
 tissue Lymphoid

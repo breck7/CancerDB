@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id SACR
+id sacr-au
+title SACR
 type registry
 appeared 1977
 standsFor South Australian Cancer Registry

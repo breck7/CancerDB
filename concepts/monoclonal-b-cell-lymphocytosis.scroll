@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Monoclonal B-Cell Lymphocytosis
+id monoclonal-b-cell-lymphocytosis
+title Monoclonal B-Cell Lymphocytosis
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

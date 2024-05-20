@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Colorectal Cancer
+id colorectal
+title Colorectal Cancer
 type cancerType
 tissue Colon
 

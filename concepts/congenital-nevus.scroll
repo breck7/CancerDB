@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Congenital Nevus
+id congenital-nevus
+title Congenital Nevus
 type cancerType
 mainType Melanoma
 tissue Skin

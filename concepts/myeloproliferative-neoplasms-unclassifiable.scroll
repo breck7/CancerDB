@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Myeloproliferative Neoplasms, Unclassifiable
+id myeloproliferative-neoplasms-unclassifiable
+title Myeloproliferative Neoplasms, Unclassifiable
 type cancerType
 mainType Myeloproliferative Neoplasms
 tissue Myeloid

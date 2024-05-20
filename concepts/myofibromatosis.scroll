@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Myofibromatosis
+id myofibromatosis
+title Myofibromatosis
 type cancerType
 mainType Myofibromatosis
 tissue Soft Tissue

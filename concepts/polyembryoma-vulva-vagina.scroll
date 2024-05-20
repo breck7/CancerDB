@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Polyembryoma Vulva/Vagina
+id polyembryoma-vulva-vagina
+title Polyembryoma Vulva/Vagina
 type cancerType
 mainType Germ Cell Tumor
 tissue Vulva/Vagina

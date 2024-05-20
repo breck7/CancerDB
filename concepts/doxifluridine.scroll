@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Doxifluridine
+id doxifluridine
+title Doxifluridine
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Doxifluridine

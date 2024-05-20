@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Prostate Cancer Subreddit
+id prostate-cancer-subreddit
+title Prostate Cancer Subreddit
 type subreddit onlineForum
 cancerTypes prostate
 

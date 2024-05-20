@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Lymphoma Subreddit
+id lymphoma-subreddit
+title Lymphoma Subreddit
 type subreddit onlineForum
 cancerTypes lymphoma
 

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Lymphedema Sleeve
+id lymphedema-sleeve
+title Lymphedema Sleeve
 type clothing
 conceptDescription May help control Lymphedema. Lymphedema is the term used to describe the swelling that occurs when lymph fluid builds up in the tissues of your body.
 aka compression sleeve

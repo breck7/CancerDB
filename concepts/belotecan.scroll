@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Belotecan
+id belotecan
+title Belotecan
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Belotecan

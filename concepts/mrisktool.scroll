@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id The Melanoma Risk Assessment Tool
+id mrisktool
+title The Melanoma Risk Assessment Tool
 type website
 
 website https://mrisktool.cancer.gov/

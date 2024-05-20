@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Fibroblastic Reticular Cell Tumor
+id fibroblastic-reticular-cell-tumor
+title Fibroblastic Reticular Cell Tumor
 type cancerType
 mainType Histiocytosis
 tissue Myeloid

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Desmoplastic Small-Round-Cell Tumor
+id desmoplastic-small-round-cell-tumor
+title Desmoplastic Small-Round-Cell Tumor
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

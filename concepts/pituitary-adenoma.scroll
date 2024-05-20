@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Pituitary Adenoma
+id pituitary-adenoma
+title Pituitary Adenoma
 type cancerType
 mainType Sellar Tumor
 tissue CNS/Brain

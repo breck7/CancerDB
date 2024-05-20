@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Swiss Cancer League
+id swiss-cancer-league
+title Swiss Cancer League
 type cancerNonProfit
 appeared 1910
 

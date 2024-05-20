@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Hepatectomy
+id hepatectomy
+title Hepatectomy
 type surgery
 
 wikipedia https://en.wikipedia.org/wiki/Hepatectomy

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id NCC
+id ncc
+title NCC
 type cancerNonProfit
 appeared 1953
 standsFor National Cancer Center

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Placental Site Trophoblastic Tumor
+id placental-site-trophoblastic-tumor
+title Placental Site Trophoblastic Tumor
 type cancerType
 mainType Gestational Trophoblastic Disease
 tissue Uterus

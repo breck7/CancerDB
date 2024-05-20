@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Neuroblastoma
+id neuroblastoma
+title Neuroblastoma
 type cancerType
 mainType Peripheral Nervous System
 tissue Peripheral Nervous System

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Oropharyngeal cancer
+id oropharyngeal-cancer
+title Oropharyngeal cancer
 type cancerType
 aka Tonsil cancer
 

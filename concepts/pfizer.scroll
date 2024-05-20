@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Pfizer
+id pfizer
+title Pfizer
 type publicCompany
 
 website https://www.pfizer.com/

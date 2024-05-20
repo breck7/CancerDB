@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Pediatric-Type Follicular Lymphoma
+id pediatric-type-follicular-lymphoma
+title Pediatric-Type Follicular Lymphoma
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

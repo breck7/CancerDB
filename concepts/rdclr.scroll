@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
 id rdclr
+title rdclr
 type registry
 appeared 1989
 standsFor Registre des cancers de la Réunion

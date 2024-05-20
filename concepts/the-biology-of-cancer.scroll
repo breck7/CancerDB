@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id The Biology of Cancer
+id the-biology-of-cancer
+title The Biology of Cancer
 type book
 appeared 2013
 conceptAuthor Robert Weinberg

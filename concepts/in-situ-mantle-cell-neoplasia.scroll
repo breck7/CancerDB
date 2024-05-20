@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id In Situ Mantle Cell Neoplasia
+id in-situ-mantle-cell-neoplasia
+title In Situ Mantle Cell Neoplasia
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id AML with BCR-ABL1
+id aml-with-bcr-abl1
+title AML with BCR-ABL1
 type cancerType
 mainType Leukemia
 tissue Myeloid

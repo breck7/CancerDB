@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id AML with Myelodysplasia-Related Changes
+id aml-with-myelodysplasia-related-changes
+title AML with Myelodysplasia-Related Changes
 type cancerType
 mainType Leukemia
 tissue Myeloid

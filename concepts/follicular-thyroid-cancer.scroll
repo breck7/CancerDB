@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Follicular Thyroid Cancer
+id follicular-thyroid-cancer
+title Follicular Thyroid Cancer
 type cancerType
 mainType Thyroid Cancer
 tissue Thyroid

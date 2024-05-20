@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Primitive Neuroectodermal Tumor
+id primitive-neuroectodermal-tumor
+title Primitive Neuroectodermal Tumor
 type cancerType
 mainType Embryonal Tumor
 tissue CNS/Brain

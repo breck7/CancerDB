@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Polycythaemia Vera Myelofibrosis
+id polycythaemia-vera-myelofibrosis
+title Polycythaemia Vera Myelofibrosis
 type cancerType
 mainType Myeloproliferative Neoplasms
 tissue Myeloid

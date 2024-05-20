@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Ovarian Seromucinous Borderline Tumor
+id ovarian-seromucinous-borderline-tumor
+title Ovarian Seromucinous Borderline Tumor
 type cancerType
 mainType Ovarian Cancer
 tissue Ovary/Fallopian Tube

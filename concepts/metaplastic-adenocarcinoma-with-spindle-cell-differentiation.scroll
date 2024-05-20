@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Metaplastic Adenocarcinoma with Spindle Cell Differentiation
+id metaplastic-adenocarcinoma-with-spindle-cell-differentiation
+title Metaplastic Adenocarcinoma with Spindle Cell Differentiation
 type cancerType
 mainType Breast Cancer
 tissue Breast

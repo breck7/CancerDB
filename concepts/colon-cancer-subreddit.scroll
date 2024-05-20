@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Colon Cancer Subreddit
+id colon-cancer-subreddit
+title Colon Cancer Subreddit
 type subreddit onlineForum
 cancerTypes colon
 

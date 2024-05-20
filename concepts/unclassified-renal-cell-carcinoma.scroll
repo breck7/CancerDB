@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Unclassified Renal Cell Carcinoma
+id unclassified-renal-cell-carcinoma
+title Unclassified Renal Cell Carcinoma
 type cancerType
 mainType Renal Cell Carcinoma
 tissue Kidney

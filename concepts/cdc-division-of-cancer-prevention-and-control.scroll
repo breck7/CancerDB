@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id CDC Division of Cancer Prevention and Control
+id cdc-division-of-cancer-prevention-and-control
+title CDC Division of Cancer Prevention and Control
 type nationalGovernmentAgency
 parentOrganization cdc
 conceptDescription The mission of CDC’s Division of Cancer Prevention and Control is for all people to be free of cancer.

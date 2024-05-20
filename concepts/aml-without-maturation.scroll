@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id AML without Maturation
+id aml-without-maturation
+title AML without Maturation
 type cancerType
 mainType Leukemia
 tissue Myeloid

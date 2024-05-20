@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id IgA
+id iga
+title IgA
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

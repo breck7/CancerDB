@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Sanofi
+id sanofi
+title Sanofi
 type publicCompany
 
 website https://www.sanofi.com

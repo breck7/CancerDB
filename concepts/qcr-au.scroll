@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id QCR
+id qcr-au
+title QCR
 type registry
 appeared 1982
 standsFor Queensland Cancer Register

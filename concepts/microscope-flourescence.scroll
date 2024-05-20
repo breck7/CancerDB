@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Flourescence Microscope
+id microscope-flourescence
+title Flourescence Microscope
 type microscope
 conceptDescription uses a fluorescent light to excite molecules in a specimen and create highly detailed images of subcellular structures.
 

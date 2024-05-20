@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Uterine Sarcoma, Other
+id uterine-sarcoma-other
+title Uterine Sarcoma, Other
 type cancerType
 mainType Uterine Sarcoma
 tissue Uterus

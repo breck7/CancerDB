@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Prostate Small Cell Carcinoma
+id prostate-small-cell-carcinoma
+title Prostate Small Cell Carcinoma
 type cancerType
 mainType Prostate Cancer
 tissue Prostate

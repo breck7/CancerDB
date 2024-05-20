@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Low-Grade Endometrial Stromal Sarcoma
+id low-grade-endometrial-stromal-sarcoma
+title Low-Grade Endometrial Stromal Sarcoma
 type cancerType
 mainType Uterine Sarcoma
 tissue Uterus

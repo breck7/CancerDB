@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id TCR
+id tcr-au
+title TCR
 type registry
 appeared 1978
 standsFor Tasmanian Cancer Registry

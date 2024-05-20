@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Daunorubicin
+id daunorubicin
+title Daunorubicin
 type chemotherapyDrug anthracycline
 tradenames Cerubidine
 

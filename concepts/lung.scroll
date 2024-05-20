@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Lung Cancer
+id lung
+title Lung Cancer
 type cancerType
 mainType Lung Cancer, NOS
 uscsId Lung and Bronchus

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Prevent Cancer Foundation
+id prevent-cancer-foundation
+title Prevent Cancer Foundation
 type cancerNonProfit
 appeared 1985
 

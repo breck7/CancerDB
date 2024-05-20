@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Nerve Sheath Tumor
+id nerve-sheath-tumor
+title Nerve Sheath Tumor
 type cancerType
 mainType Nerve Sheath Tumor
 tissue Peripheral Nervous System

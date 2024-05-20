@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Lung Adenocarcinoma In Situ
+id lung-adenocarcinoma-in-situ
+title Lung Adenocarcinoma In Situ
 type cancerType
 mainType Non-Small Cell Lung Cancer
 tissue Lung

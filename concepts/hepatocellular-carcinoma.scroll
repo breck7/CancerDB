@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Hepatocellular Carcinoma
+id hepatocellular-carcinoma
+title Hepatocellular Carcinoma
 type cancerType
 mainType Hepatobiliary Cancer
 tissue Liver

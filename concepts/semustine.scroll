@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Semustine
+id semustine
+title Semustine
 type chemotherapyDrug alkylatingAgent
 
 wikipedia https://en.wikipedia.org/wiki/Semustine

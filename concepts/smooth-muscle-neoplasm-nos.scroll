@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Smooth Muscle Neoplasm, NOS
+id smooth-muscle-neoplasm-nos
+title Smooth Muscle Neoplasm, NOS
 type cancerType
 mainType Esophagogastric Cancer
 tissue Esophagus/Stomach

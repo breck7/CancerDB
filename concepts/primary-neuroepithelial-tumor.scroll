@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Primary Neuroepithelial Tumor
+id primary-neuroepithelial-tumor
+title Primary Neuroepithelial Tumor
 type cancerType
 mainType Miscellaneous Brain Tumor
 tissue CNS/Brain

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Roswell Park Comprehensive Cancer Center
+id roswell-park-comprehensive-cancer-center
+title Roswell Park Comprehensive Cancer Center
 type nciCancerCenter
 
 website https://www.roswellpark.org/

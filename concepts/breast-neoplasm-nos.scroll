@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Breast Neoplasm, NOS
+id breast-neoplasm-nos
+title Breast Neoplasm, NOS
 type cancerType
 mainType Breast Cancer
 tissue Breast

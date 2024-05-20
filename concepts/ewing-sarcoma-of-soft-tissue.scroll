@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Ewing Sarcoma of Soft Tissue
+id ewing-sarcoma-of-soft-tissue
+title Ewing Sarcoma of Soft Tissue
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

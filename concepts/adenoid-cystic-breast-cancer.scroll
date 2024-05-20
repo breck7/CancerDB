@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Adenoid Cystic Breast Cancer
+id adenoid-cystic-breast-cancer
+title Adenoid Cystic Breast Cancer
 type cancerType
 mainType Breast Cancer
 tissue Breast

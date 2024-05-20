@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id FH-Deficient Renal Cell Carcinoma
+id fh-deficient-renal-cell-carcinoma
+title FH-Deficient Renal Cell Carcinoma
 type cancerType
 mainType Renal Cell Carcinoma
 tissue Kidney

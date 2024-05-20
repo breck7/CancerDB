@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id American Liver Foundation
+id american-liver-foundation
+title American Liver Foundation
 type nonProfit
 
 website https://liverfoundation.org

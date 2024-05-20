@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Cancer Today
+id cancer-today
+title Cancer Today
 type magazine
 appeared 2010
 publicationFrequency quarterly

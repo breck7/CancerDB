@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Myofibroma
+id myofibroma
+title Myofibroma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

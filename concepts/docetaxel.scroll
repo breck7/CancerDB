@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Docetaxel
+id docetaxel
+title Docetaxel
 type chemotherapyDrug taxane
 tradenames Taxotere && Docecad && Docefrez
 

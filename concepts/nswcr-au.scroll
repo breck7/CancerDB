@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id NSWCR
+id nswcr-au
+title NSWCR
 type registry
 appeared 1972
 standsFor The New South Wales Cancer Registry

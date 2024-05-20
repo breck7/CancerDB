@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Pineoblastoma
+id pineoblastoma
+title Pineoblastoma
 type cancerType
 mainType Pineal Tumor
 tissue CNS/Brain

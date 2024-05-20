@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Cancer.net
+id cancer-dot-net
+title Cancer.net
 type website
 parentOrganization asco
 

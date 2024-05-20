@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Exatecan
+id exatecan
+title Exatecan
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Exatecan

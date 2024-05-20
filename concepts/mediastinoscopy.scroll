@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Mediastinoscopy
+id mediastinoscopy
+title Mediastinoscopy
 type surgery
 
 wikipedia https://en.wikipedia.org/wiki/Mediastinoscopy

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Myeloid Neoplasms with Germ Line Predisposition
+id myeloid-neoplasms-with-germ-line-predisposition
+title Myeloid Neoplasms with Germ Line Predisposition
 type cancerType
 mainType Myeloid Neoplasms with Germ Line Predisposition
 tissue Myeloid

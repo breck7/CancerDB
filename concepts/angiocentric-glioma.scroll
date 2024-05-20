@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Angiocentric Glioma
+id angiocentric-glioma
+title Angiocentric Glioma
 type cancerType
 mainType Miscellaneous Neuroepithelial Tumor
 tissue CNS/Brain

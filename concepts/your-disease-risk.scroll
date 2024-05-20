@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Your Disease Risk
+id your-disease-risk
+title Your Disease Risk
 type website
 conceptDescription Cancer risk calculator
 relatedConcepts mycanceriq

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Non-Small Cell Lung Cancer
+id non-small-cell-lung-cancer
+title Non-Small Cell Lung Cancer
 type cancerType
 mainType Non-Small Cell Lung Cancer
 tissue Lung

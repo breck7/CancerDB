@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id The University of Texas MD Anderson Cancer Center
+id mdanderson
+title The University of Texas MD Anderson Cancer Center
 type nciCancerCenter
 
 website https://www.mdanderson.org/

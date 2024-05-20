@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Epithelial Type Metaplastic Breast Cancer
+id epithelial-type-metaplastic-breast-cancer
+title Epithelial Type Metaplastic Breast Cancer
 type cancerType
 mainType Breast Cancer
 tissue Breast

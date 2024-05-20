@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Thiotepa
+id thiotepa
+title Thiotepa
 type chemotherapyDrug alkylatingAgent
 tradenames Tepadina
 

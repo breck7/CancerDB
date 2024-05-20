@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id The Barbara Ann Karmanos Cancer Institute
+id the-barbara-ann-karmanos-cancer-institute
+title The Barbara Ann Karmanos Cancer Institute
 type nciCancerCenter
 
 website https://www.karmanos.org/karmanos/karmanos-home

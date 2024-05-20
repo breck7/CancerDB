@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Small Intestinal Carcinoma
+id small-intestinal-carcinoma
+title Small Intestinal Carcinoma
 type cancerType
 mainType Small Bowel Cancer
 tissue Bowel

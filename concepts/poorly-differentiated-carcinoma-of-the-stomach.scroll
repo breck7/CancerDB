@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Poorly Differentiated Carcinoma of the Stomach
+id poorly-differentiated-carcinoma-of-the-stomach
+title Poorly Differentiated Carcinoma of the Stomach
 type cancerType
 mainType Esophagogastric Cancer
 tissue Esophagus/Stomach

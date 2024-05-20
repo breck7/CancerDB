@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Mixed Germ Cell Tumor Testis
+id mixed-germ-cell-tumor-testis
+title Mixed Germ Cell Tumor Testis
 type cancerType
 mainType Germ Cell Tumor
 tissue Testis

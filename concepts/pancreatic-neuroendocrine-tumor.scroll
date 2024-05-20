@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Pancreatic Neuroendocrine Tumor
+id pancreatic-neuroendocrine-tumor
+title Pancreatic Neuroendocrine Tumor
 type cancerType
 mainType Pancreatic Cancer
 tissue Pancreas

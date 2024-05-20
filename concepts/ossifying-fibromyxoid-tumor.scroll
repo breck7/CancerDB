@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Ossifying Fibromyxoid Tumor
+id ossifying-fibromyxoid-tumor
+title Ossifying Fibromyxoid Tumor
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Spitzoid Melanoma
+id spitzoid-melanoma
+title Spitzoid Melanoma
 type cancerType
 mainType Melanoma
 tissue Skin

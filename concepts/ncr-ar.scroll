@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id NCR-AR
+id ncr-ar
+title NCR-AR
 type registry
 appeared 2007
 standsFor Neuquén Cancer Registry Argentina

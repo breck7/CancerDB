@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Ampullary Carcinoma
+id ampullary-carcinoma
+title Ampullary Carcinoma
 type cancerType
 mainType Ampullary Cancer
 tissue Ampulla of Vater

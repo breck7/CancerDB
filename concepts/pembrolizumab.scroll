@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Pembrolizumab
+id pembrolizumab
+title Pembrolizumab
 type drug
 
 wikipedia https://en.wikipedia.org/wiki/Pembrolizumab

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Embryonal Carcinoma
+id embryonal-carcinoma
+title Embryonal Carcinoma
 type cancerType
 mainType Germ Cell Tumor
 tissue Ovary/Fallopian Tube

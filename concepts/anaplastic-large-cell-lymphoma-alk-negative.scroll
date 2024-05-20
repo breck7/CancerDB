@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Anaplastic Large-Cell Lymphoma ALK Negative
+id anaplastic-large-cell-lymphoma-alk-negative
+title Anaplastic Large-Cell Lymphoma ALK Negative
 type cancerType
 mainType Mature T and NK Neoplasms
 tissue Lymphoid

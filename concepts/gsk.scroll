@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id GSK plc
+id gsk
+title GSK plc
 type publicCompany
 oldName GlaxoSmithKline plc
 

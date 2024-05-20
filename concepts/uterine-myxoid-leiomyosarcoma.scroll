@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Uterine Myxoid Leiomyosarcoma
+id uterine-myxoid-leiomyosarcoma
+title Uterine Myxoid Leiomyosarcoma
 type cancerType
 mainType Uterine Sarcoma
 tissue Uterus

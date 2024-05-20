@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Primary Cutaneous Gamma Delta T-Cell Lymphoma
+id primary-cutaneous-gamma-delta-t-cell-lymphoma
+title Primary Cutaneous Gamma Delta T-Cell Lymphoma
 type cancerType
 mainType Mature T and NK Neoplasms
 tissue Lymphoid

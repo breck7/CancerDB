@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Acute Myelomonocytic Leukemia
+id acute-myelomonocytic-leukemia
+title Acute Myelomonocytic Leukemia
 type cancerType
 mainType Leukemia
 tissue Myeloid

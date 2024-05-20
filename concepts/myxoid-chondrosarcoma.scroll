@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Myxoid Chondrosarcoma
+id myxoid-chondrosarcoma
+title Myxoid Chondrosarcoma
 type cancerType
 mainType Bone Cancer
 tissue Bone

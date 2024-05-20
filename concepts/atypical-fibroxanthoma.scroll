@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Atypical Fibroxanthoma
+id atypical-fibroxanthoma
+title Atypical Fibroxanthoma
 type cancerType
 mainType Skin Cancer, Non-Melanoma
 tissue Skin

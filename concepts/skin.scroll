@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Skin Cancer
+id skin
+title Skin Cancer
 type cancerType
 mainType Skin Cancer, NOS
 uscsId Melanomas of the Skin

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Cystectomy
+id cystectomy
+title Cystectomy
 type surgery
 conceptDescription A surgery that involves the removal of all or part of the bladder. It may be used to treat bladder cancer.
 

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Natural Killer (NK) Cell Lymphoblastic Leukemia/Lymphoma
+id natural-killer-nk-cell-lymphoblastic-leukemia-lymphoma
+title Natural Killer (NK) Cell Lymphoblastic Leukemia/Lymphoma
 type cancerType
 mainType T-Lymphoblastic Leukemia/Lymphoma
 tissue Lymphoid

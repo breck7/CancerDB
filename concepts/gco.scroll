@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id GCO
+id gco
+title GCO
 type organizationDivision
 parentOrganization iarc
 standsFor Global Cancer Observatory

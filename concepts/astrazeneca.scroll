@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id AstraZeneca
+id astrazeneca
+title AstraZeneca
 type publicCompany
 
 website https://www.astrazeneca.com/

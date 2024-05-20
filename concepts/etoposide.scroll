@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Etoposide
+id etoposide
+title Etoposide
 type chemotherapyDrug
 tradenames Etopophos && Toposar && Vepesid
 

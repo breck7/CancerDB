@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Primary Cutaneous DLBCL, Leg Type
+id primary-cutaneous-dlbcl-leg-type
+title Primary Cutaneous DLBCL, Leg Type
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

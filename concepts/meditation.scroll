@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Meditation
+id meditation
+title Meditation
 type mentalTreatment breathTreatment
 
 wikipedia https://en.wikipedia.org/wiki/Meditation

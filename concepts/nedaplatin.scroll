@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Nedaplatin
+id nedaplatin
+title Nedaplatin
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Nedaplatin

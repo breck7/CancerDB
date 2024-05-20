@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Fox Chase Cancer Center
+id fox-chase-cancer-center
+title Fox Chase Cancer Center
 type nciCancerCenter
 
 website https://www.foxchase.org/

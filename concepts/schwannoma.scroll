@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Schwannoma
+id schwannoma
+title Schwannoma
 type cancerType
 mainType Nerve Sheath Tumor
 tissue Peripheral Nervous System

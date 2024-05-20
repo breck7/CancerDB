@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id CCDI Annual Symposium
+id ccdi-annual-symposium
+title CCDI Annual Symposium
 type recurringEvent
 nextDate March 24, 2023
 parentOrganization ccdi

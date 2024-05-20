@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id University of Wisconsin Carbone Cancer Center
+id university-of-wisconsin-carbone-cancer-center
+title University of Wisconsin Carbone Cancer Center
 type nciCancerCenter
 
 website https://cancer.wisc.edu/

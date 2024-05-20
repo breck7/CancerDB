@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Mixed Ampullary Carcinoma
+id mixed-ampullary-carcinoma
+title Mixed Ampullary Carcinoma
 type cancerType
 mainType Ampullary Cancer
 tissue Ampulla of Vater

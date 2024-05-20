@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Soft Tissue
+id soft-tissue
+title Soft Tissue
 type cancerType
 mainType Soft Tissue Cancer, NOS
 tissue Soft Tissue

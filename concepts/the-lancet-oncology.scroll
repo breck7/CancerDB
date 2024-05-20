@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id The Lancet Oncology
+id the-lancet-oncology
+title The Lancet Oncology
 type journal
 
 website https://www.thelancet.com/journals/lanonc/issue/current

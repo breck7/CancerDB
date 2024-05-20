@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Knight Cancer Institute
+id knight-cancer-institute
+title Knight Cancer Institute
 type nciCancerCenter
 
 website https://www.ohsu.edu/knight-cancer-institute

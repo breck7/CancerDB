@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Extraosseous Plasmacytoma
+id extraosseous-plasmacytoma
+title Extraosseous Plasmacytoma
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

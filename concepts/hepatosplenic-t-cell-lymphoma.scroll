@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Hepatosplenic T-cell Lymphoma
+id hepatosplenic-t-cell-lymphoma
+title Hepatosplenic T-cell Lymphoma
 type cancerType
 mainType Mature T and NK Neoplasms
 tissue Lymphoid

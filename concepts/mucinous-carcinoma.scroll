@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Mucinous Carcinoma
+id mucinous-carcinoma
+title Mucinous Carcinoma
 type cancerType
 mainType Cervical Cancer
 tissue Cervix

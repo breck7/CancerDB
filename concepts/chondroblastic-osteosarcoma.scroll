@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Chondroblastic Osteosarcoma
+id chondroblastic-osteosarcoma
+title Chondroblastic Osteosarcoma
 type cancerType
 mainType Bone Cancer
 tissue Bone

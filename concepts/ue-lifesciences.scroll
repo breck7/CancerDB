@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id UE LifeSciences
+id ue-lifesciences
+title UE LifeSciences
 type company
 
 website https://www.uelifesciences.com

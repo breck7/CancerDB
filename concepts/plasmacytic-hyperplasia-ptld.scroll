@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Plasmacytic Hyperplasia PTLD
+id plasmacytic-hyperplasia-ptld
+title Plasmacytic Hyperplasia PTLD
 type cancerType
 mainType Posttransplant Lymphoproliferative Disorders
 tissue Lymphoid

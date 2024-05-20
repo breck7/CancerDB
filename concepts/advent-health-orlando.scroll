@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id AdventHealth Orlando
+id advent-health-orlando
+title AdventHealth Orlando
 type hospital
 
 website https://www.adventhealth.com/hospital/adventhealth-orlando

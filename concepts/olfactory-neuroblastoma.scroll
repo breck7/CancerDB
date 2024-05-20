@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Olfactory Neuroblastoma
+id olfactory-neuroblastoma
+title Olfactory Neuroblastoma
 type cancerType
 mainType Embryonal Tumor
 tissue CNS/Brain

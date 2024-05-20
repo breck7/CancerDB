@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id High-Grade Neuroendocrine Carcinoma of the Ovary
+id high-grade-neuroendocrine-carcinoma-of-the-ovary
+title High-Grade Neuroendocrine Carcinoma of the Ovary
 type cancerType
 mainType Ovarian Cancer
 tissue Ovary/Fallopian Tube

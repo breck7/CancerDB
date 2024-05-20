@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id BioNTech
+id biontech
+title BioNTech
 type publicCompany
 
 website https://www.biontech.com/

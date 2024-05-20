@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Breast Invasive Cancer, NOS
+id breast-invasive-cancer-nos
+title Breast Invasive Cancer, NOS
 type cancerType
 mainType Breast Cancer
 tissue Breast

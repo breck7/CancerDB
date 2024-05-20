@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Pleomorphic Xanthoastrocytoma
+id pleomorphic-xanthoastrocytoma
+title Pleomorphic Xanthoastrocytoma
 type cancerType
 mainType Glioma
 tissue CNS/Brain

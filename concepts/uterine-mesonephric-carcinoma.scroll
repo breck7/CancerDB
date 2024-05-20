@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Uterine Mesonephric Carcinoma
+id uterine-mesonephric-carcinoma
+title Uterine Mesonephric Carcinoma
 type cancerType
 mainType Endometrial Cancer
 tissue Uterus

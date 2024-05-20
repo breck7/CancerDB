@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Mixed Type Metaplastic Breast Cancer
+id mixed-type-metaplastic-breast-cancer
+title Mixed Type Metaplastic Breast Cancer
 type cancerType
 mainType Breast Cancer
 tissue Breast

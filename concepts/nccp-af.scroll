@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id NCCPA
+id nccp-af
+title NCCPA
 type nationalCancerInstitute
 appeared 2016
 standsFor National Cancer Control Program in Afghanistan

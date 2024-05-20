@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id United Nations
+id un
+title United Nations
 type internationalOrganization
 
 website https://www.un.org

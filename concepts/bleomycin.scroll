@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Bleomycin
+id bleomycin
+title Bleomycin
 type chemotherapyDrug
 tradenames Blenoxane
 

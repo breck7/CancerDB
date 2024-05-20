@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Langerhans Cell Histiocytosis
+id langerhans-cell-histiocytosis
+title Langerhans Cell Histiocytosis
 type cancerType
 mainType Histiocytosis
 tissue Myeloid

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Urethral Squamous Cell Carcinoma
+id urethral-squamous-cell-carcinoma
+title Urethral Squamous Cell Carcinoma
 type cancerType
 mainType Bladder Cancer
 tissue Bladder/Urinary Tract

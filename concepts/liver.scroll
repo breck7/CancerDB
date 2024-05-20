@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Liver Cancer
+id liver
+title Liver Cancer
 type cancerType
 mainType Liver Cancer, NOS
 uscsId Liver and Intrahepatic Bile Duct

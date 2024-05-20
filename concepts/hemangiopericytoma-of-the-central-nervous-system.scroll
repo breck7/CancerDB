@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Hemangiopericytoma of the Central Nervous System
+id hemangiopericytoma-of-the-central-nervous-system
+title Hemangiopericytoma of the Central Nervous System
 type cancerType
 mainType CNS Cancer
 tissue CNS/Brain

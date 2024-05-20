@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Sorafenib
+id sorafenib
+title Sorafenib
 type drug tyrosineKinaseInhibitor
 
 wikipedia https://en.wikipedia.org/wiki/Sorafenib

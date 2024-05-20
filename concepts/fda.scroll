@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id FDA
+id fda
+title FDA
 type nationalGovernmentAgency
 parentOrganization hhs
 standsFor Food & Drug Administration

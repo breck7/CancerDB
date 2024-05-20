@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Salk Institute Cancer Center
+id salk-institute-cancer-center
+title Salk Institute Cancer Center
 type nciCancerCenter
 
 website https://www.salk.edu/science/research-centers/salk-cancer-center/

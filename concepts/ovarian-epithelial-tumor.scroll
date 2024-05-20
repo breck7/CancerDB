@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Ovarian Epithelial Tumor
+id ovarian-epithelial-tumor
+title Ovarian Epithelial Tumor
 type cancerType
 mainType Ovarian Cancer
 tissue Ovary/Fallopian Tube

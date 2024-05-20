@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Sex Cord Stromal Tumor Testis
+id sex-cord-stromal-tumor-testis
+title Sex Cord Stromal Tumor Testis
 type cancerType
 mainType Sex Cord Stromal Tumor
 tissue Testis

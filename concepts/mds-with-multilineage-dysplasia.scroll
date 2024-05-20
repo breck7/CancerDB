@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id MDS with Multilineage Dysplasia
+id mds-with-multilineage-dysplasia
+title MDS with Multilineage Dysplasia
 type cancerType
 mainType Myelodysplastic Syndromes
 tissue Myeloid

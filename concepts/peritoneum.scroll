@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Peritoneal Cancer
+id peritoneum
+title Peritoneal Cancer
 type cancerType
 mainType Peritoneal Cancer, NOS
 tissue Peritoneum

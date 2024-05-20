@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Montefiore Einstein Cancer Center
+id montefiore-einstein-cancer-center
+title Montefiore Einstein Cancer Center
 type nciCancerCenter
 
 website https://cancer.montefioreeinstein.org/

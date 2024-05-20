@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Renal Mucinous Tubular Spindle Cell Carcinoma
+id renal-mucinous-tubular-spindle-cell-carcinoma
+title Renal Mucinous Tubular Spindle Cell Carcinoma
 type cancerType
 mainType Renal Cell Carcinoma
 tissue Kidney

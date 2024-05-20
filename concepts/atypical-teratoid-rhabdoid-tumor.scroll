@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Atypical Teratoid/Rhabdoid Tumor
+id atypical-teratoid-rhabdoid-tumor
+title Atypical Teratoid/Rhabdoid Tumor
 type cancerType
 mainType Embryonal Tumor
 tissue CNS/Brain

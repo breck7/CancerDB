@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Breast Mixed Ductal and Lobular Carcinoma
+id breast-mixed-ductal-and-lobular-carcinoma
+title Breast Mixed Ductal and Lobular Carcinoma
 type cancerType
 mainType Breast Cancer
 tissue Breast

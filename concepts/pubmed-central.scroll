@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id PubMed Central
+id pubmed-central
+title PubMed Central
 type onlineDatabase website
 appeared 2000
 parentOrganization nlm

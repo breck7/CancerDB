@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Intestinal Type Stomach Adenocarcinoma
+id intestinal-type-stomach-adenocarcinoma
+title Intestinal Type Stomach Adenocarcinoma
 type cancerType
 mainType Esophagogastric Cancer
 tissue Esophagus/Stomach

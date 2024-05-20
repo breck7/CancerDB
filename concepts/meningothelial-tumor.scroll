@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Meningothelial Tumor
+id meningothelial-tumor
+title Meningothelial Tumor
 type cancerType
 mainType CNS Cancer
 tissue CNS/Brain

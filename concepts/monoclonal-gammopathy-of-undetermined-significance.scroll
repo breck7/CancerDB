@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Monoclonal Gammopathy of Undetermined Significance
+id monoclonal-gammopathy-of-undetermined-significance
+title Monoclonal Gammopathy of Undetermined Significance
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

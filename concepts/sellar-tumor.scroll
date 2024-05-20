@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Sellar Tumor
+id sellar-tumor
+title Sellar Tumor
 type cancerType
 mainType Sellar Tumor
 tissue CNS/Brain

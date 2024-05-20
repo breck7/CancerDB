@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id City of Hope Comprehensive Cancer Center
+id city-of-hope-comprehensive-cancer-center
+title City of Hope Comprehensive Cancer Center
 type nciCancerCenter
 
 website https://www.cityofhope.org/research/comprehensive-cancer-center

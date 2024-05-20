@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Dendritic Cell Sarcoma
+id dendritic-cell-sarcoma
+title Dendritic Cell Sarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

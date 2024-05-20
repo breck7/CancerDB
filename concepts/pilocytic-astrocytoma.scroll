@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Pilocytic Astrocytoma
+id pilocytic-astrocytoma
+title Pilocytic Astrocytoma
 type cancerType
 mainType Glioma
 tissue CNS/Brain

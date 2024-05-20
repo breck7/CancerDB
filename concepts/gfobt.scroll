@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id gFOBT
+id gfobt
+title gFOBT
 type diagnosticTest
 cancerTypes colon
 standsFor guaiac-based Fecal Occult Blood Test

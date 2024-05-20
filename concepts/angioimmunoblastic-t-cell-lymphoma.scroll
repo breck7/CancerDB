@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Angioimmunoblastic T-Cell Lymphoma
+id angioimmunoblastic-t-cell-lymphoma
+title Angioimmunoblastic T-Cell Lymphoma
 type cancerType
 mainType Mature T and NK Neoplasms
 tissue Lymphoid

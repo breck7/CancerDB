@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Medulloepithelioma
+id medulloepithelioma
+title Medulloepithelioma
 type cancerType
 mainType Embryonal Tumor
 tissue CNS/Brain

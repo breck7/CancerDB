@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Glioblastoma
+id glioblastoma
+title Glioblastoma
 type cancerType
 mainType Glioma
 tissue CNS/Brain

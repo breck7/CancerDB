@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Primary Myelofibrosis
+id primary-myelofibrosis
+title Primary Myelofibrosis
 type cancerType
 mainType Myeloproliferative Neoplasms
 tissue Myeloid

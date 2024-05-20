@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Teniposide
+id teniposide
+title Teniposide
 type chemotherapyDrug
 tradenames Vumon
 

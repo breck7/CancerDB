@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Merck & Co.
+id merck-and-co
+title Merck & Co.
 type publicCompany
 
 website https://www.merck.com/

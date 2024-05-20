@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Fibroblastic Osteosarcoma
+id fibroblastic-osteosarcoma
+title Fibroblastic Osteosarcoma
 type cancerType
 mainType Bone Cancer
 tissue Bone

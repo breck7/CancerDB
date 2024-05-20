@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Phyllodes Tumor of the Breast
+id phyllodes-tumor-of-the-breast
+title Phyllodes Tumor of the Breast
 type cancerType
 mainType Breast Sarcoma
 tissue Breast

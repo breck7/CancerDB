@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Solid Pseudopapillary Neoplasm of the Pancreas
+id solid-pseudopapillary-neoplasm-of-the-pancreas
+title Solid Pseudopapillary Neoplasm of the Pancreas
 type cancerType
 mainType Pancreatic Cancer
 tissue Pancreas

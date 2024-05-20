@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Mitoxantrone
+id mitoxantrone
+title Mitoxantrone
 type chemotherapyDrug anthracycline
 tradenames Novantrone
 

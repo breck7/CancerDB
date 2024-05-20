@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Ovarian Carcinosarcoma/Malignant Mixed Mesodermal Tumor
+id ovarian-carcinosarcoma-malignant-mixed-mesodermal-tumor
+title Ovarian Carcinosarcoma/Malignant Mixed Mesodermal Tumor
 type cancerType
 mainType Ovarian Cancer
 tissue Ovary/Fallopian Tube

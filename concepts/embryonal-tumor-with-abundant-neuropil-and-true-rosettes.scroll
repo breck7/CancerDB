@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Embryonal Tumor with Abundant Neuropil and True Rosettes
+id embryonal-tumor-with-abundant-neuropil-and-true-rosettes
+title Embryonal Tumor with Abundant Neuropil and True Rosettes
 type cancerType
 mainType Embryonal Tumor
 tissue CNS/Brain

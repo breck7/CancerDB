@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Intravascular Large B-Cell Lymphoma
+id intravascular-large-b-cell-lymphoma
+title Intravascular Large B-Cell Lymphoma
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

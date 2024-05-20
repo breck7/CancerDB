@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Lymphoid Atypical
+id lymphoid-atypical
+title Lymphoid Atypical
 type cancerType
 mainType Lymphatic Cancer, NOS
 tissue Lymphoid

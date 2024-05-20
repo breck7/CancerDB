@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Salivary Carcinoma, Other
+id salivary-carcinoma-other
+title Salivary Carcinoma, Other
 type cancerType
 mainType Salivary Gland Cancer
 tissue Head and Neck

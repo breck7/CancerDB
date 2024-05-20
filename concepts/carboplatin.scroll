@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Carboplatin
+id carboplatin
+title Carboplatin
 type chemotherapyDrug
 tradenames Paraplatin
 

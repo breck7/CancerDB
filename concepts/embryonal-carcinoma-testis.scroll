@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Embryonal Carcinoma Testis
+id embryonal-carcinoma-testis
+title Embryonal Carcinoma Testis
 type cancerType
 mainType Germ Cell Tumor
 tissue Testis

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Esophageal Squamous Cell Carcinoma
+id esophageal-squamous-cell-carcinoma
+title Esophageal Squamous Cell Carcinoma
 type cancerType
 mainType Esophagogastric Cancer
 tissue Esophagus/Stomach

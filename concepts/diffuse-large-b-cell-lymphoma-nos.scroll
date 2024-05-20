@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Diffuse Large B-Cell Lymphoma, NOS
+id diffuse-large-b-cell-lymphoma-nos
+title Diffuse Large B-Cell Lymphoma, NOS
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

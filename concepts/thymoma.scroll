@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Thymoma
+id thymoma
+title Thymoma
 type cancerType
 mainType Thymic Tumor
 tissue Thymus

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Embryonal Carcinoma Vulva/Vagina
+id embryonal-carcinoma-vulva-vagina
+title Embryonal Carcinoma Vulva/Vagina
 type cancerType
 mainType Germ Cell Tumor
 tissue Vulva/Vagina

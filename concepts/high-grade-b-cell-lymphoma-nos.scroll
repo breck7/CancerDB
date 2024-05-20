@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id High-Grade B-Cell Lymphoma, NOS
+id high-grade-b-cell-lymphoma-nos
+title High-Grade B-Cell Lymphoma, NOS
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

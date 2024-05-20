@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Cancer Statistics Center
+id cancer-statistics-center
+title Cancer Statistics Center
 type website
 parentOrganization american-cancer-society
 

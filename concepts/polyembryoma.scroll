@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Polyembryoma
+id polyembryoma
+title Polyembryoma
 type cancerType
 mainType Germ Cell Tumor
 tissue Ovary/Fallopian Tube

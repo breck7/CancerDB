@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id USC Norris Comprehensive Cancer Center
+id usc-norris-comprehensive-cancer-center
+title USC Norris Comprehensive Cancer Center
 type nciCancerCenter
 
 website https://uscnorriscancer.usc.edu/

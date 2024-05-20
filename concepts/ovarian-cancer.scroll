@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Ovarian Cancer
+id ovarian-cancer
+title Ovarian Cancer
 type cancerType
 mainType Ovarian/Fallopian Tube Cancer, NOS
 uscsId Ovary

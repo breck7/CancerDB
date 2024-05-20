@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Villoglandular Adenocarcinoma of the Cervix
+id villoglandular-adenocarcinoma-of-the-cervix
+title Villoglandular Adenocarcinoma of the Cervix
 type cancerType
 mainType Cervical Cancer
 tissue Cervix

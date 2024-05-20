@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Myeloid
+id myeloid
+title Myeloid
 type cancerType
 mainType Blood Cancer, NOS
 tissue Myeloid

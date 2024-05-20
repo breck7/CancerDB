@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id NIH
+id nih
+title NIH
 type nationalGovernmentAgency
 parentOrganization hhs
 standsFor National Institutes of Health

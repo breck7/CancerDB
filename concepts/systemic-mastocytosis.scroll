@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Systemic Mastocytosis
+id systemic-mastocytosis
+title Systemic Mastocytosis
 type cancerType
 mainType Mastocytosis
 tissue Myeloid

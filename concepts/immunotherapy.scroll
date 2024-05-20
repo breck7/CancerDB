@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Immunotherapy
+id immunotherapy
+title Immunotherapy
 type immunotherapy
 
 wikipedia https://en.wikipedia.org/wiki/Immunotherapy

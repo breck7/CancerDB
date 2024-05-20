@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Massey Cancer Center
+id massey-cancer-center
+title Massey Cancer Center
 type nciCancerCenter
 
 website https://www.masseycancercenter.org/

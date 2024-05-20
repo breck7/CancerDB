@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Atypical Choroid Plexus Papilloma
+id atypical-choroid-plexus-papilloma
+title Atypical Choroid Plexus Papilloma
 type cancerType
 mainType Choroid Plexus Tumor
 tissue CNS/Brain

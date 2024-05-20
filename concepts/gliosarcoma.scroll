@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Gliosarcoma
+id gliosarcoma
+title Gliosarcoma
 type cancerType
 mainType Glioma
 tissue CNS/Brain

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Atypical Meningioma
+id atypical-meningioma
+title Atypical Meningioma
 type cancerType
 mainType CNS Cancer
 tissue CNS/Brain

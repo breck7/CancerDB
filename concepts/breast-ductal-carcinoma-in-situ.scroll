@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Breast Ductal Carcinoma In Situ
+id breast-ductal-carcinoma-in-situ
+title Breast Ductal Carcinoma In Situ
 type cancerType
 mainType Breast Cancer
 tissue Breast

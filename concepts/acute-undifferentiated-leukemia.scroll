@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Acute Undifferentiated Leukemia
+id acute-undifferentiated-leukemia
+title Acute Undifferentiated Leukemia
 type cancerType
 mainType Leukemia
 tissue Myeloid

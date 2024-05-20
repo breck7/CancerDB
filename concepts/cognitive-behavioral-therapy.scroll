@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Cognitive behavioral therapy
+id cognitive-behavioral-therapy
+title Cognitive behavioral therapy
 type mentalTreatment
 
 wikipedia https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy

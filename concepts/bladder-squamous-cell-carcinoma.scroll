@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Bladder Squamous Cell Carcinoma
+id bladder-squamous-cell-carcinoma
+title Bladder Squamous Cell Carcinoma
 type cancerType
 mainType Bladder Cancer
 tissue Bladder/Urinary Tract

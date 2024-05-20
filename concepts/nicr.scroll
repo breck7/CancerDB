@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Northern Ireland Cancer Registry
+id nicr
+title Northern Ireland Cancer Registry
 type registry
 appeared 1994
 standsFor Northern Ireland Cancer Registry

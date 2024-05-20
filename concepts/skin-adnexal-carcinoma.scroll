@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Skin Adnexal Carcinoma
+id skin-adnexal-carcinoma
+title Skin Adnexal Carcinoma
 type cancerType
 mainType Skin Cancer, Non-Melanoma
 tissue Skin

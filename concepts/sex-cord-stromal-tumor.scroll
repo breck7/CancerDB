@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Sex Cord Stromal Tumor
+id sex-cord-stromal-tumor
+title Sex Cord Stromal Tumor
 type cancerType
 mainType Sex Cord Stromal Tumor
 tissue Ovary/Fallopian Tube

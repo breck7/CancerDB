@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Markey Cancer Center
+id markey-cancer-center
+title Markey Cancer Center
 type nciCancerCenter
 
 website https://ukhealthcare.uky.edu/markey-cancer-center

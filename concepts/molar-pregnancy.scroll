@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Molar Pregnancy
+id molar-pregnancy
+title Molar Pregnancy
 type cancerType
 mainType Gestational Trophoblastic Disease
 tissue Uterus

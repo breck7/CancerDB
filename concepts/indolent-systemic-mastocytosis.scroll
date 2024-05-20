@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Indolent Systemic Mastocytosis
+id indolent-systemic-mastocytosis
+title Indolent Systemic Mastocytosis
 type cancerType
 mainType Mastocytosis
 tissue Myeloid

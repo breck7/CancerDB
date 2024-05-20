@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Esophagectomy
+id esophagectomy
+title Esophagectomy
 type surgery
 conceptDescription A surgery that involves the removal of part or all of the esophagus.
 

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Mastectomy
+id mastectomy
+title Mastectomy
 type surgery
 conceptDescription A surgery that involves removing the entire breast tissue.
 

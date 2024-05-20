@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Small Cell Gallbladder Carcinoma
+id small-cell-gallbladder-carcinoma
+title Small Cell Gallbladder Carcinoma
 type cancerType
 mainType Hepatobiliary Cancer
 tissue Biliary Tract

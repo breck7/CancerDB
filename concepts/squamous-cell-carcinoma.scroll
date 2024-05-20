@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Squamous Cell Carcinoma
+id squamous-cell-carcinoma
+title Squamous Cell Carcinoma
 type cancerType
 mainType Cancer of Unknown Primary
 tissue Other

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Monomorphic Epitheliotropic Intestinal T-Cell Lymphoma
+id monomorphic-epitheliotropic-intestinal-t-cell-lymphoma
+title Monomorphic Epitheliotropic Intestinal T-Cell Lymphoma
 type cancerType
 mainType Mature T and NK Neoplasms
 tissue Lymphoid

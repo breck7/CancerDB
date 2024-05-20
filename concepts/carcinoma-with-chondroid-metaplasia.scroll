@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Carcinoma with Chondroid Metaplasia
+id carcinoma-with-chondroid-metaplasia
+title Carcinoma with Chondroid Metaplasia
 type cancerType
 mainType Breast Cancer
 tissue Breast

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Therapy-Related Myeloid Neoplasms
+id therapy-related-myeloid-neoplasms
+title Therapy-Related Myeloid Neoplasms
 type cancerType
 mainType Leukemia
 tissue Myeloid

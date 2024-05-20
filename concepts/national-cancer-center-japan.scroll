@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id National Cancer Center Japan
+id national-cancer-center-japan
+title National Cancer Center Japan
 type nationalCancerInstitute
 
 website https://www.ncc.go.jp/en/

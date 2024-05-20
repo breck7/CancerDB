@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Intensity-Modulated Radiation Therapy
+id imrt
+title Intensity-Modulated Radiation Therapy
 type radiationTherapy
 aka IMRT
 

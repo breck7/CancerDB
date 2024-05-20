@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id SCR
+id scr-dz
+title SCR
 type registry
 appeared 1986
 standsFor Sétif Cancer Registry

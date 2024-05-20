@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Poroma/Acrospiroma
+id poroma-acrospiroma
+title Poroma/Acrospiroma
 type cancerType
 mainType Skin Cancer, Non-Melanoma
 tissue Skin

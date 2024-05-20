@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Esophagus/Stomach Cancer
+id esophagus-stomach
+title Esophagus/Stomach Cancer
 type cancerType
 mainType Esophageal/Stomach Cancer, NOS
 uscsId Esophagus

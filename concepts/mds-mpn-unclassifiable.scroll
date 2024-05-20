@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id MDS/MPN, Unclassifiable
+id mds-mpn-unclassifiable
+title MDS/MPN, Unclassifiable
 type cancerType
 mainType Myelodysplastic/Myeloproliferative Neoplasms
 tissue Myeloid

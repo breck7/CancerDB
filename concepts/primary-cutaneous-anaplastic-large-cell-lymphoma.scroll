@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Primary Cutaneous Anaplastic Large Cell Lymphoma
+id primary-cutaneous-anaplastic-large-cell-lymphoma
+title Primary Cutaneous Anaplastic Large Cell Lymphoma
 type cancerType
 mainType Mature T and NK Neoplasms
 tissue Lymphoid

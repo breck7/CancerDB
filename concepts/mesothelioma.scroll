@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Mesothelioma
+id mesothelioma
+title Mesothelioma
 type cancerType
 uscsDeathsPerYear 2402
 uscsCasesPerYear 2828

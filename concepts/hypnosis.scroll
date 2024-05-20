@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Hypnosis
+id hypnosis
+title Hypnosis
 type mentalTreatment
 
 wikipedia https://en.wikipedia.org/wiki/Hypnosis

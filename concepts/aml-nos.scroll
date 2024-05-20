@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id AML, NOS
+id aml-nos
+title AML, NOS
 type cancerType
 mainType Leukemia
 tissue Myeloid

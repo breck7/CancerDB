@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Nodular Sclerosis Classical Hodgkin Lymphoma
+id nodular-sclerosis-classical-hodgkin-lymphoma
+title Nodular Sclerosis Classical Hodgkin Lymphoma
 type cancerType
 mainType Hodgkin Lymphoma
 tissue Lymphoid

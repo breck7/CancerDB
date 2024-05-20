@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Collecting Duct Renal Cell Carcinoma
+id collecting-duct-renal-cell-carcinoma
+title Collecting Duct Renal Cell Carcinoma
 type cancerType
 mainType Renal Cell Carcinoma
 tissue Kidney

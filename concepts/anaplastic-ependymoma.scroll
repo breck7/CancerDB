@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Anaplastic Ependymoma
+id anaplastic-ependymoma
+title Anaplastic Ependymoma
 type cancerType
 mainType CNS Cancer
 tissue CNS/Brain

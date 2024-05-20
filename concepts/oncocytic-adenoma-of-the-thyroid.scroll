@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Oncocytic Adenoma of the Thyroid
+id oncocytic-adenoma-of-the-thyroid
+title Oncocytic Adenoma of the Thyroid
 type cancerType
 mainType Thyroid Cancer
 tissue Thyroid

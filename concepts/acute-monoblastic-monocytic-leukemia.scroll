@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Acute Monoblastic/Monocytic Leukemia
+id acute-monoblastic-monocytic-leukemia
+title Acute Monoblastic/Monocytic Leukemia
 type cancerType
 mainType Leukemia
 tissue Myeloid

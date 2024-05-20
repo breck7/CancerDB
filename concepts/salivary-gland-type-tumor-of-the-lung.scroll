@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Salivary Gland-Type Tumor of the Lung
+id salivary-gland-type-tumor-of-the-lung
+title Salivary Gland-Type Tumor of the Lung
 type cancerType
 mainType Non-Small Cell Lung Cancer
 tissue Lung

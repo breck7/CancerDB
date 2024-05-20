@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Mesenchymal Chondrosarcoma of the CNS
+id mesenchymal-chondrosarcoma-of-the-cns
+title Mesenchymal Chondrosarcoma of the CNS
 type cancerType
 mainType Miscellaneous Brain Tumor
 tissue CNS/Brain

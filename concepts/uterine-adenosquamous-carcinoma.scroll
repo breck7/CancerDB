@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Uterine Adenosquamous Carcinoma
+id uterine-adenosquamous-carcinoma
+title Uterine Adenosquamous Carcinoma
 type cancerType
 mainType Endometrial Cancer
 tissue Uterus

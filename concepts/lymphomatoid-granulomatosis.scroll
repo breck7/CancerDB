@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Lymphomatoid Granulomatosis
+id lymphomatoid-granulomatosis
+title Lymphomatoid Granulomatosis
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

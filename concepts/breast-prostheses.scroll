@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Breast Prosthesis
+id breast-prostheses
+title Breast Prosthesis
 type prosthetic
 conceptDescription A breast prosthesis is an artificial breast form that replaces the shape of all or part of the breast that has been removed.
 

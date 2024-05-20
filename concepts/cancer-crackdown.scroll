@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Cancer Crackdown
+id cancer-crackdown
+title Cancer Crackdown
 type cancerNonProfit
 appeared 2014
 conceptDescription A 501c3 non-profit organization dedicated to supporting those using natural therapies.

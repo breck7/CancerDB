@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Romidepsin
+id romidepsin
+title Romidepsin
 type chemotherapyDrug
 tradenames Istodax
 

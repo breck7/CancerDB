@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Clear Cell Ovarian Cancer
+id clear-cell-ovarian-cancer
+title Clear Cell Ovarian Cancer
 type cancerType
 mainType Ovarian Cancer
 tissue Ovary/Fallopian Tube

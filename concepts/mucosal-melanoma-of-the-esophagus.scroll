@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Mucosal Melanoma of the Esophagus
+id mucosal-melanoma-of-the-esophagus
+title Mucosal Melanoma of the Esophagus
 type cancerType
 mainType Melanoma
 tissue Esophagus/Stomach

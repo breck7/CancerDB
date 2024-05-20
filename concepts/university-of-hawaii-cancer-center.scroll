@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id University of Hawaii Cancer Center
+id university-of-hawaii-cancer-center
+title University of Hawaii Cancer Center
 type nciCancerCenter
 appeared 1972
 

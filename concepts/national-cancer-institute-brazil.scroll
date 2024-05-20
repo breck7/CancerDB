@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id National Cancer Institute Brazil
+id national-cancer-institute-brazil
+title National Cancer Institute Brazil
 type nationalCancerInstitute
 
 website https://www.inca.gov.br/

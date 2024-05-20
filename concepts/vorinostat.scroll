@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Vorinostat
+id vorinostat
+title Vorinostat
 type chemotherapyDrug
 tradenames Zolinza
 

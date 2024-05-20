@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Prostate Cancer
+id prostate
+title Prostate Cancer
 type cancerType
 mainType Prostate Cancer, NOS
 tissue Prostate

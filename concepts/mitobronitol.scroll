@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Mitobronitol
+id mitobronitol
+title Mitobronitol
 type chemotherapyDrug alkylatingAgent
 
 wikipedia https://en.wikipedia.org/wiki/Mitobronitol

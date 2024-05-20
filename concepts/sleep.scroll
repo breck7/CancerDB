@@ -1,3 +1,4 @@
 import ../code/conceptPage.scroll
-id Sleep
+id sleep
+title Sleep
 type lifestyle

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Viatris
+id viatris
+title Viatris
 type publicCompany
 
 website https://www.viatris.com

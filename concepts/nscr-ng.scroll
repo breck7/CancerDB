@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id NSCR
+id nscr-ng
+title NSCR
 type registry
 appeared 2009
 standsFor Nigerian National System of Cancer Registries

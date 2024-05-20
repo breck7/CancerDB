@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Pulmonary Lymphangiomyomatosis
+id pulmonary-lymphangiomyomatosis
+title Pulmonary Lymphangiomyomatosis
 type cancerType
 mainType Non-Small Cell Lung Cancer
 tissue Lung

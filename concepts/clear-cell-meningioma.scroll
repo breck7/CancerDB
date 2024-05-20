@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Clear cell Meningioma
+id clear-cell-meningioma
+title Clear cell Meningioma
 type cancerType
 mainType CNS Cancer
 tissue CNS/Brain

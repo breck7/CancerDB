@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Icelandic Cancer Society
+id icelandic-cancer-society
+title Icelandic Cancer Society
 type cancerNonProfit
 appeared 1951
 aka ICS

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Mature Teratoma CNS/Brain
+id mature-teratoma-cns-brain
+title Mature Teratoma CNS/Brain
 type cancerType
 mainType Germ Cell Tumor
 tissue CNS/Brain

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Posttransplant Lymphoproliferative Disorders
+id posttransplant-lymphoproliferative-disorders
+title Posttransplant Lymphoproliferative Disorders
 type cancerType
 mainType Posttransplant Lymphoproliferative Disorders
 tissue Lymphoid

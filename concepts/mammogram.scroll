@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Mammogram
+id mammogram
+title Mammogram
 type imagingProcedure
 cancerTypes breast
 aka Mammography

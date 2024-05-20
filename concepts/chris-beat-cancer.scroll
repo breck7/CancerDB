@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Chris Beat Cancer
+id chris-beat-cancer
+title Chris Beat Cancer
 type website
 
 website https://chrisbeatcancer.com

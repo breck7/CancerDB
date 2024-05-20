@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Malignant Nonepithelial Tumor of the Liver
+id malignant-nonepithelial-tumor-of-the-liver
+title Malignant Nonepithelial Tumor of the Liver
 type cancerType
 mainType Hepatobiliary Cancer
 tissue Liver

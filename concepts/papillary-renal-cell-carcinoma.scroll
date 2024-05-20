@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Papillary Renal Cell Carcinoma
+id papillary-renal-cell-carcinoma
+title Papillary Renal Cell Carcinoma
 type cancerType
 mainType Renal Cell Carcinoma
 tissue Kidney

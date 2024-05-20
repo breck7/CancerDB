@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Salivary Gland Oncocytoma
+id salivary-gland-oncocytoma
+title Salivary Gland Oncocytoma
 type cancerType
 mainType Salivary Gland Cancer
 tissue Head and Neck

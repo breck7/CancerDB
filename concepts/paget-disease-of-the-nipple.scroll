@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Paget Disease of the Nipple
+id paget-disease-of-the-nipple
+title Paget Disease of the Nipple
 type cancerType
 mainType Breast Cancer
 tissue Breast

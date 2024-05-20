@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Sclerosing Epithelioid Fibrosarcoma
+id sclerosing-epithelioid-fibrosarcoma
+title Sclerosing Epithelioid Fibrosarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

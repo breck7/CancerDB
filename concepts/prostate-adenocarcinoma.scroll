@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Prostate Adenocarcinoma
+id prostate-adenocarcinoma
+title Prostate Adenocarcinoma
 type cancerType
 mainType Prostate Cancer
 tissue Prostate

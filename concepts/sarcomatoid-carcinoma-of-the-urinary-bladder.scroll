@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Sarcomatoid Carcinoma of the Urinary Bladder
+id sarcomatoid-carcinoma-of-the-urinary-bladder
+title Sarcomatoid Carcinoma of the Urinary Bladder
 type cancerType
 mainType Bladder Cancer
 tissue Bladder/Urinary Tract

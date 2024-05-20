@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Capecitabine
+id capecitabine
+title Capecitabine
 type chemotherapyDrug
 tradenames Xeloda && Xitabin && Kapetral
 

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Stanford Cancer Institute (SCI)
+id stanford-cancer-institute-sci
+title Stanford Cancer Institute (SCI)
 type nciCancerCenter
 
 website https://med.stanford.edu/cancer.html

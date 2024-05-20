@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Renal Medullary Carcinoma
+id renal-medullary-carcinoma
+title Renal Medullary Carcinoma
 type cancerType
 mainType Renal Cell Carcinoma
 tissue Kidney

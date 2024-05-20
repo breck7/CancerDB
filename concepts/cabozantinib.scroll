@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Cabozantinib
+id cabozantinib
+title Cabozantinib
 type drug tyrosineKinaseInhibitor
 
 wikipedia https://en.wikipedia.org/wiki/Cabozantinib

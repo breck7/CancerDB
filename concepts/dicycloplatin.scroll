@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Dicycloplatin
+id dicycloplatin
+title Dicycloplatin
 type chemotherapyDrug
 tradenames Dicycloplatin
 

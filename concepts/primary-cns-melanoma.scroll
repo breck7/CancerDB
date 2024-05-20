@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Primary CNS Melanoma
+id primary-cns-melanoma
+title Primary CNS Melanoma
 type cancerType
 mainType Melanoma
 tissue CNS/Brain

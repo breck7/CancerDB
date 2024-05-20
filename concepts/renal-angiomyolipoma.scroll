@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Renal Angiomyolipoma
+id renal-angiomyolipoma
+title Renal Angiomyolipoma
 type cancerType
 mainType Renal Cell Carcinoma
 tissue Kidney

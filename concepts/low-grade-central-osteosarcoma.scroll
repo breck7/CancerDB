@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Low-Grade Central Osteosarcoma
+id low-grade-central-osteosarcoma
+title Low-Grade Central Osteosarcoma
 type cancerType
 mainType Bone Cancer
 tissue Bone

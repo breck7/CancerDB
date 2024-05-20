@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Uterine Endometrioid Carcinoma
+id uterine-endometrioid-carcinoma
+title Uterine Endometrioid Carcinoma
 type cancerType
 mainType Endometrial Cancer
 tissue Uterus

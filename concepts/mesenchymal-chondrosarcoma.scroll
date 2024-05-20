@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Mesenchymal Chondrosarcoma
+id mesenchymal-chondrosarcoma
+title Mesenchymal Chondrosarcoma
 type cancerType
 mainType Bone Cancer
 tissue Bone

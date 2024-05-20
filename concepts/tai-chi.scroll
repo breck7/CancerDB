@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Tai chi
+id tai-chi
+title Tai chi
 type exercise breathTreatment
 
 wikipedia https://en.wikipedia.org/wiki/Tai_chi

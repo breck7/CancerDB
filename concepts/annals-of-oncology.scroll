@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Annals of Oncology
+id annals-of-oncology
+title Annals of Oncology
 type journal
 
 website https://www.annalsofoncology.org/

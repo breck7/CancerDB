@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id City of Hope Patient and Family Education Library
+id city-of-hope-patient-and-family-education-library
+title City of Hope Patient and Family Education Library
 type website
 
 website https://cityofhope.org/patienteducation

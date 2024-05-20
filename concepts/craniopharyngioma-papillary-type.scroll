@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Craniopharyngioma, Papillary Type
+id craniopharyngioma-papillary-type
+title Craniopharyngioma, Papillary Type
 type cancerType
 mainType Sellar Tumor
 tissue CNS/Brain

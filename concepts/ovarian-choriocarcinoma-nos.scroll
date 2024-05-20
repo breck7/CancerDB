@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Ovarian Choriocarcinoma, NOS
+id ovarian-choriocarcinoma-nos
+title Ovarian Choriocarcinoma, NOS
 type cancerType
 mainType Ovarian Cancer
 tissue Ovary/Fallopian Tube

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id University of New Mexico Cancer Research and Treatment Center
+id university-of-new-mexico-cancer-research-and-treatment-center
+title University of New Mexico Cancer Research and Treatment Center
 type nciCancerCenter
 
 website https://unmhealth.org/cancer/

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id ACD
+id acd-au
+title ACD
 type registry
 appeared 1982
 standsFor Australian Cancer Database

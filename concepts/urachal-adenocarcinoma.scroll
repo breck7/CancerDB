@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Urachal Adenocarcinoma
+id urachal-adenocarcinoma
+title Urachal Adenocarcinoma
 type cancerType
 mainType Bladder Cancer
 tissue Bladder/Urinary Tract

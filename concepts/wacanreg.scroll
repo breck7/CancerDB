@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id WACANREG
+id wacanreg
+title WACANREG
 type registry
 appeared 1982
 standsFor Western Australian Cancer Registry

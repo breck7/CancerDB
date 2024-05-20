@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Solitary Plasmacytoma of Bone
+id solitary-plasmacytoma-of-bone
+title Solitary Plasmacytoma of Bone
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

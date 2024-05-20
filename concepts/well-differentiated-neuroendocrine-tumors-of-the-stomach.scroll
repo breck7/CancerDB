@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Well-Differentiated Neuroendocrine Tumors of the Stomach
+id well-differentiated-neuroendocrine-tumors-of-the-stomach
+title Well-Differentiated Neuroendocrine Tumors of the Stomach
 type cancerType
 mainType Gastrointestinal Neuroendocrine Tumor
 tissue Esophagus/Stomach

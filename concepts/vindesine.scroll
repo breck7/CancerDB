@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Vindesine
+id vindesine
+title Vindesine
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Vindesine

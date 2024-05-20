@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Netherlands Cancer Institute
+id netherlands-ncc
+title Netherlands Cancer Institute
 type nationalCancerInstitute
 
 website https://www.nki.nl/

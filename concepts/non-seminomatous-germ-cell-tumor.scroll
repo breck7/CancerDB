@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Non-Seminomatous Germ Cell Tumor
+id non-seminomatous-germ-cell-tumor
+title Non-Seminomatous Germ Cell Tumor
 type cancerType
 mainType Germ Cell Tumor
 tissue Testis

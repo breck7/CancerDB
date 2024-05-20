@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Gastrointestinal Neuroendocrine Tumors of the Esophagus/Stomach
+id gastrointestinal-neuroendocrine-tumors-of-the-esophagus-stomach
+title Gastrointestinal Neuroendocrine Tumors of the Esophagus/Stomach
 type cancerType
 mainType Esophagogastric Cancer
 tissue Esophagus/Stomach

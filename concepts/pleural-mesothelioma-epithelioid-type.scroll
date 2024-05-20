@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Pleural Mesothelioma, Epithelioid Type
+id pleural-mesothelioma-epithelioid-type
+title Pleural Mesothelioma, Epithelioid Type
 type cancerType
 mainType Mesothelioma
 tissue Pleura

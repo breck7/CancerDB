@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Fecal immunochemical test
+id fecal-immunochemical-test
+title Fecal immunochemical test
 type diagnosticTest
 cancerTypes colon
 

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Rhabdoid Meningioma
+id rhabdoid-meningioma
+title Rhabdoid Meningioma
 type cancerType
 mainType CNS Cancer
 tissue CNS/Brain

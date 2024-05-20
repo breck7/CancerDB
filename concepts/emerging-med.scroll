@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id EmergingMed.com
+id emerging-med
+title EmergingMed.com
 type website onlineDatabase
 conceptDescription Clinical trial finder.
 

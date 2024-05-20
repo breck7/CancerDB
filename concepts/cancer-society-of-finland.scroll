@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Cancer Society of Finland
+id cancer-society-of-finland
+title Cancer Society of Finland
 type cancerNonProfit
 appeared 1936
 conceptDescription The Cancer Society of Finland consists of 12 regional cancer societies and six national patient organisations. The CSF maintains the Finnish Cancer Registry. Cancer Foundation Finland is a charitable organisation and the main private funder of cancer research in the country.

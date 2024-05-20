@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Chronic Neutrophilic Leukemia
+id chronic-neutrophilic-leukemia
+title Chronic Neutrophilic Leukemia
 type cancerType
 mainType Myeloproliferative Neoplasms
 tissue Myeloid

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Altretamine
+id altretamine
+title Altretamine
 type chemotherapyDrug alkylatingAgent
 tradenames Hexalen
 

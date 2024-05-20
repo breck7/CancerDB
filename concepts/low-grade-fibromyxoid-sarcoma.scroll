@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Low-Grade Fibromyxoid Sarcoma
+id low-grade-fibromyxoid-sarcoma
+title Low-Grade Fibromyxoid Sarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

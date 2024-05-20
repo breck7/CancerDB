@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Breast Invasive Mixed Mucinous Carcinoma
+id breast-invasive-mixed-mucinous-carcinoma
+title Breast Invasive Mixed Mucinous Carcinoma
 type cancerType
 mainType Breast Cancer
 tissue Breast

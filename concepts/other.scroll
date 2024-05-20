@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Other
+id other
+title Other
 type cancerType
 mainType Other Cancer, NOS
 tissue Other

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Hurthle Cell Thyroid Cancer
+id hurthle-cell-thyroid-cancer
+title Hurthle Cell Thyroid Cancer
 type cancerType
 mainType Thyroid Cancer
 tissue Thyroid

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Renal Clear Cell Carcinoma
+id renal-clear-cell-carcinoma
+title Renal Clear Cell Carcinoma
 type cancerType
 mainType Renal Cell Carcinoma
 tissue Kidney

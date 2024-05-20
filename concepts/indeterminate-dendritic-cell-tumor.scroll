@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Indeterminate Dendritic Cell Tumor
+id indeterminate-dendritic-cell-tumor
+title Indeterminate Dendritic Cell Tumor
 type cancerType
 mainType Histiocytosis
 tissue Myeloid

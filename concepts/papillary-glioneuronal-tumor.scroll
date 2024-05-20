@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Papillary Glioneuronal Tumor
+id papillary-glioneuronal-tumor
+title Papillary Glioneuronal Tumor
 type cancerType
 mainType Miscellaneous Neuroepithelial Tumor
 tissue CNS/Brain

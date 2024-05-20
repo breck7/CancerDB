@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Small Cell Carcinoma of Unknown Primary
+id small-cell-carcinoma-of-unknown-primary
+title Small Cell Carcinoma of Unknown Primary
 type cancerType
 mainType Cancer of Unknown Primary
 tissue Other

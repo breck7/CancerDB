@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Anaplastic Oligoastrocytoma
+id anaplastic-oligoastrocytoma
+title Anaplastic Oligoastrocytoma
 type cancerType
 mainType Glioma
 tissue CNS/Brain

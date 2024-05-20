@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Anticancer: A New Way of Life
+id anticancer
+title Anticancer: A New Way of Life
 type book
 appeared 2009
 conceptAuthor David Servan-Schreiber

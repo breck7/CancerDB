@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Sialoblastoma
+id sialoblastoma
+title Sialoblastoma
 type cancerType
 mainType Sialoblastoma
 tissue Head and Neck

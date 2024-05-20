@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Atezolizumab
+id atezolizumab
+title Atezolizumab
 type drug
 
 wikipedia https://en.wikipedia.org/wiki/Atezolizumab

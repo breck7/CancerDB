@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id PubMed
+id pubmed
+title PubMed
 type onlineDatabase website
 appeared 1996
 parentOrganization nlm

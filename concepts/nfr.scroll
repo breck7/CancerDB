@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id NFR
+id nfr
+title NFR
 type registry
 appeared 2018
 standsFor National Firefighter Registry

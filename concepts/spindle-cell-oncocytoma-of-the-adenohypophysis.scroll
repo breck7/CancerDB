@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Spindle Cell Oncocytoma of the Adenohypophysis
+id spindle-cell-oncocytoma-of-the-adenohypophysis
+title Spindle Cell Oncocytoma of the Adenohypophysis
 type cancerType
 mainType Sellar Tumor
 tissue CNS/Brain

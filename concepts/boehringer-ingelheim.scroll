@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Boehringer Ingelheim
+id boehringer-ingelheim
+title Boehringer Ingelheim
 type company
 
 website https://www.boehringer-ingelheim.com/

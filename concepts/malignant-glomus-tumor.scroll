@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Malignant Glomus Tumor
+id malignant-glomus-tumor
+title Malignant Glomus Tumor
 type cancerType
 mainType Malignant Glomus Tumor
 tissue Soft Tissue

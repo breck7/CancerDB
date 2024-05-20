@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Thymic Neuroendocrine Tumor
+id thymic-neuroendocrine-tumor
+title Thymic Neuroendocrine Tumor
 type cancerType
 mainType Thymic Tumor
 tissue Thymus

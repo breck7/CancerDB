@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Anaplastic Meningioma
+id anaplastic-meningioma
+title Anaplastic Meningioma
 type cancerType
 mainType CNS Cancer
 tissue CNS/Brain

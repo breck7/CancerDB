@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id National Center for Biotechnology Information
+id ncbi
+title National Center for Biotechnology Information
 type nationalGovernmentAgency
 appeared 1988
 parentOrganization nlm

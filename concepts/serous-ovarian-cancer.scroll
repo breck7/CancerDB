@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Serous Ovarian Cancer
+id serous-ovarian-cancer
+title Serous Ovarian Cancer
 type cancerType
 mainType Ovarian Cancer
 tissue Ovary/Fallopian Tube

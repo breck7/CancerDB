@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Adenosquamous Carcinoma of the Stomach
+id adenosquamous-carcinoma-of-the-stomach
+title Adenosquamous Carcinoma of the Stomach
 type cancerType
 mainType Esophagogastric Cancer
 tissue Esophagus/Stomach

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Metaplastic Squamous Cell Carcinoma
+id metaplastic-squamous-cell-carcinoma
+title Metaplastic Squamous Cell Carcinoma
 type cancerType
 mainType Breast Cancer
 tissue Breast

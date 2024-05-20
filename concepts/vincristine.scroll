@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Vincristine
+id vincristine
+title Vincristine
 type chemotherapyDrug
 tradenames Oncovin && Vincasar && Marqibo
 

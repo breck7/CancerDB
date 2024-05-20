@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Choroid Plexus Tumor
+id choroid-plexus-tumor
+title Choroid Plexus Tumor
 type cancerType
 mainType Choroid Plexus Tumor
 tissue CNS/Brain

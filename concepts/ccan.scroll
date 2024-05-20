@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id C/Can
+id ccan
+title C/Can
 type cancerNonProfit
 appeared 2017
 conceptDescription We support city-led cancer solutions to improve and sustain access to equitable, quality cancer care. Spun out of UICC

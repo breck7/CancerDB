@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Cutaneous Squamous Cell Carcinoma
+id cutaneous-squamous-cell-carcinoma
+title Cutaneous Squamous Cell Carcinoma
 type cancerType
 mainType Skin Cancer, Non-Melanoma
 tissue Skin

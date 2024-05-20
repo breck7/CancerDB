@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Acupuncture
+id acupuncture
+title Acupuncture
 type touchTreatment
 conceptDescription The insertion of thin needles into the skin.
 

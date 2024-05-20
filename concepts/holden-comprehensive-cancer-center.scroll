@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Holden Comprehensive Cancer Center
+id holden-comprehensive-cancer-center
+title Holden Comprehensive Cancer Center
 type nciCancerCenter
 
 website https://cancer.uiowa.edu/

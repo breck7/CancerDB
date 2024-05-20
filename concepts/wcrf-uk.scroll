@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id World Cancer Research Fund UK
+id wcrf-uk
+title World Cancer Research Fund UK
 type cancerNonProfit
 appeared 1990
 parentOrganization wcrf

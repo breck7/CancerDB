@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Sanford Burnham Prebys Medical Discovery Institute
+id sanford-burnham-prebys-medical-discovery-institute
+title Sanford Burnham Prebys Medical Discovery Institute
 type nciCancerCenter
 
 website https://www.sbpdiscovery.org/

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Merkel Cell Carcinoma
+id merkel-cell-carcinoma
+title Merkel Cell Carcinoma
 type cancerType
 mainType Skin Cancer, Non-Melanoma
 tissue Skin

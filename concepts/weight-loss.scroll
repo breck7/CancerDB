@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Weight loss
+id weight-loss
+title Weight loss
 type lifestyle diet
 
 wikipedia https://en.wikipedia.org/wiki/Weight_loss

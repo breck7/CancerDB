@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Male Breast Cancer
+id male-breast-cancer
+title Male Breast Cancer
 type cancerType
 uscsId Male Breast
 

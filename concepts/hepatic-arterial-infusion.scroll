@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Hepatic Arterial Infusion
+id hepatic-arterial-infusion
+title Hepatic Arterial Infusion
 type chemotherapyProcedure
 conceptDescription HAI is a type of chemotherapy delivered by a pump connected to the liver. This lets doctors take advantage of the liver’s unique anatomy.
 

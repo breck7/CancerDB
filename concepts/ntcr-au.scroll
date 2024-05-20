@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id NTCR
+id ntcr-au
+title NTCR
 type registry
 appeared 1981
 standsFor The Northern Territory Cancer Registry

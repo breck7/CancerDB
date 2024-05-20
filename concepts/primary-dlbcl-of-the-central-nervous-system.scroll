@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Primary DLBCL of the central nervous system
+id primary-dlbcl-of-the-central-nervous-system
+title Primary DLBCL of the central nervous system
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

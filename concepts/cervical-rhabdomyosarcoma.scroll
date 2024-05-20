@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Cervical Rhabdomyosarcoma
+id cervical-rhabdomyosarcoma
+title Cervical Rhabdomyosarcoma
 type cancerType
 mainType Cervical Cancer
 tissue Cervix

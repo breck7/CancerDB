@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Papillary Meningioma
+id papillary-meningioma
+title Papillary Meningioma
 type cancerType
 mainType CNS Cancer
 tissue CNS/Brain

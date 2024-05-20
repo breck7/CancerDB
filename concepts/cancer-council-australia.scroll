@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Cancer Council Australia
+id cancer-council-australia
+title Cancer Council Australia
 type cancerNonProfit governmentFundedNonProfit
 appeared 1961
 

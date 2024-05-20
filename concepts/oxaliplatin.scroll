@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Oxaliplatin
+id oxaliplatin
+title Oxaliplatin
 type chemotherapyDrug
 tradenames Eloxatin
 

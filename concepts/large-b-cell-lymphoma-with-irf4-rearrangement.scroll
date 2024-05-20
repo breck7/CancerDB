@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Large B-Cell Lymphoma with IRF4 Rearrangement
+id large-b-cell-lymphoma-with-irf4-rearrangement
+title Large B-Cell Lymphoma with IRF4 Rearrangement
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

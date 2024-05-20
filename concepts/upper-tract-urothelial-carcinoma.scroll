@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Upper Tract Urothelial Carcinoma
+id upper-tract-urothelial-carcinoma
+title Upper Tract Urothelial Carcinoma
 type cancerType
 mainType Bladder Cancer
 tissue Bladder/Urinary Tract

@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Pirarubicin
+id pirarubicin
+title Pirarubicin
 type chemotherapyDrug anthracycline
 
 wikipedia https://en.wikipedia.org/wiki/Pirarubicin

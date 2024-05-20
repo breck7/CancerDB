@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id AML with Biallelic Mutations of CEBPA
+id aml-with-biallelic-mutations-of-cebpa
+title AML with Biallelic Mutations of CEBPA
 type cancerType
 mainType Leukemia
 tissue Myeloid

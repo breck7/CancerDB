@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Anaplastic Ganglioglioma
+id anaplastic-ganglioglioma
+title Anaplastic Ganglioglioma
 type cancerType
 mainType Glioma
 tissue CNS/Brain

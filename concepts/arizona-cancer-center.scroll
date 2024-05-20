@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Arizona Cancer Center
+id arizona-cancer-center
+title Arizona Cancer Center
 type nciCancerCenter
 
 website https://cancercenter.arizona.edu/

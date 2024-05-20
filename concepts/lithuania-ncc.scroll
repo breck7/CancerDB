@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id National Cancer Institute
+id lithuania-ncc
+title National Cancer Institute
 type nationalCancerInstitute
 
 website https://nvi.lt/en/

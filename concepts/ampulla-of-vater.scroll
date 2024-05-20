@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Ampulla of Vater
+id ampulla-of-vater
+title Ampulla of Vater
 type cancerType
 mainType Ampullary Carcinoma, NOS
 tissue Ampulla of Vater

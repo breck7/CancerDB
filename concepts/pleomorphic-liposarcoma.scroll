@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Pleomorphic Liposarcoma
+id pleomorphic-liposarcoma
+title Pleomorphic Liposarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

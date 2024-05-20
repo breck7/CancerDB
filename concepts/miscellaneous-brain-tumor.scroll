@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Miscellaneous Brain Tumor
+id miscellaneous-brain-tumor
+title Miscellaneous Brain Tumor
 type cancerType
 mainType Miscellaneous Brain Tumor
 tissue CNS/Brain

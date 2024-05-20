@@ -1,5 +1,6 @@
 import ../code/conceptPage.scroll
-id Myeloid/Lymphoid Neoplasms with PCM1-JAK2
+id myeloid-lymphoid-neoplasms-with-pcm1-jak2
+title Myeloid/Lymphoid Neoplasms with PCM1-JAK2
 type cancerType
 mainType Leukemia
 tissue Myeloid
