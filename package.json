@@ -23,7 +23,8 @@
   ],
   "author": "Breck Yunits et al.",
   "homepage": "https://cancerdb.com",
-  "dependencies": {
+  "devDependencies": {
+    "jtree": "^75.2.0",
     "lodash": "^4.17.21",
     "scroll-cli": "^91.0.0"
   }
