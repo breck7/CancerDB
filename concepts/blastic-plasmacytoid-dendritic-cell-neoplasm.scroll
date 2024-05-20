@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id blastic-plasmacytoid-dendritic-cell-neoplasm
-title Blastic Plasmacytoid Dendritic Cell Neoplasm
+name Blastic Plasmacytoid Dendritic Cell Neoplasm
 type cancerType
 mainType Blastic Plasmacytoid Dendritic Cell Neoplasm
 tissue Myeloid

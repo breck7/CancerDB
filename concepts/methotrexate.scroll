@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id methotrexate
-title Methotrexate
+name Methotrexate
 type chemotherapyDrug
 tradenames Trexall && Rheumatrex && Otrexup
 

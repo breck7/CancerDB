@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id canadian-cancer-society
-title Canadian Cancer Society
+name Canadian Cancer Society
 type cancerNonProfit
 appeared 1938
 

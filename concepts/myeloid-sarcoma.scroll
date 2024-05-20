@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id myeloid-sarcoma
-title Myeloid Sarcoma
+name Myeloid Sarcoma
 type cancerType
 mainType Leukemia
 tissue Myeloid

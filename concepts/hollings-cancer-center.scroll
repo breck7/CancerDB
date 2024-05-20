@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id hollings-cancer-center
-title Hollings Cancer Center
+name Hollings Cancer Center
 type nciCancerCenter
 
 website https://hollingscancercenter.musc.edu/

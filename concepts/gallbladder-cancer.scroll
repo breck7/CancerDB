@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id gallbladder-cancer
-title Gallbladder Cancer
+name Gallbladder Cancer
 type cancerType
 mainType Hepatobiliary Cancer
 tissue Biliary Tract

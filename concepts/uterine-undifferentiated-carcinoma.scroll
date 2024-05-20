@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id uterine-undifferentiated-carcinoma
-title Uterine Undifferentiated Carcinoma
+name Uterine Undifferentiated Carcinoma
 type cancerType
 mainType Endometrial Cancer
 tissue Uterus

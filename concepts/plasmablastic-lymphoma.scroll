@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id plasmablastic-lymphoma
-title Plasmablastic Lymphoma
+name Plasmablastic Lymphoma
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

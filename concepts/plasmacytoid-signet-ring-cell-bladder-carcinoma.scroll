@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id plasmacytoid-signet-ring-cell-bladder-carcinoma
-title Plasmacytoid/Signet Ring Cell Bladder Carcinoma
+name Plasmacytoid/Signet Ring Cell Bladder Carcinoma
 type cancerType
 mainType Bladder Cancer
 tissue Bladder/Urinary Tract

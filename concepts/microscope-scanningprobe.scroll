@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id microscope-scanningprobe
-title Scanning Probe Microscope
+name Scanning Probe Microscope
 type microscope
 conceptDescription Uses a physical probe to create high-resolution images of surface features at the atomic or molecular scale.
 

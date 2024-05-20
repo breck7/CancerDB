@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id subcutaneous-panniculitis-like-t-cell-lymphoma
-title Subcutaneous Panniculitis-Like T-Cell Lymphoma
+name Subcutaneous Panniculitis-Like T-Cell Lymphoma
 type cancerType
 mainType Mature T and NK Neoplasms
 tissue Lymphoid

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id the-death-of-cancer-book
-title The Death of Cancer: After Fifty Years on the Front Lines of Medicine, a Pioneering Oncologist Reveals Why the War on Cancer Is Winnable--and How We Can Get There
+name The Death of Cancer: After Fifty Years on the Front Lines of Medicine, a Pioneering Oncologist Reveals Why the War on Cancer Is Winnable--and How We Can Get There
 type book
 appeared 2015
 conceptAuthor Dr. Vincent T. DeVita Jr.

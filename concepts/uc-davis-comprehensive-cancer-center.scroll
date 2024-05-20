@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id uc-davis-comprehensive-cancer-center
-title UC Davis Comprehensive Cancer Center
+name UC Davis Comprehensive Cancer Center
 type nciCancerCenter
 
 website https://health.ucdavis.edu/cancer/

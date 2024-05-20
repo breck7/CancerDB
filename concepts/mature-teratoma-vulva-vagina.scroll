@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id mature-teratoma-vulva-vagina
-title Mature Teratoma Vulva/Vagina
+name Mature Teratoma Vulva/Vagina
 type cancerType
 mainType Germ Cell Tumor
 tissue Vulva/Vagina

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cholangiocarcinoma
-title Cholangiocarcinoma
+name Cholangiocarcinoma
 type cancerType
 mainType Hepatobiliary Cancer
 tissue Biliary Tract

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id ebus
-title EBUS
+name EBUS
 type ultrasound imagingProcedure diagnosticTest
 cancerTypes lung
 standsFor Endobronchial ultrasound

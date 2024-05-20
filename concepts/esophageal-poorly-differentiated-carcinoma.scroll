@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id esophageal-poorly-differentiated-carcinoma
-title Esophageal Poorly Differentiated Carcinoma
+name Esophageal Poorly Differentiated Carcinoma
 type cancerType
 mainType Esophagogastric Cancer
 tissue Esophagus/Stomach

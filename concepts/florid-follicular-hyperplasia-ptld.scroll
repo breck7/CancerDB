@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id florid-follicular-hyperplasia-ptld
-title Florid Follicular Hyperplasia PTLD
+name Florid Follicular Hyperplasia PTLD
 type cancerType
 mainType Posttransplant Lymphoproliferative Disorders
 tissue Lymphoid

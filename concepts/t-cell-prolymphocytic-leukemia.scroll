@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id t-cell-prolymphocytic-leukemia
-title T-Cell Prolymphocytic Leukemia
+name T-Cell Prolymphocytic Leukemia
 type cancerType
 mainType Mature T and NK Neoplasms
 tissue Lymphoid

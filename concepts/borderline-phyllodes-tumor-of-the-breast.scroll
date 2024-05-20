@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id borderline-phyllodes-tumor-of-the-breast
-title Borderline Phyllodes Tumor of the Breast
+name Borderline Phyllodes Tumor of the Breast
 type cancerType
 mainType Breast Sarcoma
 tissue Breast

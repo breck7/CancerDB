@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id aggressive-digital-papillary-adenocarcinoma
-title Aggressive Digital Papillary Adenocarcinoma
+name Aggressive Digital Papillary Adenocarcinoma
 type cancerType
 mainType Skin Cancer, Non-Melanoma
 tissue Skin

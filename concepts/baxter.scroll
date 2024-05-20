@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id baxter
-title Baxter International
+name Baxter International
 type publicCompany
 
 website https://www.baxter.com/

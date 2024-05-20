@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id kidney-cancer-subreddit
-title Kidney Cancer Subreddit
+name Kidney Cancer Subreddit
 type subreddit onlineForum
 cancerTypes kidney
 

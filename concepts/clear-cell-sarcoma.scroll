@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id clear-cell-sarcoma
-title Clear Cell Sarcoma
+name Clear Cell Sarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

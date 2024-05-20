@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id alveolar-soft-part-sarcoma
-title Alveolar Soft Part Sarcoma
+name Alveolar Soft Part Sarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

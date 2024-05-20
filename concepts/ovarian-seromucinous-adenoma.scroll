@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id ovarian-seromucinous-adenoma
-title Ovarian Seromucinous Adenoma
+name Ovarian Seromucinous Adenoma
 type cancerType
 mainType Ovarian Cancer
 tissue Ovary/Fallopian Tube

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id juvenile-myelomonocytic-leukemia
-title Juvenile Myelomonocytic Leukemia
+name Juvenile Myelomonocytic Leukemia
 type cancerType
 mainType Myelodysplastic/Myeloproliferative Neoplasms
 tissue Myeloid

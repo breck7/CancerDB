@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id aggressive-systemic-mastocytosis
-title Aggressive Systemic Mastocytosis
+name Aggressive Systemic Mastocytosis
 type cancerType
 mainType Mastocytosis
 tissue Myeloid

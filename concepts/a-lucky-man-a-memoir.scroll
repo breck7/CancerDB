@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id a-lucky-man-a-memoir
-title A Lucky Man: A Memoir
+name A Lucky Man: A Memoir
 type book
 appeared 2018
 conceptAuthor Jamel Brinkley

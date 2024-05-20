@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id mature-t-and-nk-neoplasms
-title Mature T and NK Neoplasms
+name Mature T and NK Neoplasms
 type cancerType
 mainType Mature T and NK Neoplasms
 tissue Lymphoid

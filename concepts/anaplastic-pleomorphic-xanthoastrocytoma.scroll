@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id anaplastic-pleomorphic-xanthoastrocytoma
-title Anaplastic Pleomorphic Xanthoastrocytoma
+name Anaplastic Pleomorphic Xanthoastrocytoma
 type cancerType
 mainType Glioma
 tissue CNS/Brain

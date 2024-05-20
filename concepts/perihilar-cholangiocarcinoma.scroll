@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id perihilar-cholangiocarcinoma
-title Perihilar Cholangiocarcinoma
+name Perihilar Cholangiocarcinoma
 type cancerType
 mainType Hepatobiliary Cancer
 tissue Biliary Tract

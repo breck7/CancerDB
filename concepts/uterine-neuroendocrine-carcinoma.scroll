@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id uterine-neuroendocrine-carcinoma
-title Uterine Neuroendocrine Carcinoma
+name Uterine Neuroendocrine Carcinoma
 type cancerType
 mainType Endometrial Cancer
 tissue Uterus

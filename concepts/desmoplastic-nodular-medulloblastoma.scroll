@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id desmoplastic-nodular-medulloblastoma
-title Desmoplastic/Nodular Medulloblastoma
+name Desmoplastic/Nodular Medulloblastoma
 type cancerType
 mainType Embryonal Tumor
 tissue CNS/Brain

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id bladder-cancer-subreddit
-title Bladder Cancer Subreddit
+name Bladder Cancer Subreddit
 type subreddit onlineForum
 cancerTypes bladder
 

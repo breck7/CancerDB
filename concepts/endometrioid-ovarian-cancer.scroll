@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id endometrioid-ovarian-cancer
-title Endometrioid Ovarian Cancer
+name Endometrioid Ovarian Cancer
 type cancerType
 mainType Ovarian Cancer
 tissue Ovary/Fallopian Tube

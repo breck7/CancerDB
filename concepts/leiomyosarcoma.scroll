@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id leiomyosarcoma
-title Leiomyosarcoma
+name Leiomyosarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

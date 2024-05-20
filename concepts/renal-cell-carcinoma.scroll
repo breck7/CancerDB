@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id renal-cell-carcinoma
-title Renal Cell Carcinoma
+name Renal Cell Carcinoma
 type cancerType
 mainType Renal Cell Carcinoma
 tissue Kidney

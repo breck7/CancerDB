@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id therapy-related-acute-myeloid-leukemia
-title Therapy-Related Acute Myeloid Leukemia
+name Therapy-Related Acute Myeloid Leukemia
 type cancerType
 mainType Leukemia
 tissue Myeloid

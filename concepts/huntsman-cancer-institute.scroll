@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id huntsman-cancer-institute
-title Huntsman Cancer Institute
+name Huntsman Cancer Institute
 type nciCancerCenter
 
 website https://healthcare.utah.edu/huntsmancancerinstitute/

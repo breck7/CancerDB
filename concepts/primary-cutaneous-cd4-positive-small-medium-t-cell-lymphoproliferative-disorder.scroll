@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id primary-cutaneous-cd4-positive-small-medium-t-cell-lymphoproliferative-disorder
-title Primary Cutaneous CD4 Positive Small/Medium T-Cell Lymphoproliferative Disorder
+name Primary Cutaneous CD4 Positive Small/Medium T-Cell Lymphoproliferative Disorder
 type cancerType
 mainType Mature T and NK Neoplasms
 tissue Lymphoid

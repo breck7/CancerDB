@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id systemic-ebv-positive-t-cell-lymphoma-of-childhood
-title Systemic EBV Positive T-Cell Lymphoma of Childhood
+name Systemic EBV Positive T-Cell Lymphoma of Childhood
 type cancerType
 mainType Mature T and NK Neoplasms
 tissue Lymphoid

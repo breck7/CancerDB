@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id clear-cell-borderline-ovarian-tumor
-title Clear Cell Borderline Ovarian Tumor
+name Clear Cell Borderline Ovarian Tumor
 type cancerType
 mainType Ovarian Cancer
 tissue Ovary/Fallopian Tube

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id epithelioid-trophoblastic-tumor
-title Epithelioid Trophoblastic Tumor
+name Epithelioid Trophoblastic Tumor
 type cancerType
 mainType Gestational Trophoblastic Disease
 tissue Uterus

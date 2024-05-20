@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id breast-sarcoma
-title Breast Sarcoma
+name Breast Sarcoma
 type cancerType
 mainType Breast Sarcoma
 tissue Breast

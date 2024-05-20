@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cms
-title The Centers for Medicare and Medicaid Services
+name The Centers for Medicare and Medicaid Services
 type nationalGovernmentAgency
 appeared 1977
 parentOrganization hhs

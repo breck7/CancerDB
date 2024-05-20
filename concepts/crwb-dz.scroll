@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id crwb-dz
-title CRWB
+name CRWB
 type registry
 appeared 1995
 standsFor Cancer Registry Of The Wilaya Of Batna

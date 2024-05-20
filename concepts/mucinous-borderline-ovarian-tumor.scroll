@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id mucinous-borderline-ovarian-tumor
-title Mucinous Borderline Ovarian Tumor
+name Mucinous Borderline Ovarian Tumor
 type cancerType
 mainType Ovarian Cancer
 tissue Ovary/Fallopian Tube

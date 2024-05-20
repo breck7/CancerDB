@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id nodular-lymphocyte-predominant-hodgkin-lymphoma
-title Nodular Lymphocyte-Predominant Hodgkin Lymphoma
+name Nodular Lymphocyte-Predominant Hodgkin Lymphoma
 type cancerType
 mainType Hodgkin Lymphoma
 tissue Lymphoid

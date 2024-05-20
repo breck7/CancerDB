@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id uterine-smooth-muscle-tumor-of-uncertain-malignant-potential
-title Uterine Smooth Muscle Tumor of Uncertain Malignant Potential
+name Uterine Smooth Muscle Tumor of Uncertain Malignant Potential
 type cancerType
 mainType Uterine Sarcoma
 tissue Uterus

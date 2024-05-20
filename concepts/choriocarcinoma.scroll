@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id choriocarcinoma
-title Choriocarcinoma
+name Choriocarcinoma
 type cancerType
 mainType Germ Cell Tumor
 tissue CNS/Brain

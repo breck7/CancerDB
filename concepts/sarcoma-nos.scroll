@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id sarcoma-nos
-title Sarcoma, NOS
+name Sarcoma, NOS
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

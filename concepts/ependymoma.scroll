@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id ependymoma
-title Ependymoma
+name Ependymoma
 type cancerType
 mainType Glioma
 tissue CNS/Brain

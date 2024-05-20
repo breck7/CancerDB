@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id upmc-hillman-cancer-center
-title UPMC Hillman Cancer Center
+name UPMC Hillman Cancer Center
 type nciCancerCenter
 
 website https://hillman.upmc.com/

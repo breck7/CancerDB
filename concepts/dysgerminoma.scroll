@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id dysgerminoma
-title Dysgerminoma
+name Dysgerminoma
 type cancerType
 mainType Germ Cell Tumor
 tissue Ovary/Fallopian Tube

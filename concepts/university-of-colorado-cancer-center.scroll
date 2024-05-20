@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id university-of-colorado-cancer-center
-title University of Colorado Cancer Center
+name University of Colorado Cancer Center
 type nciCancerCenter
 
 website https://medschool.cuanschutz.edu/colorado-cancer-center

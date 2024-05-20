@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id mast-cell-sarcoma
-title Mast Cell Sarcoma
+name Mast Cell Sarcoma
 type cancerType
 mainType Mastocytosis
 tissue Myeloid

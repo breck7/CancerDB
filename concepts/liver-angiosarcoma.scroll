@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id liver-angiosarcoma
-title Liver Angiosarcoma
+name Liver Angiosarcoma
 type cancerType
 mainType Hepatobiliary Cancer
 tissue Liver

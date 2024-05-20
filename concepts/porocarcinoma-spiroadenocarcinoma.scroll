@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id porocarcinoma-spiroadenocarcinoma
-title Porocarcinoma/Spiroadenocarcinoma
+name Porocarcinoma/Spiroadenocarcinoma
 type cancerType
 mainType Skin Cancer, Non-Melanoma
 tissue Skin

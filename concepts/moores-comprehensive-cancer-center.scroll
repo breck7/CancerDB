@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id moores-comprehensive-cancer-center
-title Moores Comprehensive Cancer Center
+name Moores Comprehensive Cancer Center
 type nciCancerCenter
 
 website https://moorescancercenter.ucsd.edu/

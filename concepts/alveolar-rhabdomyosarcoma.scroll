@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id alveolar-rhabdomyosarcoma
-title Alveolar Rhabdomyosarcoma
+name Alveolar Rhabdomyosarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

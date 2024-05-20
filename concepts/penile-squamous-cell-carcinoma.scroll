@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id penile-squamous-cell-carcinoma
-title Penile Squamous Cell Carcinoma
+name Penile Squamous Cell Carcinoma
 type cancerType
 mainType Penile Cancer
 tissue Penis

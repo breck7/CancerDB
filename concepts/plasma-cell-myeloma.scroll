@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id plasma-cell-myeloma
-title Plasma Cell Myeloma
+name Plasma Cell Myeloma
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

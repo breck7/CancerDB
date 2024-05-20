@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id acs-cancer-programs
-title ACS Cancer Programs
+name ACS Cancer Programs
 type organizationDivision
 parentOrganization acs
 conceptDescription Cancer Programs run by the American College of Surgeons.

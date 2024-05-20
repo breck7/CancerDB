@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id mds-with-ring-sideroblasts-and-single-lineage-dysplasia
-title MDS with Ring Sideroblasts and Single Lineage Dysplasia
+name MDS with Ring Sideroblasts and Single Lineage Dysplasia
 type cancerType
 mainType Myelodysplastic Syndromes
 tissue Myeloid

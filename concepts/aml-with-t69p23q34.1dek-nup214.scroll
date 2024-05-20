@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id aml-with-t69p23q34.1dek-nup214
-title AML with t(6;9)(p23;q34.1);DEK-NUP214
+name AML with t(6;9)(p23;q34.1);DEK-NUP214
 type cancerType
 mainType Leukemia
 tissue Myeloid

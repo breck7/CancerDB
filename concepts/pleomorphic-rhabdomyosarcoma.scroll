@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id pleomorphic-rhabdomyosarcoma
-title Pleomorphic Rhabdomyosarcoma
+name Pleomorphic Rhabdomyosarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id adenoid-cystic-carcinoma
-title Adenoid Cystic Carcinoma
+name Adenoid Cystic Carcinoma
 type cancerType
 mainType Salivary Gland Cancer
 tissue Head and Neck

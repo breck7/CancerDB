@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id chronic-lymphocytic-leukemia-small-lymphocytic-lymphoma
-title Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
+name Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

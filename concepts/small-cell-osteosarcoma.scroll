@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id small-cell-osteosarcoma
-title Small Cell Osteosarcoma
+name Small Cell Osteosarcoma
 type cancerType
 mainType Bone Cancer
 tissue Bone

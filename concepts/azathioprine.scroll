@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id azathioprine
-title Azathioprine
+name Azathioprine
 type chemotherapyDrug
 tradenames Azasan && Imuran and others
 

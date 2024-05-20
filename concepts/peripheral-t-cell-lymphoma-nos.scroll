@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id peripheral-t-cell-lymphoma-nos
-title Peripheral T-Cell lymphoma, NOS
+name Peripheral T-Cell lymphoma, NOS
 type cancerType
 mainType Mature T and NK Neoplasms
 tissue Lymphoid

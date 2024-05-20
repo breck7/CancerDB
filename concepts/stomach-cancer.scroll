@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id stomach-cancer
-title Stomach Cancer
+name Stomach Cancer
 type cancerType
 uscsId Stomach
 uscsDeathsPerYear 11071

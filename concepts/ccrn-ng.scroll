@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id ccrn-ng
-title CCRN
+name CCRN
 type registry
 appeared 1979
 standsFor Calabar Cancer Registry Nigeria

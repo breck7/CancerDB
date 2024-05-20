@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cervical-adenocarcinoma
-title Cervical Adenocarcinoma
+name Cervical Adenocarcinoma
 type cancerType
 mainType Cervical Cancer
 tissue Cervix

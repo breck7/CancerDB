@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id immature-teratoma-vulva-vagina
-title Immature Teratoma Vulva/Vagina
+name Immature Teratoma Vulva/Vagina
 type cancerType
 mainType Germ Cell Tumor
 tissue Vulva/Vagina

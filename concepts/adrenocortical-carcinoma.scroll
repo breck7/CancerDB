@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id adrenocortical-carcinoma
-title Adrenocortical Carcinoma
+name Adrenocortical Carcinoma
 type cancerType
 mainType Adrenocortical Carcinoma
 tissue Adrenal Gland

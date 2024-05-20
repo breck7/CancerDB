@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id desmoplastic-infantile-astrocytoma
-title Desmoplastic Infantile Astrocytoma
+name Desmoplastic Infantile Astrocytoma
 type cancerType
 mainType Miscellaneous Neuroepithelial Tumor
 tissue CNS/Brain

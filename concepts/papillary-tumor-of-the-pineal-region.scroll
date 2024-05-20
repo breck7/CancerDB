@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id papillary-tumor-of-the-pineal-region
-title Papillary Tumor of the Pineal Region
+name Papillary Tumor of the Pineal Region
 type cancerType
 mainType Pineal Tumor
 tissue CNS/Brain

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id hydroa-vacciniforme-like-lymphoproliferative-disorder
-title Hydroa Vacciniforme Like Lymphoproliferative Disorder
+name Hydroa Vacciniforme Like Lymphoproliferative Disorder
 type cancerType
 mainType Mature T and NK Neoplasms
 tissue Lymphoid

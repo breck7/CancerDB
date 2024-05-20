@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id colon
-title Colon Cancer
+name Colon Cancer
 type cancerType
 mainType Bowel Cancer, NOS
 uscsId Colon and Rectum

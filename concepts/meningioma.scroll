@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id meningioma
-title Meningioma
+name Meningioma
 type cancerType
 mainType CNS Cancer
 tissue CNS/Brain

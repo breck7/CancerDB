@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id uramustine
-title Uramustine
+name Uramustine
 type chemotherapyDrug alkylatingAgent
 
 wikipedia https://en.wikipedia.org/wiki/Uramustine

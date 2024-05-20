@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id sinonasal-squamous-cell-carcinoma
-title Sinonasal Squamous Cell Carcinoma
+name Sinonasal Squamous Cell Carcinoma
 type cancerType
 mainType Head and Neck Cancer
 tissue Head and Neck

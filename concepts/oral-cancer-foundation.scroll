@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id oral-cancer-foundation
-title Oral Cancer Foundation
+name Oral Cancer Foundation
 type cancerNonProfit
 cancerTypes oral
 

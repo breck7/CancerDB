@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id inverted-urothelial-papilloma
-title Inverted Urothelial Papilloma
+name Inverted Urothelial Papilloma
 type cancerType
 mainType Bladder Cancer
 tissue Bladder/Urinary Tract

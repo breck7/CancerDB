@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id canada-ccm
-title CancerCare Manitoba
+name CancerCare Manitoba
 type hospital
 
 website https://www.cancercare.mb.ca/

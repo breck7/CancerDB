@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id ovarian-seromucinous-carcinoma
-title Ovarian Seromucinous Carcinoma
+name Ovarian Seromucinous Carcinoma
 type cancerType
 mainType Ovarian Cancer
 tissue Ovary/Fallopian Tube

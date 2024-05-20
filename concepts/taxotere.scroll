@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id taxotere
-title Taxotere
+name Taxotere
 type chemotherapyDrug taxane
 tradenames Taxotere && Docecad && Docefrez
 

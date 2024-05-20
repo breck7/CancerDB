@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id desmoplastic-infantile-ganglioglioma
-title Desmoplastic Infantile Ganglioglioma
+name Desmoplastic Infantile Ganglioglioma
 type cancerType
 mainType Miscellaneous Neuroepithelial Tumor
 tissue CNS/Brain

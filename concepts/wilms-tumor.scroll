@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id wilms-tumor
-title Wilms' Tumor
+name Wilms' Tumor
 type cancerType
 mainType Wilms Tumor
 tissue Kidney

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id essential-thrombocythemia-myelofibrosis
-title Essential Thrombocythemia Myelofibrosis
+name Essential Thrombocythemia Myelofibrosis
 type cancerType
 mainType Myeloproliferative Neoplasms
 tissue Myeloid

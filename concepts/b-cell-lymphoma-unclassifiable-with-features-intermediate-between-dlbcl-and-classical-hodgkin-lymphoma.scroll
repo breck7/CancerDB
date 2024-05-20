@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id b-cell-lymphoma-unclassifiable-with-features-intermediate-between-dlbcl-and-classical-hodgkin-lymphoma
-title B-Cell Lymphoma, Unclassifiable, with Features Intermediate between DLBCL and Classical Hodgkin lymphoma
+name B-Cell Lymphoma, Unclassifiable, with Features Intermediate between DLBCL and Classical Hodgkin lymphoma
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

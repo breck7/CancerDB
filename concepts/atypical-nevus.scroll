@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id atypical-nevus
-title Atypical Nevus
+name Atypical Nevus
 type cancerType
 mainType Skin Cancer, Non-Melanoma
 tissue Skin

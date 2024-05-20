@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id diffuse-astrocytoma
-title Diffuse Astrocytoma
+name Diffuse Astrocytoma
 type cancerType
 mainType Glioma
 tissue CNS/Brain

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id follicular-lymphoma
-title Follicular Lymphoma
+name Follicular Lymphoma
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

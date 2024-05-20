@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id b-lymphoblastic-leukemia-lymphoma-with-t119q23p13.3tcf3-pbx1
-title B-Lymphoblastic Leukemia/Lymphoma with t(1;19)(q23;p13.3);TCF3-PBX1
+name B-Lymphoblastic Leukemia/Lymphoma with t(1;19)(q23;p13.3);TCF3-PBX1
 type cancerType
 mainType B-Lymphoblastic Leukemia/Lymphoma
 tissue Lymphoid

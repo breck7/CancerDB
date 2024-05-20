@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id clinical-cancer-research
-title Clinical Cancer Research
+name Clinical Cancer Research
 type journal
 parentOrganization aacr
 

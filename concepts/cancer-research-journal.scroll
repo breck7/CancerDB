@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cancer-research-journal
-title Cancer Research Journal
+name Cancer Research Journal
 type journal
 parentOrganization aacr
 

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id papillary-stomach-adenocarcinoma
-title Papillary Stomach Adenocarcinoma
+name Papillary Stomach Adenocarcinoma
 type cancerType
 mainType Esophagogastric Cancer
 tissue Esophagus/Stomach

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id panama-ncc
-title National Institute of Cancer
+name National Institute of Cancer
 type nationalCancerInstitute
 
 website http://www.minsa.gob.pa/contenido/instituto-nacional-de-cancerologia

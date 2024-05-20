@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id myeloid-lymphoid-neoplasms-with-fgfr1-rearrangement
-title Myeloid/Lymphoid Neoplasms with FGFR1 Rearrangement
+name Myeloid/Lymphoid Neoplasms with FGFR1 Rearrangement
 type cancerType
 mainType Leukemia
 tissue Myeloid

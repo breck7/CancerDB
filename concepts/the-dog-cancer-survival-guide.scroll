@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id the-dog-cancer-survival-guide
-title The Dog Cancer Survival Guide
+name The Dog Cancer Survival Guide
 type book
 appeared 2011
 conceptAuthor Demian Dressler

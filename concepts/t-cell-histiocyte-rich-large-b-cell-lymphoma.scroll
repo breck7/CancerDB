@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id t-cell-histiocyte-rich-large-b-cell-lymphoma
-title T-Cell/Histiocyte-Rich Large B-Cell Lymphoma
+name T-Cell/Histiocyte-Rich Large B-Cell Lymphoma
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

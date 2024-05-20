@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id lymphoma
-title Lymphoma
+name Lymphoma
 type cancerType
 mainType Lymphatic Cancer, NOS
 tissue Lymphoid

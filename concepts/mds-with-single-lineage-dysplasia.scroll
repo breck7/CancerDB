@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id mds-with-single-lineage-dysplasia
-title MDS with Single Lineage Dysplasia
+name MDS with Single Lineage Dysplasia
 type cancerType
 mainType Myelodysplastic Syndromes
 tissue Myeloid

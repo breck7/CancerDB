@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id nci
-title NCI
+name NCI
 type nationalCancerInstitute
 appeared 1937
 standsFor National Cancer Institute

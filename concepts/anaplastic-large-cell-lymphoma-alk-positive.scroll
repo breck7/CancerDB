@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id anaplastic-large-cell-lymphoma-alk-positive
-title Anaplastic Large-Cell Lymphoma ALK Positive
+name Anaplastic Large-Cell Lymphoma ALK Positive
 type cancerType
 mainType Mature T and NK Neoplasms
 tissue Lymphoid

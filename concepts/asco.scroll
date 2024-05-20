@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id asco
-title ASCO
+name ASCO
 type professionalOrganization
 appeared 1964
 standsFor American Society of Clinical Oncology

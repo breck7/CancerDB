@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id teratoma
-title Teratoma
+name Teratoma
 type cancerType
 mainType Germ Cell Tumor
 tissue Testis

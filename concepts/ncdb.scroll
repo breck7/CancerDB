@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id ncdb
-title NCDB
+name NCDB
 type onlineDatabase
 parentOrganization acs american-cancer-society
 standsFor National Cancer Database

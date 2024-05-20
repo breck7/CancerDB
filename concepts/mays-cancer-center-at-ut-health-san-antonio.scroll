@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id mays-cancer-center-at-ut-health-san-antonio
-title Mays Cancer Center at UT Health San Antonio
+name Mays Cancer Center at UT Health San Antonio
 type nciCancerCenter
 
 website https://cancer.uthscsa.edu/

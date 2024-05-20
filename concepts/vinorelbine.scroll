@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id vinorelbine
-title Vinorelbine
+name Vinorelbine
 type chemotherapyDrug
 tradenames Navelbine
 

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id kidney
-title Kidney Cancer
+name Kidney Cancer
 type cancerType
 mainType Kidney Cancer, NOS
 uscsId Kidney and Renal Pelvis

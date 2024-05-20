@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id rivkin-center-risk-assessment-tool
-title Rivkin Center Risk Assessment Tool
+name Rivkin Center Risk Assessment Tool
 type website
 conceptDescription Breast and ovarian cancer risk calculator
 

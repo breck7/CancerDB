@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id uterine-serous-carcinoma-uterine-papillary-serous-carcinoma
-title Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma
+name Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma
 type cancerType
 mainType Endometrial Cancer
 tissue Uterus

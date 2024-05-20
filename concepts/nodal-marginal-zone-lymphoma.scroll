@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id nodal-marginal-zone-lymphoma
-title Nodal Marginal Zone Lymphoma
+name Nodal Marginal Zone Lymphoma
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

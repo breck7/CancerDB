@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id neurofibroma
-title Neurofibroma
+name Neurofibroma
 type cancerType
 mainType Nerve Sheath Tumor
 tissue Peripheral Nervous System

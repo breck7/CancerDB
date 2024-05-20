@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id myeloid-lymphoid-neoplasms-with-eosinophilia-and-rearrangement-of-pdgfra-pdgfrb-or-fgfr1-or-with-pcm1-jak2
-title Myeloid/Lymphoid Neoplasms with Eosinophilia and Rearrangement of PDGFRA/PDGFRB or FGFR1 or with PCM1-JAK2
+name Myeloid/Lymphoid Neoplasms with Eosinophilia and Rearrangement of PDGFRA/PDGFRB or FGFR1 or with PCM1-JAK2
 type cancerType
 mainType Leukemia
 tissue Myeloid

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id primary-effusion-lymphoma
-title Primary Effusion Lymphoma
+name Primary Effusion Lymphoma
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id germ-cell-tumor-brain
-title Germ Cell Tumor, Brain
+name Germ Cell Tumor, Brain
 type cancerType
 mainType Germ Cell Tumor
 tissue CNS/Brain

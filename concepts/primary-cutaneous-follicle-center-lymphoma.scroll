@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id primary-cutaneous-follicle-center-lymphoma
-title Primary Cutaneous Follicle Center Lymphoma
+name Primary Cutaneous Follicle Center Lymphoma
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

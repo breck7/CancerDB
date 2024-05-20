@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id mucoepidermoid-carcinoma
-title Mucoepidermoid Carcinoma
+name Mucoepidermoid Carcinoma
 type cancerType
 mainType Salivary Gland Cancer
 tissue Head and Neck

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id wim-hof-method
-title Wim Hof Method
+name Wim Hof Method
 type lifestyle
 
 wikipedia https://en.wikipedia.org/wiki/Wim_Hof

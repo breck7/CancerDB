@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id dana-farber-harvard-cancer-center
-title Dana-Farber/Harvard Cancer Center
+name Dana-Farber/Harvard Cancer Center
 type nciCancerCenter
 
 website https://www.dfhcc.harvard.edu/

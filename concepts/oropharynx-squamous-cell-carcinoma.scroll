@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id oropharynx-squamous-cell-carcinoma
-title Oropharynx Squamous Cell Carcinoma
+name Oropharynx Squamous Cell Carcinoma
 type cancerType
 mainType Head and Neck Cancer
 tissue Head and Neck

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id breast-cancer-awareness-month
-title Breast Cancer Awareness Month
+name Breast Cancer Awareness Month
 type awarenessEvent
 cancerTypes breast
 conceptDescription October is Breast Cancer Awareness Month, an annual campaign to raise awareness about the impact of breast cancer.

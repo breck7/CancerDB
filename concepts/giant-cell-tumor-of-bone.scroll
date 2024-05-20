@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id giant-cell-tumor-of-bone
-title Giant Cell Tumor of Bone
+name Giant Cell Tumor of Bone
 type cancerType
 mainType Bone Cancer
 tissue Bone

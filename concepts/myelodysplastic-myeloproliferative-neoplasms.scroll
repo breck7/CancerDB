@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id myelodysplastic-myeloproliferative-neoplasms
-title Myelodysplastic/Myeloproliferative Neoplasms
+name Myelodysplastic/Myeloproliferative Neoplasms
 type cancerType
 mainType Myelodysplastic/Myeloproliferative Neoplasms
 tissue Myeloid

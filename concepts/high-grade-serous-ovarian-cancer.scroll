@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id high-grade-serous-ovarian-cancer
-title High-Grade Serous Ovarian Cancer
+name High-Grade Serous Ovarian Cancer
 type cancerType
 mainType Ovarian Cancer
 tissue Ovary/Fallopian Tube

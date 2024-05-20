@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id primary-brain-tumor
-title Primary Brain Tumor
+name Primary Brain Tumor
 type cancerType
 mainType Miscellaneous Brain Tumor
 tissue CNS/Brain

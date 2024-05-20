@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id essential-thrombocythemia
-title Essential Thrombocythemia
+name Essential Thrombocythemia
 type cancerType
 mainType Myeloproliferative Neoplasms
 tissue Myeloid

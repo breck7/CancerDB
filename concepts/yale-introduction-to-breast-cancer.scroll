@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id yale-introduction-to-breast-cancer
-title Introduction to Breast Cancer
+name Introduction to Breast Cancer
 type onlineCourse
 cancerTypes breast
 

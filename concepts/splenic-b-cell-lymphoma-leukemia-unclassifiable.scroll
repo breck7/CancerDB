@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id splenic-b-cell-lymphoma-leukemia-unclassifiable
-title Splenic B-Cell Lymphoma/Leukemia, Unclassifiable
+name Splenic B-Cell Lymphoma/Leukemia, Unclassifiable
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id translocation-associated-renal-cell-carcinoma
-title Translocation-Associated Renal Cell Carcinoma
+name Translocation-Associated Renal Cell Carcinoma
 type cancerType
 mainType Renal Cell Carcinoma
 tissue Kidney

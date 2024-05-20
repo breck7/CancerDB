@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id who
-title World Health Organization
+name World Health Organization
 type internationalOrganization
 appeared 1948
 parentOrganization un

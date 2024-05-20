@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id histiocytic-and-dendritic-cell-neoplasms
-title Histiocytic and Dendritic Cell Neoplasms
+name Histiocytic and Dendritic Cell Neoplasms
 type cancerType
 mainType Histiocytosis
 tissue Myeloid

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id electroacupuncture
-title Electroacupuncture
+name Electroacupuncture
 type touchTreatment
 
 reference https://www.sciencedirect.com/topics/medicine-and-dentistry/electroacupuncture

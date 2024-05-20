@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id acs-can
-title American Cancer Society Cancer Action Network
+name American Cancer Society Cancer Action Network
 type cancerNonProfit
 appeared 2001
 parentOrganization american-cancer-society

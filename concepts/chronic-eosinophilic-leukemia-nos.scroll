@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id chronic-eosinophilic-leukemia-nos
-title Chronic Eosinophilic Leukemia, NOS
+name Chronic Eosinophilic Leukemia, NOS
 type cancerType
 mainType Myeloproliferative Neoplasms
 tissue Myeloid

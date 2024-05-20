@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id choriocarcinoma-testis
-title Choriocarcinoma Testis
+name Choriocarcinoma Testis
 type cancerType
 mainType Germ Cell Tumor
 tissue Testis

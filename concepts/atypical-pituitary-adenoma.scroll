@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id atypical-pituitary-adenoma
-title Atypical Pituitary Adenoma
+name Atypical Pituitary Adenoma
 type cancerType
 mainType Sellar Tumor
 tissue CNS/Brain

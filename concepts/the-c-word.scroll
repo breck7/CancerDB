@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id the-c-word
-title The C Word
+name The C Word
 type documentary
 appeared 2016
 

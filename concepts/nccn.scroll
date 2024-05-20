@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id nccn
-title National Comprehensive Cancer Network
+name National Comprehensive Cancer Network
 type cancerNonProfit
 
 website https://www.nccn.org/

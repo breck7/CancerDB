@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id irinotecan
-title Irinotecan
+name Irinotecan
 type chemotherapyDrug
 tradenames Camptosar && Campto && Onivyde
 

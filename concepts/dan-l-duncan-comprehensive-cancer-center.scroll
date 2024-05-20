@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id dan-l-duncan-comprehensive-cancer-center
-title Dan L Duncan Comprehensive Cancer Center
+name Dan L Duncan Comprehensive Cancer Center
 type nciCancerCenter
 
 website https://www.bcm.edu/academic-centers/dan-l-duncan-comprehensive-cancer-center

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id extraventricular-neurocytoma
-title Extraventricular Neurocytoma
+name Extraventricular Neurocytoma
 type cancerType
 mainType Miscellaneous Neuroepithelial Tumor
 tissue CNS/Brain

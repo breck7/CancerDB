@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id susan-g-komen
-title Susan G. Komen Breast Cancer Foundation
+name Susan G. Komen Breast Cancer Foundation
 type cancerNonProfit
 cancerTypes breast
 

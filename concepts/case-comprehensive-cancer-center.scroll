@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id case-comprehensive-cancer-center
-title Case Comprehensive Cancer Center
+name Case Comprehensive Cancer Center
 type nciCancerCenter
 
 website https://case.edu/cancer/

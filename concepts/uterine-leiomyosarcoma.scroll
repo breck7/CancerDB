@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id uterine-leiomyosarcoma
-title Uterine Leiomyosarcoma
+name Uterine Leiomyosarcoma
 type cancerType
 mainType Uterine Sarcoma
 tissue Uterus

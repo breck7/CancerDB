@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id igg
-title IgG
+name IgG
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

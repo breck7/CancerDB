@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id high-grade-neuroendocrine-carcinoma-of-the-esophagus
-title High-Grade Neuroendocrine Carcinoma of the Esophagus
+name High-Grade Neuroendocrine Carcinoma of the Esophagus
 type cancerType
 mainType Gastrointestinal Neuroendocrine Tumors of the Esophagus/Stomach
 tissue Esophagus/Stomach

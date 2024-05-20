@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id rdca-dz
-title RDCA-DZ
+name RDCA-DZ
 type registry
 appeared 1998
 standsFor Registre du Cancer d'Annab

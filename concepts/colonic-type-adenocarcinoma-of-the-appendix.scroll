@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id colonic-type-adenocarcinoma-of-the-appendix
-title Colonic Type Adenocarcinoma of the Appendix
+name Colonic Type Adenocarcinoma of the Appendix
 type cancerType
 mainType Appendiceal Cancer
 tissue Bowel

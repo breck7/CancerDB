@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id robert-h-lurie-comprehensive-cancer-center
-title Robert H. Lurie Comprehensive Cancer Center
+name Robert H. Lurie Comprehensive Cancer Center
 type nciCancerCenter
 
 website https://www.cancer.northwestern.edu/

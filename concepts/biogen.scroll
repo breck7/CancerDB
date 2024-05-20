@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id biogen
-title Biogen
+name Biogen
 type publicCompany
 
 website http://biogen.com/

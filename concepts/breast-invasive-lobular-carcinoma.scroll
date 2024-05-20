@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id breast-invasive-lobular-carcinoma
-title Breast Invasive Lobular Carcinoma
+name Breast Invasive Lobular Carcinoma
 type cancerType
 mainType Breast Cancer
 tissue Breast

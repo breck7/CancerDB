@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id acinar-cell-carcinoma-nos
-title Acinar Cell Carcinoma, NOS
+name Acinar Cell Carcinoma, NOS
 type cancerType
 mainType Cancer of Unknown Primary
 tissue Other

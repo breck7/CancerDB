@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id infectious-mononucleosis-ptld
-title Infectious Mononucleosis PTLD
+name Infectious Mononucleosis PTLD
 type cancerType
 mainType Posttransplant Lymphoproliferative Disorders
 tissue Lymphoid

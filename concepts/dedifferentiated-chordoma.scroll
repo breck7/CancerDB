@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id dedifferentiated-chordoma
-title Dedifferentiated Chordoma
+name Dedifferentiated Chordoma
 type cancerType
 mainType Bone Cancer
 tissue Bone

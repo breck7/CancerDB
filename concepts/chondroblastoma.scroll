@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id chondroblastoma
-title Chondroblastoma
+name Chondroblastoma
 type cancerType
 mainType Bone Cancer
 tissue Bone

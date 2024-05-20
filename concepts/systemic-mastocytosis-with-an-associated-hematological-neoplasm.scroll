@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id systemic-mastocytosis-with-an-associated-hematological-neoplasm
-title Systemic Mastocytosis with an Associated Hematological Neoplasm
+name Systemic Mastocytosis with an Associated Hematological Neoplasm
 type cancerType
 mainType Mastocytosis
 tissue Myeloid

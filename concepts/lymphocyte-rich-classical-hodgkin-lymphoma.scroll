@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id lymphocyte-rich-classical-hodgkin-lymphoma
-title Lymphocyte-Rich Classical Hodgkin Lymphoma
+name Lymphocyte-Rich Classical Hodgkin Lymphoma
 type cancerType
 mainType Hodgkin Lymphoma
 tissue Lymphoid

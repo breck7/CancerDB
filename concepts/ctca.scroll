@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id ctca
-title Cancer Treatment Centers of America
+name Cancer Treatment Centers of America
 type hospital
 appeared 1988
 closed 2023

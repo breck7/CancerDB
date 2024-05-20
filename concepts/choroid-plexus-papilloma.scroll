@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id choroid-plexus-papilloma
-title Choroid Plexus Papilloma
+name Choroid Plexus Papilloma
 type cancerType
 mainType Choroid Plexus Tumor
 tissue CNS/Brain

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cervix
-title Cervical Cancer
+name Cervical Cancer
 type cancerType
 mainType Cervical Cancer, NOS
 uscsId Cervix

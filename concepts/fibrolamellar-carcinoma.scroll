@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id fibrolamellar-carcinoma
-title Fibrolamellar Carcinoma
+name Fibrolamellar Carcinoma
 type cancerType
 mainType Hepatobiliary Cancer
 tissue Liver

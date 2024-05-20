@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id interdigitating-dendritic-cell-sarcoma
-title Interdigitating Dendritic Cell Sarcoma
+name Interdigitating Dendritic Cell Sarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Myeloid

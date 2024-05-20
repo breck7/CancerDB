@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id infantile-fibrosarcoma
-title Infantile Fibrosarcoma
+name Infantile Fibrosarcoma
 type cancerType
 mainType Infantile Fibrosarcoma
 tissue Soft Tissue

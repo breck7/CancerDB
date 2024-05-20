@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id stephenson-cancer-center
-title Stephenson Cancer Center
+name Stephenson Cancer Center
 type nciCancerCenter
 
 website https://www.ouhealth.com/stephenson-cancer-center/

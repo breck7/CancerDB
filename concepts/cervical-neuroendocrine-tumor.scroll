@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cervical-neuroendocrine-tumor
-title Cervical Neuroendocrine Tumor
+name Cervical Neuroendocrine Tumor
 type cancerType
 mainType Cervical Cancer
 tissue Cervix

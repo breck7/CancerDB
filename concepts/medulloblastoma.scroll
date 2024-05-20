@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id medulloblastoma
-title Medulloblastoma
+name Medulloblastoma
 type cancerType
 mainType Embryonal Tumor
 tissue CNS/Brain

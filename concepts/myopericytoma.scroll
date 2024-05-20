@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id myopericytoma
-title Myopericytoma
+name Myopericytoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

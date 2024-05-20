@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id dana-farber
-title Dana-Farber Cancer Institute
+name Dana-Farber Cancer Institute
 type hospital cancerNonProfit
 
 website https://www.dana-farber.org/

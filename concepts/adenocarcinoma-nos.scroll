@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id adenocarcinoma-nos
-title Adenocarcinoma, NOS
+name Adenocarcinoma, NOS
 type cancerType
 mainType Cancer of Unknown Primary
 tissue Other

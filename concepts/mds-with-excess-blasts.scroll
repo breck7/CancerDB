@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id mds-with-excess-blasts
-title MDS with Excess Blasts
+name MDS with Excess Blasts
 type cancerType
 mainType Myelodysplastic Syndromes
 tissue Myeloid

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id purdue-institute-for-cancer-research
-title Purdue Institute for Cancer Research
+name Purdue Institute for Cancer Research
 type nciCancerCenter
 
 website https://www.purdue.edu/cancer-research/

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id french-national-cancer-institute
-title French National Cancer Institute
+name French National Cancer Institute
 type nationalCancerInstitute
 aka Institut National du Cancer
 

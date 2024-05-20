@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id granular-cell-tumor
-title Granular Cell Tumor
+name Granular Cell Tumor
 type cancerType
 mainType Sellar Tumor
 tissue CNS/Brain

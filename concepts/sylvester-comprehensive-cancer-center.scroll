@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id sylvester-comprehensive-cancer-center
-title Sylvester Comprehensive Cancer Center
+name Sylvester Comprehensive Cancer Center
 type nciCancerCenter
 
 website https://umiamihealth.org/en/sylvester-comprehensive-cancer-center

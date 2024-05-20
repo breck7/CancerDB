@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id peripheral-nervous-system
-title Peripheral Nervous System
+name Peripheral Nervous System
 type cancerType
 mainType Peripheral Nervous System Cancer, NOS
 tissue Peripheral Nervous System

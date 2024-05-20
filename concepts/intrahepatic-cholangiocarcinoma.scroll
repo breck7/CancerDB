@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id intrahepatic-cholangiocarcinoma
-title Intrahepatic Cholangiocarcinoma
+name Intrahepatic Cholangiocarcinoma
 type cancerType
 mainType Hepatobiliary Cancer
 tissue Biliary Tract

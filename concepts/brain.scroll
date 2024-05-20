@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id brain
-title Brain Cancer
+name Brain Cancer
 type cancerType
 mainType CNS/Brain Cancer, NOS
 uscsId Brain and Other Nervous System

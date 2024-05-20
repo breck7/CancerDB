@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id nccr
-title NCCR
+name NCCR
 type registry
 standsFor National Childhood Cancer Registry
 conceptDescription The National Childhood Cancer Registry (NCCR) is a rapidly growing public health surveillance data resource. Its primary goal is to provide a platform to better understand the causes, outcomes, effective treatments, and later effects of cancer among children, adolescents, and young adults in the U.S.

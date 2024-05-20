@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id invasive-hydatidiform-mole
-title Invasive Hydatidiform Mole
+name Invasive Hydatidiform Mole
 type cancerType
 mainType Gestational Trophoblastic Disease
 tissue Uterus

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id germ-cell-tumor-of-the-vulva
-title Germ Cell Tumor of the Vulva
+name Germ Cell Tumor of the Vulva
 type cancerType
 mainType Germ Cell Tumor
 tissue Vulva/Vagina

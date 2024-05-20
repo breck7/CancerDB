@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id bladder-urothelial-carcinoma
-title Bladder Urothelial Carcinoma
+name Bladder Urothelial Carcinoma
 type cancerType
 mainType Bladder Cancer
 tissue Bladder/Urinary Tract

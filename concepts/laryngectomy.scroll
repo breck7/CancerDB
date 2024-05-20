@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id laryngectomy
-title Laryngectomy
+name Laryngectomy
 type surgery
 conceptDescription A surgical procedure in which the larynx (voice box) is removed.
 

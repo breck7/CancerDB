@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id transient-abnormal-myelopoiesis
-title Transient Abnormal Myelopoiesis
+name Transient Abnormal Myelopoiesis
 type cancerType
 mainType Leukemia
 tissue Myeloid

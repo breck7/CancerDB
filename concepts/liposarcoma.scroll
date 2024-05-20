@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id liposarcoma
-title Liposarcoma
+name Liposarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

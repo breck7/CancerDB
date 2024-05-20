@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id conventional-type-chordoma
-title Conventional Type Chordoma
+name Conventional Type Chordoma
 type cancerType
 mainType Bone Cancer
 tissue Bone

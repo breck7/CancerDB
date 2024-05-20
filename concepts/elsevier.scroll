@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id elsevier
-title Elsevier
+name Elsevier
 type company
 appeared 1880
 

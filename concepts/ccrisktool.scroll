@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id ccrisktool
-title The Colorectal Cancer Risk Assessment Tool
+name The Colorectal Cancer Risk Assessment Tool
 type website
 
 website https://ccrisktool.cancer.gov/

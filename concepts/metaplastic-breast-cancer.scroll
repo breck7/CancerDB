@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id metaplastic-breast-cancer
-title Metaplastic Breast Cancer
+name Metaplastic Breast Cancer
 type cancerType
 mainType Breast Cancer
 tissue Breast

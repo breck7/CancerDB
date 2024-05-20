@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cancer-is-not-a-disease-book
-title Cancer Is Not a Disease - It's a Healing Mechanism
+name Cancer Is Not a Disease - It's a Healing Mechanism
 type book
 appeared 2017
 conceptAuthor Andreas Moritz

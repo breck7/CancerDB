@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cdc
-title CDC
+name CDC
 type nationalGovernmentAgency
 parentOrganization hhs
 standsFor Centers for Disease Control and Prevention

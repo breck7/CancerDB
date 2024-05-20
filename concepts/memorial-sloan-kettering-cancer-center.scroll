@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id memorial-sloan-kettering-cancer-center
-title Memorial Sloan-Kettering Cancer Center
+name Memorial Sloan-Kettering Cancer Center
 type nciCancerCenter
 
 website https://www.mskcc.org/

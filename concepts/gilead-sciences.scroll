@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id gilead-sciences
-title Gilead Sciences
+name Gilead Sciences
 type publicCompany
 
 wikipedia https://en.wikipedia.org/wiki/Gilead_Sciences

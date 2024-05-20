@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id acute-basophilic-leukemia
-title Acute Basophilic Leukemia
+name Acute Basophilic Leukemia
 type cancerType
 mainType Leukemia
 tissue Myeloid

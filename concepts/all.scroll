@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id all
-title Acute lymphoblastic leukemia
+name Acute lymphoblastic leukemia
 type cancerType
 aka ALL
 

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id glassy-cell-carcinoma-of-the-cervix
-title Glassy Cell Carcinoma of the Cervix
+name Glassy Cell Carcinoma of the Cervix
 type cancerType
 mainType Cervical Cancer
 tissue Cervix

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id breast-fibroepithelial-neoplasms
-title Breast Fibroepithelial Neoplasms
+name Breast Fibroepithelial Neoplasms
 type cancerType
 mainType Breast Sarcoma
 tissue Breast

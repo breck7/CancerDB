@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id regeneron
-title Regeneron
+name Regeneron
 type publicCompany
 appeared 1988
 

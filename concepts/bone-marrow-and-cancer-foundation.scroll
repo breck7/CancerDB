@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id bone-marrow-and-cancer-foundation
-title Bone Marrow & Cancer Foundation
+name Bone Marrow & Cancer Foundation
 type cancerNonProfit
 appeared 1992
 

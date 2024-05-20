@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id primary-myelofibrosisovert-fibrotic-stage
-title Primary Myelofibrosis,Overt Fibrotic Stage
+name Primary Myelofibrosis,Overt Fibrotic Stage
 type cancerType
 mainType Myeloproliferative Neoplasms
 tissue Myeloid

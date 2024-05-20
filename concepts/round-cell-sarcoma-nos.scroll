@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id round-cell-sarcoma-nos
-title Round Cell Sarcoma, NOS
+name Round Cell Sarcoma, NOS
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

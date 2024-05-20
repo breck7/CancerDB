@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id oral-cancer
-title Oral Cancer
+name Oral Cancer
 type cancerType
 uscsId Oral Cavity and Pharynx
 uscsDeathsPerYear 10447

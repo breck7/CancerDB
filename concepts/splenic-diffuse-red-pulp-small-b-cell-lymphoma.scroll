@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id splenic-diffuse-red-pulp-small-b-cell-lymphoma
-title Splenic Diffuse Red Pulp Small B-Cell Lymphoma
+name Splenic Diffuse Red Pulp Small B-Cell Lymphoma
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

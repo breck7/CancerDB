@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id uterine-epithelioid-leiomyosarcoma
-title Uterine Epithelioid Leiomyosarcoma
+name Uterine Epithelioid Leiomyosarcoma
 type cancerType
 mainType Uterine Sarcoma
 tissue Uterus

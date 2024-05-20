@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id thymic-carcinoma
-title Thymic Carcinoma
+name Thymic Carcinoma
 type cancerType
 mainType Thymic Tumor
 tissue Thymus

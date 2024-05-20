@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cancer-support-community
-title Cancer Support Community
+name Cancer Support Community
 type website onlineForum cancerNonProfit
 
 website https://www.cancersupportcommunity.org/

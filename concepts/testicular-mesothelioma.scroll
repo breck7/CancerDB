@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id testicular-mesothelioma
-title Testicular Mesothelioma
+name Testicular Mesothelioma
 type cancerType
 mainType Mesothelioma
 tissue Testis

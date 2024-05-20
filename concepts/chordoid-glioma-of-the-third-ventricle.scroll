@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id chordoid-glioma-of-the-third-ventricle
-title Chordoid Glioma of the Third Ventricle
+name Chordoid Glioma of the Third Ventricle
 type cancerType
 mainType Miscellaneous Neuroepithelial Tumor
 tissue CNS/Brain

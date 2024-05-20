@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id leukemia
-title Leukemia
+name Leukemia
 type cancerType
 uscsId Leukemias
 uscsDeathsPerYear 23324

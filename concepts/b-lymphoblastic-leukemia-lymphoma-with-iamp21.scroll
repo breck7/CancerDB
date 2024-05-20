@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id b-lymphoblastic-leukemia-lymphoma-with-iamp21
-title B-Lymphoblastic Leukemia/Lymphoma with iAMP21
+name B-Lymphoblastic Leukemia/Lymphoma with iAMP21
 type cancerType
 mainType B-Lymphoblastic Leukemia/Lymphoma
 tissue Lymphoid

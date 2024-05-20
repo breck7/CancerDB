@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id embryonal-tumor
-title Embryonal Tumor
+name Embryonal Tumor
 type cancerType
 mainType Embryonal Tumor
 tissue CNS/Brain

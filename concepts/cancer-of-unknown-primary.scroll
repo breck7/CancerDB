@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cancer-of-unknown-primary
-title Cancer of Unknown Primary
+name Cancer of Unknown Primary
 type cancerType
 mainType Cancer of Unknown Primary
 tissue Other

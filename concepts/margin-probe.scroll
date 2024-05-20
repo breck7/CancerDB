@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id margin-probe
-title MarginProbe
+name MarginProbe
 type device
 cancerTypes breast
 originCommunity Dilon Technologies

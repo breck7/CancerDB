@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id metaplastic-carcinosarcoma
-title Metaplastic Carcinosarcoma
+name Metaplastic Carcinosarcoma
 type cancerType
 mainType Breast Cancer
 tissue Breast

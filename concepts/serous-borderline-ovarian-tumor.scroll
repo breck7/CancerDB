@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id serous-borderline-ovarian-tumor
-title Serous Borderline Ovarian Tumor
+name Serous Borderline Ovarian Tumor
 type cancerType
 mainType Ovarian Cancer
 tissue Ovary/Fallopian Tube

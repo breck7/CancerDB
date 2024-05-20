@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id mantle-cell-lymphoma
-title Mantle Cell Lymphoma
+name Mantle Cell Lymphoma
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

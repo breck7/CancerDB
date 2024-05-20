@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id salivary-adenocarcinoma
-title Salivary Adenocarcinoma
+name Salivary Adenocarcinoma
 type cancerType
 mainType Salivary Gland Cancer
 tissue Head and Neck

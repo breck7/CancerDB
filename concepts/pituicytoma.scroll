@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id pituicytoma
-title Pituicytoma
+name Pituicytoma
 type cancerType
 mainType Sellar Tumor
 tissue CNS/Brain

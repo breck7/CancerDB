@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id undifferentiated-uterine-sarcoma
-title Undifferentiated Uterine Sarcoma
+name Undifferentiated Uterine Sarcoma
 type cancerType
 mainType Uterine Sarcoma
 tissue Uterus

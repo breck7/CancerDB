@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id proximal-type-epithelioid-sarcoma
-title Proximal-Type Epithelioid Sarcoma
+name Proximal-Type Epithelioid Sarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id follicular-dendritic-cell-sarcoma
-title Follicular Dendritic Cell Sarcoma
+name Follicular Dendritic Cell Sarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Myeloid

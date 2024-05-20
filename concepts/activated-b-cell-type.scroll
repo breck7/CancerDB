@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id activated-b-cell-type
-title Activated B-cell Type
+name Activated B-cell Type
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

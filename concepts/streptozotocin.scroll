@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id streptozotocin
-title Streptozotocin
+name Streptozotocin
 type chemotherapyDrug alkylatingAgent
 tradenames Zanosar
 

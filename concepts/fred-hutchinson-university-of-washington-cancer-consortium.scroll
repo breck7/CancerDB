@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id fred-hutchinson-university-of-washington-cancer-consortium
-title Fred Hutchinson/University of Washington Cancer Consortium
+name Fred Hutchinson/University of Washington Cancer Consortium
 type nciCancerCenter
 
 website https://www.cancerconsortium.org/

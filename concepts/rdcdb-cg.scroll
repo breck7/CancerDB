@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id rdcdb-cg
-title RDCDB
+name RDCDB
 type registry
 standsFor Registre des cancers de Brazzaville
 conceptDescription The registry was founded in 1995. It is located in the records section of the Service de Carcinologie et Radiotherapie of the CHU de Brazzaville, which also serves as the records store of the department.The Registry is financed by the Ministry of Health and the Marien NGouabi University. In 2012, it has benefitted from a generous donation from the First Lady of Congo.

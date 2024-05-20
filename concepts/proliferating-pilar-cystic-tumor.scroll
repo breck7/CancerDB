@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id proliferating-pilar-cystic-tumor
-title Proliferating Pilar Cystic Tumor
+name Proliferating Pilar Cystic Tumor
 type cancerType
 mainType Skin Cancer, Non-Melanoma
 tissue Skin

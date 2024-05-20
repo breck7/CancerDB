@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id endocervical-adenocarcinoma
-title Endocervical Adenocarcinoma
+name Endocervical Adenocarcinoma
 type cancerType
 mainType Cervical Cancer
 tissue Cervix

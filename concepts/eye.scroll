@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id eye
-title Eye Cancer
+name Eye Cancer
 type cancerType
 mainType Eye Cancer, NOS
 tissue Eye

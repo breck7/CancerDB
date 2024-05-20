@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id ebv-positive-dlbcl-nos
-title EBV Positive DLBCL, NOS
+name EBV Positive DLBCL, NOS
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

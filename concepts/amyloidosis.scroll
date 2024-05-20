@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id amyloidosis
-title Amyloidosis
+name Amyloidosis
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

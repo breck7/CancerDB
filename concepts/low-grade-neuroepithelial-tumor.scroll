@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id low-grade-neuroepithelial-tumor
-title Low-Grade Neuroepithelial Tumor
+name Low-Grade Neuroepithelial Tumor
 type cancerType
 mainType Miscellaneous Brain Tumor
 tissue CNS/Brain

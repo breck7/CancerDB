@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id radiation-associated-sarcoma
-title Radiation-Associated Sarcoma
+name Radiation-Associated Sarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

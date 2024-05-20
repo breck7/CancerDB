@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id inflammatory-myofibroblastic-lung-tumor
-title Inflammatory Myofibroblastic Lung Tumor
+name Inflammatory Myofibroblastic Lung Tumor
 type cancerType
 mainType Non-Small Cell Lung Cancer
 tissue Lung

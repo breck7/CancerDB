@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cancer-cell-journal
-title Cancer Cell
+name Cancer Cell
 type journal
 
 website https://www.cell.com/cancer-cell/home

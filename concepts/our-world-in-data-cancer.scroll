@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id our-world-in-data-cancer
-title Our World in Data Cancer Page
+name Our World in Data Cancer Page
 type website
 
 website https://ourworldindata.org/cancer

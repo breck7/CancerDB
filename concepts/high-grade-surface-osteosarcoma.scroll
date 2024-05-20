@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id high-grade-surface-osteosarcoma
-title High-Grade Surface Osteosarcoma
+name High-Grade Surface Osteosarcoma
 type cancerType
 mainType Bone Cancer
 tissue Bone

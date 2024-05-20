@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id dta-dz
-title DTA
+name DTA
 type registry
 appeared 2004
 standsFor Des Tumeurs d’Alger

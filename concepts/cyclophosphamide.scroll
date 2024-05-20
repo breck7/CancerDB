@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cyclophosphamide
-title Cyclophosphamide
+name Cyclophosphamide
 type chemotherapyDrug alkylatingAgent
 tradenames Lyophilized Cytoxan && Endoxan && Cytoxan && Neosar && Procytox && Revimmune && Cycloblastin
 

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id medullary-thyroid-cancer
-title Medullary Thyroid Cancer
+name Medullary Thyroid Cancer
 type cancerType
 mainType Thyroid Cancer
 tissue Thyroid

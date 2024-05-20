@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id kaposi-sarcoma
-title Karposi's Sarcoma
+name Karposi's Sarcoma
 type cancerType
 uscsId Kaposi Sarcoma
 uscsCasesPerYear 54

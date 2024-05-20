@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id wkof
-title WKOF
+name WKOF
 type cancerNonProfit
 standsFor Wereld Kanker Onderzoek Fond
 

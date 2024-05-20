@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id hepatocellular-adenoma
-title Hepatocellular Adenoma
+name Hepatocellular Adenoma
 type cancerType
 mainType Hepatobiliary Cancer
 tissue Liver

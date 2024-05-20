@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id triethylenemelamine
-title Triethylenemelamine
+name Triethylenemelamine
 type chemotherapyDrug alkylatingAgent
 
 wikipedia https://en.wikipedia.org/wiki/Triethylenemelamine

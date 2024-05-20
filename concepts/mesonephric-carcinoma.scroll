@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id mesonephric-carcinoma
-title Mesonephric Carcinoma
+name Mesonephric Carcinoma
 type cancerType
 mainType Cervical Cancer
 tissue Cervix

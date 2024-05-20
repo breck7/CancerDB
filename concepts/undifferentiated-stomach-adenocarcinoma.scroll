@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id undifferentiated-stomach-adenocarcinoma
-title Undifferentiated Stomach Adenocarcinoma
+name Undifferentiated Stomach Adenocarcinoma
 type cancerType
 mainType Esophagogastric Cancer
 tissue Esophagus/Stomach

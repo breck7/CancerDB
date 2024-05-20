@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id ganglioglioma
-title Ganglioglioma
+name Ganglioglioma
 type cancerType
 mainType Glioma
 tissue CNS/Brain

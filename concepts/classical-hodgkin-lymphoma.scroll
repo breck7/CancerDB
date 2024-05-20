@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id classical-hodgkin-lymphoma
-title Classical Hodgkin Lymphoma
+name Classical Hodgkin Lymphoma
 type cancerType
 mainType Hodgkin Lymphoma
 tissue Lymphoid

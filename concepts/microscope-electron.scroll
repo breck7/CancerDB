@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id microscope-electron
-title Electron Microscope
+name Electron Microscope
 type microscope
 conceptDescription Uses a beam of electrons instead of light to create high-resolution images of very small specimens.
 

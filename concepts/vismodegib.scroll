@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id vismodegib
-title Vismodegib
+name Vismodegib
 type chemotherapyDrug
 tradenames Erivedge
 

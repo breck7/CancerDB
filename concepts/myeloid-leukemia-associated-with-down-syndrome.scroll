@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id myeloid-leukemia-associated-with-down-syndrome
-title Myeloid Leukemia Associated with Down Syndrome
+name Myeloid Leukemia Associated with Down Syndrome
 type cancerType
 mainType Leukemia
 tissue Myeloid

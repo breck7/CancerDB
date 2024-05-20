@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id camptothecin
-title Camptothecin
+name Camptothecin
 type chemotherapyDrug
 
 wikipedia https://en.wikipedia.org/wiki/Camptothecin

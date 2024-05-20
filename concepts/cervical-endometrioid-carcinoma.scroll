@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cervical-endometrioid-carcinoma
-title Cervical Endometrioid Carcinoma
+name Cervical Endometrioid Carcinoma
 type cancerType
 mainType Cervical Cancer
 tissue Cervix

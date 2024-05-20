@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id zmncr-zm
-title zmncr
+name zmncr
 type registry
 appeared 1977
 standsFor Zambia National Cancer Registry

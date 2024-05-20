@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id sweat-gland-carcinoma-apocrine-eccrine-carcinoma
-title Sweat Gland Carcinoma/Apocrine Eccrine Carcinoma
+name Sweat Gland Carcinoma/Apocrine Eccrine Carcinoma
 type cancerType
 mainType Skin Cancer, Non-Melanoma
 tissue Skin

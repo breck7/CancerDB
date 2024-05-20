@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id university-of-virginia-cancer-center
-title University of Virginia Cancer Center
+name University of Virginia Cancer Center
 type nciCancerCenter
 
 website https://uvahealth.com/services/cancer

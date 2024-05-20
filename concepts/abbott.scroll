@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id abbott
-title Abbott Laboratories
+name Abbott Laboratories
 type publicCompany
 
 website https://www.abbott.com/

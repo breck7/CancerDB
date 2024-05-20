@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id herbert-irving-comprehensive-cancer-center
-title Herbert Irving Comprehensive Cancer Center
+name Herbert Irving Comprehensive Cancer Center
 type nciCancerCenter
 
 website https://www.cancer.columbia.edu/

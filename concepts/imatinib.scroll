@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id imatinib
-title Imatinib
+name Imatinib
 type chemotherapyDrug
 tradenames Gleevec && Glivec
 

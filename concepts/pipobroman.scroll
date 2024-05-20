@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id pipobroman
-title Pipobroman
+name Pipobroman
 type chemotherapyDrug alkylatingAgent
 tradenames Vercite && Vercyte
 

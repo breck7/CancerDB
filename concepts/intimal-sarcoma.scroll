@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id intimal-sarcoma
-title Intimal Sarcoma
+name Intimal Sarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

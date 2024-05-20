@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id nimustine
-title Nimustine
+name Nimustine
 type chemotherapyDrug alkylatingAgent
 
 wikipedia https://en.wikipedia.org/wiki/Nimustine

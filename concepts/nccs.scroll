@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id nccs
-title NCCS
+name NCCS
 type cancerNonProfit
 standsFor National Coalition for Cancer Survivorship
 

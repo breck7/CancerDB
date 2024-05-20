@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cleveland-clinic
-title Cleveland Clinic
+name Cleveland Clinic
 type hospital
 
 website https://clevelandclinic.org/

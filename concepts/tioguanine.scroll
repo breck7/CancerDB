@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id tioguanine
-title Tioguanine
+name Tioguanine
 type chemotherapyDrug
 tradenames Lanvis && Tabloid
 

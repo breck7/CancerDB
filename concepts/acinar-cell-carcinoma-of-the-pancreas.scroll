@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id acinar-cell-carcinoma-of-the-pancreas
-title Acinar Cell Carcinoma of the Pancreas
+name Acinar Cell Carcinoma of the Pancreas
 type cancerType
 mainType Pancreatic Cancer
 tissue Pancreas

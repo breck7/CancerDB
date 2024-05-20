@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id adenoid-cystic-carcinoma-of-the-lung
-title Adenoid Cystic Carcinoma of the Lung
+name Adenoid Cystic Carcinoma of the Lung
 type cancerType
 mainType Non-Small Cell Lung Cancer
 tissue Lung

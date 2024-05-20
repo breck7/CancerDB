@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id valrubicin
-title Valrubicin
+name Valrubicin
 type chemotherapyDrug anthracycline
 
 wikipedia https://en.wikipedia.org/wiki/Valrubicin

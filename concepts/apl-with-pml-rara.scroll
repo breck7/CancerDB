@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id apl-with-pml-rara
-title APL with PML-RARA
+name APL with PML-RARA
 type cancerType
 mainType Leukemia
 tissue Myeloid

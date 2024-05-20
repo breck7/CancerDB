@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id pleuropulmonary-blastoma
-title Pleuropulmonary Blastoma
+name Pleuropulmonary Blastoma
 type cancerType
 mainType Non-Small Cell Lung Cancer
 tissue Lung

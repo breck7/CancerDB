@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id low-grade-serous-ovarian-cancer
-title Low-Grade Serous Ovarian Cancer
+name Low-Grade Serous Ovarian Cancer
 type cancerType
 mainType Ovarian Cancer
 tissue Ovary/Fallopian Tube

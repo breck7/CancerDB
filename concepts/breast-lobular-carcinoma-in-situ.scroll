@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id breast-lobular-carcinoma-in-situ
-title Breast Lobular Carcinoma In Situ
+name Breast Lobular Carcinoma In Situ
 type cancerType
 mainType Breast Cancer
 tissue Breast

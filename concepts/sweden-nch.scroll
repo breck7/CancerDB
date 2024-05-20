@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id sweden-nch
-title Karolinska Institutet
+name Karolinska Institutet
 type hospital
 
 website https://ki.se/en/

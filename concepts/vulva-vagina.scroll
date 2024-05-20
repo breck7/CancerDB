@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id vulva-vagina
-title Vulva and Vaginal Cancers
+name Vulva and Vaginal Cancers
 type cancerType
 mainType Vulvar/Vaginal Cancer, NOS
 tissue Vulva/Vagina

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id high-grade-glioma-nos
-title High-Grade Glioma, NOS
+name High-Grade Glioma, NOS
 type cancerType
 mainType Glioma
 tissue CNS/Brain

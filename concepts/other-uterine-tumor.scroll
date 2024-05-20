@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id other-uterine-tumor
-title Other Uterine Tumor
+name Other Uterine Tumor
 type cancerType
 mainType Endometrial Cancer
 tissue Uterus

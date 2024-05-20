@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id thymic-epithelial-tumor
-title Thymic Epithelial Tumor
+name Thymic Epithelial Tumor
 type cancerType
 mainType Thymic Tumor
 tissue Thymus

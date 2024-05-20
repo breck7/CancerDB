@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cancercare
-title CancerCare
+name CancerCare
 type cancerNonProfit
 appeared 1944
 

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cancer-ward
-title Cancer Ward
+name Cancer Ward
 type book
 appeared 1966
 conceptAuthor Aleksandr Solzhenitsyn

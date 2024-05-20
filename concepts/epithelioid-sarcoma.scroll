@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id epithelioid-sarcoma
-title Epithelioid Sarcoma
+name Epithelioid Sarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

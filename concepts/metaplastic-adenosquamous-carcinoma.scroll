@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id metaplastic-adenosquamous-carcinoma
-title Metaplastic Adenosquamous Carcinoma
+name Metaplastic Adenosquamous Carcinoma
 type cancerType
 mainType Breast Cancer
 tissue Breast

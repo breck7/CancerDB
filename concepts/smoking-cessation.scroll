@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id smoking-cessation
-title Smoking Cessation
+name Smoking Cessation
 type toxinAvoidance
 cancerTypes lung
 

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id endometrial-stromal-sarcoma
-title Endometrial Stromal Sarcoma
+name Endometrial Stromal Sarcoma
 type cancerType
 mainType Uterine Sarcoma
 tissue Uterus

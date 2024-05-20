@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id the-university-of-chicago-comprehensive-cancer-center
-title The University of Chicago Comprehensive Cancer Center
+name The University of Chicago Comprehensive Cancer Center
 type nciCancerCenter
 
 website https://www.uchicagomedicine.org/cancer

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id fluorouracil
-title Fluorouracil
+name Fluorouracil
 type chemotherapyDrug
 tradenames Adrucil && Carac && Efudex
 

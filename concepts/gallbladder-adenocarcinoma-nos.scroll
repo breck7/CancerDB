@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id gallbladder-adenocarcinoma-nos
-title Gallbladder Adenocarcinoma, NOS
+name Gallbladder Adenocarcinoma, NOS
 type cancerType
 mainType Hepatobiliary Cancer
 tissue Biliary Tract

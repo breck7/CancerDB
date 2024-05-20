@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id curium-pharma
-title Curium Pharma
+name Curium Pharma
 type company
 
 website https://www.curiumpharma.com/

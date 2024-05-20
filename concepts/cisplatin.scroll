@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cisplatin
-title Cisplatin
+name Cisplatin
 type chemotherapyDrug
 tradenames Platinol
 

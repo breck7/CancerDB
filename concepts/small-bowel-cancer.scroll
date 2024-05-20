@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id small-bowel-cancer
-title Small Bowel Cancer
+name Small Bowel Cancer
 type cancerType
 mainType Small Bowel Cancer
 tissue Bowel

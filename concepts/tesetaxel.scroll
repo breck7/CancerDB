@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id tesetaxel
-title Tesetaxel
+name Tesetaxel
 type chemotherapyDrug taxane
 
 wikipedia https://en.wikipedia.org/wiki/Tesetaxel

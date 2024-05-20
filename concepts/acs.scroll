@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id acs
-title American College of Surgeons
+name American College of Surgeons
 type professionalOrganization
 aka ACS
 

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id epirubicin
-title Epirubicin
+name Epirubicin
 type chemotherapyDrug anthracycline
 tradenames Ellence
 

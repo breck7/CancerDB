@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id acral-melanoma
-title Acral Melanoma
+name Acral Melanoma
 type cancerType
 mainType Melanoma
 tissue Skin

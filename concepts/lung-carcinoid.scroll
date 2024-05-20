@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id lung-carcinoid
-title Lung Carcinoid
+name Lung Carcinoid
 type cancerType
 mainType Non-Small Cell Lung Cancer
 tissue Lung

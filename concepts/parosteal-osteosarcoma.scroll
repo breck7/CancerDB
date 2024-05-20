@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id parosteal-osteosarcoma
-title Parosteal Osteosarcoma
+name Parosteal Osteosarcoma
 type cancerType
 mainType Bone Cancer
 tissue Bone

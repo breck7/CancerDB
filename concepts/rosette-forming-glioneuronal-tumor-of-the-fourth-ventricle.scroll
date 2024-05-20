@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id rosette-forming-glioneuronal-tumor-of-the-fourth-ventricle
-title Rosette-forming Glioneuronal Tumor of the Fourth Ventricle
+name Rosette-forming Glioneuronal Tumor of the Fourth Ventricle
 type cancerType
 mainType Miscellaneous Neuroepithelial Tumor
 tissue CNS/Brain

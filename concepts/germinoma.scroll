@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id germinoma
-title Germinoma
+name Germinoma
 type cancerType
 mainType Germ Cell Tumor
 tissue CNS/Brain

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id india-nci
-title Rajiv Gandhi Cancer Institute and Research Centre
+name Rajiv Gandhi Cancer Institute and Research Centre
 type cancerNonProfit researchCenter
 
 website https://www.rgcirc.org/

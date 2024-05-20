@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id hydroxyurea
-title Hydroxyurea
+name Hydroxyurea
 type chemotherapyDrug
 tradenames Droxia && Hydrea && Siklos
 

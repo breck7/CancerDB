@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id rhabdomyosarcoma
-title Rhabdomyosarcoma
+name Rhabdomyosarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

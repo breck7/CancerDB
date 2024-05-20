@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id aaci
-title Association of American Cancer Institutes
+name Association of American Cancer Institutes
 type professionalOrganization
 
 website https://www.aaci-cancer.org/

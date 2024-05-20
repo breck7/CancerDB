@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id histiocytic-dendritic-cell-sarcoma
-title Histiocytic Dendritic Cell Sarcoma
+name Histiocytic Dendritic Cell Sarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

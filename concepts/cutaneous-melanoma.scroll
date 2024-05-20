@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cutaneous-melanoma
-title Cutaneous Melanoma
+name Cutaneous Melanoma
 type cancerType
 mainType Melanoma
 tissue Skin

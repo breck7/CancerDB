@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id aml-megakaryoblastic-with-t122p13.3q13.3rbm15-mkl1
-title AML (megakaryoblastic) with t(1;22)(p13.3;q13.3);RBM15-MKL1
+name AML (megakaryoblastic) with t(1;22)(p13.3;q13.3);RBM15-MKL1
 type cancerType
 mainType Leukemia
 tissue Myeloid

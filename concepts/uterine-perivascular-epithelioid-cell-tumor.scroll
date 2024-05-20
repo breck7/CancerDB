@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id uterine-perivascular-epithelioid-cell-tumor
-title Uterine Perivascular Epithelioid Cell Tumor
+name Uterine Perivascular Epithelioid Cell Tumor
 type cancerType
 mainType Uterine Sarcoma
 tissue Uterus

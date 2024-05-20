@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id lenvatinib
-title Lenvatinib
+name Lenvatinib
 type drug tyrosineKinaseInhibitor
 
 wikipedia https://en.wikipedia.org/wiki/Lenvatinib

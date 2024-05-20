@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id lung-neuroendocrine-tumor
-title Lung Neuroendocrine Tumor
+name Lung Neuroendocrine Tumor
 type cancerType
 mainType Non-Small Cell Lung Cancer
 tissue Lung

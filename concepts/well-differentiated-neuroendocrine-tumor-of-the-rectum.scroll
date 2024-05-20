@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id well-differentiated-neuroendocrine-tumor-of-the-rectum
-title Well-Differentiated Neuroendocrine Tumor of the Rectum
+name Well-Differentiated Neuroendocrine Tumor of the Rectum
 type cancerType
 mainType Gastrointestinal Neuroendocrine Tumor
 tissue Bowel

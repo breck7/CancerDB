@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id benign-phyllodes-tumor-of-the-breast
-title Benign Phyllodes Tumor of the Breast
+name Benign Phyllodes Tumor of the Breast
 type cancerType
 mainType Breast Sarcoma
 tissue Breast

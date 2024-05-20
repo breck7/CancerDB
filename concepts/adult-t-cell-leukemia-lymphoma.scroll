@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id adult-t-cell-leukemia-lymphoma
-title Adult T-Cell Leukemia/Lymphoma
+name Adult T-Cell Leukemia/Lymphoma
 type cancerType
 mainType Mature T and NK Neoplasms
 tissue Lymphoid

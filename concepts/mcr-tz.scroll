@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id mcr-tz
-title mcr
+name mcr
 type registry
 appeared 2016
 standsFor Mwanza Cancer Registry

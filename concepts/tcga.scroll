@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id tcga
-title TCGA
+name TCGA
 type majorResearchEffort
 appeared 2006
 parentOrganization nci nhgri

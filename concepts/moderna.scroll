@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id moderna
-title Moderna
+name Moderna
 type publicCompany
 
 website http://modernatx.com/

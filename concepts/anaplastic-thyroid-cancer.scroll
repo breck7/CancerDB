@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id anaplastic-thyroid-cancer
-title Anaplastic Thyroid Cancer
+name Anaplastic Thyroid Cancer
 type cancerType
 mainType Thyroid Cancer
 tissue Thyroid

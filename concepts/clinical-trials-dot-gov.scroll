@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id clinical-trials-dot-gov
-title ClinicalTrials.gov
+name ClinicalTrials.gov
 type onlineDatabase
 parentOrganization nlm
 conceptDescription ClinicalTrials.gov is a database of privately and publicly funded clinical studies conducted around the world.

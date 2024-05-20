@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id sertoli-leydig-cell-tumor
-title Sertoli-Leydig Cell Tumor
+name Sertoli-Leydig Cell Tumor
 type cancerType
 mainType Sex Cord Stromal Tumor
 tissue Ovary/Fallopian Tube

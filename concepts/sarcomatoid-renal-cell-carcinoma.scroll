@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id sarcomatoid-renal-cell-carcinoma
-title Sarcomatoid Renal Cell Carcinoma
+name Sarcomatoid Renal Cell Carcinoma
 type cancerType
 mainType Renal Cell Carcinoma
 tissue Kidney

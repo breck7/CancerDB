@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id sidney-kimmel-cancer-center-at-thomas-jefferson-university
-title Sidney Kimmel Cancer Center at Thomas Jefferson University
+name Sidney Kimmel Cancer Center at Thomas Jefferson University
 type nciCancerCenter
 
 website https://www.jeffersonhealth.org/clinical-specialties/cancer

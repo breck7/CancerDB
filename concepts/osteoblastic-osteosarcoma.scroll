@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id osteoblastic-osteosarcoma
-title Osteoblastic Osteosarcoma
+name Osteoblastic Osteosarcoma
 type cancerType
 mainType Bone Cancer
 tissue Bone

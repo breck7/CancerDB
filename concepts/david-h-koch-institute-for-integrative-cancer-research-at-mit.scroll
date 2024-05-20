@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id david-h-koch-institute-for-integrative-cancer-research-at-mit
-title David H. Koch Institute for Integrative Cancer Research at MIT
+name David H. Koch Institute for Integrative Cancer Research at MIT
 type nciCancerCenter
 
 website https://ki.mit.edu/

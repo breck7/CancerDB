@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id egypt-ncc
-title National Cancer Institute Cairo University
+name National Cancer Institute Cairo University
 type nationalCancerInstitute
 
 website https://www.uicc.org/membership/national-cancer-institute-cairo

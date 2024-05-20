@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id hypopharynx-squamous-cell-carcinoma
-title Hypopharynx Squamous Cell Carcinoma
+name Hypopharynx Squamous Cell Carcinoma
 type cancerType
 mainType Head and Neck Cancer
 tissue Head and Neck

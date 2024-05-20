@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id paleo-diet
-title Paleo Diet
+name Paleo Diet
 type diet
 
 wikipedia https://en.wikipedia.org/wiki/Paleolithic_diet

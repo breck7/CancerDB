@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id hyalinizing-trabecular-adenoma-of-the-thyroid
-title Hyalinizing Trabecular Adenoma of the Thyroid
+name Hyalinizing Trabecular Adenoma of the Thyroid
 type cancerType
 mainType Thyroid Cancer
 tissue Thyroid

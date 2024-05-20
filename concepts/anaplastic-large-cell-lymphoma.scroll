@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id anaplastic-large-cell-lymphoma
-title Anaplastic Large Cell Lymphoma
+name Anaplastic Large Cell Lymphoma
 type cancerType
 mainType Mature T and NK Neoplasms
 tissue Lymphoid

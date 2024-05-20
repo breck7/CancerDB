@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id polymorphic-ptld
-title Polymorphic PTLD
+name Polymorphic PTLD
 type cancerType
 mainType Posttransplant Lymphoproliferative Disorders
 tissue Lymphoid

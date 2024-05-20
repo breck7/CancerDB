@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id mt-sdna
-title MT-sDNA
+name MT-sDNA
 type diagnosticTest
 cancerTypes colon
 standsFor Multi-targeted stool DNA test

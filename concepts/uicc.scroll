@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id uicc
-title UICC
+name UICC
 type cancerNonProfit
 appeared 1933
 standsFor Union for International Cancer Control

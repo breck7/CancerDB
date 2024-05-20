@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cystic-tumor-of-the-pancreas
-title Cystic Tumor of the Pancreas
+name Cystic Tumor of the Pancreas
 type cancerType
 mainType Pancreatic Cancer
 tissue Pancreas

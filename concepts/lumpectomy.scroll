@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id lumpectomy
-title Lumpectomy
+name Lumpectomy
 type surgery
 conceptDescription A surgery to remove a breast tumor along with a margin of normal breast tissue
 

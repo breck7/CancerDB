@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id granulosa-cell-tumor
-title Granulosa Cell Tumor
+name Granulosa Cell Tumor
 type cancerType
 mainType Sex Cord Stromal Tumor
 tissue Ovary/Fallopian Tube

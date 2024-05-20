@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id brenner-tumor-benign
-title Brenner Tumor, Benign
+name Brenner Tumor, Benign
 type cancerType
 mainType Ovarian Cancer
 tissue Ovary/Fallopian Tube

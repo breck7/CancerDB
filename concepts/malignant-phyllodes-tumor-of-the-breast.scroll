@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id malignant-phyllodes-tumor-of-the-breast
-title Malignant Phyllodes Tumor of the Breast
+name Malignant Phyllodes Tumor of the Breast
 type cancerType
 mainType Breast Sarcoma
 tissue Breast

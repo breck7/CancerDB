@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id well-differentiated-liposarcoma
-title Well-Differentiated Liposarcoma
+name Well-Differentiated Liposarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

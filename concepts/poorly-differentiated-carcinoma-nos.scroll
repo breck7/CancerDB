@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id poorly-differentiated-carcinoma-nos
-title Poorly Differentiated Carcinoma, NOS
+name Poorly Differentiated Carcinoma, NOS
 type cancerType
 mainType Cancer of Unknown Primary
 tissue Other

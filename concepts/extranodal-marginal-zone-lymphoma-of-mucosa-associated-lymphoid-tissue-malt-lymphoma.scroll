@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id extranodal-marginal-zone-lymphoma-of-mucosa-associated-lymphoid-tissue-malt-lymphoma
-title Extranodal Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue (MALT lymphoma)
+name Extranodal Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue (MALT lymphoma)
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

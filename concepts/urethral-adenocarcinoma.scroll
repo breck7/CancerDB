@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id urethral-adenocarcinoma
-title Urethral Adenocarcinoma
+name Urethral Adenocarcinoma
 type cancerType
 mainType Bladder Cancer
 tissue Bladder/Urinary Tract

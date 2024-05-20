@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id bayer
-title Bayer
+name Bayer
 type publicCompany
 
 website https://www.bayer.com

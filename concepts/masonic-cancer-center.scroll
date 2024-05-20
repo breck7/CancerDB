@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id masonic-cancer-center
-title Masonic Cancer Center
+name Masonic Cancer Center
 type nciCancerCenter
 
 website https://cancer.umn.edu/

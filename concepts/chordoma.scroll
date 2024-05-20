@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id chordoma
-title Chordoma
+name Chordoma
 type cancerType
 mainType Bone Cancer
 tissue Bone

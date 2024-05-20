@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id conjunctival-melanoma
-title Conjunctival Melanoma
+name Conjunctival Melanoma
 type cancerType
 mainType Melanoma
 tissue Eye

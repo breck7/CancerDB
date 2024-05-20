@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id peritoneal-serous-carcinoma
-title Peritoneal Serous Carcinoma
+name Peritoneal Serous Carcinoma
 type cancerType
 mainType Peritoneal Cancer, NOS
 tissue Peritoneum

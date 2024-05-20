@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id glomangiosarcoma
-title Glomangiosarcoma
+name Glomangiosarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

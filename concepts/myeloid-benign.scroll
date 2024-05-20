@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id myeloid-benign
-title Myeloid Benign
+name Myeloid Benign
 type cancerType
 mainType Blood Cancer, NOS
 tissue Myeloid

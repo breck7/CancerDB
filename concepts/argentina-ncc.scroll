@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id argentina-ncc
-title Instituto Nacional del Cáncer
+name Instituto Nacional del Cáncer
 type nationalCancerInstitute
 
 website https://www.argentina.gob.ar/salud/inc

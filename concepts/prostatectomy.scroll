@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id prostatectomy
-title Prostatectomy
+name Prostatectomy
 type surgery
 conceptDescription A surgical removal of the prostate gland in men who have prostate cancer.
 

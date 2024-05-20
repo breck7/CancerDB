@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id subependymoma
-title Subependymoma
+name Subependymoma
 type cancerType
 mainType CNS Cancer
 tissue CNS/Brain

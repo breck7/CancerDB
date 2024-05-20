@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id mercaptopurine
-title Mercaptopurine
+name Mercaptopurine
 type chemotherapyDrug
 tradenames Purinethol && Purixan
 

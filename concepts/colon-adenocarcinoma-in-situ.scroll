@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id colon-adenocarcinoma-in-situ
-title Colon Adenocarcinoma In Situ
+name Colon Adenocarcinoma In Situ
 type cancerType
 mainType Colorectal Cancer
 tissue Bowel

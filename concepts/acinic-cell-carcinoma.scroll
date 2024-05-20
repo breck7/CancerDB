@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id acinic-cell-carcinoma
-title Acinic Cell Carcinoma
+name Acinic Cell Carcinoma
 type cancerType
 mainType Salivary Gland Cancer
 tissue Head and Neck

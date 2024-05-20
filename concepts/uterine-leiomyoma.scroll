@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id uterine-leiomyoma
-title Uterine Leiomyoma
+name Uterine Leiomyoma
 type cancerType
 mainType Uterine Sarcoma
 tissue Uterus

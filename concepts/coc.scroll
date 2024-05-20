@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id coc
-title CoC
+name CoC
 type consortium
 parentOrganization acs
 standsFor Commission on Cancer

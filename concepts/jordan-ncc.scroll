@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id jordan-ncc
-title King Hussein Cancer Center
+name King Hussein Cancer Center
 type nationalCancerInstitute
 
 website https://www.khcc.jo/en

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id encapsulated-glioma
-title Encapsulated Glioma
+name Encapsulated Glioma
 type cancerType
 mainType Glioma
 tissue CNS/Brain

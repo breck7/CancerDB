@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id dysplastic-gangliocytoma-of-the-cerebellum-lhermitte-duclos-disease
-title Dysplastic Gangliocytoma of the Cerebellum/Lhermitte-Duclos Disease
+name Dysplastic Gangliocytoma of the Cerebellum/Lhermitte-Duclos Disease
 type cancerType
 mainType Miscellaneous Neuroepithelial Tumor
 tissue CNS/Brain

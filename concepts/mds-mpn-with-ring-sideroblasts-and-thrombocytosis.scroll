@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id mds-mpn-with-ring-sideroblasts-and-thrombocytosis
-title MDS/MPN with Ring Sideroblasts and Thrombocytosis
+name MDS/MPN with Ring Sideroblasts and Thrombocytosis
 type cancerType
 mainType Myelodysplastic/Myeloproliferative Neoplasms
 tissue Myeloid

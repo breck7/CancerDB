@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id wake-forest-baptist-comprehensive-cancer-center
-title Wake Forest Baptist Comprehensive Cancer Center
+name Wake Forest Baptist Comprehensive Cancer Center
 type nciCancerCenter
 
 website https://www.wakehealth.edu/locations/facilities/comprehensive-cancer-center

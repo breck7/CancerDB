@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id poorly-differentiated-carcinoma-of-the-uterus
-title Poorly Differentiated Carcinoma of the Uterus
+name Poorly Differentiated Carcinoma of the Uterus
 type cancerType
 mainType Endometrial Cancer
 tissue Uterus

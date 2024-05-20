@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id adenomyoepithelioma-of-the-breast
-title Adenomyoepithelioma of the Breast
+name Adenomyoepithelioma of the Breast
 type cancerType
 mainType Breast Cancer
 tissue Breast

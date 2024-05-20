@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id retinoblastoma
-title Retinoblastoma
+name Retinoblastoma
 type cancerType
 mainType Retinoblastoma
 tissue Eye

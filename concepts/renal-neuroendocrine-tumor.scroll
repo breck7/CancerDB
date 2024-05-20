@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id renal-neuroendocrine-tumor
-title Renal Neuroendocrine Tumor
+name Renal Neuroendocrine Tumor
 type cancerType
 mainType Renal Neuroendocrine Tumor
 tissue Kidney

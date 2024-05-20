@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id melanoma-of-unknown-primary
-title Melanoma of Unknown Primary
+name Melanoma of Unknown Primary
 type cancerType
 mainType Melanoma
 tissue Skin

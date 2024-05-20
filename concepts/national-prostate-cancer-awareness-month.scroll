@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id national-prostate-cancer-awareness-month
-title National Prostate Cancer Awareness Month
+name National Prostate Cancer Awareness Month
 type awarenessEvent
 cancerTypes prostate
 

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id alpha-heavy-chain-disease
-title Alpha Heavy-Chain Disease
+name Alpha Heavy-Chain Disease
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

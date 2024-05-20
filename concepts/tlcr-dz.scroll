@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id tlcr-dz
-title TLCR
+name TLCR
 type registry
 appeared 1999
 standsFor Tlemcen Cancer Registry

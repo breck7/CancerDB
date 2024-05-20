@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id uterine-carcinosarcoma-uterine-malignant-mixed-mullerian-tumor
-title Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+name Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
 type cancerType
 mainType Endometrial Cancer
 tissue Uterus

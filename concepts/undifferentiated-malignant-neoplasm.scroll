@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id undifferentiated-malignant-neoplasm
-title Undifferentiated Malignant Neoplasm
+name Undifferentiated Malignant Neoplasm
 type cancerType
 mainType Cancer of Unknown Primary
 tissue Other

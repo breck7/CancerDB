@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id one-plus-one-cars
-title 1+1 Cares
+name 1+1 Cares
 type caregiverService
 
 website https://1plus1cares.com/

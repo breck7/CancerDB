@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id prostate-squamous-cell-carcinoma
-title Prostate Squamous Cell Carcinoma
+name Prostate Squamous Cell Carcinoma
 type cancerType
 mainType Prostate Cancer
 tissue Prostate

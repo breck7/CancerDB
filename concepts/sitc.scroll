@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id sitc
-title SITC
+name SITC
 type professionalOrganization
 appeared 1984
 oldName International Society for Biological Therapy of Cancer

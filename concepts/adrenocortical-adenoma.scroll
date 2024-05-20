@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id adrenocortical-adenoma
-title Adrenocortical Adenoma
+name Adrenocortical Adenoma
 type cancerType
 mainType Adrenocortical Adenoma
 tissue Adrenal Gland

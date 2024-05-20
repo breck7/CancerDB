@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id pancreatic-adenocarcinoma
-title Pancreatic Adenocarcinoma
+name Pancreatic Adenocarcinoma
 type cancerType
 mainType Pancreatic Cancer
 tissue Pancreas

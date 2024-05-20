@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id chordoid-meningioma
-title Chordoid Meningioma
+name Chordoid Meningioma
 type cancerType
 mainType CNS Cancer
 tissue CNS/Brain

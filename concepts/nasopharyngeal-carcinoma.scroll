@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id nasopharyngeal-carcinoma
-title Nasopharyngeal Carcinoma
+name Nasopharyngeal Carcinoma
 type cancerType
 mainType Head and Neck Cancer
 tissue Head and Neck

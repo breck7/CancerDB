@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id vemurafenib
-title Vemurafenib
+name Vemurafenib
 type chemotherapyDrug
 tradenames Zelboraf
 

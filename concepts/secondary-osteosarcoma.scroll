@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id secondary-osteosarcoma
-title Secondary Osteosarcoma
+name Secondary Osteosarcoma
 type cancerType
 mainType Bone Cancer
 tissue Bone

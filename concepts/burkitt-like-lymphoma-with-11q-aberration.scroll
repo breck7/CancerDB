@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id burkitt-like-lymphoma-with-11q-aberration
-title Burkitt-Like Lymphoma with 11q Aberration
+name Burkitt-Like Lymphoma with 11q Aberration
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

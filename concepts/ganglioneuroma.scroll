@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id ganglioneuroma
-title Ganglioneuroma
+name Ganglioneuroma
 type cancerType
 mainType Peripheral Nervous System
 tissue Peripheral Nervous System

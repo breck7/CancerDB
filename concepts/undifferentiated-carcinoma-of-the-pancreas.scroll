@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id undifferentiated-carcinoma-of-the-pancreas
-title Undifferentiated Carcinoma of the Pancreas
+name Undifferentiated Carcinoma of the Pancreas
 type cancerType
 mainType Pancreatic Cancer
 tissue Pancreas

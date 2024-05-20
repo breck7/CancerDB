@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id desmoplastic-trichoepithelioma
-title Desmoplastic Trichoepithelioma
+name Desmoplastic Trichoepithelioma
 type cancerType
 mainType Skin Cancer, Non-Melanoma
 tissue Skin

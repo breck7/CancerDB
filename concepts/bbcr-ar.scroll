@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id bbcr-ar
-title BBCR
+name BBCR
 type registry
 appeared 1993
 standsFor Bahía Blanca Cancer Registry

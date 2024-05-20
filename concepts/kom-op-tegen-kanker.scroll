@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id kom-op-tegen-kanker
-title Kom op tegen Kanker
+name Kom op tegen Kanker
 type cancerNonProfit
 
 website https://www.komoptegenkanker.be/

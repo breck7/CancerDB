@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id mucinous-adenocarcinoma-of-the-appendix
-title Mucinous Adenocarcinoma of the Appendix
+name Mucinous Adenocarcinoma of the Appendix
 type cancerType
 mainType Appendiceal Cancer
 tissue Bowel

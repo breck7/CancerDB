@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id squamous-cell-carcinoma-of-the-vulva-vagina
-title Squamous Cell Carcinoma of the Vulva/Vagina
+name Squamous Cell Carcinoma of the Vulva/Vagina
 type cancerType
 mainType Vaginal Cancer
 tissue Vulva/Vagina

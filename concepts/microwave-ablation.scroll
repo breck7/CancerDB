@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id microwave-ablation
-title Microwave ablation
+name Microwave ablation
 type ablationProcedure
 
 wikipedia https://en.wikipedia.org/wiki/Microwave_ablation

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id johnson-and-johnson
-title Johnson & Johnson
+name Johnson & Johnson
 type publicCompany
 
 website https://www.jnj.com/

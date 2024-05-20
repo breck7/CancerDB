@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id myoepithelial-carcinoma
-title Myoepithelial Carcinoma
+name Myoepithelial Carcinoma
 type cancerType
 mainType Salivary Gland Cancer
 tissue Head and Neck

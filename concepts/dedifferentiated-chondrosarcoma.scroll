@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id dedifferentiated-chondrosarcoma
-title Dedifferentiated Chondrosarcoma
+name Dedifferentiated Chondrosarcoma
 type cancerType
 mainType Bone Cancer
 tissue Bone

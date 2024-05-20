@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id renal-oncocytoma
-title Renal Oncocytoma
+name Renal Oncocytoma
 type cancerType
 mainType Renal Cell Carcinoma
 tissue Kidney

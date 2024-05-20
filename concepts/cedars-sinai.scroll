@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cedars-sinai
-title Cedars-Sinai Medical Center
+name Cedars-Sinai Medical Center
 type hospital
 
 website https://www.cedars-sinai.org

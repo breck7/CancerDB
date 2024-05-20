@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id esophagogastric-adenocarcinoma
-title Esophagogastric Adenocarcinoma
+name Esophagogastric Adenocarcinoma
 type cancerType
 mainType Esophagogastric Cancer
 tissue Esophagus/Stomach

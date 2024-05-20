@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id high-grade-neuroendocrine-carcinoma-of-the-colon-and-rectum
-title High-Grade Neuroendocrine Carcinoma of the Colon and Rectum
+name High-Grade Neuroendocrine Carcinoma of the Colon and Rectum
 type cancerType
 mainType Gastrointestinal Neuroendocrine Tumor
 tissue Bowel

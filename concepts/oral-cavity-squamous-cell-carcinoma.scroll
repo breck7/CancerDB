@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id oral-cavity-squamous-cell-carcinoma
-title Oral Cavity Squamous Cell Carcinoma
+name Oral Cavity Squamous Cell Carcinoma
 type cancerType
 mainType Head and Neck Cancer
 tissue Head and Neck

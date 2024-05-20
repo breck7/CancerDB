@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id iacc-ao
-title IACC
+name IACC
 type registry
 appeared 2007
 standsFor Instituto Angolano de Controlo do Cancer

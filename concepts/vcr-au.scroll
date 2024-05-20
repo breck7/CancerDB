@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id vcr-au
-title VCR
+name VCR
 type registry
 appeared 1936
 standsFor Victorian Cancer Registry

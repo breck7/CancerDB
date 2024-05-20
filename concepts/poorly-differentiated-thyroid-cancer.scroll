@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id poorly-differentiated-thyroid-cancer
-title Poorly Differentiated Thyroid Cancer
+name Poorly Differentiated Thyroid Cancer
 type cancerType
 mainType Thyroid Cancer
 tissue Thyroid

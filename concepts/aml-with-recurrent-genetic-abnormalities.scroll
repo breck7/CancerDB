@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id aml-with-recurrent-genetic-abnormalities
-title AML with Recurrent Genetic Abnormalities
+name AML with Recurrent Genetic Abnormalities
 type cancerType
 mainType Leukemia
 tissue Myeloid

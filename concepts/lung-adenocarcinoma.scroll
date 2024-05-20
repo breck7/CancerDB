@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id lung-adenocarcinoma
-title Lung Adenocarcinoma
+name Lung Adenocarcinoma
 type cancerType
 mainType Non-Small Cell Lung Cancer
 tissue Lung

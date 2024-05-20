@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id gemcitabine
-title Gemcitabine
+name Gemcitabine
 type chemotherapyDrug
 tradenames Gemzar
 

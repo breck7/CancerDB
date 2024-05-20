@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id czechrepublic-ncc
-title National Cancer Institute
+name National Cancer Institute
 type nationalCancerInstitute
 
 website https://www.uzis.cz/en/national-cancer-institute

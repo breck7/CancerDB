@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id undifferentiated-embryonal-sarcoma-of-the-liver
-title Undifferentiated Embryonal Sarcoma of the Liver
+name Undifferentiated Embryonal Sarcoma of the Liver
 type cancerType
 mainType Undifferentiated Embryonal Sarcoma of the Liver
 tissue Liver

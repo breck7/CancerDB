@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id adamantinoma
-title Adamantinoma
+name Adamantinoma
 type cancerType
 mainType Bone Cancer
 tissue Bone

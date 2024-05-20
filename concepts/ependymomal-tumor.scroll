@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id ependymomal-tumor
-title Ependymomal Tumor
+name Ependymomal Tumor
 type cancerType
 mainType CNS Cancer
 tissue CNS/Brain

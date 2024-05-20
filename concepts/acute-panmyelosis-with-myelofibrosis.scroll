@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id acute-panmyelosis-with-myelofibrosis
-title Acute Panmyelosis with Myelofibrosis
+name Acute Panmyelosis with Myelofibrosis
 type cancerType
 mainType Leukemia
 tissue Myeloid

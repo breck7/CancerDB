@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id miaderm-cream
-title Miaderm Creme
+name Miaderm Creme
 type lotion
 company Aiden Industries, LLC
 conceptDescription Developed by oncologists specifically for radiation dermatitis.

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id germ-cell-tumor-with-somatic-type-malignancy
-title Germ Cell Tumor with Somatic-Type Malignancy
+name Germ Cell Tumor with Somatic-Type Malignancy
 type cancerType
 mainType Germ Cell Tumor
 tissue Testis

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cancer-subreddit
-title Cancer Subreddit
+name Cancer Subreddit
 type subreddit onlineForum
 
 subreddit https://www.reddit.com/r/cancer

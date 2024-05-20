@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id mucinous-adenocarcinoma-of-the-vulva-vagina
-title Mucinous Adenocarcinoma of the Vulva/Vagina
+name Mucinous Adenocarcinoma of the Vulva/Vagina
 type cancerType
 mainType Vulvar Carcinoma
 tissue Vulva/Vagina

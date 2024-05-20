@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cervical-adenoid-cystic-carcinoma
-title Cervical Adenoid Cystic Carcinoma
+name Cervical Adenoid Cystic Carcinoma
 type cancerType
 mainType Cervical Cancer
 tissue Cervix

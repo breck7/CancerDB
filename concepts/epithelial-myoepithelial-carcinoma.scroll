@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id epithelial-myoepithelial-carcinoma
-title Epithelial-Myoepithelial Carcinoma
+name Epithelial-Myoepithelial Carcinoma
 type cancerType
 mainType Head and Neck Cancer
 tissue Head and Neck

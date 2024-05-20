@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id becton-dickinson-and-company
-title Becton, Dickinson and Company
+name Becton, Dickinson and Company
 type company
 aka BD
 

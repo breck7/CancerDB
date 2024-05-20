@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id ibcr-ng
-title IBCR
+name IBCR
 type registry
 appeared 1960
 standsFor Ibadan Cancer Registry

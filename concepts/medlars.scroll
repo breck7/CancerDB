@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id medlars
-title MEDLARS
+name MEDLARS
 type onlineDatabase
 appeared 1964
 parentOrganization nlm

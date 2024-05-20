@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cervical-adenoid-basal-carcinoma
-title Cervical Adenoid Basal Carcinoma
+name Cervical Adenoid Basal Carcinoma
 type cancerType
 mainType Cervical Cancer
 tissue Cervix

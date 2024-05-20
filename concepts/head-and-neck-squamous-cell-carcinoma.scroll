@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id head-and-neck-squamous-cell-carcinoma
-title Head and Neck Squamous Cell Carcinoma
+name Head and Neck Squamous Cell Carcinoma
 type cancerType
 mainType Head and Neck Cancer
 tissue Head and Neck

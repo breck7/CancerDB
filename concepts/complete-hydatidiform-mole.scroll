@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id complete-hydatidiform-mole
-title Complete Hydatidiform Mole
+name Complete Hydatidiform Mole
 type cancerType
 mainType Gestational Trophoblastic Disease
 tissue Uterus

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id bexarotene
-title Bexarotene
+name Bexarotene
 type chemotherapyDrug
 tradenames Targretin
 

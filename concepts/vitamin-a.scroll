@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id vitamin-a
-title Vitamin A
+name Vitamin A
 type vitamin
 
 wikipedia https://en.wikipedia.org/wiki/Vitamin_A

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id renal-non-clear-cell-carcinoma
-title Renal Non-Clear Cell Carcinoma
+name Renal Non-Clear Cell Carcinoma
 type cancerType
 mainType Renal Cell Carcinoma
 tissue Kidney

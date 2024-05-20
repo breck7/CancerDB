@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id nature-reviews-cancer
-title Nature Reviews Cancer
+name Nature Reviews Cancer
 type journal
 
 website https://www.nature.com/nrc/

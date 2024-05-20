@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id ranimustine
-title Ranimustine
+name Ranimustine
 type chemotherapyDrug alkylatingAgent
 tradenames Cymerin
 

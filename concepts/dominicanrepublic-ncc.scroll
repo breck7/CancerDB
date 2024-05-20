@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id dominicanrepublic-ncc
-title National Cancer Institute of the Dominican Republic
+name National Cancer Institute of the Dominican Republic
 type nationalCancerInstitute
 
 website https://www.incart.gob.do/

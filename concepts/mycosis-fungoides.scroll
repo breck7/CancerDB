@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id mycosis-fungoides
-title Mycosis Fungoides
+name Mycosis Fungoides
 type cancerType
 mainType Mature T and NK Neoplasms
 tissue Lymphoid

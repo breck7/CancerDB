@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id mixed-ovarian-carcinoma
-title Mixed Ovarian Carcinoma
+name Mixed Ovarian Carcinoma
 type cancerType
 mainType Ovarian Cancer
 tissue Ovary/Fallopian Tube

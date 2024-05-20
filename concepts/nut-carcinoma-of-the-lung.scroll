@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id nut-carcinoma-of-the-lung
-title NUT Carcinoma of the Lung
+name NUT Carcinoma of the Lung
 type cancerType
 mainType Non-Small Cell Lung Cancer
 tissue Lung

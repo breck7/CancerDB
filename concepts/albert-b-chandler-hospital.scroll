@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id albert-b-chandler-hospital
-title Albert B. Chandler Hospital
+name Albert B. Chandler Hospital
 type hospital
 appeared 1962
 

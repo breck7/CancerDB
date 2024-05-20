@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id bevacizumab
-title Bevacizumab
+name Bevacizumab
 type drug
 
 wikipedia https://en.wikipedia.org/wiki/Bevacizumab

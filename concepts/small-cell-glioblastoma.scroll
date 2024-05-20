@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id small-cell-glioblastoma
-title Small Cell Glioblastoma
+name Small Cell Glioblastoma
 type cancerType
 mainType Glioma
 tissue CNS/Brain

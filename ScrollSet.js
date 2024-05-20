@@ -13,9 +13,9 @@ class ScrollSetCLI {
   importCommand(filename) {
     // todo: add support for updating as well
     const processEntry = (node, index) => {
-      const filename = node.get("filename")
-      node.delete("filename")
-      const target = path.join(__dirname, "concepts", filename)
+      const id = node.get("id")
+      node.delete("id")
+      const target = this.makeFilePath(id)
       Disk.write(target, new TreeNode(Disk.read(target)).patch(node).toString())
       console.log(`Processed ${filename}`)
     }
@@ -38,11 +38,11 @@ class ScrollSetCLI {
   }
 
   makeFilePath(id) {
-    return path.join(this.conceptsFolder, id.replace(".scroll", "") + ".scroll")
+    return path.join(this.conceptsFolder, id + ".scroll")
   }
 
   getTree(file) {
-    return new TreeNode(Disk.read(this.makeFilePath(file.filename)))
+    return new TreeNode(Disk.read(this.makeFilePath(file.id)))
   }
 
   setAndSave(file, measurementPath, measurementValue) {
@@ -52,25 +52,22 @@ class ScrollSetCLI {
   }
 
   save(file, tree) {
-    const dest = this.makeFilePath(file.filename)
+    const dest = this.makeFilePath(file.id)
     return Disk.write(dest, tree.toString())
   }
 
   makeNameSearchIndex(files = this.concepts.slice(0).reverse()) {
     const map = new Map()
-    files.forEach((parsedConcept) => {
-      const id = parsedConcept.filename.replace(".scroll", "")
+    files.forEach((parsedConcept) =>
       this.makeNames(parsedConcept).forEach((name) =>
         map.set(name.toLowerCase(), parsedConcept)
       )
-    })
+    )
     return map
   }
 
   makeNames(concept) {
-    return [concept.filename.replace(".scroll", ""), concept.id].filter(
-      (i) => i
-    )
+    return [concept.id]
   }
 
   searchForConcept(query) {
@@ -102,7 +99,7 @@ class ScrollSetCLI {
 id `,
         `import ../code/conceptPage.scroll
 id ${file.filename.replace(".scroll", "")}
-title `
+name `
       )
       this.save(file, newTree.toString())
     })

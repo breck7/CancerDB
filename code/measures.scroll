@@ -3,8 +3,9 @@ importOnly
 // parsersOnly
 idParser
  extends abstractIdParser
-filenameParser
- extends abstractFilenameParser
+nameParser
+ extends abstractStringMeasureParser
+ description What is the name of this concept?
 
 // common measures
 // Hashmap parsers

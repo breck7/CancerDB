@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id diffuse-intrinsic-pontine-glioma
-title Diffuse Intrinsic Pontine Glioma
+name Diffuse Intrinsic Pontine Glioma
 type cancerType
 mainType Glioma
 tissue CNS/Brain

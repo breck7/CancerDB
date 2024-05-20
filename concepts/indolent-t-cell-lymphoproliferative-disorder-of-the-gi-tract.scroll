@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id indolent-t-cell-lymphoproliferative-disorder-of-the-gi-tract
-title Indolent T-Cell Lymphoproliferative Disorder of the GI Tract
+name Indolent T-Cell Lymphoproliferative Disorder of the GI Tract
 type cancerType
 mainType Mature T and NK Neoplasms
 tissue Lymphoid

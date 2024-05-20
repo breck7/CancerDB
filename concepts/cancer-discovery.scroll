@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cancer-discovery
-title Cancer Discovery
+name Cancer Discovery
 type journal
 parentOrganization aacr
 

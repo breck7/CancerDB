@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id small-cell-carcinoma-of-the-cervix
-title Small Cell Carcinoma of the Cervix
+name Small Cell Carcinoma of the Cervix
 type cancerType
 mainType Cervical Cancer
 tissue Cervix

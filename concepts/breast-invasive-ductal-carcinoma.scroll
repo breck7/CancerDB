@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id breast-invasive-ductal-carcinoma
-title Breast Invasive Ductal Carcinoma
+name Breast Invasive Ductal Carcinoma
 type cancerType
 mainType Breast Cancer
 tissue Breast

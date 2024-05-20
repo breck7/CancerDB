@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id osteosarcoma
-title Osteosarcoma
+name Osteosarcoma
 type cancerType
 mainType Bone Cancer
 tissue Bone

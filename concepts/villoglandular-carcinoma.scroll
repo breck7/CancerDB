@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id villoglandular-carcinoma
-title Villoglandular Carcinoma
+name Villoglandular Carcinoma
 type cancerType
 mainType Cervical Cancer
 tissue Cervix

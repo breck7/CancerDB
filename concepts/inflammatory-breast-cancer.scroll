@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id inflammatory-breast-cancer
-title Inflammatory Breast Cancer
+name Inflammatory Breast Cancer
 type cancerType
 mainType Breast Cancer
 tissue Breast

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id ncra
-title National Cancer Registrars Association
+name National Cancer Registrars Association
 type cancerNonProfit
 appeared 1974
 conceptDescription NCRA is a non-profit organization that represents over 6,500 cancer registry professionals and Certified Tumor Registrars. It was renamed in 1993 from the National Tumor Registrars Association.

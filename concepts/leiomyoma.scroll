@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id leiomyoma
-title Leiomyoma
+name Leiomyoma
 type cancerType
 mainType Soft Tissue Cancer
 tissue Soft Tissue

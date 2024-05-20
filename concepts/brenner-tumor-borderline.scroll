@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id brenner-tumor-borderline
-title Brenner Tumor, Borderline
+name Brenner Tumor, Borderline
 type cancerType
 mainType Ovarian Cancer
 tissue Ovary/Fallopian Tube

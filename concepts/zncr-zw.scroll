@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id zncr-zw
-title zncr
+name zncr
 type registry
 appeared 1985
 standsFor Zimbabwe National Cancer Registry (Harare & Bulawayo)

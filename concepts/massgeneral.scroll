@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id massgeneral
-title Massachusetts General Hospital
+name Massachusetts General Hospital
 type hospital
 
 website https://www.massgeneral.org/

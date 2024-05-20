@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id hairy-cell-leukemia
-title Hairy Cell Leukemia
+name Hairy Cell Leukemia
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

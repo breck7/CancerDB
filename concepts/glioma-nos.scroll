@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id glioma-nos
-title Glioma, NOS
+name Glioma, NOS
 type cancerType
 mainType Glioma
 tissue CNS/Brain

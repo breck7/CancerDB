@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id aml-with-mutated-runx1
-title AML with Mutated RUNX1
+name AML with Mutated RUNX1
 type cancerType
 mainType Leukemia
 tissue Myeloid

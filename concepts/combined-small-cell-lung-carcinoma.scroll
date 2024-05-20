@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id combined-small-cell-lung-carcinoma
-title Combined Small Cell Lung Carcinoma
+name Combined Small Cell Lung Carcinoma
 type cancerType
 mainType Small Cell Lung Cancer
 tissue Lung

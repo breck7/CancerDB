@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id uveal-melanoma
-title Uveal Melanoma
+name Uveal Melanoma
 type cancerType
 mainType Melanoma
 tissue Eye

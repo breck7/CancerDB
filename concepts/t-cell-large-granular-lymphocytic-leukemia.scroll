@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id t-cell-large-granular-lymphocytic-leukemia
-title T-Cell Large Granular Lymphocytic Leukemia
+name T-Cell Large Granular Lymphocytic Leukemia
 type cancerType
 mainType Mature T and NK Neoplasms
 tissue Lymphoid

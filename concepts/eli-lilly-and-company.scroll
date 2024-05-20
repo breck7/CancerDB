@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id eli-lilly-and-company
-title Eli Lilly and Company
+name Eli Lilly and Company
 type publicCompany
 
 website https://www.lilly.com/

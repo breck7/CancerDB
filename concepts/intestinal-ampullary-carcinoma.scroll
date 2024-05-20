@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id intestinal-ampullary-carcinoma
-title Intestinal Ampullary Carcinoma
+name Intestinal Ampullary Carcinoma
 type cancerType
 mainType Ampullary Cancer
 tissue Ampulla of Vater

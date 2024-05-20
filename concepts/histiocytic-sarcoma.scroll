@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id histiocytic-sarcoma
-title Histiocytic Sarcoma
+name Histiocytic Sarcoma
 type cancerType
 mainType Histiocytosis
 tissue Myeloid

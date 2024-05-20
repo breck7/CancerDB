@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id hodgkin-lymphoma
-title Hodgkin Lymphoma
+name Hodgkin Lymphoma
 type cancerType
 mainType Hodgkin Lymphoma
 uscsId Hodgkin Lymphoma

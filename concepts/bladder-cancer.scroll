@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id bladder-cancer
-title Bladder Cancer
+name Bladder Cancer
 type cancerType
 mainType Bladder/Urinary Tract Cancer, NOS
 uscsId Urinary Bladder

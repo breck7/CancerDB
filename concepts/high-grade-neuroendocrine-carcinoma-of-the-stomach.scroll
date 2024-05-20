@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id high-grade-neuroendocrine-carcinoma-of-the-stomach
-title High-Grade Neuroendocrine Carcinoma of the Stomach
+name High-Grade Neuroendocrine Carcinoma of the Stomach
 type cancerType
 mainType Gastrointestinal Neuroendocrine Tumors of the Esophagus/Stomach
 tissue Esophagus/Stomach

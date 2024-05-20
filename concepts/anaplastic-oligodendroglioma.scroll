@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id anaplastic-oligodendroglioma
-title Anaplastic Oligodendroglioma
+name Anaplastic Oligodendroglioma
 type cancerType
 mainType Glioma
 tissue CNS/Brain

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id immature-teratoma
-title Immature Teratoma
+name Immature Teratoma
 type cancerType
 mainType Germ Cell Tumor
 tissue Ovary/Fallopian Tube

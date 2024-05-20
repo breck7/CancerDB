@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id disseminated-juvenile-xanthogranuloma
-title Disseminated Juvenile Xanthogranuloma
+name Disseminated Juvenile Xanthogranuloma
 type cancerType
 mainType Histiocytosis
 tissue Myeloid

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id mds-unclassifiable
-title MDS, Unclassifiable
+name MDS, Unclassifiable
 type cancerType
 mainType Myelodysplastic Syndromes
 tissue Myeloid

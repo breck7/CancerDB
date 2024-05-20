@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id aad
-title American Academy of Dermatology
+name American Academy of Dermatology
 type professionalOrganization
 cancerTypes skin
 aka AAD

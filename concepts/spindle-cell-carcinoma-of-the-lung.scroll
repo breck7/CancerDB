@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id spindle-cell-carcinoma-of-the-lung
-title Spindle Cell Carcinoma of the Lung
+name Spindle Cell Carcinoma of the Lung
 type cancerType
 mainType Non-Small Cell Lung Cancer
 tissue Lung

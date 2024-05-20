@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id the-ohio-state-university-comprehensive-cancer-center
-title The Ohio State University Comprehensive Cancer Center
+name The Ohio State University Comprehensive Cancer Center
 type nciCancerCenter
 aka The James
 

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id music-therapy
-title Music therapy
+name Music therapy
 type mentalTreatment
 
 wikipedia https://en.wikipedia.org/wiki/Music_therapy

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id mayo-clinic-rochester
-title Mayo Clinic Rochester
+name Mayo Clinic Rochester
 type nciCancerCenter
 
 website https://www.mayoclinic.org/patient-visitor-guide/minnesota

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id immature-teratoma-cns-brain
-title Immature Teratoma CNS/Brain
+name Immature Teratoma CNS/Brain
 type cancerType
 mainType Germ Cell Tumor
 tissue CNS/Brain

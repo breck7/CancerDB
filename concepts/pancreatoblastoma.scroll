@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id pancreatoblastoma
-title Pancreatoblastoma
+name Pancreatoblastoma
 type cancerType
 mainType Pancreatic Cancer
 tissue Pancreas

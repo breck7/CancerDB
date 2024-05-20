@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id acupressure
-title Acupressure
+name Acupressure
 type touchTreatment
 conceptDescription Physical pressure is applied to acupuncture points.
 

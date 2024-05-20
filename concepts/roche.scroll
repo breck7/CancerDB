@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id roche
-title Roche
+name Roche
 type company
 appeared 1896
 

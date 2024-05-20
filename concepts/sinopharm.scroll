@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id sinopharm
-title Sinopharm
+name Sinopharm
 type company
 
 website http://www.sinopharm.com

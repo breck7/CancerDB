@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id when-breath-becomes-air
-title When Breath Becomes Air
+name When Breath Becomes Air
 type book
 appeared 2016
 conceptAuthor Paul Kalanithi

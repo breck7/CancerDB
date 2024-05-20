@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id anal-gland-adenocarcinoma
-title Anal Gland Adenocarcinoma
+name Anal Gland Adenocarcinoma
 type cancerType
 mainType Anal Cancer
 tissue Bowel

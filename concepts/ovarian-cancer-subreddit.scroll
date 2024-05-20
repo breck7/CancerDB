@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id ovarian-cancer-subreddit
-title Ovarian Cancer Subreddit
+name Ovarian Cancer Subreddit
 type subreddit onlineForum
 cancerTypes ovarian
 

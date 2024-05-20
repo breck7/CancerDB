@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id thymus
-title Thymus Cancer
+name Thymus Cancer
 type cancerType
 mainType Thymic Cancer, NOS
 tissue Thymus

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id pancreas
-title Pancreatic Cancer
+name Pancreatic Cancer
 type cancerType
 mainType Pancreatic Cancer, NOS
 tissue Pancreas

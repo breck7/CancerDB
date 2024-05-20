@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id urothelial-papilloma
-title Urothelial Papilloma
+name Urothelial Papilloma
 type cancerType
 mainType Bladder Cancer
 tissue Bladder/Urinary Tract

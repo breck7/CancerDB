@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id gcr-ug
-title gcr
+name gcr
 type registry
 appeared 2014
 standsFor Gulu Cancer Registry

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id pituitary-carcinoma
-title Pituitary Carcinoma
+name Pituitary Carcinoma
 type cancerType
 mainType Sellar Tumor
 tissue CNS/Brain

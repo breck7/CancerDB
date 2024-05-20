@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id large-cell-anaplastic-medulloblastoma
-title Large Cell/Anaplastic Medulloblastoma
+name Large Cell/Anaplastic Medulloblastoma
 type cancerType
 mainType Embryonal Tumor
 tissue CNS/Brain

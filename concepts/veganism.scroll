@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id veganism
-title Veganism
+name Veganism
 type diet
 
 wikipedia https://en.wikipedia.org/wiki/Veganism

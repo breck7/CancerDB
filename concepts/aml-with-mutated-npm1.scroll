@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id aml-with-mutated-npm1
-title AML with Mutated NPM1
+name AML with Mutated NPM1
 type cancerType
 mainType Leukemia
 tissue Myeloid

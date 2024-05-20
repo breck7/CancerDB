@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id multiplemyeloma-subreddit
-title Multiplemyeloma Subreddit
+name Multiplemyeloma Subreddit
 type subreddit onlineForum
 cancerTypes multiplemyeloma
 

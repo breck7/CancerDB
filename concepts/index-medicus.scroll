@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id index-medicus
-title Index Medicus
+name Index Medicus
 type journal
 appeared 1879
 closed 2004

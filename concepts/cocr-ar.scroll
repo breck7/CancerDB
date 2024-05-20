@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cocr-ar
-title COCR
+name COCR
 type registry
 appeared 2003
 standsFor Córdoba Cancer Registry Argentina

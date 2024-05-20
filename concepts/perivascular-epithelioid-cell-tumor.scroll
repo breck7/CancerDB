@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id perivascular-epithelioid-cell-tumor
-title Perivascular Epithelioid Cell Tumor
+name Perivascular Epithelioid Cell Tumor
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

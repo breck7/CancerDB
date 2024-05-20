@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id igm
-title IgM
+name IgM
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

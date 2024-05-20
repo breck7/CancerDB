@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id the-immortal-life-of-henrietta-lacks
-title The Immortal Life of Henrietta Lacks
+name The Immortal Life of Henrietta Lacks
 type book
 appeared 2010
 conceptAuthor Rebecca Skloot

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id triaziquone
-title Triaziquone
+name Triaziquone
 type chemotherapyDrug alkylatingAgent
 
 wikipedia https://en.wikipedia.org/wiki/Triaziquone

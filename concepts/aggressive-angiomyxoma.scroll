@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id aggressive-angiomyxoma
-title Aggressive Angiomyxoma
+name Aggressive Angiomyxoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

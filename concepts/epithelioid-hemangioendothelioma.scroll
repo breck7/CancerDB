@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id epithelioid-hemangioendothelioma
-title Epithelioid Hemangioendothelioma
+name Epithelioid Hemangioendothelioma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

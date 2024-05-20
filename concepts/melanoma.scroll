@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id melanoma
-title Melanoma
+name Melanoma
 type cancerType
 mainType Melanoma
 tissue Skin

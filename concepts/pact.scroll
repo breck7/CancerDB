@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id pact
-title PACT
+name PACT
 type intergovernmentalCancerOrganization
 appeared 2004
 parentOrganization iaea

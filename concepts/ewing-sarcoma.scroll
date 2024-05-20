@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id ewing-sarcoma
-title Ewing Sarcoma
+name Ewing Sarcoma
 type cancerType
 mainType Bone Cancer
 tissue Bone

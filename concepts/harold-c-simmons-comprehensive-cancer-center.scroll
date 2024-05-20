@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id harold-c-simmons-comprehensive-cancer-center
-title Harold C. Simmons Comprehensive Cancer Center
+name Harold C. Simmons Comprehensive Cancer Center
 type nciCancerCenter
 
 website https://www.utsouthwestern.edu/departments/simmons/

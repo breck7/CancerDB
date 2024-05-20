@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id myeloid-atypical
-title Myeloid Atypical
+name Myeloid Atypical
 type cancerType
 mainType Blood Cancer, NOS
 tissue Myeloid

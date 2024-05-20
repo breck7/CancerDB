@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id iarc
-title IARC
+name IARC
 type intergovernmentalCancerOrganization
 parentOrganization who
 standsFor International Agency for Research on Cancer

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id small-cell-bladder-cancer
-title Small Cell Bladder Cancer
+name Small Cell Bladder Cancer
 type cancerType
 mainType Bladder Cancer
 tissue Bladder/Urinary Tract

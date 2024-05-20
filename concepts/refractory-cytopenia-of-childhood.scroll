@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id refractory-cytopenia-of-childhood
-title Refractory Cytopenia of Childhood
+name Refractory Cytopenia of Childhood
 type cancerType
 mainType Myelodysplastic Syndromes
 tissue Myeloid

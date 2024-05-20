@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id newyork-presbyterian-hospital
-title NewYork-Presbyterian Hospital
+name NewYork-Presbyterian Hospital
 type hospital
 appeared 1771
 aka NYP

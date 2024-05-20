@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id breast-angiosarcoma
-title Breast Angiosarcoma
+name Breast Angiosarcoma
 type cancerType
 mainType Breast Sarcoma
 tissue Breast

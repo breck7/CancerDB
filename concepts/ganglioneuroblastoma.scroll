@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id ganglioneuroblastoma
-title Ganglioneuroblastoma
+name Ganglioneuroblastoma
 type cancerType
 mainType Peripheral Nervous System
 tissue Peripheral Nervous System

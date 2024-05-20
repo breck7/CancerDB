@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id well-differentiated-neuroendocrine-tumor-of-the-appendix
-title Well-Differentiated Neuroendocrine Tumor of the Appendix
+name Well-Differentiated Neuroendocrine Tumor of the Appendix
 type cancerType
 mainType Gastrointestinal Neuroendocrine Tumor
 tissue Bowel

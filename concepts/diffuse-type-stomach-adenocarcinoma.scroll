@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id diffuse-type-stomach-adenocarcinoma
-title Diffuse Type Stomach Adenocarcinoma
+name Diffuse Type Stomach Adenocarcinoma
 type cancerType
 mainType Esophagogastric Cancer
 tissue Esophagus/Stomach

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id uterine-sarcoma-mesenchymal
-title Uterine Sarcoma/Mesenchymal
+name Uterine Sarcoma/Mesenchymal
 type cancerType
 mainType Uterine Sarcoma
 tissue Uterus

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id mucinous-ovarian-cancer
-title Mucinous Ovarian Cancer
+name Mucinous Ovarian Cancer
 type cancerType
 mainType Ovarian Cancer
 tissue Ovary/Fallopian Tube

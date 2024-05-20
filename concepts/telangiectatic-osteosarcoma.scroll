@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id telangiectatic-osteosarcoma
-title Telangiectatic Osteosarcoma
+name Telangiectatic Osteosarcoma
 type cancerType
 mainType Bone Cancer
 tissue Bone

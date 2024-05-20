@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id aml-with-inv3q21.3q26.2-or-t33q21.3q26.2-gata2-mecom
-title AML with inv(3)(q21.3q26.2) or t(3;3)(q21.3;q26.2); GATA2, MECOM
+name AML with inv(3)(q21.3q26.2) or t(3;3)(q21.3;q26.2); GATA2, MECOM
 type cancerType
 mainType Leukemia
 tissue Myeloid

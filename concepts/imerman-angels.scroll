@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id imerman-angels
-title Imerman Angels
+name Imerman Angels
 type cancerNonProfit
 appeared 2006
 

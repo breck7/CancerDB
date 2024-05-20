@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id adenocarcinoma-in-situ
-title Adenocarcinoma In Situ
+name Adenocarcinoma In Situ
 type cancerType
 mainType Adenocarcinoma In Situ
 tissue Other

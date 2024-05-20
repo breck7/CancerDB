@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id extraskeletal-myxoid-chondrosarcoma
-title Extraskeletal Myxoid Chondrosarcoma
+name Extraskeletal Myxoid Chondrosarcoma
 type cancerType
 mainType Bone Cancer
 tissue Bone

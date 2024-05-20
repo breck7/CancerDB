@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id high-grade-neuroepithelial-tumor
-title High-Grade Neuroepithelial Tumor
+name High-Grade Neuroepithelial Tumor
 type cancerType
 mainType Miscellaneous Brain Tumor
 tissue CNS/Brain

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id tocr-dz
-title TOCR
+name TOCR
 type registry
 standsFor Tizi-Ouzou Cancer Registry
 conceptDescription Unknown

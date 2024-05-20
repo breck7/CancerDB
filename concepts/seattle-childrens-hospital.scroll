@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id seattle-childrens-hospital
-title Seattle Children's Hospital
+name Seattle Children's Hospital
 type hospital childrensHospital
 
 website https://www.seattlechildrens.org/

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id zorubicin
-title Zorubicin
+name Zorubicin
 type chemotherapyDrug anthracycline
 
 wikipedia https://en.wikipedia.org/wiki/Zorubicin

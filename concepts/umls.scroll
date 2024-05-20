@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id umls
-title Unified Medical Language System
+name Unified Medical Language System
 type onlineDatabase ontology
 appeared 1986
 parentOrganization nlm

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id oncokb
-title OncoKB
+name OncoKB
 type onlineDatabase ontology
 parentOrganization memorial-sloan-kettering-cancer-center
 conceptDescription SK's Precision Oncology Knowledge Base

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id georgia-ncc
-title National Cancer Center
+name National Cancer Center
 type nationalCancerInstitute
 
 website http://ncdc.ge/

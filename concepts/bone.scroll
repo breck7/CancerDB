@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id bone
-title Bone Cancer
+name Bone Cancer
 type cancerType
 mainType Bone Cancer, NOS
 tissue Bone

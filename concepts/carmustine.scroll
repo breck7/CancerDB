@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id carmustine
-title Carmustine
+name Carmustine
 type chemotherapyDrug alkylatingAgent
 tradenames BiCNU && Gliadel
 

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id chronic-myelomonocytic-leukemia-0
-title Chronic Myelomonocytic Leukemia-0
+name Chronic Myelomonocytic Leukemia-0
 type cancerType
 mainType Myelodysplastic/Myeloproliferative Neoplasms
 tissue Myeloid

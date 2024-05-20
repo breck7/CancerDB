@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id fred-and-pamela-buffett-cancer-center
-title Fred and Pamela Buffett Cancer Center
+name Fred and Pamela Buffett Cancer Center
 type nciCancerCenter
 
 website https://www.nebraskamed.com/nebraska-medical-center/fred-pamela-buffett-cancer-center

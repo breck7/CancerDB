@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id dedifferentiated-liposarcoma
-title Dedifferentiated Liposarcoma
+name Dedifferentiated Liposarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

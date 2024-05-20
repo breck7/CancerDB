@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id undifferentiated-pleomorphic-sarcoma-malignant-fibrous-histiocytoma-high-grade-spindle-cell-sarcoma
-title Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma
+name Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id large-cell-lung-carcinoma
-title Large Cell Lung Carcinoma
+name Large Cell Lung Carcinoma
 type cancerType
 mainType Non-Small Cell Lung Cancer
 tissue Lung

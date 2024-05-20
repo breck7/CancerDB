@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id sidney-kimmel-comprehensive-cancer-center
-title Sidney Kimmel Comprehensive Cancer Center
+name Sidney Kimmel Comprehensive Cancer Center
 type nciCancerCenter
 
 website https://www.hopkinsmedicine.org/kimmel_cancer_center/

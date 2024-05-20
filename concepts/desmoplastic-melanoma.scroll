@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id desmoplastic-melanoma
-title Desmoplastic Melanoma
+name Desmoplastic Melanoma
 type cancerType
 mainType Melanoma
 tissue Skin

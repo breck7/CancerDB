@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id dutch-cancer-society
-title Dutch Cancer Society
+name Dutch Cancer Society
 type cancerNonProfit
 appeared 1949
 conceptDescription KWF Dutch Cancer Society is a nation-wide organization for cancer related work in the Netherlands.

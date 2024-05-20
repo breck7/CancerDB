@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id yolk-sac-tumor-testis
-title Yolk Sac Tumor Testis
+name Yolk Sac Tumor Testis
 type cancerType
 mainType Germ Cell Tumor
 tissue Testis

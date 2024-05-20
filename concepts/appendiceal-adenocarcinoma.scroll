@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id appendiceal-adenocarcinoma
-title Appendiceal Adenocarcinoma
+name Appendiceal Adenocarcinoma
 type cancerType
 mainType Appendiceal Cancer
 tissue Bowel

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id nhgri
-title NHGRI
+name NHGRI
 type nationalGovernmentAgency
 parentOrganization nih
 standsFor National Human Genome Research Institute

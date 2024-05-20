@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id tubular-adenoma-of-the-colon
-title Tubular Adenoma of the Colon
+name Tubular Adenoma of the Colon
 type cancerType
 mainType Tubular Adenoma of the Colon
 tissue Bowel

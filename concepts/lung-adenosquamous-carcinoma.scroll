@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id lung-adenosquamous-carcinoma
-title Lung Adenosquamous Carcinoma
+name Lung Adenosquamous Carcinoma
 type cancerType
 mainType Non-Small Cell Lung Cancer
 tissue Lung

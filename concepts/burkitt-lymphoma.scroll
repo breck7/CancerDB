@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id burkitt-lymphoma
-title Burkitt Lymphoma
+name Burkitt Lymphoma
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

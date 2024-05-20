@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id pheochromocytoma
-title Pheochromocytoma
+name Pheochromocytoma
 type cancerType
 mainType Pheochromocytoma
 tissue Adrenal Gland

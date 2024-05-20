@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id seminoma
-title Seminoma
+name Seminoma
 type cancerType
 mainType Germ Cell Tumor
 tissue Testis

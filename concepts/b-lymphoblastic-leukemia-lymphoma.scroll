@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id b-lymphoblastic-leukemia-lymphoma
-title B-Lymphoblastic Leukemia/Lymphoma
+name B-Lymphoblastic Leukemia/Lymphoma
 type cancerType
 mainType B-Lymphoblastic Leukemia/Lymphoma
 tissue Lymphoid

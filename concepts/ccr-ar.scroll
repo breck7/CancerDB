@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id ccr-ar
-title CCRAR
+name CCRAR
 type registry
 standsFor Chaco Cancer Registry in Argentina
 conceptDescription The Chaco Cancer Registry in Argentina covers over 1 million inhabitants. Breast and lung cancer are the two most common cancers, followed by cervical and prostate cancers. It seems to be present in the hospital Julio C. Perrando.

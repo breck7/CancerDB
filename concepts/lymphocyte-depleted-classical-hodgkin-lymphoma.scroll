@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id lymphocyte-depleted-classical-hodgkin-lymphoma
-title Lymphocyte-Depleted Classical Hodgkin Lymphoma
+name Lymphocyte-Depleted Classical Hodgkin Lymphoma
 type cancerType
 mainType Hodgkin Lymphoma
 tissue Lymphoid

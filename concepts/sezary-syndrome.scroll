@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id sezary-syndrome
-title Sezary Syndrome
+name Sezary Syndrome
 type cancerType
 mainType Mature T and NK Neoplasms
 tissue Lymphoid

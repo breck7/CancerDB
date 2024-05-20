@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id rush-university-medical-center
-title Rush University Medical Center
+name Rush University Medical Center
 type hospital
 
 website https://www.rush.edu/

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id peritoneal-mesothelioma
-title Peritoneal Mesothelioma
+name Peritoneal Mesothelioma
 type cancerType
 mainType Mesothelioma
 tissue Peritoneum

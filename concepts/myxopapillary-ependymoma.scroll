@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id myxopapillary-ependymoma
-title Myxopapillary Ependymoma
+name Myxopapillary Ependymoma
 type cancerType
 mainType CNS Cancer
 tissue CNS/Brain

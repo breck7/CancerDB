@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id dysembryoplastic-neuroepithelial-tumor
-title Dysembryoplastic Neuroepithelial Tumor
+name Dysembryoplastic Neuroepithelial Tumor
 type cancerType
 mainType Glioma
 tissue CNS/Brain

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id breast
-title Breast Cancer
+name Breast Cancer
 type cancerType
 mainType Breast Cancer, NOS
 uscsId Female Breast

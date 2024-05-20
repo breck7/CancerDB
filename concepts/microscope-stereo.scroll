@@ -1,5 +1,5 @@
 import ../code/conceptPage.scroll
 id microscope-stereo
-title Stereo Microscope
+name Stereo Microscope
 type microscope
 conceptDescription Provides a 3D image with magnification between 10x-40x. Good for coins, wires, insects and flowers.

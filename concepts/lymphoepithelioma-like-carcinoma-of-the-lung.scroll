@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id lymphoepithelioma-like-carcinoma-of-the-lung
-title Lymphoepithelioma-like Carcinoma of the Lung
+name Lymphoepithelioma-like Carcinoma of the Lung
 type cancerType
 mainType Non-Small Cell Lung Cancer
 tissue Lung

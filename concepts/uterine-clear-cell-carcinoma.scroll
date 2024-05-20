@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id uterine-clear-cell-carcinoma
-title Uterine Clear Cell Carcinoma
+name Uterine Clear Cell Carcinoma
 type cancerType
 mainType Endometrial Cancer
 tissue Uterus

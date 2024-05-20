@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id mds-with-isolated-del5q
-title MDS with Isolated Del(5q)
+name MDS with Isolated Del(5q)
 type cancerType
 mainType Myelodysplastic Syndromes
 tissue Myeloid

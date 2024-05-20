@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id the-jackson-laboratory-cancer-center
-title The Jackson Laboratory Cancer Center
+name The Jackson Laboratory Cancer Center
 type nciCancerCenter
 aka JAX Cancer Center
 

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id beigene
-title BeiGene
+name BeiGene
 type company
 
 website https://www.beigene.com/

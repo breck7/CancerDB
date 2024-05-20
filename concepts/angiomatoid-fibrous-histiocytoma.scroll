@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id angiomatoid-fibrous-histiocytoma
-title Angiomatoid Fibrous Histiocytoma
+name Angiomatoid Fibrous Histiocytoma
 type cancerType
 mainType Angiomatoid Fibrous Histiocytoma
 tissue Soft Tissue

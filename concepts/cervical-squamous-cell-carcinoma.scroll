@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cervical-squamous-cell-carcinoma
-title Cervical Squamous Cell Carcinoma
+name Cervical Squamous Cell Carcinoma
 type cancerType
 mainType Cervical Cancer
 tissue Cervix

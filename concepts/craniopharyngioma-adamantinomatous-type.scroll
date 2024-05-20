@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id craniopharyngioma-adamantinomatous-type
-title Craniopharyngioma, Adamantinomatous Type
+name Craniopharyngioma, Adamantinomatous Type
 type cancerType
 mainType Sellar Tumor
 tissue CNS/Brain

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id the-truth-about-cancer
-title The Truth About Cancer
+name The Truth About Cancer
 type website
 aka TTAC
 

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id the-metabolic-approach-to-cancer
-title The Metabolic Approach to Cancer
+name The Metabolic Approach to Cancer
 type book
 appeared 2017
 conceptAuthor Nasha Winters

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cold-spring-harbor-laboratory-cancer-center
-title Cold Spring Harbor Laboratory Cancer Center
+name Cold Spring Harbor Laboratory Cancer Center
 type nciCancerCenter
 
 website https://www.cshl.edu/research/cancer/

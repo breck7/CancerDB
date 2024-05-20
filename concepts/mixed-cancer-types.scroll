@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id mixed-cancer-types
-title Mixed Cancer Types
+name Mixed Cancer Types
 type cancerType
 mainType Cancer of Unknown Primary
 tissue Other

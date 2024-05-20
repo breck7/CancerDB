@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id periosteal-osteosarcoma
-title Periosteal Osteosarcoma
+name Periosteal Osteosarcoma
 type cancerType
 mainType Bone Cancer
 tissue Bone

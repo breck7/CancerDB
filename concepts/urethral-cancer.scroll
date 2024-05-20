@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id urethral-cancer
-title Urethral Cancer
+name Urethral Cancer
 type cancerType
 mainType Bladder Cancer
 tissue Bladder/Urinary Tract

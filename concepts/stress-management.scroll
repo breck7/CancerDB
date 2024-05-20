@@ -1,4 +1,4 @@
 import ../code/conceptPage.scroll
 id stress-management
-title Stress Management
+name Stress Management
 type lifestyle

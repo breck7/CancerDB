@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id vitamin-c
-title Vitamin C
+name Vitamin C
 type vitamin
 aka ascorbic acid
 aka ascorbate

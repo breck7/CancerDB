@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id pleural-mesothelioma-biphasic-type
-title Pleural Mesothelioma, Biphasic Type
+name Pleural Mesothelioma, Biphasic Type
 type cancerType
 mainType Mesothelioma
 tissue Pleura

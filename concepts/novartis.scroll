@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id novartis
-title Novartis
+name Novartis
 type publicCompany
 
 website https://www.novartis.com

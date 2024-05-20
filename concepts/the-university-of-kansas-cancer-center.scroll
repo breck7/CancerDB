@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id the-university-of-kansas-cancer-center
-title The University of Kansas Cancer Center
+name The University of Kansas Cancer Center
 type nciCancerCenter
 
 website https://www.kucancercenter.org/

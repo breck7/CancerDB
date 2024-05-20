@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id carcinoma-with-osseous-metaplasia
-title Carcinoma with Osseous Metaplasia
+name Carcinoma with Osseous Metaplasia
 type cancerType
 mainType Breast Cancer
 tissue Breast

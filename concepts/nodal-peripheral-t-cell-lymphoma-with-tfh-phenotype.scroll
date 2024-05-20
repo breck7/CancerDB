@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id nodal-peripheral-t-cell-lymphoma-with-tfh-phenotype
-title Nodal Peripheral T-Cell Lymphoma with TFH Phenotype
+name Nodal Peripheral T-Cell Lymphoma with TFH Phenotype
 type cancerType
 mainType Mature T and NK Neoplasms
 tissue Lymphoid

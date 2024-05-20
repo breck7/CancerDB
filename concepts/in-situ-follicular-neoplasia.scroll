@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id in-situ-follicular-neoplasia
-title In Situ Follicular Neoplasia
+name In Situ Follicular Neoplasia
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id leukemia-and-lymphoma-society
-title Leukemia & Lymphoma Society
+name Leukemia & Lymphoma Society
 type cancerNonProfit
 cancerTypes leukemia
 

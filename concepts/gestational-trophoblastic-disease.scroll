@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id gestational-trophoblastic-disease
-title Gestational Trophoblastic Disease
+name Gestational Trophoblastic Disease
 type cancerType
 mainType Gestational Trophoblastic Disease
 tissue Uterus

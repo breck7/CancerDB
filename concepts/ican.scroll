@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id ican
-title ICAN
+name ICAN
 type cancerNonProfit
 standsFor International Cancer Advocacy Network
 

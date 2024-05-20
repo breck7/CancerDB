@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id beth-israel
-title Beth Israel Deaconess Medical Center
+name Beth Israel Deaconess Medical Center
 type hospital
 
 website https://www.bidmc.org/

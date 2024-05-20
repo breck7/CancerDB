@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id biliary-tract
-title Biliary Tract
+name Biliary Tract
 type cancerType
 mainType Biliary Tract Cancer, NOS
 tissue Biliary Tract

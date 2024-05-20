@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id ovarian-cancer-other
-title Ovarian Cancer, Other
+name Ovarian Cancer, Other
 type cancerType
 mainType Ovarian Cancer
 tissue Ovary/Fallopian Tube

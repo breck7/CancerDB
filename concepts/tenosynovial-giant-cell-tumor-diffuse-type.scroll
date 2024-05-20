@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id tenosynovial-giant-cell-tumor-diffuse-type
-title Tenosynovial Giant Cell Tumor Diffuse Type
+name Tenosynovial Giant Cell Tumor Diffuse Type
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

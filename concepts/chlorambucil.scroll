@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id chlorambucil
-title Chlorambucil
+name Chlorambucil
 type chemotherapyDrug alkylatingAgent
 tradenames Leukeran
 

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id melanocytoma
-title Melanocytoma
+name Melanocytoma
 type cancerType
 mainType Melanocytoma
 tissue CNS/Brain

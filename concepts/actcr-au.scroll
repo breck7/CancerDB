@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id actcr-au
-title ACTCR
+name ACTCR
 type registry
 appeared 1982
 standsFor

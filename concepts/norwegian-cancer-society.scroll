@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id norwegian-cancer-society
-title Norwegian Cancer Society
+name Norwegian Cancer Society
 type cancerNonProfit
 appeared 1938
 

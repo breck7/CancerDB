@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id breast-carcinoma-with-signet-ring
-title Breast Carcinoma with Signet Ring
+name Breast Carcinoma with Signet Ring
 type cancerType
 mainType Breast Cancer
 tissue Breast

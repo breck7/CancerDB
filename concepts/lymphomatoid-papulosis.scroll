@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id lymphomatoid-papulosis
-title Lymphomatoid Papulosis
+name Lymphomatoid Papulosis
 type cancerType
 mainType Mature T and NK Neoplasms
 tissue Lymphoid

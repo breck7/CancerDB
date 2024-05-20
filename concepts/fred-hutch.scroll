@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id fred-hutch
-title Fred Hutchinson Cancer Center
+name Fred Hutchinson Cancer Center
 type hospital researchCenter
 appeared 1975
 aka Fred Hutch

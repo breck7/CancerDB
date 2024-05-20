@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id embryonal-rhabdomyosarcoma
-title Embryonal Rhabdomyosarcoma
+name Embryonal Rhabdomyosarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

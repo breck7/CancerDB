@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id breast-cancer-subreddit
-title Breast Cancer Subreddit
+name Breast Cancer Subreddit
 type subreddit onlineForum
 cancerTypes breast
 

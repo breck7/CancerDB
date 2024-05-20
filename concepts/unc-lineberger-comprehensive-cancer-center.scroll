@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id unc-lineberger-comprehensive-cancer-center
-title UNC Lineberger Comprehensive Cancer Center
+name UNC Lineberger Comprehensive Cancer Center
 type nciCancerCenter
 
 website https://unclineberger.org/

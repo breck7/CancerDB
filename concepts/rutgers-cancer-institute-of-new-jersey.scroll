@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id rutgers-cancer-institute-of-new-jersey
-title Rutgers Cancer Institute of New Jersey
+name Rutgers Cancer Institute of New Jersey
 type nciCancerCenter
 
 website https://www.cinj.org/

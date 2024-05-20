@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id pineal-tumor
-title Pineal Tumor
+name Pineal Tumor
 type cancerType
 mainType Pineal Tumor
 tissue CNS/Brain

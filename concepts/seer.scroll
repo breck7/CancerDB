@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id seer
-title SEER
+name SEER
 type nationalGovernmentAgency
 appeared 1973
 parentOrganization nci

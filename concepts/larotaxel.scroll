@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id larotaxel
-title Larotaxel
+name Larotaxel
 type chemotherapyDrug taxane
 
 wikipedia https://en.wikipedia.org/wiki/Larotaxel

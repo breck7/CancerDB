@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cancerbuddy
-title CancerBuddy
+name CancerBuddy
 type app
 conceptDescription The first social support network for people facing cancer.
 

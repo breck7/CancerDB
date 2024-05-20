@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id national-cancer-research-institute-uk
-title National Cancer Research Institute UK
+name National Cancer Research Institute UK
 type nationalCancerInstitute
 
 website https://www.ncri.org.uk/

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id prostate-neuroendocrine-carcinoma
-title Prostate Neuroendocrine Carcinoma
+name Prostate Neuroendocrine Carcinoma
 type cancerType
 mainType Prostate Cancer
 tissue Prostate

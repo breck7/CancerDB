@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id head-and-neck-mucosal-melanoma
-title Head and Neck Mucosal Melanoma
+name Head and Neck Mucosal Melanoma
 type cancerType
 mainType Melanoma
 tissue Head and Neck

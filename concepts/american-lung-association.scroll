@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id american-lung-association
-title American Lung Association
+name American Lung Association
 type professionalOrganization
 
 website https://www.lung.org/

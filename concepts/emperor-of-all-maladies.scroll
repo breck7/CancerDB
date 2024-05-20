@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id emperor-of-all-maladies
-title The Emperor of All Maladies: A Biography of Cancer
+name The Emperor of All Maladies: A Biography of Cancer
 type book
 appeared 2011
 conceptAuthor Siddhartha Mukherjee

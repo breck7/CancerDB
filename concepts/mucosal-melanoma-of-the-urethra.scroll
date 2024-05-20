@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id mucosal-melanoma-of-the-urethra
-title Mucosal Melanoma of the Urethra
+name Mucosal Melanoma of the Urethra
 type cancerType
 mainType Melanoma
 tissue Bladder/Urinary Tract

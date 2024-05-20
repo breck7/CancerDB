@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id erlotinib
-title Erlotinib
+name Erlotinib
 type chemotherapyDrug
 tradenames Tarceva
 

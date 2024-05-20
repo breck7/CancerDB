@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id desmoid-aggressive-fibromatosis
-title Desmoid/Aggressive Fibromatosis
+name Desmoid/Aggressive Fibromatosis
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

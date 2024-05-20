@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id pseudomyogenic-hemangioendothelioma
-title Pseudomyogenic Hemangioendothelioma
+name Pseudomyogenic Hemangioendothelioma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id incan
-title Instituto Nacional de Cancerología (Mexico)
+name Instituto Nacional de Cancerología (Mexico)
 type hospital
 appeared 1946
 aka INCan

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id testicular-lymphoma
-title Testicular Lymphoma
+name Testicular Lymphoma
 type cancerType
 mainType Non-Hodgkin Lymphoma
 tissue Testis

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id inflammatory-myofibroblastic-bladder-tumor
-title Inflammatory Myofibroblastic Bladder Tumor
+name Inflammatory Myofibroblastic Bladder Tumor
 type cancerType
 mainType Bladder Cancer
 tissue Bladder/Urinary Tract

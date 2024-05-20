@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id adrenal-gland
-title Adrenal Cancer
+name Adrenal Cancer
 type cancerType
 mainType Adrenal Gland Cancer, NOS
 tissue Adrenal Gland

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id primary-myelofibrosis-prefibrotic-early-stage
-title Primary Myelofibrosis, Prefibrotic/Early Stage
+name Primary Myelofibrosis, Prefibrotic/Early Stage
 type cancerType
 mainType Myeloproliferative Neoplasms
 tissue Myeloid

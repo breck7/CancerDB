@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id myelodysplastic-syndromes
-title Myelodysplastic Syndromes
+name Myelodysplastic Syndromes
 type cancerType
 mainType Myelodysplastic Syndromes
 tissue Myeloid

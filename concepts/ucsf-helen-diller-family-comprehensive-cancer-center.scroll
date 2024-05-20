@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id ucsf-helen-diller-family-comprehensive-cancer-center
-title UCSF Helen Diller Family Comprehensive Cancer Center
+name UCSF Helen Diller Family Comprehensive Cancer Center
 type nciCancerCenter
 
 website https://cancer.ucsf.edu/

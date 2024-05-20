@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id embryonal-carcinoma-cns-brain
-title Embryonal Carcinoma CNS/Brain
+name Embryonal Carcinoma CNS/Brain
 type cancerType
 mainType Germ Cell Tumor
 tissue CNS/Brain

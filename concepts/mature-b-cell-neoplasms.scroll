@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id mature-b-cell-neoplasms
-title Mature B-Cell Neoplasms
+name Mature B-Cell Neoplasms
 type cancerType
 mainType Mature B-Cell Neoplasms
 tissue Lymphoid

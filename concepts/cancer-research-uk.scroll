@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id cancer-research-uk
-title Cancer Research UK
+name Cancer Research UK
 type cancerNonProfit
 aka CRUK
 

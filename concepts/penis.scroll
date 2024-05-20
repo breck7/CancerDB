@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id penis
-title Penile Cancer
+name Penile Cancer
 type cancerType
 mainType Penile Cancer, NOS
 tissue Penis

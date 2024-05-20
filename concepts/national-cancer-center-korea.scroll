@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id national-cancer-center-korea
-title National Cancer Center Korea
+name National Cancer Center Korea
 type nationalCancerInstitute
 aka NCCK
 

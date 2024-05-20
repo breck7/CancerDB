@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id serous-cystadenoma-of-the-pancreas
-title Serous Cystadenoma of the Pancreas
+name Serous Cystadenoma of the Pancreas
 type cancerType
 mainType Pancreatic Cancer
 tissue Pancreas

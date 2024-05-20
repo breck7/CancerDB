@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id takeda
-title Takeda Pharmaceutical Company
+name Takeda Pharmaceutical Company
 type publicCompany
 
 website https://www.takeda.com/

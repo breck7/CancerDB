@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id free-diving
-title Free Diving
+name Free Diving
 type exercise breathTreatment
 
 wikipedia https://en.wikipedia.org/wiki/Freediving

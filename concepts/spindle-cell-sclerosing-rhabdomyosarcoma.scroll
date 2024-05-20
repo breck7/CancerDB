@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id spindle-cell-sclerosing-rhabdomyosarcoma
-title Spindle Cell/Sclerosing Rhabdomyosarcoma
+name Spindle Cell/Sclerosing Rhabdomyosarcoma
 type cancerType
 mainType Soft Tissue Sarcoma
 tissue Soft Tissue

@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id clear-cell-ependymoma
-title Clear Cell Ependymoma
+name Clear Cell Ependymoma
 type cancerType
 mainType CNS Cancer
 tissue CNS/Brain

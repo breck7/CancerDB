@@ -1,6 +1,6 @@
 import ../code/conceptPage.scroll
 id smoldering-systemic-mastocytosis
-title Smoldering Systemic Mastocytosis
+name Smoldering Systemic Mastocytosis
 type cancerType
 mainType Mastocytosis
 tissue Myeloid
