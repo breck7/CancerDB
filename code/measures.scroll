@@ -6,7 +6,7 @@ idParser
 nameParser
  extends abstractStringMeasureParser
  description What is the name of this concept?
- int sortIndex 0.9
+ float sortIndex 0.9
 
 // common measures
 // Hashmap parsers
@@ -270,7 +270,7 @@ medlinePlusParser
 measurementsParser
  boolean isComputed true
  extends abstractIntegerMeasureParser
- int sortIndex 1
+ float sortIndex 1
  boolean suggestInAutocomplete false
  description How many measurements do we have about this thing?
  javascript
@@ -344,12 +344,12 @@ subTypesParser
  description How many subtypes of this cancer type in OncoTree?
  extends abstractIntegerMeasureParser
  string sourceDomain oncotree.mskcc.org
- int sortIndex 5
+ float sortIndex 5
 tissueParser
  description What is the tissue type for this cancer type?
  extends abstractStringMeasureParser
  string sourceDomain oncotree.mskcc.org
- int sortIndex 3
+ float sortIndex 3
 
 // openSource
 isOpenSourceParser
@@ -476,7 +476,7 @@ typeParser
  catchAllCellType stringCell
  extends abstractEnumMeasureParser
  required
- int sortIndex 0
+ float sortIndex 0.99
 
 // umls
 umlsParser
@@ -522,7 +522,7 @@ vimeoParser
 websiteParser
  extends abstractUrlMeasureParser
  description What is the URL to this entity's website?
- int sortIndex 2
+ float sortIndex 2
 eventsPageParser
  extends abstractUrlMeasureParser
  description What is the URL to this entity's events page?
@@ -541,7 +541,7 @@ wikipediaParser
  extends abstractUrlMeasureParser
  description What is the URL of this concept on Wikipedia, if and only if it has a page dedicated to it?
  string sourceDomain wikipedia.org
- int sortIndex 2
+ float sortIndex 2
 
 // wolframAlpha
 wolframAlphaParser
