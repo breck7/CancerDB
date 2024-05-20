@@ -9,10 +9,6 @@ class CancerDBCli extends ScrollSetCLI {
   grammarFile = "code/measures.scroll"
   scrollSetName = "cancerdb"
   compiledConcepts = "./cancerdb.json"
-
-  async updateIdsCommand() {
-    this.concepts.forEach(() => {})
-  }
 }
 
 module.exports = { CancerDBCli }

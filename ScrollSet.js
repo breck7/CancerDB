@@ -94,6 +94,20 @@ class ScrollSetCLI {
     return require(this.compiledConcepts)
   }
 
+  async updateIdsCommand() {
+    this.concepts.forEach((file) => {
+      const tree = this.getTree(file)
+      const newTree = tree.toString().replace(
+        `import ../code/conceptPage.scroll
+id `,
+        `import ../code/conceptPage.scroll
+id ${file.filename.replace(".scroll", "")}
+title `
+      )
+      this.save(file, newTree.toString())
+    })
+  }
+
   buildGrammarFileCommand() {
     const code = `node_modules/scroll-cli/grammar/cellTypes.grammar
 node_modules/scroll-cli/grammar/root.grammar

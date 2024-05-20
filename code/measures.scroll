@@ -3,6 +3,8 @@ importOnly
 // parsersOnly
 idParser
  extends abstractIdParser
+filenameParser
+ extends abstractFilenameParser
 
 // common measures
 // Hashmap parsers
