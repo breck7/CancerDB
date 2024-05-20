@@ -6,6 +6,7 @@ idParser
 nameParser
  extends abstractStringMeasureParser
  description What is the name of this concept?
+ int sortIndex 0.9
 
 // common measures
 // Hashmap parsers
