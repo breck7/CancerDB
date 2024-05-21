@@ -1,17 +1,17 @@
 import ../code/conceptPage.scroll
+
 id adrenal-gland
 name Adrenal Cancer
 type cancerType
-mainType Adrenal Gland Cancer, NOS
+subTypes 3
 tissue Adrenal Gland
+mainType Adrenal Gland Cancer, NOS
 aka adrenal cancer
+cancerDotOrg https://www.cancer.org/cancer/adrenal-cancer.html
+reference https://en.wikipedia.org/wiki/Adrenal_tumor
 
 oncoTreeId ADRENAL_GLAND
 parentOncoTreeId TISSUE
 umls C0001625
 nciCode C12666
 oncoTreeLevel 1
-subTypes 3
-
-cancerDotOrg https://www.cancer.org/cancer/adrenal-cancer.html
-reference https://en.wikipedia.org/wiki/Adrenal_tumor

@@ -1,15 +1,15 @@
 import ../code/conceptPage.scroll
+
 id sidney-kimmel-comprehensive-cancer-center
 name Sidney Kimmel Comprehensive Cancer Center
 type nciCancerCenter
-
 website https://www.hopkinsmedicine.org/kimmel_cancer_center/
-wikipedia https://en.wikipedia.org/wiki/Sidney_Kimmel_Comprehensive_Cancer_Center
 
 phoneNumber 1-410-955-5222
-
 country United States
 city Baltimore, Maryland
+
+wikipedia https://en.wikipedia.org/wiki/Sidney_Kimmel_Comprehensive_Cancer_Center
 
 nciDesignation Comprehensive Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/hopkinskimmel

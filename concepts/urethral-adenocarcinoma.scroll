@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id urethral-adenocarcinoma
 name Urethral Adenocarcinoma
 type cancerType
-mainType Bladder Cancer
+subTypes 0
 tissue Bladder/Urinary Tract
+mainType Bladder Cancer
 
 oncoTreeId UAD
 parentOncoTreeId UCA
 umls C1336885
 nciCode C6167
 oncoTreeLevel 3
-subTypes 0

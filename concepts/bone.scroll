@@ -1,15 +1,16 @@
 import ../code/conceptPage.scroll
+
 id bone
 name Bone Cancer
 type cancerType
-mainType Bone Cancer, NOS
+subTypes 23
 tissue Bone
+mainType Bone Cancer, NOS
 
 oncoTreeId BONE
 parentOncoTreeId TISSUE
 umls C0262950
 nciCode C12366
 oncoTreeLevel 1
-subTypes 23
 
 wikipedia https://en.wikipedia.org/wiki/Bone_tumor

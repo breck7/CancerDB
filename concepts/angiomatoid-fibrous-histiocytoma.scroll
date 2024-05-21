@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id angiomatoid-fibrous-histiocytoma
 name Angiomatoid Fibrous Histiocytoma
 type cancerType
-mainType Angiomatoid Fibrous Histiocytoma
+subTypes 0
 tissue Soft Tissue
+mainType Angiomatoid Fibrous Histiocytoma
 
 oncoTreeId AFH
 parentOncoTreeId SOFT_TISSUE
 oncoTreeLevel 2
-subTypes 0

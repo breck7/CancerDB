@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id topotecan
 name Topotecan
 type chemotherapyDrug
 tradenames Hycamtin && Potactasol
-
-wikipedia https://en.wikipedia.org/wiki/Topotecan
-
 routesOfAdministration intravenous oral
+
 kegg D08618
 drugBank DB01030
 medlinePlus a610007
 pubChem 60700
+
+wikipedia https://en.wikipedia.org/wiki/Topotecan

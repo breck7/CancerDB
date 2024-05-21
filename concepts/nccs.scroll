@@ -1,10 +1,11 @@
 import ../code/conceptPage.scroll
+
 id nccs
 name NCCS
 type cancerNonProfit
+website https://canceradvocacy.org/
 standsFor National Coalition for Cancer Survivorship
 
-website https://canceradvocacy.org/
 twitter https://twitter.com/canceradvocacy
 linkedin https://linkedin.com/company/canceradvocacy
 

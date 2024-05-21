@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id colon-adenocarcinoma
 name Colon Adenocarcinoma
 type cancerType
-mainType Colorectal Cancer
+subTypes 0
 tissue Bowel
+mainType Colorectal Cancer
 
 oncoTreeId COAD
 parentOncoTreeId COADREAD
 umls C0338106
 nciCode C4349
 oncoTreeLevel 3
-subTypes 0

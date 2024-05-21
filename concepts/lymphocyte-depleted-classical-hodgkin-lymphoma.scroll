@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id lymphocyte-depleted-classical-hodgkin-lymphoma
 name Lymphocyte-Depleted Classical Hodgkin Lymphoma
 type cancerType
-mainType Hodgkin Lymphoma
+subTypes 0
 tissue Lymphoid
+mainType Hodgkin Lymphoma
 
 oncoTreeId LDCHL
 parentOncoTreeId CHL
 oncoTreeLevel 5
-subTypes 0

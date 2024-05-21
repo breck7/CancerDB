@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id pleural-mesothelioma
 name Pleural Mesothelioma
 type cancerType
-mainType Mesothelioma
+subTypes 3
 tissue Pleura
+mainType Mesothelioma
 
 oncoTreeId PLMESO
 parentOncoTreeId PLEURA
 umls C1377913
 nciCode C9351
 oncoTreeLevel 2
-subTypes 3

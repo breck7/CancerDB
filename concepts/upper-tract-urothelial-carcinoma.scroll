@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id upper-tract-urothelial-carcinoma
 name Upper Tract Urothelial Carcinoma
 type cancerType
-mainType Bladder Cancer
+subTypes 0
 tissue Bladder/Urinary Tract
+mainType Bladder Cancer
 
 oncoTreeId UTUC
 parentOncoTreeId BLADDER
 umls C0220648
 nciCode C7716
 oncoTreeLevel 2
-subTypes 0

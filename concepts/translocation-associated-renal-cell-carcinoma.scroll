@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id translocation-associated-renal-cell-carcinoma
 name Translocation-Associated Renal Cell Carcinoma
 type cancerType
-mainType Renal Cell Carcinoma
+subTypes 0
 tissue Kidney
+mainType Renal Cell Carcinoma
 
 oncoTreeId TRCC
 parentOncoTreeId NCCRCC
 umls C1337036
 nciCode C27891
 oncoTreeLevel 4
-subTypes 0

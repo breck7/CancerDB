@@ -1,12 +1,13 @@
 import ../code/conceptPage.scroll
+
 id wilms-tumor
 name Wilms' Tumor
 type cancerType
-mainType Wilms Tumor
+subTypes 0
 tissue Kidney
+mainType Wilms Tumor
 
 oncoTreeId WT
 parentOncoTreeId KIDNEY
 umls CL343552
 oncoTreeLevel 2
-subTypes 0

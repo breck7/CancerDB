@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id spindle-cell-rhabdomyosarcoma
 name Spindle Cell Rhabdomyosarcoma
 type cancerType
-mainType Soft Tissue Sarcoma
+subTypes 0
 tissue Soft Tissue
+mainType Soft Tissue Sarcoma
 
 oncoTreeId SCRMS
 parentOncoTreeId RMS
 umls C1266134
 nciCode C6519
 oncoTreeLevel 3
-subTypes 0

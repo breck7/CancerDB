@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id desmoplastic-infantile-astrocytoma
 name Desmoplastic Infantile Astrocytoma
 type cancerType
-mainType Miscellaneous Neuroepithelial Tumor
+subTypes 0
 tissue CNS/Brain
+mainType Miscellaneous Neuroepithelial Tumor
 
 oncoTreeId DIA
 parentOncoTreeId MNET
 umls C0457179
 nciCode C9476
 oncoTreeLevel 3
-subTypes 0

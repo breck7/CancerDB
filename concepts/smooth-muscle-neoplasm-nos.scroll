@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id smooth-muscle-neoplasm-nos
 name Smooth Muscle Neoplasm, NOS
 type cancerType
-mainType Esophagogastric Cancer
+subTypes 0
 tissue Esophagus/Stomach
+mainType Esophagogastric Cancer
 
 oncoTreeId SMN
 parentOncoTreeId STOMACH
 oncoTreeLevel 2
-subTypes 0

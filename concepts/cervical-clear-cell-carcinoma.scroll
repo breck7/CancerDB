@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id cervical-clear-cell-carcinoma
 name Cervical Clear Cell Carcinoma
 type cancerType
-mainType Cervical Cancer
+subTypes 0
 tissue Cervix
+mainType Cervical Cancer
 
 oncoTreeId CECC
 parentOncoTreeId CEAD
 umls C1332912
 nciCode C6344
 oncoTreeLevel 3
-subTypes 0

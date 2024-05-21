@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id pituicytoma
 name Pituicytoma
 type cancerType
-mainType Sellar Tumor
+subTypes 0
 tissue CNS/Brain
+mainType Sellar Tumor
 
 oncoTreeId PTCY
 parentOncoTreeId SELT
 umls C2986550
 nciCode C94524
 oncoTreeLevel 3
-subTypes 0

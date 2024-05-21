@@ -1,22 +1,24 @@
 import ../code/conceptPage.scroll
+
 id swog
 name SWOG Cancer Research Network
 type governmentFundedNonProfit
+website https://www.swog.org/
 appeared 1956
 oldName Southwest Oncology Group
 oldName Southwest Cancer Chemotherapy Study Group
 conceptDescription SWOG Cancer Research Network is a global cancer research community that designs and conducts publicly funded clinical trials.
 
-website https://www.swog.org/
+country United States
+city Portland, OR
+
 wikipedia https://en.wikipedia.org/wiki/SWOG
+
 twitter https://twitter.com/SWOG
  followers 12900
 linkedin https://www.linkedin.com/company/swog---leading-cancer-research
  followers 1306
 youTubeChannel https://www.youtube.com/user/SWOGCancerResearch
  followers 376
-
-country United States
-city Portland, OR
 
 hostSchool Oregon Health & Science University

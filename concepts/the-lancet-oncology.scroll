@@ -1,8 +1,9 @@
 import ../code/conceptPage.scroll
+
 id the-lancet-oncology
 name The Lancet Oncology
 type journal
-
 website https://www.thelancet.com/journals/lanonc/issue/current
+
 twitter https://twitter.com/TheLancetOncol
 linkedin https://linkedin.com/company/the-lancet

@@ -1,10 +1,10 @@
 import ../code/conceptPage.scroll
+
 id icelandic-cancer-society
 name Icelandic Cancer Society
 type cancerNonProfit
+website https://www.krabb.is/english/
 appeared 1951
 aka ICS
-
-website https://www.krabb.is/english/
 
 country Iceland

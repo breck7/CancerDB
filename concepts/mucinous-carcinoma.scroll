@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id mucinous-carcinoma
 name Mucinous Carcinoma
 type cancerType
-mainType Cervical Cancer
+subTypes 3
 tissue Cervix
+mainType Cervical Cancer
 
 oncoTreeId CEMU
 parentOncoTreeId CEAD
 umls C0007130
 nciCode C26712
 oncoTreeLevel 3
-subTypes 3

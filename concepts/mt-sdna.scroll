@@ -1,9 +1,9 @@
 import ../code/conceptPage.scroll
+
 id mt-sdna
 name MT-sDNA
 type diagnosticTest
 cancerTypes colon
 standsFor Multi-targeted stool DNA test
 conceptDescription mt-sDNA uses a single random stool sample, collected by patients at home, without requiring any preparation, or change in medications or diet. The test identifies 10 biomarkers known to be associated with CRC and precancerous lesion, including altered human DNA and hemoglobin. The test combines all biomarker results with the normalizing gene beta-actin in an algorithm that generates a composite, single, “Negative” or “Positive” patient result.
-
 reference https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4865712/

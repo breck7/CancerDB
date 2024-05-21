@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id craniopharyngioma-papillary-type
 name Craniopharyngioma, Papillary Type
 type cancerType
-mainType Sellar Tumor
+subTypes 0
 tissue CNS/Brain
+mainType Sellar Tumor
 
 oncoTreeId PCGP
 parentOncoTreeId SELT
 oncoTreeLevel 3
-subTypes 0

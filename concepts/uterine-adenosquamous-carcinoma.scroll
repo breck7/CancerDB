@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id uterine-adenosquamous-carcinoma
 name Uterine Adenosquamous Carcinoma
 type cancerType
-mainType Endometrial Cancer
+subTypes 0
 tissue Uterus
+mainType Endometrial Cancer
 
 oncoTreeId UASC
 parentOncoTreeId UCEC
 umls C0346202
 nciCode C4519
 oncoTreeLevel 3
-subTypes 0

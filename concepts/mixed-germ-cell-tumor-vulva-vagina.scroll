@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id mixed-germ-cell-tumor-vulva-vagina
 name Mixed Germ Cell Tumor Vulva/Vagina
 type cancerType
-mainType Germ Cell Tumor
+subTypes 0
 tissue Vulva/Vagina
+mainType Germ Cell Tumor
 
 oncoTreeId VMGCT
 parentOncoTreeId VGCT
 umls C0334524
 nciCode C4290
 oncoTreeLevel 3
-subTypes 0

@@ -1,18 +1,19 @@
 import ../code/conceptPage.scroll
+
 id university-of-wisconsin-carbone-cancer-center
 name University of Wisconsin Carbone Cancer Center
 type nciCancerCenter
-
 website https://cancer.wisc.edu/
+
+phoneNumber 1-608-263-8600
+country United States
+city Madison, Wisconsin
+
 wikipedia https://en.wikipedia.org/wiki/University_of_Wisconsin_Carbone_Cancer_Center
+
 twitter https://twitter.com/uwcarbone
 facebook https://facebook.com/uwcarbone
 instagram https://instagram.com/uwcarbone
-
-phoneNumber 1-608-263-8600
-
-country United States
-city Madison, Wisconsin
 
 nciDesignation Comprehensive Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/uwcarbone

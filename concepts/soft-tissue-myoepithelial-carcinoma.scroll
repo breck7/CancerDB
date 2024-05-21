@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id soft-tissue-myoepithelial-carcinoma
 name Soft Tissue Myoepithelial Carcinoma
 type cancerType
-mainType Soft Tissue Sarcoma
+subTypes 0
 tissue Soft Tissue
+mainType Soft Tissue Sarcoma
 
 oncoTreeId STMYEC
 parentOncoTreeId SOFT_TISSUE
 umls C0334699
 nciCode C7596
 oncoTreeLevel 2
-subTypes 0

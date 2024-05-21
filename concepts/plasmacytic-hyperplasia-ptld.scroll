@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id plasmacytic-hyperplasia-ptld
 name Plasmacytic Hyperplasia PTLD
 type cancerType
-mainType Posttransplant Lymphoproliferative Disorders
+subTypes 0
 tissue Lymphoid
+mainType Posttransplant Lymphoproliferative Disorders
 
 oncoTreeId PHPTLD
 parentOncoTreeId PTLD
 oncoTreeLevel 4
-subTypes 0

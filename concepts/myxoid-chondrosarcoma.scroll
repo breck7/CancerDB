@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id myxoid-chondrosarcoma
 name Myxoid Chondrosarcoma
 type cancerType
-mainType Bone Cancer
+subTypes 0
 tissue Bone
+mainType Bone Cancer
 
 oncoTreeId MYCHS
 parentOncoTreeId CHS
 umls C0334551
 nciCode C4303
 oncoTreeLevel 3
-subTypes 0

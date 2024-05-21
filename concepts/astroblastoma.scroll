@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id astroblastoma
 name Astroblastoma
 type cancerType
-mainType Miscellaneous Neuroepithelial Tumor
+subTypes 0
 tissue CNS/Brain
+mainType Miscellaneous Neuroepithelial Tumor
 
 oncoTreeId ASTB
 parentOncoTreeId MNET
 umls C0334587
 nciCode C4324
 oncoTreeLevel 3
-subTypes 0

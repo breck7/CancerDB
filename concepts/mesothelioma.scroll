@@ -1,16 +1,15 @@
 import ../code/conceptPage.scroll
+
 id mesothelioma
 name Mesothelioma
 type cancerType
-uscsDeathsPerYear 2402
-uscsCasesPerYear 2828
-uscsMortalityRate 85%
-
-wikipedia https://en.wikipedia.org/wiki/Mesothelioma
 cancerDotGov https://www.cancer.gov/types/mesothelioma
 cancerDotOrg https://www.cancer.org/cancer/malignant-mesothelioma.html
 gco https://gco.iarc.fr/today/data/factsheets/cancers/18-Mesothelioma-fact-sheet.pdf
 
+uscsDeathsPerYear 2402
+uscsCasesPerYear 2828
+uscsMortalityRate 85%
 uscsTable 2019
  sex|age|population|cases|deaths
  F|0|1841226|~|~
@@ -51,3 +50,5 @@ uscsTable 2019
  M|75-79|4317707|457|360
  M|80-84|2678743|355|356
  M|85+|2374207|340|381
+
+wikipedia https://en.wikipedia.org/wiki/Mesothelioma

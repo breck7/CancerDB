@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id steroid-cell-tumor-nos
 name Steroid Cell Tumor, NOS
 type cancerType
-mainType Sex Cord Stromal Tumor
+subTypes 0
 tissue Ovary/Fallopian Tube
+mainType Sex Cord Stromal Tumor
 
 oncoTreeId SCT
 parentOncoTreeId SCST
 oncoTreeLevel 3
-subTypes 0

@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id intestinal-type-mucinous-carcinoma
 name Intestinal Type Mucinous Carcinoma
 type cancerType
-mainType Cervical Cancer
+subTypes 0
 tissue Cervix
+mainType Cervical Cancer
 
 oncoTreeId ICEMU
 parentOncoTreeId CEMU
 umls C1516422
 nciCode C40203
 oncoTreeLevel 4
-subTypes 0

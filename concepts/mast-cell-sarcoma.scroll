@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id mast-cell-sarcoma
 name Mast Cell Sarcoma
 type cancerType
-mainType Mastocytosis
+subTypes 0
 tissue Myeloid
+mainType Mastocytosis
 
 oncoTreeId MCSL
 parentOncoTreeId MCD
 oncoTreeLevel 4
-subTypes 0

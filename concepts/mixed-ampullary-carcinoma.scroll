@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id mixed-ampullary-carcinoma
 name Mixed Ampullary Carcinoma
 type cancerType
-mainType Ampullary Cancer
+subTypes 0
 tissue Ampulla of Vater
+mainType Ampullary Cancer
 
 oncoTreeId MAMPCA
 parentOncoTreeId AMPCA
 oncoTreeLevel 3
-subTypes 0

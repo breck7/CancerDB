@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id angioimmunoblastic-t-cell-lymphoma
 name Angioimmunoblastic T-Cell Lymphoma
 type cancerType
-mainType Mature T and NK Neoplasms
+subTypes 0
 tissue Lymphoid
+mainType Mature T and NK Neoplasms
 
 oncoTreeId AITL
 parentOncoTreeId MTNN
 umls C0020981
 nciCode C7528
 oncoTreeLevel 5
-subTypes 0

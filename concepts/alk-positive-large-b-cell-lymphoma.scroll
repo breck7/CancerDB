@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id alk-positive-large-b-cell-lymphoma
 name ALK Positive Large B-Cell Lymphoma
 type cancerType
-mainType Mature B-Cell Neoplasms
+subTypes 0
 tissue Lymphoid
+mainType Mature B-Cell Neoplasms
 
 oncoTreeId ALKLBCL
 parentOncoTreeId MBN
 oncoTreeLevel 5
-subTypes 0

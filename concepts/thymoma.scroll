@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id thymoma
 name Thymoma
 type cancerType
-mainType Thymic Tumor
+subTypes 0
 tissue Thymus
+mainType Thymic Tumor
 
 oncoTreeId THYM
 parentOncoTreeId TET
 umls C0040100
 nciCode C3411
 oncoTreeLevel 3
-subTypes 0

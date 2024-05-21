@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id mixed-germ-cell-tumor-cns-brain
 name Mixed Germ Cell Tumor CNS/Brain
 type cancerType
-mainType Germ Cell Tumor
+subTypes 0
 tissue CNS/Brain
+mainType Germ Cell Tumor
 
 oncoTreeId BMGCT
 parentOncoTreeId BGCT
 umls C0334524
 nciCode C4290
 oncoTreeLevel 3
-subTypes 0

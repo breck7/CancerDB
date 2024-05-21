@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id dysplastic-gangliocytoma-of-the-cerebellum-lhermitte-duclos-disease
 name Dysplastic Gangliocytoma of the Cerebellum/Lhermitte-Duclos Disease
 type cancerType
-mainType Miscellaneous Neuroepithelial Tumor
+subTypes 0
 tissue CNS/Brain
+mainType Miscellaneous Neuroepithelial Tumor
 
 oncoTreeId LDD
 parentOncoTreeId MNET
 umls C0391826
 nciCode C8419
 oncoTreeLevel 3
-subTypes 0

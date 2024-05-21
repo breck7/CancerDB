@@ -1,10 +1,11 @@
 import ../code/conceptPage.scroll
+
 id nedaplatin
 name Nedaplatin
 type chemotherapyDrug
-
-wikipedia https://en.wikipedia.org/wiki/Nedaplatin
-
 routesOfAdministration intravenous
+
 kegg D01416
 pubChem 9796440
+
+wikipedia https://en.wikipedia.org/wiki/Nedaplatin

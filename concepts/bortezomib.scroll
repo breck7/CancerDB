@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id bortezomib
 name Bortezomib
 type chemotherapyDrug
 tradenames Velcade && Chemobort && Bortecad
-
-wikipedia https://en.wikipedia.org/wiki/Bortezomib
-
 routesOfAdministration subcutaneousInjection intravenous
+
 kegg D03150
 drugBank DB00188
 medlinePlus a607007
 pubChem 387447
+
+wikipedia https://en.wikipedia.org/wiki/Bortezomib

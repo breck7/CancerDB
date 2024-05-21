@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id aml-with-biallelic-mutations-of-cebpa
 name AML with Biallelic Mutations of CEBPA
 type cancerType
-mainType Leukemia
+subTypes 0
 tissue Myeloid
+mainType Leukemia
 
 oncoTreeId AMLCEBPA
 parentOncoTreeId AMLRGA
 oncoTreeLevel 5
-subTypes 0

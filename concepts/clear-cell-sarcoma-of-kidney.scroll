@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id clear-cell-sarcoma-of-kidney
 name Clear Cell Sarcoma of Kidney
 type cancerType
-mainType Clear Cell Sarcoma of Kidney
+subTypes 0
 tissue Kidney
+mainType Clear Cell Sarcoma of Kidney
 
 oncoTreeId CCSK
 parentOncoTreeId KIDNEY
 oncoTreeLevel 2
-subTypes 0

@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id gastrointestinal-neuroendocrine-tumors
 name Gastrointestinal Neuroendocrine Tumors
 type cancerType
-mainType Gastrointestinal Neuroendocrine Tumor
+subTypes 4
 tissue Bowel
+mainType Gastrointestinal Neuroendocrine Tumor
 
 oncoTreeId GINET
 parentOncoTreeId BOWEL
 umls C2987127
 nciCode C95404
 oncoTreeLevel 2
-subTypes 4

@@ -1,15 +1,16 @@
 import ../code/conceptPage.scroll
+
 id cnio
 name Spanish National Cancer Research Center
 type nationalCancerInstitute
+website https://www.cnio.es/
 aka CNIO
 
-website https://www.cnio.es/
+country Spain
+
 twitter https://twitter.com/cniostopcancer
 facebook https://facebook.com/amigosdelcnio
 linkedin https://linkedin.com/company/cnio
 instagram https://instagram.com/cniostopcancer
-
-country Spain
 
 domainName cnio.es

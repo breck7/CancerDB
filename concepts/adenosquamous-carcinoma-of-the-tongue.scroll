@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id adenosquamous-carcinoma-of-the-tongue
 name Adenosquamous Carcinoma of the Tongue
 type cancerType
-mainType Head and Neck Cancer
+subTypes 0
 tissue Head and Neck
+mainType Head and Neck Cancer
 
 oncoTreeId ASCT
 parentOncoTreeId OHNCA
 oncoTreeLevel 3
-subTypes 0

@@ -1,12 +1,14 @@
 import ../code/conceptPage.scroll
+
 id cdc
 name CDC
 type nationalGovernmentAgency
+website https://www.cdc.gov/
 parentOrganization hhs
 standsFor Centers for Disease Control and Prevention
 
-website https://www.cdc.gov/
 wikipedia https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention
+
 twitter https://twitter.com/cdcgov
  followers 5400000
 facebook https://facebook.com/cdc

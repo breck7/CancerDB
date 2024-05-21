@@ -1,14 +1,16 @@
 import ../code/conceptPage.scroll
+
 id dana-farber
 name Dana-Farber Cancer Institute
 type hospital cancerNonProfit
-
 website https://www.dana-farber.org/
-wikipedia https://en.wikipedia.org/wiki/Dana%E2%80%93Farber_Cancer_Institute
-linkedin https://linkedin.com/company/dana-farber-cancer-institute
 
 country United States
 city Boston, MA
+
+wikipedia https://en.wikipedia.org/wiki/Dana%E2%80%93Farber_Cancer_Institute
+
+linkedin https://linkedin.com/company/dana-farber-cancer-institute
 
 usNewsRank 4
 

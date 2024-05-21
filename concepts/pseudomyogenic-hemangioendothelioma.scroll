@@ -1,12 +1,13 @@
 import ../code/conceptPage.scroll
+
 id pseudomyogenic-hemangioendothelioma
 name Pseudomyogenic Hemangioendothelioma
 type cancerType
-mainType Soft Tissue Sarcoma
+subTypes 0
 tissue Soft Tissue
+mainType Soft Tissue Sarcoma
 
 oncoTreeId PMHE
 parentOncoTreeId SOFT_TISSUE
 umls CL479537
 oncoTreeLevel 2
-subTypes 0

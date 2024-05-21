@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id myeloid-benign
 name Myeloid Benign
 type cancerType
-mainType Blood Cancer, NOS
+subTypes 0
 tissue Myeloid
+mainType Blood Cancer, NOS
 
 oncoTreeId MBGN
 parentOncoTreeId MYELOID
 oncoTreeLevel 2
-subTypes 0

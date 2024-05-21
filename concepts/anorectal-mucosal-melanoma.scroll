@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id anorectal-mucosal-melanoma
 name Anorectal Mucosal Melanoma
 type cancerType
-mainType Melanoma
+subTypes 0
 tissue Bowel
+mainType Melanoma
 
 oncoTreeId ARMM
 parentOncoTreeId BOWEL
 umls C0349538
 nciCode C4639
 oncoTreeLevel 2
-subTypes 0

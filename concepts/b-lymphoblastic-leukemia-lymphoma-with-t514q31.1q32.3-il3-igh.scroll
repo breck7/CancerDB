@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id b-lymphoblastic-leukemia-lymphoma-with-t514q31.1q32.3-il3-igh
 name B-Lymphoblastic Leukemia/Lymphoma with t(5;14)(q31.1;q32.3) IL3-IGH
 type cancerType
-mainType B-Lymphoblastic Leukemia/Lymphoma
+subTypes 0
 tissue Lymphoid
+mainType B-Lymphoblastic Leukemia/Lymphoma
 
 oncoTreeId BLLIL3IGH
 parentOncoTreeId BLLRGA
 oncoTreeLevel 5
-subTypes 0

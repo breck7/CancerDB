@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id duodenal-adenocarcinoma
 name Duodenal Adenocarcinoma
 type cancerType
-mainType Small Bowel Cancer
+subTypes 0
 tissue Bowel
+mainType Small Bowel Cancer
 
 oncoTreeId DA
 parentOncoTreeId SBC
 umls C0278804
 nciCode C7889
 oncoTreeLevel 3
-subTypes 0

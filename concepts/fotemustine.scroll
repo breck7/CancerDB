@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id fotemustine
 name Fotemustine
 type chemotherapyDrug alkylatingAgent
 tradenames Mustophoran
 
-wikipedia https://en.wikipedia.org/wiki/Fotemustine
-
 kegg D07255
 drugBank DB04106
 pubChem 104799
+
+wikipedia https://en.wikipedia.org/wiki/Fotemustine

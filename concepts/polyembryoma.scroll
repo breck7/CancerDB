@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id polyembryoma
 name Polyembryoma
 type cancerType
-mainType Germ Cell Tumor
+subTypes 0
 tissue Ovary/Fallopian Tube
+mainType Germ Cell Tumor
 
 oncoTreeId OPE
 parentOncoTreeId OGCT
 umls C1514199
 nciCode C39990
 oncoTreeLevel 3
-subTypes 0

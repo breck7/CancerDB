@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id diffuse-glioma
 name Diffuse Glioma
 type cancerType
-mainType Glioma
+subTypes 14
 tissue CNS/Brain
+mainType Glioma
 
 oncoTreeId DIFG
 parentOncoTreeId BRAIN
 oncoTreeLevel 2
-subTypes 14

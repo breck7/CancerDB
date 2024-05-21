@@ -1,17 +1,18 @@
 import ../code/conceptPage.scroll
+
 id aacr
 name AACR
 type cancerNonProfit
+website https://www.aacr.org/
 standsFor American Association of Cancer Research
 
-website https://www.aacr.org/
+country United States
+city Philadelphia, PA
+
 twitter https://twitter.com/aacr
  followers 105300
 facebook https://facebook.com/aacrfoundation
 instagram https://instagram.com/aacr_foundation
-
-country United States
-city Philadelphia, PA
 
 domainName aacr.org
  registered 1996

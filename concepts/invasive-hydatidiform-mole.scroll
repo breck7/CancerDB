@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id invasive-hydatidiform-mole
 name Invasive Hydatidiform Mole
 type cancerType
-mainType Gestational Trophoblastic Disease
+subTypes 0
 tissue Uterus
+mainType Gestational Trophoblastic Disease
 
 oncoTreeId IHM
 parentOncoTreeId MP
 umls C0008493
 nciCode C6985
 oncoTreeLevel 4
-subTypes 0

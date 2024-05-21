@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id myxopapillary-ependymoma
 name Myxopapillary Ependymoma
 type cancerType
-mainType CNS Cancer
+subTypes 0
 tissue CNS/Brain
+mainType CNS Cancer
 
 oncoTreeId MPE
 parentOncoTreeId EPMT
 umls C0205769
 nciCode C3697
 oncoTreeLevel 3
-subTypes 0

@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id waldenstrom-macroglobulinemia
 name Waldenstrom Macroglobulinemia
 type cancerType
-mainType Mature B-Cell Neoplasms
+subTypes 0
 tissue Lymphoid
+mainType Mature B-Cell Neoplasms
 
 oncoTreeId WM
 parentOncoTreeId LPL
 umls C0024419
 nciCode C80307
 oncoTreeLevel 6
-subTypes 0

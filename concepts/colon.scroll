@@ -1,26 +1,25 @@
 import ../code/conceptPage.scroll
+
 id colon
 name Colon Cancer
 type cancerType
-mainType Bowel Cancer, NOS
-uscsId Colon and Rectum
+subTypes 24
 tissue Bowel
-uscsDeathsPerYear 51874
-uscsCasesPerYear 142438
-uscsMortalityRate 36%
+mainType Bowel Cancer, NOS
 aka Colorectal Cancer
 aka Bowel Cancer
+gco https://gco.iarc.fr/today/data/factsheets/cancers/8-Colon-fact-sheet.pdf
 
 oncoTreeId BOWEL
 parentOncoTreeId TISSUE
 umls C0021853
 nciCode C12736
 oncoTreeLevel 1
-subTypes 24
 
-wikipedia https://en.wikipedia.org/wiki/Colorectal_cancer
-gco https://gco.iarc.fr/today/data/factsheets/cancers/8-Colon-fact-sheet.pdf
-
+uscsId Colon and Rectum
+uscsDeathsPerYear 51874
+uscsCasesPerYear 142438
+uscsMortalityRate 36%
 uscsTable 2019
  sex|age|population|cases|deaths
  F|0|1841226|~|~
@@ -61,3 +60,5 @@ uscsTable 2019
  M|75-79|4317707|7976|3395
  M|80-84|2678743|6087|2966
  M|85+|2374207|5678|4086
+
+wikipedia https://en.wikipedia.org/wiki/Colorectal_cancer

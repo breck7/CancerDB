@@ -1,18 +1,18 @@
 import ../code/conceptPage.scroll
+
 id hollings-cancer-center
 name Hollings Cancer Center
 type nciCancerCenter
-
 website https://hollingscancercenter.musc.edu/
+
+phoneNumber 1-843-792-0700
+country United States
+city Charleston, South Carolina
+
 twitter https://twitter.com/muschollings
 facebook https://facebook.com/muschollings
 linkedin https://linkedin.com/company/musc-hollings-cancer-center
 instagram https://instagram.com/muschollings
-
-phoneNumber 1-843-792-0700
-
-country United States
-city Charleston, South Carolina
 
 nciDesignation Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/muschollings

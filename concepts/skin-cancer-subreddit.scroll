@@ -1,9 +1,9 @@
 import ../code/conceptPage.scroll
+
 id skin-cancer-subreddit
 name Skin Cancer Subreddit
 type subreddit onlineForum
 cancerTypes skin
-
 subreddit https://www.reddit.com/r/skincancer
  members
   2023 1458

@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id benign-phyllodes-tumor-of-the-breast
 name Benign Phyllodes Tumor of the Breast
 type cancerType
-mainType Breast Sarcoma
+subTypes 0
 tissue Breast
+mainType Breast Sarcoma
 
 oncoTreeId BPT
 parentOncoTreeId PT
 umls C1332533
 nciCode C5196
 oncoTreeLevel 4
-subTypes 0

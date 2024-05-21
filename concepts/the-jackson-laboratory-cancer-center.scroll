@@ -1,16 +1,16 @@
 import ../code/conceptPage.scroll
+
 id the-jackson-laboratory-cancer-center
 name The Jackson Laboratory Cancer Center
 type nciCancerCenter
+website https://www.jax.org/research-and-faculty/research-centers/the-jackson-laboratory-cancer-center
 aka JAX Cancer Center
 
-website https://www.jax.org/research-and-faculty/research-centers/the-jackson-laboratory-cancer-center
-wikipedia https://en.wikipedia.org/wiki/Jackson_Laboratory
-
 phoneNumber 1-207-288-6000
-
 country United States
 city Bar Harbor, Maine
+
+wikipedia https://en.wikipedia.org/wiki/Jackson_Laboratory
 
 nciDesignation Basic Laboratory Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/jacksonlab

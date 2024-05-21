@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id ovarian-choriocarcinoma-nos
 name Ovarian Choriocarcinoma, NOS
 type cancerType
-mainType Ovarian Cancer
+subTypes 0
 tissue Ovary/Fallopian Tube
+mainType Ovarian Cancer
 
 oncoTreeId OCNOS
 parentOncoTreeId OOVC
 oncoTreeLevel 3
-subTypes 0

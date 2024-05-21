@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id glioblastoma
 name Glioblastoma
 type cancerType
-mainType Glioma
+subTypes 3
 tissue CNS/Brain
+mainType Glioma
 
 oncoTreeId GB
 parentOncoTreeId DIFG
 umls C0017636
 nciCode C3058
 oncoTreeLevel 3
-subTypes 3

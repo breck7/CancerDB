@@ -1,9 +1,9 @@
 import ../code/conceptPage.scroll
+
 id cancer-statistics-center
 name Cancer Statistics Center
 type website
-parentOrganization american-cancer-society
-
 website https://cancerstatisticscenter.cancer.org
+parentOrganization american-cancer-society
 
 domainName cancerstatisticscenter.cancer.org

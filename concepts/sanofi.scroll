@@ -1,17 +1,19 @@
 import ../code/conceptPage.scroll
+
 id sanofi
 name Sanofi
 type publicCompany
-
 website https://www.sanofi.com
+
 wikipedia https://en.wikipedia.org/wiki/Sanofi
+
 twitter https://twitter.com/sanofi
  followers 151300
 linkedin https://linkedin.com/company/sanofi
 youTubeChannel https://youtube.com/user/sanofiaventistven
 instagram https://instagram.com/sanofi
 
+nyse https://www.nyse.com/quote/XNYS:SNY
+
 domainName sanofi.com
  registered 1995
-
-nyse https://www.nyse.com/quote/XNYS:SNY

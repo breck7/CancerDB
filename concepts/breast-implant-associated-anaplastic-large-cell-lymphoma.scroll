@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id breast-implant-associated-anaplastic-large-cell-lymphoma
 name Breast Implant-Associated Anaplastic Large-Cell Lymphoma
 type cancerType
-mainType Mature T and NK Neoplasms
+subTypes 0
 tissue Lymphoid
+mainType Mature T and NK Neoplasms
 
 oncoTreeId BIALCL
 parentOncoTreeId ALCL
 oncoTreeLevel 6
-subTypes 0

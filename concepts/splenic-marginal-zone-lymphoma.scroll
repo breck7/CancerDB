@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id splenic-marginal-zone-lymphoma
 name Splenic Marginal Zone Lymphoma
 type cancerType
-mainType Mature B-Cell Neoplasms
+subTypes 0
 tissue Lymphoid
+mainType Mature B-Cell Neoplasms
 
 oncoTreeId SMZL
 parentOncoTreeId MZL
 umls C0349632
 nciCode C4663
 oncoTreeLevel 6
-subTypes 0

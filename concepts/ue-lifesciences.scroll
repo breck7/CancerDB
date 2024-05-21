@@ -1,12 +1,13 @@
 import ../code/conceptPage.scroll
+
 id ue-lifesciences
 name UE LifeSciences
 type company
-
 website https://www.uelifesciences.com
-twitter https://twitter.com/uelifesciences
 
 phoneNumber 1-267-225-0453
+
+twitter https://twitter.com/uelifesciences
 
 domainName uelifesciences.com
  registered 2013

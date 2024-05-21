@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id intestinal-ampullary-carcinoma
 name Intestinal Ampullary Carcinoma
 type cancerType
-mainType Ampullary Cancer
+subTypes 0
 tissue Ampulla of Vater
+mainType Ampullary Cancer
 
 oncoTreeId IAMPCA
 parentOncoTreeId AMPCA
 umls C1332247
 nciCode C27415
 oncoTreeLevel 3
-subTypes 0

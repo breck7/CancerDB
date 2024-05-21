@@ -1,21 +1,22 @@
 import ../code/conceptPage.scroll
+
 id georgetown-lombardi-comprehensive-cancer-center
 name Georgetown Lombardi Comprehensive Cancer Center
 type nciCancerCenter
-
 website https://lombardi.georgetown.edu/
+
+phoneNumber 1-202-444-4000
+country United States
+city Washington, District of Columbia
+
 wikipedia https://en.wikipedia.org/wiki/Georgetown_Lombardi_Comprehensive_Cancer_Center
+
 twitter https://twitter.com/LombardiCancer
  followers 3099
 facebook https://facebook.com/georgetownlombardi
  followers 3100
 instagram https://instagram.com/georgetownlombardi
  followers 554
-
-phoneNumber 1-202-444-4000
-
-country United States
-city Washington, District of Columbia
 
 nciDesignation Comprehensive Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/georgetownlombardi

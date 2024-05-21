@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id breast-invasive-mixed-mucinous-carcinoma
 name Breast Invasive Mixed Mucinous Carcinoma
 type cancerType
-mainType Breast Cancer
+subTypes 0
 tissue Breast
+mainType Breast Cancer
 
 oncoTreeId IMMC
 parentOncoTreeId BRCA
 umls C1334807
 nciCode C9131
 oncoTreeLevel 3
-subTypes 0

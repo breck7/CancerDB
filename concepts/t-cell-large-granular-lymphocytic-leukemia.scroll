@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id t-cell-large-granular-lymphocytic-leukemia
 name T-Cell Large Granular Lymphocytic Leukemia
 type cancerType
-mainType Mature T and NK Neoplasms
+subTypes 0
 tissue Lymphoid
+mainType Mature T and NK Neoplasms
 
 oncoTreeId TLGL
 parentOncoTreeId MTNN
 umls C1955861
 nciCode C4664
 oncoTreeLevel 5
-subTypes 0

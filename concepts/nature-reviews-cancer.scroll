@@ -1,7 +1,8 @@
 import ../code/conceptPage.scroll
+
 id nature-reviews-cancer
 name Nature Reviews Cancer
 type journal
-
 website https://www.nature.com/nrc/
+
 wikipedia https://en.wikipedia.org/wiki/Nature_Reviews_Cancer

@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id myofibroma
 name Myofibroma
 type cancerType
-mainType Soft Tissue Sarcoma
+subTypes 0
 tissue Soft Tissue
+mainType Soft Tissue Sarcoma
 
 oncoTreeId MF
 parentOncoTreeId SOFT_TISSUE
 umls C1266121
 nciCode C7052
 oncoTreeLevel 2
-subTypes 0

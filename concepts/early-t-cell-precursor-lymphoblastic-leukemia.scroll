@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id early-t-cell-precursor-lymphoblastic-leukemia
 name Early T-Cell Precursor Lymphoblastic Leukemia
 type cancerType
-mainType T-Lymphoblastic Leukemia/Lymphoma
+subTypes 0
 tissue Lymphoid
+mainType T-Lymphoblastic Leukemia/Lymphoma
 
 oncoTreeId ETPLL
 parentOncoTreeId TLL
 oncoTreeLevel 4
-subTypes 0

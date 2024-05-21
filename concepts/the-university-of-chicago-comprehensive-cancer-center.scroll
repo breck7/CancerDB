@@ -1,15 +1,15 @@
 import ../code/conceptPage.scroll
+
 id the-university-of-chicago-comprehensive-cancer-center
 name The University of Chicago Comprehensive Cancer Center
 type nciCancerCenter
-
 website https://www.uchicagomedicine.org/cancer
-wikipedia https://en.wikipedia.org/wiki/University_of_Chicago_Comprehensive_Cancer_Center
 
 phoneNumber 1-855-702-8222
-
 country United States
 city Chicago, Illinois
+
+wikipedia https://en.wikipedia.org/wiki/University_of_Chicago_Comprehensive_Cancer_Center
 
 nciDesignation Comprehensive Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/uchicagoccc

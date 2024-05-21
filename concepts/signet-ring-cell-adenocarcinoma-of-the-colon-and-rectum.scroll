@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id signet-ring-cell-adenocarcinoma-of-the-colon-and-rectum
 name Signet Ring Cell Adenocarcinoma of the Colon and Rectum
 type cancerType
-mainType Colorectal Cancer
+subTypes 0
 tissue Bowel
+mainType Colorectal Cancer
 
 oncoTreeId SRCCR
 parentOncoTreeId COADREAD
 umls C0279654
 nciCode C9168
 oncoTreeLevel 3
-subTypes 0

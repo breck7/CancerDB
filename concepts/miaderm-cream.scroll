@@ -1,11 +1,11 @@
 import ../code/conceptPage.scroll
+
 id miaderm-cream
 name Miaderm Creme
 type lotion
+website https://www.miaderm.com/
 company Aiden Industries, LLC
 conceptDescription Developed by oncologists specifically for radiation dermatitis.
-
-website https://www.miaderm.com/
 
 phoneNumber 1-877-642-7727
 

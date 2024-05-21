@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id tretinoin
 name Tretinoin
 type chemotherapyDrug
 tradenames Retin-a && Avita && Renova
-
-wikipedia https://en.wikipedia.org/wiki/Tretinoin
-
 routesOfAdministration topical oral
+
 kegg D00094
 drugBank DB00755
 medlinePlus a608032
 pubChem 444795
+
+wikipedia https://en.wikipedia.org/wiki/Tretinoin

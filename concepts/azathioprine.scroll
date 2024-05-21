@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id azathioprine
 name Azathioprine
 type chemotherapyDrug
 tradenames Azasan && Imuran and others
-
-wikipedia https://en.wikipedia.org/wiki/Azathioprine
-
 routesOfAdministration intravenous
+
 kegg D00238
 drugBank DB00993
 medlinePlus a682167
 pubChem 2265
+
+wikipedia https://en.wikipedia.org/wiki/Azathioprine

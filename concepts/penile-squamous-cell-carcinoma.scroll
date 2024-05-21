@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id penile-squamous-cell-carcinoma
 name Penile Squamous Cell Carcinoma
 type cancerType
-mainType Penile Cancer
+subTypes 3
 tissue Penis
+mainType Penile Cancer
 
 oncoTreeId PSCC
 parentOncoTreeId PENIS
 umls C0238348
 nciCode C7729
 oncoTreeLevel 2
-subTypes 3

@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id oncocytic-adenoma-of-the-thyroid
 name Oncocytic Adenoma of the Thyroid
 type cancerType
-mainType Thyroid Cancer
+subTypes 0
 tissue Thyroid
+mainType Thyroid Cancer
 
 oncoTreeId OAT
 parentOncoTreeId THYROID
 oncoTreeLevel 2
-subTypes 0

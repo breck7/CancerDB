@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id therapy-related-myeloid-neoplasms
 name Therapy-Related Myeloid Neoplasms
 type cancerType
-mainType Leukemia
+subTypes 2
 tissue Myeloid
+mainType Leukemia
 
 oncoTreeId TMN
 parentOncoTreeId AML
 oncoTreeLevel 4
-subTypes 2

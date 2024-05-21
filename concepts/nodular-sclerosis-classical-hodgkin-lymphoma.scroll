@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id nodular-sclerosis-classical-hodgkin-lymphoma
 name Nodular Sclerosis Classical Hodgkin Lymphoma
 type cancerType
-mainType Hodgkin Lymphoma
+subTypes 0
 tissue Lymphoid
+mainType Hodgkin Lymphoma
 
 oncoTreeId NSCHL
 parentOncoTreeId CHL
 oncoTreeLevel 5
-subTypes 0

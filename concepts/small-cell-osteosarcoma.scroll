@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id small-cell-osteosarcoma
 name Small Cell Osteosarcoma
 type cancerType
-mainType Bone Cancer
+subTypes 0
 tissue Bone
+mainType Bone Cancer
 
 oncoTreeId SCOS
 parentOncoTreeId OS
 umls C0279622
 nciCode C4023
 oncoTreeLevel 3
-subTypes 0

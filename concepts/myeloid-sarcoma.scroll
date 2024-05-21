@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id myeloid-sarcoma
 name Myeloid Sarcoma
 type cancerType
-mainType Leukemia
+subTypes 0
 tissue Myeloid
+mainType Leukemia
 
 oncoTreeId MS
 parentOncoTreeId AML
 oncoTreeLevel 4
-subTypes 0

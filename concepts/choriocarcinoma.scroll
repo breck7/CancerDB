@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id choriocarcinoma
 name Choriocarcinoma
 type cancerType
-mainType Germ Cell Tumor
+subTypes 0
 tissue CNS/Brain
+mainType Germ Cell Tumor
 
 oncoTreeId BCCA
 parentOncoTreeId BGCT
 umls C0008497
 nciCode C2948
 oncoTreeLevel 3
-subTypes 0

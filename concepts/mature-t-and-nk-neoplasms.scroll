@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id mature-t-and-nk-neoplasms
 name Mature T and NK Neoplasms
 type cancerType
-mainType Mature T and NK Neoplasms
+subTypes 30
 tissue Lymphoid
+mainType Mature T and NK Neoplasms
 
 oncoTreeId MTNN
 parentOncoTreeId NHL
 umls C0079772
 nciCode C3466
 oncoTreeLevel 4
-subTypes 30

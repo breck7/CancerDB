@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id chronic-myelomonocytic-leukemia-0
 name Chronic Myelomonocytic Leukemia-0
 type cancerType
-mainType Myelodysplastic/Myeloproliferative Neoplasms
+subTypes 0
 tissue Myeloid
+mainType Myelodysplastic/Myeloproliferative Neoplasms
 
 oncoTreeId CMML0
 parentOncoTreeId CMML
 oncoTreeLevel 5
-subTypes 0

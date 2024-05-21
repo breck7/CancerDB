@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id intravascular-large-b-cell-lymphoma
 name Intravascular Large B-Cell Lymphoma
 type cancerType
-mainType Mature B-Cell Neoplasms
+subTypes 0
 tissue Lymphoid
+mainType Mature B-Cell Neoplasms
 
 oncoTreeId IVBCL
 parentOncoTreeId MBN
 oncoTreeLevel 5
-subTypes 0

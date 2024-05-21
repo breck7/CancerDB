@@ -1,9 +1,9 @@
 import ../code/conceptPage.scroll
+
 id margin-probe
 name MarginProbe
 type device
+website https://dilon.com/marginprobe/
 cancerTypes breast
 originCommunity Dilon Technologies
 company Dilon Technologies
-
-website https://dilon.com/marginprobe/

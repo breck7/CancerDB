@@ -1,4 +1,5 @@
 import ../code/conceptPage.scroll
+
 id microscope-stereo
 name Stereo Microscope
 type microscope

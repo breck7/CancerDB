@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id lymphoplasmacytic-lymphoma
 name Lymphoplasmacytic Lymphoma
 type cancerType
-mainType Mature B-Cell Neoplasms
+subTypes 1
 tissue Lymphoid
+mainType Mature B-Cell Neoplasms
 
 oncoTreeId LPL
 parentOncoTreeId MBN
 oncoTreeLevel 5
-subTypes 1

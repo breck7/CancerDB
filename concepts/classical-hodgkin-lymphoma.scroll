@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id classical-hodgkin-lymphoma
 name Classical Hodgkin Lymphoma
 type cancerType
-mainType Hodgkin Lymphoma
+subTypes 4
 tissue Lymphoid
+mainType Hodgkin Lymphoma
 
 oncoTreeId CHL
 parentOncoTreeId HL
 umls C1333064
 nciCode C7164
 oncoTreeLevel 4
-subTypes 4

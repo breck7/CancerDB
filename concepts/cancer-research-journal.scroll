@@ -1,10 +1,11 @@
 import ../code/conceptPage.scroll
+
 id cancer-research-journal
 name Cancer Research Journal
 type journal
+website https://cancerres.aacrjournals.org/
 parentOrganization aacr
 
-website https://cancerres.aacrjournals.org/
 wikipedia https://en.wikipedia.org/wiki/Cancer_Research_(journal)
 
 domainName cancerres.aacrjournals.org

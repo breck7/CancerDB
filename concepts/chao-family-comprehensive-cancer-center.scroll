@@ -1,16 +1,16 @@
 import ../code/conceptPage.scroll
+
 id chao-family-comprehensive-cancer-center
 name Chao Family Comprehensive Cancer Center
 type nciCancerCenter
-
 website http://cancer.uci.edu/
-facebook https://www.facebook.com/ucicancercenter
- followers 1100
 
 phoneNumber 1-714-456-8000
-
 country United States
 city Orange, California
+
+facebook https://www.facebook.com/ucicancercenter
+ followers 1100
 
 nciDesignation Comprehensive Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/ucirvinechao

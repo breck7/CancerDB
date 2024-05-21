@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id kom-op-tegen-kanker
 name Kom op tegen Kanker
 type cancerNonProfit
-
 website https://www.komoptegenkanker.be/
+
+country Belgium
+
 twitter https://twitter.com/komop_tgkanker
 facebook https://facebook.com/komoptegenkanker
 linkedin https://linkedin.com/company/komoptegenkanker
-
-country Belgium
 
 domainName komoptegenkanker.be

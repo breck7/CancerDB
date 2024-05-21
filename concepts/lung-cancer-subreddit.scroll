@@ -1,9 +1,9 @@
 import ../code/conceptPage.scroll
+
 id lung-cancer-subreddit
 name Lung Cancer Subreddit
 type subreddit onlineForum
 cancerTypes lung
-
 subreddit https://www.reddit.com/r/lungcancer
  members
   2023 2077

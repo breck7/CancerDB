@@ -1,24 +1,23 @@
 import ../code/conceptPage.scroll
+
 id thyroid
 name Thyroid Cancer
 type cancerType
-mainType Thyroid Cancer, NOS
-uscsId Thyroid
+subTypes 9
 tissue Thyroid
-uscsDeathsPerYear 2000
-uscsCasesPerYear 45272
-uscsMortalityRate 4%
+mainType Thyroid Cancer, NOS
+gco https://gco.iarc.fr/today/data/factsheets/cancers/32-Thyroid-fact-sheet.pdf
 
 oncoTreeId THYROID
 parentOncoTreeId TISSUE
 umls C0040132
 nciCode C12400
 oncoTreeLevel 1
-subTypes 9
 
-wikipedia https://en.wikipedia.org/wiki/Thyroid_cancer
-gco https://gco.iarc.fr/today/data/factsheets/cancers/32-Thyroid-fact-sheet.pdf
-
+uscsId Thyroid
+uscsDeathsPerYear 2000
+uscsCasesPerYear 45272
+uscsMortalityRate 4%
 uscsTable 2019
  sex|age|population|cases|deaths
  F|0|1841226|~|~
@@ -59,3 +58,5 @@ uscsTable 2019
  M|75-79|4317707|754|160
  M|80-84|2678743|368|132
  M|85+|2374207|238|125
+
+wikipedia https://en.wikipedia.org/wiki/Thyroid_cancer

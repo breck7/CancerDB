@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id colorectal-adenocarcinoma
 name Colorectal Adenocarcinoma
 type cancerType
-mainType Colorectal Cancer
+subTypes 5
 tissue Bowel
+mainType Colorectal Cancer
 
 oncoTreeId COADREAD
 parentOncoTreeId BOWEL
 umls C1319315
 nciCode C5105
 oncoTreeLevel 2
-subTypes 5

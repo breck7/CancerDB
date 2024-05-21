@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id hemangiopericytoma-of-the-central-nervous-system
 name Hemangiopericytoma of the Central Nervous System
 type cancerType
-mainType CNS Cancer
+subTypes 0
 tissue CNS/Brain
+mainType CNS Cancer
 
 oncoTreeId HPCCNS
 parentOncoTreeId MNGT
 umls C0349622
 nciCode C4660
 oncoTreeLevel 3
-subTypes 0

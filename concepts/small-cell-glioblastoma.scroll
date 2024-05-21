@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id small-cell-glioblastoma
 name Small Cell Glioblastoma
 type cancerType
-mainType Glioma
+subTypes 0
 tissue CNS/Brain
+mainType Glioma
 
 oncoTreeId SCGBM
 parentOncoTreeId GB
 umls C1272516
 nciCode C125890
 oncoTreeLevel 4
-subTypes 0

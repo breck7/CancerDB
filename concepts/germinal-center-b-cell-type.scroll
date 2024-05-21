@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id germinal-center-b-cell-type
 name Germinal Center B-Cell Type
 type cancerType
-mainType Mature B-Cell Neoplasms
+subTypes 0
 tissue Lymphoid
+mainType Mature B-Cell Neoplasms
 
 oncoTreeId GCB
 parentOncoTreeId DLBCLNOS
 oncoTreeLevel 6
-subTypes 0

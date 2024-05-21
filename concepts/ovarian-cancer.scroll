@@ -1,28 +1,27 @@
 import ../code/conceptPage.scroll
+
 id ovarian-cancer
 name Ovarian Cancer
 type cancerType
-mainType Ovarian/Fallopian Tube Cancer, NOS
-uscsId Ovary
-tissue Ovary/Fallopian Tube
-uscsDeathsPerYear 13426
-uscsCasesPerYear 19561
-uscsMortalityRate 69%
-
-oncoTreeId OVARY
-parentOncoTreeId TISSUE
-umls C0029939
-nciCode C12404
-oncoTreeLevel 1
 subTypes 40
-
-wikipedia https://en.wikipedia.org/wiki/Ovarian_cancer
+tissue Ovary/Fallopian Tube
+mainType Ovarian/Fallopian Tube Cancer, NOS
 cancerDotOrg https://cancer.org/cancer/ovarian-cancer.html
 gco https://gco.iarc.fr/today/data/factsheets/cancers/25-Ovary-fact-sheet.pdf
 reference https://my.clevelandclinic.org/health/diseases/4447-ovarian-cancer
 reference https://medlineplus.gov/ovariancancer.html
 reference https://seer.cancer.gov/statfacts/html/ovary.html
 
+oncoTreeId OVARY
+parentOncoTreeId TISSUE
+umls C0029939
+nciCode C12404
+oncoTreeLevel 1
+
+uscsId Ovary
+uscsDeathsPerYear 13426
+uscsCasesPerYear 19561
+uscsMortalityRate 69%
 uscsTable 2019
  sex|age|population|cases|deaths
  F|0|1841226|~|~
@@ -44,3 +43,5 @@ uscsTable 2019
  F|75-79|5333117|2014|1858
  F|80-84|3636357|1349|1531
  F|85+|4225260|1311|1782
+
+wikipedia https://en.wikipedia.org/wiki/Ovarian_cancer

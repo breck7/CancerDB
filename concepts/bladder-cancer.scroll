@@ -1,29 +1,28 @@
 import ../code/conceptPage.scroll
+
 id bladder-cancer
 name Bladder Cancer
 type cancerType
-mainType Bladder/Urinary Tract Cancer, NOS
-uscsId Urinary Bladder
-tissue Bladder/Urinary Tract
-uscsDeathsPerYear 16757
-uscsCasesPerYear 74949
-uscsMortalityRate 22%
-aka title Bladder/Urinary Tract Cancer
-
-oncoTreeId BLADDER
-parentOncoTreeId TISSUE
-umls C0005682
-nciCode C12414
-oncoTreeLevel 1
 subTypes 17
-
-wikipedia https://en.wikipedia.org/wiki/Bladder_cancer
+tissue Bladder/Urinary Tract
+mainType Bladder/Urinary Tract Cancer, NOS
+aka title Bladder/Urinary Tract Cancer
 cancerDotGov https://www.cancer.gov/types/bladder
 cancerDotOrg https://www.cancer.org/cancer/bladder-cancer.html
 gco https://gco.iarc.fr/today/data/factsheets/cancers/30-Bladder-fact-sheet.pdf
 reference https://www.cdc.gov/cancer/bladder/
 reference https://www.cancer.net/cancer-types/bladder-cancer/introduction
 
+oncoTreeId BLADDER
+parentOncoTreeId TISSUE
+umls C0005682
+nciCode C12414
+oncoTreeLevel 1
+
+uscsId Urinary Bladder
+uscsDeathsPerYear 16757
+uscsCasesPerYear 74949
+uscsMortalityRate 22%
 uscsTable 2019
  sex|age|population|cases|deaths
  F|0|1841226|~|~
@@ -64,3 +63,5 @@ uscsTable 2019
  M|75-79|4317707|10032|1908
  M|80-84|2678743|7426|2004
  M|85+|2374207|7516|3671
+
+wikipedia https://en.wikipedia.org/wiki/Bladder_cancer

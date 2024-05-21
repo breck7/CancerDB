@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id prostate-small-cell-carcinoma
 name Prostate Small Cell Carcinoma
 type cancerType
-mainType Prostate Cancer
+subTypes 0
 tissue Prostate
+mainType Prostate Cancer
 
 oncoTreeId PRSCC
 parentOncoTreeId PROSTATE
 umls C1300585
 nciCode C6766
 oncoTreeLevel 2
-subTypes 0

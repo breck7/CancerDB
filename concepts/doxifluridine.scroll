@@ -1,8 +1,9 @@
 import ../code/conceptPage.scroll
+
 id doxifluridine
 name Doxifluridine
 type chemotherapyDrug
 
-wikipedia https://en.wikipedia.org/wiki/Doxifluridine
-
 pubChem 18343
+
+wikipedia https://en.wikipedia.org/wiki/Doxifluridine

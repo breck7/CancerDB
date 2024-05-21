@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id essential-thrombocythemia
 name Essential Thrombocythemia
 type cancerType
-mainType Myeloproliferative Neoplasms
+subTypes 1
 tissue Myeloid
+mainType Myeloproliferative Neoplasms
 
 oncoTreeId ET
 parentOncoTreeId MPN
 oncoTreeLevel 4
-subTypes 1

@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id pleomorphic-liposarcoma
 name Pleomorphic Liposarcoma
 type cancerType
-mainType Soft Tissue Sarcoma
+subTypes 0
 tissue Soft Tissue
+mainType Soft Tissue Sarcoma
 
 oncoTreeId PLLS
 parentOncoTreeId LIPO
 umls C0205825
 nciCode C3705
 oncoTreeLevel 3
-subTypes 0

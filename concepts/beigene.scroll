@@ -1,10 +1,12 @@
 import ../code/conceptPage.scroll
+
 id beigene
 name BeiGene
 type company
-
 website https://www.beigene.com/
+
 wikipedia https://en.wikipedia.org/wiki/BeiGene
+
 twitter https://twitter.com/beigeneglobal
  followers 4421
 linkedin https://linkedin.com/company/beigene

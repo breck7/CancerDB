@@ -1,11 +1,11 @@
 import ../code/conceptPage.scroll
+
 id rpcc
 name RPCC
 type registry
+website http://rpcc.univalle.edu.co/index.php
 appeared 1962
 standsFor Registro Poblacional De Cancer De Cali
 conceptDescription The Cali Cancer Registry (Registro Poblacional de Cancer de Cali, in Spanish) started in 1962 as a research program of the Department of Pathology of the Universidad del Valle School of Medicine in Cali, Colombia. Currently, Cali Cancer Registry is recognized by the International Agency for Research on Cancer (IARC), an entity of WHO. Cali Cancer Registry uses quality assurance procedures based on IARC guidelines to validate the quality of cancer registration. Due to advances in cancer control and the great strength of Cali Cancer Registry, Cali is the first city in the world to implement the initiative "C/Can 2025: Challenge of Cities Against Cancer;" a project of the Union for International Cancer Control (UICC) that seeks to increase the coverage and quality of oncological care in cities with more than one million inhabitants in low and middle income countries
-
-website http://rpcc.univalle.edu.co/index.php
 
 country Colombia

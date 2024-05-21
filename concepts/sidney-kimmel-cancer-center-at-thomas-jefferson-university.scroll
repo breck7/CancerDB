@@ -1,12 +1,11 @@
 import ../code/conceptPage.scroll
+
 id sidney-kimmel-cancer-center-at-thomas-jefferson-university
 name Sidney Kimmel Cancer Center at Thomas Jefferson University
 type nciCancerCenter
-
 website https://www.jeffersonhealth.org/clinical-specialties/cancer
 
 phoneNumber 1-215-503-5692
-
 country United States
 city Philadelphia, Pennsylvania
 

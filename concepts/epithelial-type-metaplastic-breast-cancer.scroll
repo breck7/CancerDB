@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id epithelial-type-metaplastic-breast-cancer
 name Epithelial Type Metaplastic Breast Cancer
 type cancerType
-mainType Breast Cancer
+subTypes 3
 tissue Breast
+mainType Breast Cancer
 
 oncoTreeId EMBC
 parentOncoTreeId MBC
 oncoTreeLevel 3
-subTypes 3

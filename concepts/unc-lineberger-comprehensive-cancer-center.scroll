@@ -1,19 +1,20 @@
 import ../code/conceptPage.scroll
+
 id unc-lineberger-comprehensive-cancer-center
 name UNC Lineberger Comprehensive Cancer Center
 type nciCancerCenter
-
 website https://unclineberger.org/
+
+phoneNumber 1-866-869-1856
+country United States
+city Chapel Hill, North Carolina
+
 wikipedia https://en.wikipedia.org/wiki/UNC_Lineberger_Comprehensive_Cancer_Center
+
 facebook https://facebook.com/unclineberger
 linkedin https://linkedin.com/company/unc-lineberger-comprehensive-cancer-center
 youTubeChannel https://youtube.com/user/unclineberger
 instagram https://instagram.com/unclineberger
-
-phoneNumber 1-866-869-1856
-
-country United States
-city Chapel Hill, North Carolina
 
 nciDesignation Comprehensive Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/unclineberger

@@ -1,22 +1,23 @@
 import ../code/conceptPage.scroll
+
 id st-jude-childrens-research-hospital
 name St. Jude Children's Research Hospital
 type nciCancerCenter
+website https://www.stjude.org/
 appeared 1962
 
-website https://www.stjude.org/
+phoneNumber 1-800-822-6344
+country United States
+city Memphis, Tennessee
+
 wikipedia https://en.wikipedia.org/wiki/St._Jude_Children%27s_Research_Hospital
+
 twitter https://twitter.com/StJude
  followers 431100
 facebook https://facebook.com/stjude
  followers 2700000
 instagram https://instagram.com/stjude
  followers 552000
-
-phoneNumber 1-800-822-6344
-
-country United States
-city Memphis, Tennessee
 
 nciDesignation Comprehensive Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/stjude

@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id esophageal-poorly-differentiated-carcinoma
 name Esophageal Poorly Differentiated Carcinoma
 type cancerType
-mainType Esophagogastric Cancer
+subTypes 0
 tissue Esophagus/Stomach
+mainType Esophagogastric Cancer
 
 oncoTreeId EPDCA
 parentOncoTreeId STOMACH
 oncoTreeLevel 2
-subTypes 0

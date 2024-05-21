@@ -1,12 +1,13 @@
 import ../code/conceptPage.scroll
+
 id proliferating-pilar-cystic-tumor
 name Proliferating Pilar Cystic Tumor
 type cancerType
-mainType Skin Cancer, Non-Melanoma
+subTypes 0
 tissue Skin
+mainType Skin Cancer, Non-Melanoma
 
 oncoTreeId PPCT
 parentOncoTreeId SKIN
 umls C0345992
 oncoTreeLevel 2
-subTypes 0

@@ -1,24 +1,23 @@
 import ../code/conceptPage.scroll
+
 id cervix
 name Cervical Cancer
 type cancerType
-mainType Cervical Cancer, NOS
-uscsId Cervix
+subTypes 23
 tissue Cervix
-uscsDeathsPerYear 4144
-uscsCasesPerYear 12790
-uscsMortalityRate 32%
+mainType Cervical Cancer, NOS
+cancerDotOrg https://www.cancer.org/cancer/cervical-cancer.html
 
 oncoTreeId CERVIX
 parentOncoTreeId TISSUE
 umls C0007874
 nciCode C12311
 oncoTreeLevel 1
-subTypes 23
 
-wikipedia https://en.wikipedia.org/wiki/Cervical_cancer
-cancerDotOrg https://www.cancer.org/cancer/cervical-cancer.html
-
+uscsId Cervix
+uscsDeathsPerYear 4144
+uscsCasesPerYear 12790
+uscsMortalityRate 32%
 uscsTable 2019
  sex|age|population|cases|deaths
  F|0|1841226|~|~
@@ -40,3 +39,5 @@ uscsTable 2019
  F|75-79|5333117|476|281
  F|80-84|3636357|286|187
  F|85+|4225260|313|251
+
+wikipedia https://en.wikipedia.org/wiki/Cervical_cancer

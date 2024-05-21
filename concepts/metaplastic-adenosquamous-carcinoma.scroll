@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id metaplastic-adenosquamous-carcinoma
 name Metaplastic Adenosquamous Carcinoma
 type cancerType
-mainType Breast Cancer
+subTypes 0
 tissue Breast
+mainType Breast Cancer
 
 oncoTreeId MASC
 parentOncoTreeId EMBC
 umls C1510796
 nciCode C40361
 oncoTreeLevel 4
-subTypes 0

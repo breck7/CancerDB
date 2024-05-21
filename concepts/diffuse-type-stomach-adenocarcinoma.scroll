@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id diffuse-type-stomach-adenocarcinoma
 name Diffuse Type Stomach Adenocarcinoma
 type cancerType
-mainType Esophagogastric Cancer
+subTypes 0
 tissue Esophagus/Stomach
+mainType Esophagogastric Cancer
 
 oncoTreeId DSTAD
 parentOncoTreeId STAD
 umls C0279635
 nciCode C9159
 oncoTreeLevel 4
-subTypes 0

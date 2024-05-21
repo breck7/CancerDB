@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id thymic-carcinoma
 name Thymic Carcinoma
 type cancerType
-mainType Thymic Tumor
+subTypes 0
 tissue Thymus
+mainType Thymic Tumor
 
 oncoTreeId THYC
 parentOncoTreeId TET
 umls C0205969
 nciCode C7569
 oncoTreeLevel 3
-subTypes 0

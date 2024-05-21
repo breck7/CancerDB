@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id yolk-sac-tumor
 name Yolk Sac Tumor
 type cancerType
-mainType Germ Cell Tumor
+subTypes 0
 tissue Ovary/Fallopian Tube
+mainType Germ Cell Tumor
 
 oncoTreeId OYST
 parentOncoTreeId OGCT
 umls C0346188
 nciCode C8107
 oncoTreeLevel 3
-subTypes 0

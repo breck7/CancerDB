@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id endocervical-adenocarcinoma
 name Endocervical Adenocarcinoma
 type cancerType
-mainType Cervical Cancer
+subTypes 0
 tissue Cervix
+mainType Cervical Cancer
 
 oncoTreeId ECAD
 parentOncoTreeId CEAD
 umls C1299237
 nciCode C28327
 oncoTreeLevel 3
-subTypes 0

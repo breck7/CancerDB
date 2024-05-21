@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id signet-ring-cell-type-of-the-appendix
 name Signet Ring Cell Type of the Appendix
 type cancerType
-mainType Appendiceal Cancer
+subTypes 0
 tissue Bowel
+mainType Appendiceal Cancer
 
 oncoTreeId SRAP
 parentOncoTreeId APAD
 umls C1711320
 nciCode C43554
 oncoTreeLevel 3
-subTypes 0

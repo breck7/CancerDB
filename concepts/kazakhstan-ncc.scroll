@@ -1,8 +1,8 @@
 import ../code/conceptPage.scroll
+
 id kazakhstan-ncc
 name Institute of Oncology and Radiology of Kazakhstan
 type nationalCancerInstitute
-
 website http://www.onco.kz/en/
 
 country Kazakhstan

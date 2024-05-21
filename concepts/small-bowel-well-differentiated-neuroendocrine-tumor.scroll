@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id small-bowel-well-differentiated-neuroendocrine-tumor
 name Small Bowel Well-Differentiated Neuroendocrine Tumor
 type cancerType
-mainType Gastrointestinal Neuroendocrine Tumor
+subTypes 0
 tissue Bowel
+mainType Gastrointestinal Neuroendocrine Tumor
 
 oncoTreeId SBWDNET
 parentOncoTreeId GINET
 umls C1332564
 nciCode C9461
 oncoTreeLevel 3
-subTypes 0

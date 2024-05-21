@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id desmoplastic-trichoepithelioma
 name Desmoplastic Trichoepithelioma
 type cancerType
-mainType Skin Cancer, Non-Melanoma
+subTypes 0
 tissue Skin
+mainType Skin Cancer, Non-Melanoma
 
 oncoTreeId DTE
 parentOncoTreeId SKIN
 umls C0432526
 nciCode C27524
 oncoTreeLevel 2
-subTypes 0

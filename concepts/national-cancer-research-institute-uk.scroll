@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id national-cancer-research-institute-uk
 name National Cancer Research Institute UK
 type nationalCancerInstitute
-
 website https://www.ncri.org.uk/
-linkedin https://linkedin.com/company/ncri
 
 country United Kingdom
+
+linkedin https://linkedin.com/company/ncri
 
 domainName ncri.org.uk

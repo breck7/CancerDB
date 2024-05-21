@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id parathyroid-cancer
 name Parathyroid Cancer
 type cancerType
-mainType Parathyroid Cancer
+subTypes 1
 tissue Head and Neck
+mainType Parathyroid Cancer
 
 oncoTreeId PTH
 parentOncoTreeId HEAD_NECK
 oncoTreeLevel 2
-subTypes 1

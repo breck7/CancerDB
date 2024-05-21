@@ -1,11 +1,11 @@
 import ../code/conceptPage.scroll
+
 id scr-dz
 name SCR
 type registry
 appeared 1986
 standsFor Sétif Cancer Registry
 conceptDescription The population-based Cancer Registry of Setif,Wilaya, Algeria, has been recording cancer incidence, mortality, and survival since 1986. These data can test etiological hypotheses by means of epidemiological studies, in addition to being a source of information for cancer planning and corresponding surveillance. Data are recorded by means of CanReg 5. This software is a specific tool for cancer registration, which is standardized to capture, control, and process data. CanReg 5 has been developed by the International Agency for Research on Cancer (IARC) of Lyon.
-
 reference https://bmccancer.biomedcentral.com/articles/10.1186/1471-2407-14-637
 reference https://moh-it.elsevierpure.com/en/publications/cancer-in-setif-algeria-1986-2010
 

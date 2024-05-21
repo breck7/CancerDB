@@ -1,23 +1,23 @@
 import ../code/conceptPage.scroll
+
 id brain
 name Brain Cancer
 type cancerType
-mainType CNS/Brain Cancer, NOS
-uscsId Brain and Other Nervous System
+subTypes 104
 tissue CNS/Brain
-uscsDeathsPerYear 17215
-uscsCasesPerYear 22538
-uscsMortalityRate 76%
+mainType CNS/Brain Cancer, NOS
+gco https://gco.iarc.fr/today/data/factsheets/cancers/31-Brain-central-nervous-system-fact-sheet.pdf
 
 oncoTreeId BRAIN
 parentOncoTreeId TISSUE
 umls C3714787
 nciCode C12438
 oncoTreeLevel 1
-subTypes 104
 
-gco https://gco.iarc.fr/today/data/factsheets/cancers/31-Brain-central-nervous-system-fact-sheet.pdf
-
+uscsId Brain and Other Nervous System
+uscsDeathsPerYear 17215
+uscsCasesPerYear 22538
+uscsMortalityRate 76%
 uscsTable 2019
  sex|age|population|cases|deaths
  F|0|1841226|56|~

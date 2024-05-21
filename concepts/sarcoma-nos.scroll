@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id sarcoma-nos
 name Sarcoma, NOS
 type cancerType
-mainType Soft Tissue Sarcoma
+subTypes 0
 tissue Soft Tissue
+mainType Soft Tissue Sarcoma
 
 oncoTreeId SARCNOS
 parentOncoTreeId SOFT_TISSUE
 oncoTreeLevel 2
-subTypes 0

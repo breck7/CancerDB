@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id streptozotocin
 name Streptozotocin
 type chemotherapyDrug alkylatingAgent
 tradenames Zanosar
-
-wikipedia https://en.wikipedia.org/wiki/Streptozotocin
-
 routesOfAdministration intravenous
+
 kegg C07313
 drugBank DB00428
 medlinePlus a684053
 pubChem 29327
+
+wikipedia https://en.wikipedia.org/wiki/Streptozotocin

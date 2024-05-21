@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id acute-basophilic-leukemia
 name Acute Basophilic Leukemia
 type cancerType
-mainType Leukemia
+subTypes 0
 tissue Myeloid
+mainType Leukemia
 
 oncoTreeId ABL
 parentOncoTreeId AMLNOS
 oncoTreeLevel 5
-subTypes 0

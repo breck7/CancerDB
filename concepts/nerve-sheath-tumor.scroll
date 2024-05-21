@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id nerve-sheath-tumor
 name Nerve Sheath Tumor
 type cancerType
-mainType Nerve Sheath Tumor
+subTypes 5
 tissue Peripheral Nervous System
+mainType Nerve Sheath Tumor
 
 oncoTreeId NST
 parentOncoTreeId PNS
 umls C0206727
 nciCode C4972
 oncoTreeLevel 2
-subTypes 5

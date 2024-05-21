@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id uterine-neuroendocrine-carcinoma
 name Uterine Neuroendocrine Carcinoma
 type cancerType
-mainType Endometrial Cancer
+subTypes 0
 tissue Uterus
+mainType Endometrial Cancer
 
 oncoTreeId UNEC
 parentOncoTreeId UCEC
 oncoTreeLevel 3
-subTypes 0

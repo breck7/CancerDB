@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id uterine-endometrioid-carcinoma
 name Uterine Endometrioid Carcinoma
 type cancerType
-mainType Endometrial Cancer
+subTypes 0
 tissue Uterus
+mainType Endometrial Cancer
 
 oncoTreeId UEC
 parentOncoTreeId UCEC
 umls C1336905
 nciCode C6287
 oncoTreeLevel 3
-subTypes 0

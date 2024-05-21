@@ -1,12 +1,11 @@
 import ../code/conceptPage.scroll
+
 id salk-institute-cancer-center
 name Salk Institute Cancer Center
 type nciCancerCenter
-
 website https://www.salk.edu/science/research-centers/salk-cancer-center/
 
 phoneNumber 1-858-453-4100
-
 country United States
 city La Jolla, California
 

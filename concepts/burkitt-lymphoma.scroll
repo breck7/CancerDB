@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id burkitt-lymphoma
 name Burkitt Lymphoma
 type cancerType
-mainType Mature B-Cell Neoplasms
+subTypes 0
 tissue Lymphoid
+mainType Mature B-Cell Neoplasms
 
 oncoTreeId BL
 parentOncoTreeId MBN
 umls C0006413
 nciCode C2912
 oncoTreeLevel 5
-subTypes 0

@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id chronic-neutrophilic-leukemia
 name Chronic Neutrophilic Leukemia
 type cancerType
-mainType Myeloproliferative Neoplasms
+subTypes 0
 tissue Myeloid
+mainType Myeloproliferative Neoplasms
 
 oncoTreeId CNL
 parentOncoTreeId MPN
 oncoTreeLevel 4
-subTypes 0

@@ -1,15 +1,15 @@
 import ../code/conceptPage.scroll
+
 id knight-cancer-institute
 name Knight Cancer Institute
 type nciCancerCenter
-
 website https://www.ohsu.edu/knight-cancer-institute
-wikipedia https://en.wikipedia.org/wiki/Knight_Cancer_Institute
 
 phoneNumber 1-503-494-1617
-
 country United States
 city Portland, Oregon
+
+wikipedia https://en.wikipedia.org/wiki/Knight_Cancer_Institute
 
 nciDesignation Comprehensive Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/ohsuknight

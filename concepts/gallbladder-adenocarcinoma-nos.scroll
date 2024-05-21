@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id gallbladder-adenocarcinoma-nos
 name Gallbladder Adenocarcinoma, NOS
 type cancerType
-mainType Hepatobiliary Cancer
+subTypes 0
 tissue Biliary Tract
+mainType Hepatobiliary Cancer
 
 oncoTreeId GBAD
 parentOncoTreeId GBC
 oncoTreeLevel 3
-subTypes 0

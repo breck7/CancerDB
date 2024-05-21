@@ -1,10 +1,16 @@
 import ../code/conceptPage.scroll
+
 id david-h-koch-institute-for-integrative-cancer-research-at-mit
 name David H. Koch Institute for Integrative Cancer Research at MIT
 type nciCancerCenter
-
 website https://ki.mit.edu/
+
+phoneNumber 1-617-253-6403
+country United States
+city Cambridge, Massachusetts
+
 wikipedia https://en.wikipedia.org/wiki/Koch_Institute_for_Integrative_Cancer_Research
+
 twitter https://twitter.com/kochinstitute
  followers 27900
 facebook https://www.facebook.com/kochinstitute/
@@ -13,11 +19,6 @@ linkedin https://www.linkedin.com/company/mit-koch-institute-for-integrative-can
  followers 4132
 instagram https://www.instagram.com/kochinstitutemit/
  followers 1926
-
-phoneNumber 1-617-253-6403
-
-country United States
-city Cambridge, Massachusetts
 
 nciDesignation Basic Laboratory Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/mitkoch

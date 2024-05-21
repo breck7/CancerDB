@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id lung-adenocarcinoma
 name Lung Adenocarcinoma
 type cancerType
-mainType Non-Small Cell Lung Cancer
+subTypes 0
 tissue Lung
+mainType Non-Small Cell Lung Cancer
 
 oncoTreeId LUAD
 parentOncoTreeId NSCLC
 umls C0152013
 nciCode C3512
 oncoTreeLevel 3
-subTypes 0

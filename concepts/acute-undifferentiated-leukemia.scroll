@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id acute-undifferentiated-leukemia
 name Acute Undifferentiated Leukemia
 type cancerType
-mainType Leukemia
+subTypes 0
 tissue Myeloid
+mainType Leukemia
 
 oncoTreeId AUL
 parentOncoTreeId ALAL
 oncoTreeLevel 4
-subTypes 0

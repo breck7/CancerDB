@@ -1,4 +1,5 @@
 import ../code/conceptPage.scroll
+
 id fecal-immunochemical-test
 name Fecal immunochemical test
 type diagnosticTest

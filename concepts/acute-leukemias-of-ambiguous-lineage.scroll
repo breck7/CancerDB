@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id acute-leukemias-of-ambiguous-lineage
 name Acute Leukemias of Ambiguous Lineage
 type cancerType
-mainType Leukemia
+subTypes 5
 tissue Myeloid
+mainType Leukemia
 
 oncoTreeId ALAL
 parentOncoTreeId MNM
 oncoTreeLevel 3
-subTypes 5

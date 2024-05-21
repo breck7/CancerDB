@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id desmoid-aggressive-fibromatosis
 name Desmoid/Aggressive Fibromatosis
 type cancerType
-mainType Soft Tissue Sarcoma
+subTypes 0
 tissue Soft Tissue
+mainType Soft Tissue Sarcoma
 
 oncoTreeId DES
 parentOncoTreeId SOFT_TISSUE
 umls C0079218
 nciCode C9182
 oncoTreeLevel 2
-subTypes 0

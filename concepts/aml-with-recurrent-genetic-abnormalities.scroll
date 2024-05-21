@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id aml-with-recurrent-genetic-abnormalities
 name AML with Recurrent Genetic Abnormalities
 type cancerType
-mainType Leukemia
+subTypes 11
 tissue Myeloid
+mainType Leukemia
 
 oncoTreeId AMLRGA
 parentOncoTreeId AML
 oncoTreeLevel 4
-subTypes 11

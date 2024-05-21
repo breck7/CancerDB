@@ -1,27 +1,25 @@
 import ../code/conceptPage.scroll
+
 id liver
 name Liver Cancer
 type cancerType
-mainType Liver Cancer, NOS
-uscsId Liver and Intrahepatic Bile Duct
+subTypes 9
 tissue Liver
-uscsDeathsPerYear 27882
-uscsCasesPerYear 35443
-uscsMortalityRate 79%
+mainType Liver Cancer, NOS
+gco https://gco.iarc.fr/today/data/factsheets/cancers/11-Liver-fact-sheet.pdf
+annualDeathsReport US https://www.cdc.gov/cancer/dcpc/research/update-on-cancer-deaths/index.htm
+ 2020 28227
 
 oncoTreeId LIVER
 parentOncoTreeId TISSUE
 umls C0023884
 nciCode C12392
 oncoTreeLevel 1
-subTypes 9
 
-wikipedia https://en.wikipedia.org/wiki/Liver_cancer
-gco https://gco.iarc.fr/today/data/factsheets/cancers/11-Liver-fact-sheet.pdf
-
-annualDeathsReport US https://www.cdc.gov/cancer/dcpc/research/update-on-cancer-deaths/index.htm
- 2020 28227
-
+uscsId Liver and Intrahepatic Bile Duct
+uscsDeathsPerYear 27882
+uscsCasesPerYear 35443
+uscsMortalityRate 79%
 uscsTable 2019
  sex|age|population|cases|deaths
  F|0|1841226|34|~
@@ -62,3 +60,5 @@ uscsTable 2019
  M|75-79|4317707|2508|2133
  M|80-84|2678743|1606|1562
  M|85+|2374207|1217|1485
+
+wikipedia https://en.wikipedia.org/wiki/Liver_cancer

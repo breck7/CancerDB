@@ -1,7 +1,7 @@
 import ../code/conceptPage.scroll
+
 id oncotree
 name OncoTree
 type onlineDatabase
 parentOrganization memorial-sloan-kettering-cancer-center
-
 githubRepo https://github.com/cBioPortal/oncotree

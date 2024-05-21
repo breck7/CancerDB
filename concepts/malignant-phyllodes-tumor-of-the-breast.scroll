@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id malignant-phyllodes-tumor-of-the-breast
 name Malignant Phyllodes Tumor of the Breast
 type cancerType
-mainType Breast Sarcoma
+subTypes 0
 tissue Breast
+mainType Breast Sarcoma
 
 oncoTreeId MPT
 parentOncoTreeId PT
 umls C0346154
 nciCode C4504
 oncoTreeLevel 4
-subTypes 0

@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id alitretinoin
 name Alitretinoin
 type chemotherapyDrug
 tradenames Panretin (gel) && Toctino (oral)
-
-wikipedia https://en.wikipedia.org/wiki/Alitretinoin
-
 routesOfAdministration topical oral
+
 kegg D02815
 drugBank DB00523
 medlinePlus a601012
 pubChem 449171
+
+wikipedia https://en.wikipedia.org/wiki/Alitretinoin

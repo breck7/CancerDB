@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id perihilar-cholangiocarcinoma
 name Perihilar Cholangiocarcinoma
 type cancerType
-mainType Hepatobiliary Cancer
+subTypes 0
 tissue Biliary Tract
+mainType Hepatobiliary Cancer
 
 oncoTreeId PHCH
 parentOncoTreeId CHOL
 umls C3273047
 nciCode C96804
 oncoTreeLevel 3
-subTypes 0

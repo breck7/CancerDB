@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id mucinous-adenocarcinoma-of-the-colon-and-rectum
 name Mucinous Adenocarcinoma of the Colon and Rectum
 type cancerType
-mainType Colorectal Cancer
+subTypes 0
 tissue Bowel
+mainType Colorectal Cancer
 
 oncoTreeId MACR
 parentOncoTreeId COADREAD
 umls C1707439
 nciCode C43585
 oncoTreeLevel 3
-subTypes 0

@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id small-bowel-cancer
 name Small Bowel Cancer
 type cancerType
-mainType Small Bowel Cancer
+subTypes 1
 tissue Bowel
+mainType Small Bowel Cancer
 
 oncoTreeId SBC
 parentOncoTreeId BOWEL
 umls C0238196
 nciCode C7724
 oncoTreeLevel 2
-subTypes 1

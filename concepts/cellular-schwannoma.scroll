@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id cellular-schwannoma
 name Cellular Schwannoma
 type cancerType
-mainType Nerve Sheath Tumor
+subTypes 0
 tissue Peripheral Nervous System
+mainType Nerve Sheath Tumor
 
 oncoTreeId CSCHW
 parentOncoTreeId SCHW
 umls C0431124
 nciCode C4724
 oncoTreeLevel 4
-subTypes 0

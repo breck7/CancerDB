@@ -1,15 +1,15 @@
 import ../code/conceptPage.scroll
+
 id university-of-michigan-rogel-cancer-center
 name University of Michigan Rogel Cancer Center
 type nciCancerCenter
-
 website https://www.rogelcancercenter.org/
-wikipedia https://en.wikipedia.org/wiki/University_of_Michigan_Rogel_Cancer_Center
 
 phoneNumber 1-800-865-1125
-
 country United States
 city Ann Arbor, Michigan
+
+wikipedia https://en.wikipedia.org/wiki/University_of_Michigan_Rogel_Cancer_Center
 
 nciDesignation Comprehensive Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/umichiganccc

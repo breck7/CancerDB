@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id brenner-tumor-malignant
 name Brenner Tumor, Malignant
 type cancerType
-mainType Ovarian Cancer
+subTypes 0
 tissue Ovary/Fallopian Tube
+mainType Ovarian Cancer
 
 oncoTreeId BTMOV
 parentOncoTreeId BTOV
 oncoTreeLevel 4
-subTypes 0

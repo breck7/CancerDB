@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id breast-invasive-carcinoma-nos
 name Breast Invasive Carcinoma, NOS
 type cancerType
-mainType Breast Cancer
+subTypes 0
 tissue Breast
+mainType Breast Cancer
 
 oncoTreeId BRCNOS
 parentOncoTreeId BRCA
 oncoTreeLevel 3
-subTypes 0

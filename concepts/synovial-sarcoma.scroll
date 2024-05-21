@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id synovial-sarcoma
 name Synovial Sarcoma
 type cancerType
-mainType Soft Tissue Sarcoma
+subTypes 0
 tissue Soft Tissue
+mainType Soft Tissue Sarcoma
 
 oncoTreeId SYNS
 parentOncoTreeId SOFT_TISSUE
 umls C0039101
 nciCode C3400
 oncoTreeLevel 2
-subTypes 0

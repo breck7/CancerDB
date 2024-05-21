@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id metaplastic-adenocarcinoma-with-spindle-cell-differentiation
 name Metaplastic Adenocarcinoma with Spindle Cell Differentiation
 type cancerType
-mainType Breast Cancer
+subTypes 0
 tissue Breast
+mainType Breast Cancer
 
 oncoTreeId MASCC
 parentOncoTreeId EMBC
 umls C1519487
 nciCode C40358
 oncoTreeLevel 4
-subTypes 0

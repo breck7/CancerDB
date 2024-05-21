@@ -1,9 +1,10 @@
 import ../code/conceptPage.scroll
+
 id abbott
 name Abbott Laboratories
 type publicCompany
-
 website https://www.abbott.com/
+
 wikipedia https://en.wikipedia.org/wiki/Abbott_Laboratories
 
 nyse https://www.nyse.com/quote/XNYS:ABT

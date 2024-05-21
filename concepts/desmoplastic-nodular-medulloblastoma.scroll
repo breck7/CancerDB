@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id desmoplastic-nodular-medulloblastoma
 name Desmoplastic/Nodular Medulloblastoma
 type cancerType
-mainType Embryonal Tumor
+subTypes 0
 tissue CNS/Brain
+mainType Embryonal Tumor
 
 oncoTreeId DMBL
 parentOncoTreeId EMBT
 umls C0751291
 nciCode C4956
 oncoTreeLevel 3
-subTypes 0

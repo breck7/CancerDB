@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id chronic-lymphocytic-leukemia-small-lymphocytic-lymphoma
 name Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
 type cancerType
-mainType Mature B-Cell Neoplasms
+subTypes 0
 tissue Lymphoid
+mainType Mature B-Cell Neoplasms
 
 oncoTreeId CLLSLL
 parentOncoTreeId MBN
 umls C0855095
 nciCode C7540
 oncoTreeLevel 5
-subTypes 0

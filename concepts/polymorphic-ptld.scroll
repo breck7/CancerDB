@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id polymorphic-ptld
 name Polymorphic PTLD
 type cancerType
-mainType Posttransplant Lymphoproliferative Disorders
+subTypes 0
 tissue Lymphoid
+mainType Posttransplant Lymphoproliferative Disorders
 
 oncoTreeId PPTLD
 parentOncoTreeId PTLD
 oncoTreeLevel 4
-subTypes 0

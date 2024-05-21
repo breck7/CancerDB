@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id inflammatory-breast-cancer
 name Inflammatory Breast Cancer
 type cancerType
-mainType Breast Cancer
+subTypes 0
 tissue Breast
+mainType Breast Cancer
 
 oncoTreeId IBC
 parentOncoTreeId BREAST
 umls C0278601
 nciCode C4001
 oncoTreeLevel 2
-subTypes 0

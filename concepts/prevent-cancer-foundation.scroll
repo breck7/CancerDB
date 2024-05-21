@@ -1,19 +1,21 @@
 import ../code/conceptPage.scroll
+
 id prevent-cancer-foundation
 name Prevent Cancer Foundation
 type cancerNonProfit
+website https://www.preventcancer.org/
 appeared 1985
 
-website https://www.preventcancer.org/
+country United States
+city Alexandria, VA
+
 wikipedia https://en.wikipedia.org/wiki/Prevent_Cancer_Foundation
+
 twitter https://twitter.com/preventcancer
  followers 16600
 facebook https://facebook.com/preventcancer
 linkedin https://linkedin.com/company/prevent-cancer-foundation
 instagram https://instagram.com/preventcancer
-
-country United States
-city Alexandria, VA
 
 domainName preventcancer.org
  registered 1996

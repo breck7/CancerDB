@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id mature-teratoma-vulva-vagina
 name Mature Teratoma Vulva/Vagina
 type cancerType
-mainType Germ Cell Tumor
+subTypes 0
 tissue Vulva/Vagina
+mainType Germ Cell Tumor
 
 oncoTreeId VMT
 parentOncoTreeId VGCT
 umls C1368910
 nciCode C9015
 oncoTreeLevel 3
-subTypes 0

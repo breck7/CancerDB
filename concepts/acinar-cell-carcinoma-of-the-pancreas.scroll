@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id acinar-cell-carcinoma-of-the-pancreas
 name Acinar Cell Carcinoma of the Pancreas
 type cancerType
-mainType Pancreatic Cancer
+subTypes 0
 tissue Pancreas
+mainType Pancreatic Cancer
 
 oncoTreeId PAAC
 parentOncoTreeId PANCREAS
 umls C0279661
 nciCode C7977
 oncoTreeLevel 2
-subTypes 0

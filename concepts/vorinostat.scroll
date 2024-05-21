@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id vorinostat
 name Vorinostat
 type chemotherapyDrug
 tradenames Zolinza
-
-wikipedia https://en.wikipedia.org/wiki/Vorinostat
-
 routesOfAdministration oral
+
 kegg D06320
 drugBank DB02546
 medlinePlus a607050
 pubChem 5311
+
+wikipedia https://en.wikipedia.org/wiki/Vorinostat

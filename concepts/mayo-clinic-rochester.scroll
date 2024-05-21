@@ -1,12 +1,11 @@
 import ../code/conceptPage.scroll
+
 id mayo-clinic-rochester
 name Mayo Clinic Rochester
 type nciCancerCenter
-
 website https://www.mayoclinic.org/patient-visitor-guide/minnesota
 
 phoneNumber 1-507-284-2511
-
 country United States
 city Rochester, Minnesota
 

@@ -1,12 +1,11 @@
 import ../code/conceptPage.scroll
+
 id fred-hutchinson-university-of-washington-cancer-consortium
 name Fred Hutchinson/University of Washington Cancer Consortium
 type nciCancerCenter
-
 website https://www.cancerconsortium.org/
 
 phoneNumber 1-206-606-7222
-
 country United States
 city Seattle, Washington
 

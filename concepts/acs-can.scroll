@@ -1,15 +1,16 @@
 import ../code/conceptPage.scroll
+
 id acs-can
 name American Cancer Society Cancer Action Network
 type cancerNonProfit
+website https://www.fightcancer.org/
 appeared 2001
 parentOrganization american-cancer-society
 
-website https://www.fightcancer.org/
-wikipedia https://en.wikipedia.org/wiki/American_Cancer_Society_Cancer_Action_Network
-
 country United States
 city Washington D.C.
+
+wikipedia https://en.wikipedia.org/wiki/American_Cancer_Society_Cancer_Action_Network
 
 domainName fightcancer.org
  registered 2002

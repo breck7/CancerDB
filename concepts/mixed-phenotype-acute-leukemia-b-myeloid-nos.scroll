@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id mixed-phenotype-acute-leukemia-b-myeloid-nos
 name Mixed Phenotype Acute Leukemia, B/Myeloid, NOS
 type cancerType
-mainType Leukemia
+subTypes 0
 tissue Myeloid
+mainType Leukemia
 
 oncoTreeId MPALBNOS
 parentOncoTreeId ALAL
 oncoTreeLevel 4
-subTypes 0

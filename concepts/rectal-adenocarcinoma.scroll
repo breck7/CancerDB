@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id rectal-adenocarcinoma
 name Rectal Adenocarcinoma
 type cancerType
-mainType Colorectal Cancer
+subTypes 0
 tissue Bowel
+mainType Colorectal Cancer
 
 oncoTreeId READ
 parentOncoTreeId COADREAD
 umls C0149978
 nciCode C9383
 oncoTreeLevel 3
-subTypes 0

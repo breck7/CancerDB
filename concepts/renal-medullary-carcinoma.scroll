@@ -1,12 +1,13 @@
 import ../code/conceptPage.scroll
+
 id renal-medullary-carcinoma
 name Renal Medullary Carcinoma
 type cancerType
-mainType Renal Cell Carcinoma
+subTypes 0
 tissue Kidney
+mainType Renal Cell Carcinoma
 
 oncoTreeId MRC
 parentOncoTreeId NCCRCC
 umls CL448379
 oncoTreeLevel 4
-subTypes 0

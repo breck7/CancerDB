@@ -1,12 +1,13 @@
 import ../code/conceptPage.scroll
+
 id high-grade-serous-ovarian-cancer
 name High-Grade Serous Ovarian Cancer
 type cancerType
-mainType Ovarian Cancer
+subTypes 0
 tissue Ovary/Fallopian Tube
+mainType Ovarian Cancer
 
 oncoTreeId HGSOC
 parentOncoTreeId SOC
 umls CL446431
 oncoTreeLevel 4
-subTypes 0

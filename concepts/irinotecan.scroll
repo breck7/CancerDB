@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id irinotecan
 name Irinotecan
 type chemotherapyDrug
 tradenames Camptosar && Campto && Onivyde
-
-wikipedia https://en.wikipedia.org/wiki/Irinotecan
-
 routesOfAdministration intravenous
+
 kegg D08086
 drugBank DB00762
 medlinePlus a608043
 pubChem 60838
+
+wikipedia https://en.wikipedia.org/wiki/Irinotecan

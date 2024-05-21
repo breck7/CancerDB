@@ -1,12 +1,13 @@
 import ../code/conceptPage.scroll
+
 id rush-university-medical-center
 name Rush University Medical Center
 type hospital
-
 website https://www.rush.edu/
-wikipedia https://en.wikipedia.org/wiki/Rush_University_Medical_Center
 
 city Chicago, IL
+
+wikipedia https://en.wikipedia.org/wiki/Rush_University_Medical_Center
 
 usNewsRank 31
 

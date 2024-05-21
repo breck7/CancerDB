@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id poorly-differentiated-carcinoma-of-the-uterus
 name Poorly Differentiated Carcinoma of the Uterus
 type cancerType
-mainType Endometrial Cancer
+subTypes 0
 tissue Uterus
+mainType Endometrial Cancer
 
 oncoTreeId UPDC
 parentOncoTreeId UCEC
 oncoTreeLevel 3
-subTypes 0

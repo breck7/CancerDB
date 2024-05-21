@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id peripheral-nervous-system
 name Peripheral Nervous System
 type cancerType
-mainType Peripheral Nervous System Cancer, NOS
+subTypes 9
 tissue Peripheral Nervous System
+mainType Peripheral Nervous System Cancer, NOS
 
 oncoTreeId PNS
 parentOncoTreeId TISSUE
 umls C0206417
 nciCode C12465
 oncoTreeLevel 1
-subTypes 9

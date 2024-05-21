@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id esophageal-adenocarcinoma
 name Esophageal Adenocarcinoma
 type cancerType
-mainType Esophagogastric Cancer
+subTypes 0
 tissue Esophagus/Stomach
+mainType Esophagogastric Cancer
 
 oncoTreeId ESCA
 parentOncoTreeId EGC
 umls C0279628
 nciCode C4025
 oncoTreeLevel 3
-subTypes 0

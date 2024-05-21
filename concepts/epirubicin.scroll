@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id epirubicin
 name Epirubicin
 type chemotherapyDrug anthracycline
 tradenames Ellence
-
-wikipedia https://en.wikipedia.org/wiki/Epirubicin
-
 routesOfAdministration intravenous
+
 kegg D07901
 drugBank DB00445
 medlinePlus a603003
 pubChem 41867
+
+wikipedia https://en.wikipedia.org/wiki/Epirubicin

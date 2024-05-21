@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id parosteal-osteosarcoma
 name Parosteal Osteosarcoma
 type cancerType
-mainType Bone Cancer
+subTypes 0
 tissue Bone
+mainType Bone Cancer
 
 oncoTreeId PAOS
 parentOncoTreeId OS
 umls C0206642
 nciCode C8969
 oncoTreeLevel 3
-subTypes 0

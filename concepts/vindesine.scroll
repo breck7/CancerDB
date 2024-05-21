@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id vindesine
 name Vindesine
 type chemotherapyDrug
-
-wikipedia https://en.wikipedia.org/wiki/Vindesine
-
 routesOfAdministration intravenous
+
 kegg D01769
 drugBank DB00309
 pubChem 40839
+
+wikipedia https://en.wikipedia.org/wiki/Vindesine

@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id myofibromatosis
 name Myofibromatosis
 type cancerType
-mainType Myofibromatosis
+subTypes 0
 tissue Soft Tissue
+mainType Myofibromatosis
 
 oncoTreeId IMS
 parentOncoTreeId SOFT_TISSUE
 oncoTreeLevel 2
-subTypes 0

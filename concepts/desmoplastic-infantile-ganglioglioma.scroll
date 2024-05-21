@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id desmoplastic-infantile-ganglioglioma
 name Desmoplastic Infantile Ganglioglioma
 type cancerType
-mainType Miscellaneous Neuroepithelial Tumor
+subTypes 0
 tissue CNS/Brain
+mainType Miscellaneous Neuroepithelial Tumor
 
 oncoTreeId DIG
 parentOncoTreeId MNET
 umls C1321878
 nciCode C4738
 oncoTreeLevel 3
-subTypes 0

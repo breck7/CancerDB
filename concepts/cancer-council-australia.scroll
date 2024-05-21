@@ -1,13 +1,15 @@
 import ../code/conceptPage.scroll
+
 id cancer-council-australia
 name Cancer Council Australia
 type cancerNonProfit governmentFundedNonProfit
+website https://www.cancer.org.au/
 appeared 1961
 
-website https://www.cancer.org.au/
-wikipedia https://en.wikipedia.org/wiki/Cancer_Council_Australia
-linkedin https://linkedin.com/company/cancer-council-australia_2
-
 country Australia
+
+wikipedia https://en.wikipedia.org/wiki/Cancer_Council_Australia
+
+linkedin https://linkedin.com/company/cancer-council-australia_2
 
 domainName cancer.org.au

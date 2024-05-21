@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id breast-sarcoma
 name Breast Sarcoma
 type cancerType
-mainType Breast Sarcoma
+subTypes 1
 tissue Breast
+mainType Breast Sarcoma
 
 oncoTreeId PBS
 parentOncoTreeId BREAST
 umls C0349667
 nciCode C4670
 oncoTreeLevel 2
-subTypes 1

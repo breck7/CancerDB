@@ -1,31 +1,29 @@
 import ../code/conceptPage.scroll
+
 id skin
 name Skin Cancer
 type cancerType
-mainType Skin Cancer, NOS
-uscsId Melanomas of the Skin
+subTypes 29
 tissue Skin
-uscsDeathsPerYear 8059
-uscsCasesPerYear 88001
-uscsMortalityRate 9%
+mainType Skin Cancer, NOS
+cancerDotGov https://www.cancer.gov/types/skin
+cancerDotOrg https://www.cancer.org/cancer/skin-cancer.html
+gco https://gco.iarc.fr/today/data/factsheets/cancers/16-Melanoma-of-skin-fact-sheet.pdf
+reference https://www.aad.org/media/stats-skin-cancer
+wolframAlpha https://www.wolframalpha.com/input?i=skin+cancer
+youTubeVideo https://www.youtube.com/watch?v=oPtGeHBSly4
+youTubeVideo https://www.youtube.com/watch?v=YWppfk2Np6A
 
 oncoTreeId SKIN
 parentOncoTreeId TISSUE
 umls C1123023
 nciCode C12470
 oncoTreeLevel 1
-subTypes 29
 
-wikipedia https://en.wikipedia.org/wiki/Skin_cancer
-cancerDotGov https://www.cancer.gov/types/skin
-cancerDotOrg https://www.cancer.org/cancer/skin-cancer.html
-gco https://gco.iarc.fr/today/data/factsheets/cancers/16-Melanoma-of-skin-fact-sheet.pdf
-reference https://www.aad.org/media/stats-skin-cancer
-wolframAlpha https://www.wolframalpha.com/input?i=skin+cancer
-
-youTubeVideo https://www.youtube.com/watch?v=oPtGeHBSly4
-youTubeVideo https://www.youtube.com/watch?v=YWppfk2Np6A
-
+uscsId Melanomas of the Skin
+uscsDeathsPerYear 8059
+uscsCasesPerYear 88001
+uscsMortalityRate 9%
 uscsTable 2019
  sex|age|population|cases|deaths
  F|0|1841226|~|~
@@ -66,3 +64,5 @@ uscsTable 2019
  M|75-79|4317707|6849|713
  M|80-84|2678743|4929|731
  M|85+|2374207|4644|881
+
+wikipedia https://en.wikipedia.org/wiki/Skin_cancer

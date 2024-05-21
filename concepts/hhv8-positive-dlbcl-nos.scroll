@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id hhv8-positive-dlbcl-nos
 name HHV8 Positive DLBCL, NOS
 type cancerType
-mainType Mature B-Cell Neoplasms
+subTypes 0
 tissue Lymphoid
+mainType Mature B-Cell Neoplasms
 
 oncoTreeId HHV8DLBCL
 parentOncoTreeId MBN
 oncoTreeLevel 5
-subTypes 0

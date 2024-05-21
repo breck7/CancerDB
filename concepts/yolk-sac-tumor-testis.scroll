@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id yolk-sac-tumor-testis
 name Yolk Sac Tumor Testis
 type cancerType
-mainType Germ Cell Tumor
+subTypes 0
 tissue Testis
+mainType Germ Cell Tumor
 
 oncoTreeId TYST
 parentOncoTreeId NSGCT
 umls C0279708
 nciCode C8000
 oncoTreeLevel 3
-subTypes 0

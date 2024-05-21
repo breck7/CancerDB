@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id complete-hydatidiform-mole
 name Complete Hydatidiform Mole
 type cancerType
-mainType Gestational Trophoblastic Disease
+subTypes 0
 tissue Uterus
+mainType Gestational Trophoblastic Disease
 
 oncoTreeId CHM
 parentOncoTreeId MP
 umls C0678213
 nciCode C4871
 oncoTreeLevel 4
-subTypes 0

@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id head-and-neck-carcinoma-other
 name Head and Neck Carcinoma, Other
 type cancerType
-mainType Head and Neck Cancer
+subTypes 8
 tissue Head and Neck
+mainType Head and Neck Cancer
 
 oncoTreeId OHNCA
 parentOncoTreeId HEAD_NECK
 oncoTreeLevel 2
-subTypes 8

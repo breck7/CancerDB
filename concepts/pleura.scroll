@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id pleura
 name Pleura
 type cancerType
-mainType Pleural Cancer, NOS
+subTypes 4
 tissue Pleura
+mainType Pleural Cancer, NOS
 
 oncoTreeId PLEURA
 parentOncoTreeId TISSUE
 umls C0032225
 nciCode C12469
 oncoTreeLevel 1
-subTypes 4

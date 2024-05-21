@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id poorly-differentiated-carcinoma-of-the-stomach
 name Poorly Differentiated Carcinoma of the Stomach
 type cancerType
-mainType Esophagogastric Cancer
+subTypes 0
 tissue Esophagus/Stomach
+mainType Esophagogastric Cancer
 
 oncoTreeId SPDAC
 parentOncoTreeId USTAD
 oncoTreeLevel 4
-subTypes 0

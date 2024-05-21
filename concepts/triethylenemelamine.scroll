@@ -1,9 +1,10 @@
 import ../code/conceptPage.scroll
+
 id triethylenemelamine
 name Triethylenemelamine
 type chemotherapyDrug alkylatingAgent
 
-wikipedia https://en.wikipedia.org/wiki/Triethylenemelamine
-
 kegg C07642
 pubChem 5799
+
+wikipedia https://en.wikipedia.org/wiki/Triethylenemelamine

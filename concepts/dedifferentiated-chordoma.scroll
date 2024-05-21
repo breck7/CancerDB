@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id dedifferentiated-chordoma
 name Dedifferentiated Chordoma
 type cancerType
-mainType Bone Cancer
+subTypes 0
 tissue Bone
+mainType Bone Cancer
 
 oncoTreeId DDCHDM
 parentOncoTreeId CHDM
 umls C1266174
 nciCode C48876
 oncoTreeLevel 3
-subTypes 0

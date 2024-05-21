@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id pheochromocytoma
 name Pheochromocytoma
 type cancerType
-mainType Pheochromocytoma
+subTypes 0
 tissue Adrenal Gland
+mainType Pheochromocytoma
 
 oncoTreeId PHC
 parentOncoTreeId ADRENAL_GLAND
 umls C0031511
 nciCode C3326
 oncoTreeLevel 2
-subTypes 0

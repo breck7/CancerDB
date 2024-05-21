@@ -1,25 +1,24 @@
 import ../code/conceptPage.scroll
+
 id kidney
 name Kidney Cancer
 type cancerType
-mainType Kidney Cancer, NOS
-uscsId Kidney and Renal Pelvis
+subTypes 21
 tissue Kidney
-uscsDeathsPerYear 13940
-uscsCasesPerYear 68020
-uscsMortalityRate 20%
+mainType Kidney Cancer, NOS
+cancerDotGov https://www.cancer.gov/types/kidney
+gco https://gco.iarc.fr/today/data/factsheets/cancers/29-Kidney-fact-sheet.pdf
 
 oncoTreeId KIDNEY
 parentOncoTreeId TISSUE
 umls C0022646
 nciCode C12415
 oncoTreeLevel 1
-subTypes 21
 
-wikipedia https://en.wikipedia.org/wiki/Kidney_cancer
-cancerDotGov https://www.cancer.gov/types/kidney
-gco https://gco.iarc.fr/today/data/factsheets/cancers/29-Kidney-fact-sheet.pdf
-
+uscsId Kidney and Renal Pelvis
+uscsDeathsPerYear 13940
+uscsCasesPerYear 68020
+uscsMortalityRate 20%
 uscsTable 2019
  sex|age|population|cases|deaths
  F|0|1841226|20|~
@@ -60,3 +59,5 @@ uscsTable 2019
  M|75-79|4317707|4403|1313
  M|80-84|2678743|2641|1056
  M|85+|2374207|1792|1301
+
+wikipedia https://en.wikipedia.org/wiki/Kidney_cancer

@@ -1,30 +1,28 @@
 import ../code/conceptPage.scroll
+
 id lung
 name Lung Cancer
 type cancerType
-mainType Lung Cancer, NOS
-uscsId Lung and Bronchus
+subTypes 29
 tissue Lung
-uscsDeathsPerYear 139558
-uscsCasesPerYear 221020
-uscsMortalityRate 63%
+mainType Lung Cancer, NOS
+cancerDotGov https://www.cancer.gov/types/lung
+cancerDotOrg https://www.cancer.org/cancer/lung-cancer.html
+gco https://gco.iarc.fr/today/data/factsheets/cancers/15-Lung-fact-sheet.pdf
+reference https://www.wolframalpha.com/input?i=lung+cancer
+annualDeathsReport US https://www.cdc.gov/cancer/dcpc/research/update-on-cancer-deaths/index.htm
+ 2020 136084
 
 oncoTreeId LUNG
 parentOncoTreeId TISSUE
 umls C0024109
 nciCode C12468
 oncoTreeLevel 1
-subTypes 29
 
-wikipedia https://en.wikipedia.org/wiki/Lung_cancer
-cancerDotGov https://www.cancer.gov/types/lung
-cancerDotOrg https://www.cancer.org/cancer/lung-cancer.html
-gco https://gco.iarc.fr/today/data/factsheets/cancers/15-Lung-fact-sheet.pdf
-reference https://www.wolframalpha.com/input?i=lung+cancer
-
-annualDeathsReport US https://www.cdc.gov/cancer/dcpc/research/update-on-cancer-deaths/index.htm
- 2020 136084
-
+uscsId Lung and Bronchus
+uscsDeathsPerYear 139558
+uscsCasesPerYear 221020
+uscsMortalityRate 63%
 uscsTable 2019
  sex|age|population|cases|deaths
  F|0|1841226|~|~
@@ -65,3 +63,5 @@ uscsTable 2019
  M|75-79|4317707|18218|12576
  M|80-84|2678743|11773|9497
  M|85+|2374207|8749|8741
+
+wikipedia https://en.wikipedia.org/wiki/Lung_cancer

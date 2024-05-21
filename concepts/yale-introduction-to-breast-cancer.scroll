@@ -1,7 +1,7 @@
 import ../code/conceptPage.scroll
+
 id yale-introduction-to-breast-cancer
 name Introduction to Breast Cancer
 type onlineCourse
 cancerTypes breast
-
 coursera https://www.coursera.org/learn/breast-cancer-causes-prevention

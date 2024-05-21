@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id nodular-lymphocyte-predominant-hodgkin-lymphoma
 name Nodular Lymphocyte-Predominant Hodgkin Lymphoma
 type cancerType
-mainType Hodgkin Lymphoma
+subTypes 0
 tissue Lymphoid
+mainType Hodgkin Lymphoma
 
 oncoTreeId NLPHL
 parentOncoTreeId HL
 umls C1334968
 nciCode C7258
 oncoTreeLevel 4
-subTypes 0

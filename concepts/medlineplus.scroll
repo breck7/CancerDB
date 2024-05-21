@@ -1,11 +1,13 @@
 import ../code/conceptPage.scroll
+
 id medlineplus
 name MedlinePlus
 type onlineDatabase
+website https://medlineplus.gov/
 parentOrganization nlm
 conceptDescription MedlinePlus is an online health information resource for patients and their families and friends. It is a service of the National Library of Medicine (NLM), the world's largest medical library, which is part of the National Institutes of Health (NIH).
 
-website https://medlineplus.gov/
 wikipedia https://en.wikipedia.org/wiki/MedlinePlus
+
 twitter https://twitter.com/medlineplus
  followers 105000

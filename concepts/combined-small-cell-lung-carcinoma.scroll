@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id combined-small-cell-lung-carcinoma
 name Combined Small Cell Lung Carcinoma
 type cancerType
-mainType Small Cell Lung Cancer
+subTypes 0
 tissue Lung
+mainType Small Cell Lung Cancer
 
 oncoTreeId CSCLC
 parentOncoTreeId LUNG
 umls C0334240
 nciCode C9137
 oncoTreeLevel 2
-subTypes 0

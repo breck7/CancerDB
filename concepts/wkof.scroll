@@ -1,12 +1,13 @@
 import ../code/conceptPage.scroll
+
 id wkof
 name WKOF
 type cancerNonProfit
+website https://www.wkof.nl/
 standsFor Wereld Kanker Onderzoek Fond
 
-website https://www.wkof.nl/
-twitter https://twitter.com/Voedingenkanker
-
 country Netherlands
+
+twitter https://twitter.com/Voedingenkanker
 
 domainName wkof.nl

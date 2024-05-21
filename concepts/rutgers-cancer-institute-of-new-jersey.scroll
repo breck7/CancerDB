@@ -1,15 +1,15 @@
 import ../code/conceptPage.scroll
+
 id rutgers-cancer-institute-of-new-jersey
 name Rutgers Cancer Institute of New Jersey
 type nciCancerCenter
-
 website https://www.cinj.org/
-wikipedia https://en.wikipedia.org/wiki/Rutgers_Cancer_Institute_of_New_Jersey
 
 phoneNumber 1-732-235-2465
-
 country United States
 city New Brunswick, New Jersey
+
+wikipedia https://en.wikipedia.org/wiki/Rutgers_Cancer_Institute_of_New_Jersey
 
 nciDesignation Comprehensive Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/cinj

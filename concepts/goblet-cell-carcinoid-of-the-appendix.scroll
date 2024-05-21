@@ -1,12 +1,13 @@
 import ../code/conceptPage.scroll
+
 id goblet-cell-carcinoid-of-the-appendix
 name Goblet Cell Carcinoid of the Appendix
 type cancerType
-mainType Appendiceal Cancer
+subTypes 0
 tissue Bowel
+mainType Appendiceal Cancer
 
 oncoTreeId GCCAP
 parentOncoTreeId APAD
 umls C0205695
 oncoTreeLevel 3
-subTypes 0

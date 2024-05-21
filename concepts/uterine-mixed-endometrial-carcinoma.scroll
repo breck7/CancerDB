@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id uterine-mixed-endometrial-carcinoma
 name Uterine Mixed Endometrial Carcinoma
 type cancerType
-mainType Endometrial Cancer
+subTypes 0
 tissue Uterus
+mainType Endometrial Cancer
 
 oncoTreeId UMEC
 parentOncoTreeId UCEC
 oncoTreeLevel 3
-subTypes 0

@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id testicular-lymphoma
 name Testicular Lymphoma
 type cancerType
-mainType Non-Hodgkin Lymphoma
+subTypes 0
 tissue Testis
+mainType Non-Hodgkin Lymphoma
 
 oncoTreeId TLYM
 parentOncoTreeId TESTIS
 umls C0349644
 nciCode C6810
 oncoTreeLevel 2
-subTypes 0

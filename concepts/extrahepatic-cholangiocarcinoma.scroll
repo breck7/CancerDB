@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id extrahepatic-cholangiocarcinoma
 name Extrahepatic Cholangiocarcinoma
 type cancerType
-mainType Hepatobiliary Cancer
+subTypes 0
 tissue Biliary Tract
+mainType Hepatobiliary Cancer
 
 oncoTreeId EHCH
 parentOncoTreeId CHOL
 oncoTreeLevel 3
-subTypes 0

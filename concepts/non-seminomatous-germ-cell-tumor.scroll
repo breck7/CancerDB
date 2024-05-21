@@ -1,12 +1,13 @@
 import ../code/conceptPage.scroll
+
 id non-seminomatous-germ-cell-tumor
 name Non-Seminomatous Germ Cell Tumor
 type cancerType
-mainType Germ Cell Tumor
+subTypes 6
 tissue Testis
+mainType Germ Cell Tumor
 
 oncoTreeId NSGCT
 parentOncoTreeId TESTIS
 umls CL480935
 oncoTreeLevel 2
-subTypes 6

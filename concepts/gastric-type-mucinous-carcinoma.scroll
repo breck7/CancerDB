@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id gastric-type-mucinous-carcinoma
 name Gastric Type Mucinous Carcinoma
 type cancerType
-mainType Cervical Cancer
+subTypes 0
 tissue Cervix
+mainType Cervical Cancer
 
 oncoTreeId GCEMU
 parentOncoTreeId CEMU
 oncoTreeLevel 4
-subTypes 0

@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id small-cell-carcinoma-of-the-ovary
 name Small Cell Carcinoma of the Ovary
 type cancerType
-mainType Ovarian Cancer
+subTypes 0
 tissue Ovary/Fallopian Tube
+mainType Ovarian Cancer
 
 oncoTreeId SCCO
 parentOncoTreeId OVT
 umls C2212006
 nciCode C27390
 oncoTreeLevel 3
-subTypes 0

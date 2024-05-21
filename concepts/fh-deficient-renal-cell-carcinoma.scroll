@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id fh-deficient-renal-cell-carcinoma
 name FH-Deficient Renal Cell Carcinoma
 type cancerType
-mainType Renal Cell Carcinoma
+subTypes 0
 tissue Kidney
+mainType Renal Cell Carcinoma
 
 oncoTreeId FHRCC
 parentOncoTreeId NCCRCC
 oncoTreeLevel 4
-subTypes 0

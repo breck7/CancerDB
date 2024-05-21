@@ -1,19 +1,19 @@
 import ../code/conceptPage.scroll
+
 id university-of-hawaii-cancer-center
 name University of Hawaii Cancer Center
 type nciCancerCenter
+website https://www.uhcancercenter.org/
 appeared 1972
 
-website https://www.uhcancercenter.org/
+phoneNumber 1-808-586-3010
+country United States
+city Honolulu, Hawaii
+
 twitter https://twitter.com/UHCancerCenter
 facebook https://facebook.com/uhcancercenter
 linkedin https://linkedin.com/company/uhcancercenter
 instagram https://instagram.com/uhcancercenter
-
-phoneNumber 1-808-586-3010
-
-country United States
-city Honolulu, Hawaii
 
 nciDesignation Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/uhawaiicc

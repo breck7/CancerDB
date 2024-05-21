@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id myeloid-proliferations-related-to-down-syndrome
 name Myeloid Proliferations Related to Down Syndrome
 type cancerType
-mainType Leukemia
+subTypes 2
 tissue Myeloid
+mainType Leukemia
 
 oncoTreeId MPRDS
 parentOncoTreeId AML
 oncoTreeLevel 4
-subTypes 2

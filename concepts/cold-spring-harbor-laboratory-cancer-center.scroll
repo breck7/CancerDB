@@ -1,12 +1,11 @@
 import ../code/conceptPage.scroll
+
 id cold-spring-harbor-laboratory-cancer-center
 name Cold Spring Harbor Laboratory Cancer Center
 type nciCancerCenter
-
 website https://www.cshl.edu/research/cancer/
 
 phoneNumber 1-516-367-8800
-
 country United States
 city Cold Spring Harbor, New York
 

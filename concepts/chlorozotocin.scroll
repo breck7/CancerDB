@@ -1,9 +1,10 @@
 import ../code/conceptPage.scroll
+
 id chlorozotocin
 name Chlorozotocin
 type chemotherapyDrug alkylatingAgent
 
-wikipedia https://en.wikipedia.org/wiki/Chlorozotocin
-
 kegg C19170
 pubChem 451706
+
+wikipedia https://en.wikipedia.org/wiki/Chlorozotocin

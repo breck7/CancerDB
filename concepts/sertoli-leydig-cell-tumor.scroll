@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id sertoli-leydig-cell-tumor
 name Sertoli-Leydig Cell Tumor
 type cancerType
-mainType Sex Cord Stromal Tumor
+subTypes 0
 tissue Ovary/Fallopian Tube
+mainType Sex Cord Stromal Tumor
 
 oncoTreeId SLCT
 parentOncoTreeId SCST
 umls C0003810
 nciCode C2880
 oncoTreeLevel 3
-subTypes 0

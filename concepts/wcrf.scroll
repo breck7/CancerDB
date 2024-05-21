@@ -1,18 +1,20 @@
 import ../code/conceptPage.scroll
+
 id wcrf
 name WCRF
 type cancerNonProfit
+website http://www.wcrf.org/
 appeared 1999
 standsFor World Cancer Research Fund International
 
-website http://www.wcrf.org/
+country United Kingdom
+city London
+
 wikipedia https://en.wikipedia.org/wiki/World_Cancer_Research_Fund_International
+
 twitter https://twitter.com/wcrfint
  followers 13200
 facebook https://facebook.com/wcrfint
-
-country United Kingdom
-city London
 
 domainName wcrf.org
  registered 1995

@@ -1,17 +1,18 @@
 import ../code/conceptPage.scroll
+
 id squamous-cell-carcinoma
 name Squamous Cell Carcinoma
 type cancerType
-mainType Cancer of Unknown Primary
-tissue Other
-
-oncoTreeId SCCNOS
-parentOncoTreeId CUP
-oncoTreeLevel 3
 subTypes 0
-
-wikipedia https://en.wikipedia.org/wiki/Squamous-cell_carcinoma
+tissue Other
+mainType Cancer of Unknown Primary
 reference https://www.skincancer.org/skin-cancer-information/squamous-cell-carcinoma/
 reference https://www.mayoclinic.org/diseases-conditions/squamous-cell-carcinoma/symptoms-causes/syc-20352480
 reference https://www.cancer.org/cancer/basal-and-squamous-cell-skin-cancer.html
 reference https://www.aad.org/public/diseases/skin-cancer/types/common/scc
+
+oncoTreeId SCCNOS
+parentOncoTreeId CUP
+oncoTreeLevel 3
+
+wikipedia https://en.wikipedia.org/wiki/Squamous-cell_carcinoma

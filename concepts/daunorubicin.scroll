@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id daunorubicin
 name Daunorubicin
 type chemotherapyDrug anthracycline
 tradenames Cerubidine
-
-wikipedia https://en.wikipedia.org/wiki/Daunorubicin
-
 routesOfAdministration intravenous
+
 kegg C01907
 drugBank DB00694
 medlinePlus a682289
 pubChem 30323
+
+wikipedia https://en.wikipedia.org/wiki/Daunorubicin

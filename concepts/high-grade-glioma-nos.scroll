@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id high-grade-glioma-nos
 name High-Grade Glioma, NOS
 type cancerType
-mainType Glioma
+subTypes 0
 tissue CNS/Brain
+mainType Glioma
 
 oncoTreeId HGGNOS
 parentOncoTreeId DIFG
 oncoTreeLevel 3
-subTypes 0

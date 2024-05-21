@@ -1,11 +1,11 @@
 import ../code/conceptPage.scroll
+
 id cancer-crackdown
 name Cancer Crackdown
 type cancerNonProfit
+website https://www.cancercrackdown.org/
 appeared 2014
 conceptDescription A 501c3 non-profit organization dedicated to supporting those using natural therapies.
-
-website https://www.cancercrackdown.org/
 
 country United States
 city Greenville, SC

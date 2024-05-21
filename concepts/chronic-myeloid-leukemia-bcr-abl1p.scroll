@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id chronic-myeloid-leukemia-bcr-abl1p
 name Chronic Myeloid Leukemia, BCR-ABL1+
 type cancerType
-mainType Myeloproliferative Neoplasms
+subTypes 0
 tissue Myeloid
+mainType Myeloproliferative Neoplasms
 
 oncoTreeId CMLBCRABL1
 parentOncoTreeId CML
 oncoTreeLevel 5
-subTypes 0

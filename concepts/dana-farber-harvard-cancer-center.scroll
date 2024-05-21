@@ -1,12 +1,11 @@
 import ../code/conceptPage.scroll
+
 id dana-farber-harvard-cancer-center
 name Dana-Farber/Harvard Cancer Center
 type nciCancerCenter
-
 website https://www.dfhcc.harvard.edu/
 
 phoneNumber 1-617-632-3000
-
 country United States
 city Boston, Massachusetts
 

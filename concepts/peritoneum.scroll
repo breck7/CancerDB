@@ -1,16 +1,16 @@
 import ../code/conceptPage.scroll
+
 id peritoneum
 name Peritoneal Cancer
 type cancerType
-mainType Peritoneal Cancer, NOS
+subTypes 2
 tissue Peritoneum
+mainType Peritoneal Cancer, NOS
+reference https://www.ucsfhealth.org/conditions/peritoneal-cancer
+reference https://www.cedars-sinai.org/health-library/diseases-and-conditions/p/peritoneal-cancer.html
 
 oncoTreeId PERITONEUM
 parentOncoTreeId TISSUE
 umls C0031153
 nciCode C12770
 oncoTreeLevel 1
-subTypes 2
-
-reference https://www.ucsfhealth.org/conditions/peritoneal-cancer
-reference https://www.cedars-sinai.org/health-library/diseases-and-conditions/p/peritoneal-cancer.html

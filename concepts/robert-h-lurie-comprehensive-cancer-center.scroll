@@ -1,15 +1,15 @@
 import ../code/conceptPage.scroll
+
 id robert-h-lurie-comprehensive-cancer-center
 name Robert H. Lurie Comprehensive Cancer Center
 type nciCancerCenter
-
 website https://www.cancer.northwestern.edu/
-wikipedia https://en.wikipedia.org/wiki/Robert_H._Lurie_Comprehensive_Cancer_Center
 
 phoneNumber 1-312-695-0990
-
 country United States
 city Chicago, Illinois
+
+wikipedia https://en.wikipedia.org/wiki/Robert_H._Lurie_Comprehensive_Cancer_Center
 
 nciDesignation Comprehensive Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/northwesternlurie

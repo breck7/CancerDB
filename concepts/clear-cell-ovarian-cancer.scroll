@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id clear-cell-ovarian-cancer
 name Clear Cell Ovarian Cancer
 type cancerType
-mainType Ovarian Cancer
+subTypes 0
 tissue Ovary/Fallopian Tube
+mainType Ovarian Cancer
 
 oncoTreeId CCOV
 parentOncoTreeId OVT
 umls C0346164
 nciCode C40076
 oncoTreeLevel 3
-subTypes 0

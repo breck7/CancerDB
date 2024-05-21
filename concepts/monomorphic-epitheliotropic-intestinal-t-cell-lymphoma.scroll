@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id monomorphic-epitheliotropic-intestinal-t-cell-lymphoma
 name Monomorphic Epitheliotropic Intestinal T-Cell Lymphoma
 type cancerType
-mainType Mature T and NK Neoplasms
+subTypes 0
 tissue Lymphoid
+mainType Mature T and NK Neoplasms
 
 oncoTreeId MEITL
 parentOncoTreeId MTNN
 oncoTreeLevel 5
-subTypes 0

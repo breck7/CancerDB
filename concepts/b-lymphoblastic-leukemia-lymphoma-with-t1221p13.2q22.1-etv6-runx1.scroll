@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id b-lymphoblastic-leukemia-lymphoma-with-t1221p13.2q22.1-etv6-runx1
 name B-Lymphoblastic Leukemia/Lymphoma with t(12;21)(p13.2;q22.1); ETV6-RUNX1
 type cancerType
-mainType B-Lymphoblastic Leukemia/Lymphoma
+subTypes 0
 tissue Lymphoid
+mainType B-Lymphoblastic Leukemia/Lymphoma
 
 oncoTreeId BLLETV6RUNX1
 parentOncoTreeId BLLRGA
 oncoTreeLevel 5
-subTypes 0

@@ -1,9 +1,10 @@
 import ../code/conceptPage.scroll
+
 id triaziquone
 name Triaziquone
 type chemotherapyDrug alkylatingAgent
 
-wikipedia https://en.wikipedia.org/wiki/Triaziquone
-
 kegg C19542
 pubChem 6235
+
+wikipedia https://en.wikipedia.org/wiki/Triaziquone

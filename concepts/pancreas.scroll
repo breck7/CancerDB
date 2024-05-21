@@ -1,28 +1,26 @@
 import ../code/conceptPage.scroll
+
 id pancreas
 name Pancreatic Cancer
 type cancerType
-mainType Pancreatic Cancer, NOS
+subTypes 12
 tissue Pancreas
-uscsDeathsPerYear 45868
-uscsCasesPerYear 53957
-uscsMortalityRate 85%
+mainType Pancreatic Cancer, NOS
+cancerDotGov https://www.cancer.gov/types/pancreatic
+gco https://gco.iarc.fr/today/data/factsheets/cancers/13-Pancreas-fact-sheet.pdf
+reference https://www.wolframalpha.com/input?i=pancreatic+cancer
+annualDeathsReport US https://www.cdc.gov/cancer/dcpc/research/update-on-cancer-deaths/index.htm
+ 2020 46774
 
 oncoTreeId PANCREAS
 parentOncoTreeId TISSUE
 umls C0030274
 nciCode C12393
 oncoTreeLevel 1
-subTypes 12
 
-wikipedia https://en.wikipedia.org/wiki/Pancreatic_cancer
-cancerDotGov https://www.cancer.gov/types/pancreatic
-gco https://gco.iarc.fr/today/data/factsheets/cancers/13-Pancreas-fact-sheet.pdf
-reference https://www.wolframalpha.com/input?i=pancreatic+cancer
-
-annualDeathsReport US https://www.cdc.gov/cancer/dcpc/research/update-on-cancer-deaths/index.htm
- 2020 46774
-
+uscsDeathsPerYear 45868
+uscsCasesPerYear 53957
+uscsMortalityRate 85%
 uscsTable 2019
  sex|age|population|cases|deaths
  F|0|1841226|~|~
@@ -63,3 +61,5 @@ uscsTable 2019
  M|75-79|4317707|3975|3514
  M|80-84|2678743|2745|2701
  M|85+|2374207|2303|2571
+
+wikipedia https://en.wikipedia.org/wiki/Pancreatic_cancer

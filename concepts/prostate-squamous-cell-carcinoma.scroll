@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id prostate-squamous-cell-carcinoma
 name Prostate Squamous Cell Carcinoma
 type cancerType
-mainType Prostate Cancer
+subTypes 0
 tissue Prostate
+mainType Prostate Cancer
 
 oncoTreeId PRSC
 parentOncoTreeId PROSTATE
 umls C1302530
 nciCode C5536
 oncoTreeLevel 2
-subTypes 0

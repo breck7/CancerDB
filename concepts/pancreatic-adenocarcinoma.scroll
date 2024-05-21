@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id pancreatic-adenocarcinoma
 name Pancreatic Adenocarcinoma
 type cancerType
-mainType Pancreatic Cancer
+subTypes 0
 tissue Pancreas
+mainType Pancreatic Cancer
 
 oncoTreeId PAAD
 parentOncoTreeId PANCREAS
 umls C0281361
 nciCode C8294
 oncoTreeLevel 2
-subTypes 0

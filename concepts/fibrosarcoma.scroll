@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id fibrosarcoma
 name Fibrosarcoma
 type cancerType
-mainType Soft Tissue Sarcoma
+subTypes 1
 tissue Soft Tissue
+mainType Soft Tissue Sarcoma
 
 oncoTreeId FIBS
 parentOncoTreeId SOFT_TISSUE
 umls C0016057
 nciCode C3043
 oncoTreeLevel 2
-subTypes 1

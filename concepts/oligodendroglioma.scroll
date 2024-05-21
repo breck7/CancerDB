@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id oligodendroglioma
 name Oligodendroglioma
 type cancerType
-mainType Glioma
+subTypes 0
 tissue CNS/Brain
+mainType Glioma
 
 oncoTreeId ODG
 parentOncoTreeId DIFG
 umls C0751396
 nciCode C3288
 oncoTreeLevel 3
-subTypes 0

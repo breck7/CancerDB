@@ -1,11 +1,11 @@
 import ../code/conceptPage.scroll
+
 id kcr-ug
 name kcr
 type registry
 appeared 1954
 standsFor Kampala Cancer Registry
 conceptDescription The Kampala Cancer Registry was established in the Department of Pathology of Makerere Faculty of Medicine l (now the College of Health Sciences, Makerere University) in 1951 as a population-based cancer registry with the aim of determining cancer incidence in the population of Kyadondo County.The registry is computerized and data management is carried out using the IARC/IACR CANREG software which includes checks for consistency and validity and permits search for potential duplicate registration. Completeness of registration was evaluated in 2001 as around 90% of adult cancer cases. Confidentiality is taken care of by using only registration numbers during analysis of data. The registry is out of bounds for unauthorized persons.The Kampala Cancer Registry collects data on the population of Kyadondo County, which includes the city of Kampala - the capital of Uganda. The registry provides the longest time series of cancer incidence in Africa. This makes the data of special value for cancer surveillance and research, particularly in monitoring the epidemic of HIV/AIDS and as a baseline for analytical studies and intervention studies. Screening programmes are non existent. However attempts are being made to start cervical cancer screening, and this is because of the reporting in the recent past of high rates of cancer of the cervix in Kyadondo County. A report for the years 2007-2009 was published in August 2012.
-
 reference https://afcrn.org/index.php/membership/membership-list/81-kampala-uganda
 reference https://afcrn.org/images/Publication/Kampala-report-2010-12.pdf
 

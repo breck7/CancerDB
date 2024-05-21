@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id cervical-adenoid-basal-carcinoma
 name Cervical Adenoid Basal Carcinoma
 type cancerType
-mainType Cervical Cancer
+subTypes 0
 tissue Cervix
+mainType Cervical Cancer
 
 oncoTreeId CABC
 parentOncoTreeId CERVIX
 umls C1516403
 nciCode C40213
 oncoTreeLevel 2
-subTypes 0

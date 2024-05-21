@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id hyalinizing-trabecular-adenoma-of-the-thyroid
 name Hyalinizing Trabecular Adenoma of the Thyroid
 type cancerType
-mainType Thyroid Cancer
+subTypes 0
 tissue Thyroid
+mainType Thyroid Cancer
 
 oncoTreeId HTAT
 parentOncoTreeId THYROID
 umls C1266049
 nciCode C6846
 oncoTreeLevel 2
-subTypes 0

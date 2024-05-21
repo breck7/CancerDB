@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id papillary-renal-cell-carcinoma
 name Papillary Renal Cell Carcinoma
 type cancerType
-mainType Renal Cell Carcinoma
+subTypes 0
 tissue Kidney
+mainType Renal Cell Carcinoma
 
 oncoTreeId PRCC
 parentOncoTreeId NCCRCC
 umls C1306837
 nciCode C6975
 oncoTreeLevel 4
-subTypes 0

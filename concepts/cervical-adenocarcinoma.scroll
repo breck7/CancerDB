@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id cervical-adenocarcinoma
 name Cervical Adenocarcinoma
 type cancerType
-mainType Cervical Cancer
+subTypes 10
 tissue Cervix
+mainType Cervical Cancer
 
 oncoTreeId CEAD
 parentOncoTreeId CERVIX
 umls C0279672
 nciCode C4029
 oncoTreeLevel 2
-subTypes 10

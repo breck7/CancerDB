@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id anaplastic-astrocytoma
 name Anaplastic Astrocytoma
 type cancerType
-mainType Glioma
+subTypes 0
 tissue CNS/Brain
+mainType Glioma
 
 oncoTreeId AASTR
 parentOncoTreeId DIFG
 umls C0334579
 nciCode C9477
 oncoTreeLevel 3
-subTypes 0

@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id gastrointestinal-stromal-tumor
 name Gastrointestinal Stromal Tumor
 type cancerType
-mainType Gastrointestinal Stromal Tumor
+subTypes 0
 tissue Soft Tissue
+mainType Gastrointestinal Stromal Tumor
 
 oncoTreeId GIST
 parentOncoTreeId SOFT_TISSUE
 umls C0238198
 nciCode C3868
 oncoTreeLevel 2
-subTypes 0

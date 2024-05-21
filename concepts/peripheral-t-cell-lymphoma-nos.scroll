@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id peripheral-t-cell-lymphoma-nos
 name Peripheral T-Cell lymphoma, NOS
 type cancerType
-mainType Mature T and NK Neoplasms
+subTypes 0
 tissue Lymphoid
+mainType Mature T and NK Neoplasms
 
 oncoTreeId PTCL
 parentOncoTreeId MTNN
 oncoTreeLevel 5
-subTypes 0

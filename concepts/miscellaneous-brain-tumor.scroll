@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id miscellaneous-brain-tumor
 name Miscellaneous Brain Tumor
 type cancerType
-mainType Miscellaneous Brain Tumor
+subTypes 8
 tissue CNS/Brain
+mainType Miscellaneous Brain Tumor
 
 oncoTreeId MBT
 parentOncoTreeId BRAIN
 umls C1334936
 nciCode C6974
 oncoTreeLevel 2
-subTypes 8

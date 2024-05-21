@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id rosai-dorfman-disease
 name Rosai-Dorfman Disease
 type cancerType
-mainType Histiocytosis
+subTypes 0
 tissue Myeloid
+mainType Histiocytosis
 
 oncoTreeId RDD
 parentOncoTreeId HDCN
 umls C0019625
 nciCode C36075
 oncoTreeLevel 4
-subTypes 0

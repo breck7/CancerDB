@@ -1,4 +1,5 @@
 import ../code/conceptPage.scroll
+
 id low-dose-spiral-computed-tomography
 name LDCT
 type ctScan imagingProcedure
@@ -6,5 +7,4 @@ cancerTypes lung
 standsFor Low-dose Spiral Computed Tomography
 conceptDescription The low-dose spiral CT scan continuously rotates in a spiral motion and takes several 3-dimensional X-rays of the lungs. These X-rays are very detailed and can show early-stage lung cancers that may be too small to be detected by a traditional X-ray. Traditional X-rays can identify lung cancers the size of a dime, whereas low-dose spiral CT scans can reveal lung abnormalities the size of a grain of rice.
 aka helical CT scan
-
 reference https://www.swedish.org/services/thoracic-surgery/our-services/lung-cancer-screening-program/low-dose-ct-scan-for-lung-cancer-screening

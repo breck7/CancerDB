@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id uterine-undifferentiated-carcinoma
 name Uterine Undifferentiated Carcinoma
 type cancerType
-mainType Endometrial Cancer
+subTypes 0
 tissue Uterus
+mainType Endometrial Cancer
 
 oncoTreeId UUC
 parentOncoTreeId UCEC
 umls C0850327
 nciCode C6345
 oncoTreeLevel 3
-subTypes 0

@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id lymphoid-neoplasm
 name Lymphoid Neoplasm
 type cancerType
-mainType Lymphatic Cancer, NOS
+subTypes 117
 tissue Lymphoid
+mainType Lymphatic Cancer, NOS
 
 oncoTreeId LNM
 parentOncoTreeId LYMPH
 oncoTreeLevel 2
-subTypes 117

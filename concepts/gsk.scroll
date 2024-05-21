@@ -1,12 +1,13 @@
 import ../code/conceptPage.scroll
+
 id gsk
 name GSK plc
 type publicCompany
 oldName GlaxoSmithKline plc
 
-wikipedia https://en.wikipedia.org/wiki/GSK_plc
-
 country England
 city London
+
+wikipedia https://en.wikipedia.org/wiki/GSK_plc
 
 nyse https://www.nyse.com/quote/XNYS:GSK

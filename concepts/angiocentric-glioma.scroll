@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id angiocentric-glioma
 name Angiocentric Glioma
 type cancerType
-mainType Miscellaneous Neuroepithelial Tumor
+subTypes 0
 tissue CNS/Brain
+mainType Miscellaneous Neuroepithelial Tumor
 
 oncoTreeId ANGL
 parentOncoTreeId MNET
 umls C2363903
 nciCode C92552
 oncoTreeLevel 3
-subTypes 0

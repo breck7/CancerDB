@@ -1,23 +1,23 @@
 import ../code/conceptPage.scroll
+
 id hodgkin-lymphoma
 name Hodgkin Lymphoma
 type cancerType
-mainType Hodgkin Lymphoma
-uscsId Hodgkin Lymphoma
+subTypes 6
 tissue Lymphoid
-uscsDeathsPerYear 873
-uscsCasesPerYear 8515
-uscsMortalityRate 10%
+mainType Hodgkin Lymphoma
+gco https://gco.iarc.fr/today/data/factsheets/cancers/33-Hodgkin-lymphoma-fact-sheet.pdf
 
 oncoTreeId HL
 parentOncoTreeId LNM
 umls C0019829
 nciCode C9357
 oncoTreeLevel 3
-subTypes 6
 
-gco https://gco.iarc.fr/today/data/factsheets/cancers/33-Hodgkin-lymphoma-fact-sheet.pdf
-
+uscsId Hodgkin Lymphoma
+uscsDeathsPerYear 873
+uscsCasesPerYear 8515
+uscsMortalityRate 10%
 uscsTable 2019
  sex|age|population|cases|deaths
  F|0|1841226|~|~

@@ -1,13 +1,15 @@
 import ../code/conceptPage.scroll
+
 id swiss-cancer-league
 name Swiss Cancer League
 type cancerNonProfit
+website http://www.liguecancer.ch/
 appeared 1910
 
-website http://www.liguecancer.ch/
-wikipedia https://en.wikipedia.org/wiki/Swiss_Cancer_League
-instagram https://instagram.com/liguecancer
-
 country Switzerland
+
+wikipedia https://en.wikipedia.org/wiki/Swiss_Cancer_League
+
+instagram https://instagram.com/liguecancer
 
 domainName liguecancer.ch

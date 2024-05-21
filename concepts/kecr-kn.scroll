@@ -1,10 +1,10 @@
 import ../code/conceptPage.scroll
+
 id kecr-kn
 name KECR
 type registry
 standsFor Kenya Eldoret Cancer Registry
 conceptDescription The registry was established in 1999. It is located in the Faculty of Medical Sciences of Moi University, Department of Haematology and Blood Transfusion. The registry records details of all cancer patients diagnosed and treated in hospitals of Eldoret town, and aims to be population-based for the district of Uasin Gishu, in the Rift Valley Region of Kenya (pop. 2009: 894,179). As well as the Director (Dr N. Buziba), the registry has three registrars, Gladys Chesumbai , Jacqueline Gavana, and Jane Chepkosgei. Because of shortage of funds in the last 6 years, the staff work only part time basis on registry duties. Case-finding uses three types of source: hospital records departments, pathology and death certificates.
-
 reference https://afcrn.org/index.php/membership/membership-list/101-eldoret
 
 country Kenya

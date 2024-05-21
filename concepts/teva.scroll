@@ -1,16 +1,17 @@
 import ../code/conceptPage.scroll
+
 id teva
 name Teva Pharmaceutical Industries Ltd.
 type company
-
 website https://www.tevapharm.com/
+
+country Israel
+
 twitter https://twitter.com/tevausa
 facebook https://facebook.com/tevapharm
 linkedin https://linkedin.com/company/teva-pharmaceuticals
 
-country Israel
+nasdaq https://www.nasdaq.com/symbol/teva
 
 domainName tevapharm.com
  registered 1996
-
-nasdaq https://www.nasdaq.com/symbol/teva

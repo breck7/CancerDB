@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id chondroblastic-osteosarcoma
 name Chondroblastic Osteosarcoma
 type cancerType
-mainType Bone Cancer
+subTypes 0
 tissue Bone
+mainType Bone Cancer
 
 oncoTreeId CHOS
 parentOncoTreeId OS
 umls C0279603
 nciCode C4021
 oncoTreeLevel 3
-subTypes 0

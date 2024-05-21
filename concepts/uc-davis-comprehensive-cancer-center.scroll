@@ -1,15 +1,15 @@
 import ../code/conceptPage.scroll
+
 id uc-davis-comprehensive-cancer-center
 name UC Davis Comprehensive Cancer Center
 type nciCancerCenter
-
 website https://health.ucdavis.edu/cancer/
-wikipedia https://en.wikipedia.org/wiki/UC_Davis_Comprehensive_Cancer_Center
 
 phoneNumber 1-916-734-5959
-
 country United States
 city Sacramento, California
+
+wikipedia https://en.wikipedia.org/wiki/UC_Davis_Comprehensive_Cancer_Center
 
 nciDesignation Comprehensive Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/ucdaviscc

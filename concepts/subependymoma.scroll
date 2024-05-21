@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id subependymoma
 name Subependymoma
 type cancerType
-mainType CNS Cancer
+subTypes 0
 tissue CNS/Brain
+mainType CNS Cancer
 
 oncoTreeId SUBE
 parentOncoTreeId EPMT
 umls C0206725
 nciCode C3795
 oncoTreeLevel 3
-subTypes 0

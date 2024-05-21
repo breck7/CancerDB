@@ -1,12 +1,13 @@
 import ../code/conceptPage.scroll
+
 id biogen
 name Biogen
 type publicCompany
-
 website http://biogen.com/
-wikipedia https://en.wikipedia.org/wiki/Biogen
 
 country United States
 city Cambridge, Massachusetts
+
+wikipedia https://en.wikipedia.org/wiki/Biogen
 
 nasdaq https://www.nasdaq.com/symbol/biib

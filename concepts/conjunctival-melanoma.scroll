@@ -1,15 +1,15 @@
 import ../code/conceptPage.scroll
+
 id conjunctival-melanoma
 name Conjunctival Melanoma
 type cancerType
-mainType Melanoma
+subTypes 0
 tissue Eye
+mainType Melanoma
+reference https://www.aao.org/education/current-insight/conjunctival-melanoma-rare-deadly
 
 oncoTreeId CM
 parentOncoTreeId OM
 umls C0346360
 nciCode C4550
 oncoTreeLevel 3
-subTypes 0
-
-reference https://www.aao.org/education/current-insight/conjunctival-melanoma-rare-deadly

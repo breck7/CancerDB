@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id brenner-tumor-borderline
 name Brenner Tumor, Borderline
 type cancerType
-mainType Ovarian Cancer
+subTypes 0
 tissue Ovary/Fallopian Tube
+mainType Ovarian Cancer
 
 oncoTreeId BTBOV
 parentOncoTreeId BTOV
 oncoTreeLevel 4
-subTypes 0

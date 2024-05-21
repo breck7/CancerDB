@@ -1,16 +1,15 @@
 import ../code/conceptPage.scroll
+
 id multiple-myeloma
 name Multiple Myeloma
 type cancerType
+cancerDotOrg https://www.cancer.org/cancer/multiple-myeloma
+gco https://gco.iarc.fr/today/data/factsheets/cancers/35-Multiple-myeloma-fact-sheet.pdf
+
 uscsId Myeloma
 uscsDeathsPerYear 12425
 uscsCasesPerYear 27799
 uscsMortalityRate 45%
-
-wikipedia https://en.wikipedia.org/wiki/Multiple_myeloma
-cancerDotOrg https://www.cancer.org/cancer/multiple-myeloma
-gco https://gco.iarc.fr/today/data/factsheets/cancers/35-Multiple-myeloma-fact-sheet.pdf
-
 uscsTable 2019
  sex|age|population|cases|deaths
  F|0|1841226|~|~
@@ -51,3 +50,5 @@ uscsTable 2019
  M|75-79|4317707|2151|1154
  M|80-84|2678743|1592|1123
  M|85+|2374207|1214|1259
+
+wikipedia https://en.wikipedia.org/wiki/Multiple_myeloma

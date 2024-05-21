@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id mds-mpn-unclassifiable
 name MDS/MPN, Unclassifiable
 type cancerType
-mainType Myelodysplastic/Myeloproliferative Neoplasms
+subTypes 0
 tissue Myeloid
+mainType Myelodysplastic/Myeloproliferative Neoplasms
 
 oncoTreeId MDSMPNU
 parentOncoTreeId MDS/MPN
 oncoTreeLevel 4
-subTypes 0

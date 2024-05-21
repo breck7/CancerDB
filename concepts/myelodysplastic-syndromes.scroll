@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id myelodysplastic-syndromes
 name Myelodysplastic Syndromes
 type cancerType
-mainType Myelodysplastic Syndromes
+subTypes 11
 tissue Myeloid
+mainType Myelodysplastic Syndromes
 
 oncoTreeId MDS
 parentOncoTreeId MNM
 umls C3463824
 nciCode C3247
 oncoTreeLevel 3
-subTypes 11

@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id prostate-adenocarcinoma
 name Prostate Adenocarcinoma
 type cancerType
-mainType Prostate Cancer
+subTypes 0
 tissue Prostate
+mainType Prostate Cancer
 
 oncoTreeId PRAD
 parentOncoTreeId PROSTATE
 umls C0007112
 nciCode C2919
 oncoTreeLevel 2
-subTypes 0

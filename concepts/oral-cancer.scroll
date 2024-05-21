@@ -1,16 +1,15 @@
 import ../code/conceptPage.scroll
+
 id oral-cancer
 name Oral Cancer
 type cancerType
+aka Mouth Cancer
+reference https://www.nidcr.nih.gov/health-info/oral-cancer
+
 uscsId Oral Cavity and Pharynx
 uscsDeathsPerYear 10447
 uscsCasesPerYear 47783
 uscsMortalityRate 22%
-aka Mouth Cancer
-
-wikipedia https://en.wikipedia.org/wiki/Oral_cancer
-reference https://www.nidcr.nih.gov/health-info/oral-cancer
-
 uscsTable 2019
  sex|age|population|cases|deaths
  F|0|1841226|~|~
@@ -51,3 +50,5 @@ uscsTable 2019
  M|75-79|4317707|2890|860
  M|80-84|2678743|1749|608
  M|85+|2374207|1360|696
+
+wikipedia https://en.wikipedia.org/wiki/Oral_cancer

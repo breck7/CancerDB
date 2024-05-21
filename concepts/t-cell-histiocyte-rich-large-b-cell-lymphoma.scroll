@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id t-cell-histiocyte-rich-large-b-cell-lymphoma
 name T-Cell/Histiocyte-Rich Large B-Cell Lymphoma
 type cancerType
-mainType Mature B-Cell Neoplasms
+subTypes 0
 tissue Lymphoid
+mainType Mature B-Cell Neoplasms
 
 oncoTreeId THRLBCL
 parentOncoTreeId MBN
 oncoTreeLevel 5
-subTypes 0

@@ -1,9 +1,9 @@
 import ../code/conceptPage.scroll
+
 id colon-cancer-subreddit
 name Colon Cancer Subreddit
 type subreddit onlineForum
 cancerTypes colon
-
 subreddit https://www.reddit.com/r/coloncancer
  members
   2023 3511

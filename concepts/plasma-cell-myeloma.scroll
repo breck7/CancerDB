@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id plasma-cell-myeloma
 name Plasma Cell Myeloma
 type cancerType
-mainType Mature B-Cell Neoplasms
+subTypes 0
 tissue Lymphoid
+mainType Mature B-Cell Neoplasms
 
 oncoTreeId PCM
 parentOncoTreeId MBN
 umls C0026764
 nciCode C3242
 oncoTreeLevel 5
-subTypes 0

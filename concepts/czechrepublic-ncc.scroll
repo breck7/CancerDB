@@ -1,8 +1,8 @@
 import ../code/conceptPage.scroll
+
 id czechrepublic-ncc
 name National Cancer Institute
 type nationalCancerInstitute
-
 website https://www.uzis.cz/en/national-cancer-institute
 
 country Czech Republic

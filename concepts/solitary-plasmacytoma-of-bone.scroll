@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id solitary-plasmacytoma-of-bone
 name Solitary Plasmacytoma of Bone
 type cancerType
-mainType Mature B-Cell Neoplasms
+subTypes 0
 tissue Lymphoid
+mainType Mature B-Cell Neoplasms
 
 oncoTreeId SPB
 parentOncoTreeId MBN
 oncoTreeLevel 5
-subTypes 0

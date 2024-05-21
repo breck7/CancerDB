@@ -1,23 +1,23 @@
 import ../code/conceptPage.scroll
+
 id non-hodgkin-lymphoma
 name Non-Hodgkin Lymphoma
 type cancerType
-mainType Non-Hodgkin Lymphoma
-uscsId Non-Hodgkin Lymphoma
+subTypes 87
 tissue Lymphoid
-uscsDeathsPerYear 20247
-uscsCasesPerYear 71565
-uscsMortalityRate 28%
+mainType Non-Hodgkin Lymphoma
+gco https://gco.iarc.fr/today/data/factsheets/cancers/34-Non-hodgkin-lymphoma-fact-sheet.pdf
 
 oncoTreeId NHL
 parentOncoTreeId LNM
 umls C0024305
 nciCode C3211
 oncoTreeLevel 3
-subTypes 87
 
-gco https://gco.iarc.fr/today/data/factsheets/cancers/34-Non-hodgkin-lymphoma-fact-sheet.pdf
-
+uscsId Non-Hodgkin Lymphoma
+uscsDeathsPerYear 20247
+uscsCasesPerYear 71565
+uscsMortalityRate 28%
 uscsTable 2019
  sex|age|population|cases|deaths
  F|0|1841226|~|~

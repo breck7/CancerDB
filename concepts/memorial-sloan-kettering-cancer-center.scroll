@@ -1,19 +1,20 @@
 import ../code/conceptPage.scroll
+
 id memorial-sloan-kettering-cancer-center
 name Memorial Sloan-Kettering Cancer Center
 type nciCancerCenter
-
 website https://www.mskcc.org/
+
+phoneNumber 1-212-639-2000
+country United States
+city New York, New York
+
 wikipedia https://en.wikipedia.org/wiki/Memorial_Sloan_Kettering_Cancer_Center
+
 facebook https://facebook.com/memorialsloankettering
 linkedin https://linkedin.com/company/memorial-sloan-kettering-cancer-center
 youTubeChannel https://youtube.com/user/mskcc
 instagram https://instagram.com/memorialsloankettering
-
-phoneNumber 1-212-639-2000
-
-country United States
-city New York, New York
 
 nciDesignation Comprehensive Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/memorialsloankettering

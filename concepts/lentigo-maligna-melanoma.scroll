@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id lentigo-maligna-melanoma
 name Lentigo Maligna Melanoma
 type cancerType
-mainType Melanoma
+subTypes 0
 tissue Skin
+mainType Melanoma
 
 oncoTreeId SKLMM
 parentOncoTreeId MEL
 umls C2739810
 nciCode C9151
 oncoTreeLevel 3
-subTypes 0

@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id embryonal-rhabdomyosarcoma
 name Embryonal Rhabdomyosarcoma
 type cancerType
-mainType Soft Tissue Sarcoma
+subTypes 0
 tissue Soft Tissue
+mainType Soft Tissue Sarcoma
 
 oncoTreeId ERMS
 parentOncoTreeId RMS
 umls C0206656
 nciCode C8971
 oncoTreeLevel 3
-subTypes 0

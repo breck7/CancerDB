@@ -1,11 +1,11 @@
 import ../code/conceptPage.scroll
+
 id oncokb
 name OncoKB
 type onlineDatabase ontology
+website https://www.oncokb.org/
 parentOrganization memorial-sloan-kettering-cancer-center
 conceptDescription SK's Precision Oncology Knowledge Base
-
-website https://www.oncokb.org/
 
 domainName oncokb.org
  registered 2014

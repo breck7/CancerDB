@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id cancer-of-unknown-primary-nos
 name Cancer of Unknown Primary, NOS
 type cancerType
-mainType Cancer of Unknown Primary
+subTypes 0
 tissue Other
+mainType Cancer of Unknown Primary
 
 oncoTreeId CUPNOS
 parentOncoTreeId CUP
 oncoTreeLevel 3
-subTypes 0

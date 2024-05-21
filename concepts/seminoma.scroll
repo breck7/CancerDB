@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id seminoma
 name Seminoma
 type cancerType
-mainType Germ Cell Tumor
+subTypes 0
 tissue Testis
+mainType Germ Cell Tumor
 
 oncoTreeId SEM
 parentOncoTreeId TESTIS
 umls C0036631
 nciCode C9309
 oncoTreeLevel 2
-subTypes 0

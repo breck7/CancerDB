@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id pilocytic-astrocytoma
 name Pilocytic Astrocytoma
 type cancerType
-mainType Glioma
+subTypes 0
 tissue CNS/Brain
+mainType Glioma
 
 oncoTreeId PAST
 parentOncoTreeId ENCG
 umls C0334583
 nciCode C4047
 oncoTreeLevel 3
-subTypes 0

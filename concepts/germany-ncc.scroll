@@ -1,9 +1,10 @@
 import ../code/conceptPage.scroll
+
 id germany-ncc
 name German Cancer Research Center
 type nationalCancerInstitute
-
 website https://www.dkfz.de/en/index.html
-twitter https://twitter.com/dkfz
 
 country Germany
+
+twitter https://twitter.com/dkfz

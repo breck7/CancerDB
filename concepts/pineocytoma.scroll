@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id pineocytoma
 name Pineocytoma
 type cancerType
-mainType Pineal Tumor
+subTypes 0
 tissue CNS/Brain
+mainType Pineal Tumor
 
 oncoTreeId PINC
 parentOncoTreeId PINT
 umls C0917890
 nciCode C6966
 oncoTreeLevel 3
-subTypes 0

@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id unclassified-renal-cell-carcinoma
 name Unclassified Renal Cell Carcinoma
 type cancerType
-mainType Renal Cell Carcinoma
+subTypes 0
 tissue Kidney
+mainType Renal Cell Carcinoma
 
 oncoTreeId URCC
 parentOncoTreeId NCCRCC
 umls C1336853
 nciCode C27892
 oncoTreeLevel 4
-subTypes 0

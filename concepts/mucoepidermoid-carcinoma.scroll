@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id mucoepidermoid-carcinoma
 name Mucoepidermoid Carcinoma
 type cancerType
-mainType Salivary Gland Cancer
+subTypes 0
 tissue Head and Neck
+mainType Salivary Gland Cancer
 
 oncoTreeId MUCC
 parentOncoTreeId SACA
 umls C0206694
 nciCode C3772
 oncoTreeLevel 3
-subTypes 0

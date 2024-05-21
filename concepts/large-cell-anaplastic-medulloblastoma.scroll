@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id large-cell-anaplastic-medulloblastoma
 name Large Cell/Anaplastic Medulloblastoma
 type cancerType
-mainType Embryonal Tumor
+subTypes 0
 tissue CNS/Brain
+mainType Embryonal Tumor
 
 oncoTreeId AMBL
 parentOncoTreeId EMBT
 umls C1266180
 nciCode C6904
 oncoTreeLevel 3
-subTypes 0

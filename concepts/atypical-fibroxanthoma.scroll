@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id atypical-fibroxanthoma
 name Atypical Fibroxanthoma
 type cancerType
-mainType Skin Cancer, Non-Melanoma
+subTypes 0
 tissue Skin
+mainType Skin Cancer, Non-Melanoma
 
 oncoTreeId AFX
 parentOncoTreeId SKIN
 umls C0346053
 nciCode C4246
 oncoTreeLevel 2
-subTypes 0

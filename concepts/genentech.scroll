@@ -1,11 +1,13 @@
 import ../code/conceptPage.scroll
+
 id genentech
 name Genentech
 type company
+website https://www.gene.com/
 parentOrganization roche
 
-website https://www.gene.com/
 wikipedia https://en.wikipedia.org/wiki/Genentech
+
 twitter https://twitter.com/genentech
  followers 128600
 facebook https://www.facebook.com/Genentech/

@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id inverted-urothelial-papilloma
 name Inverted Urothelial Papilloma
 type cancerType
-mainType Bladder Cancer
+subTypes 0
 tissue Bladder/Urinary Tract
+mainType Bladder Cancer
 
 oncoTreeId IUP
 parentOncoTreeId BLADDER
 oncoTreeLevel 2
-subTypes 0

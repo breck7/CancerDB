@@ -1,19 +1,20 @@
 import ../code/conceptPage.scroll
+
 id dartmouth-cancer-center
 name Dartmouth Cancer Center
 type nciCancerCenter
-
 website https://cancer.dartmouth.edu/
+
+phoneNumber 1-802-447-1836
+country United States
+city Lebanon, New Hampshire
+
 wikipedia https://en.wikipedia.org/wiki/Dartmouth_Cancer_Center
+
 twitter https://twitter.com/DartmouthCancer
  followers 2342
 facebook https://www.facebook.com/dartmouthcancer
  followers 3131
-
-phoneNumber 1-802-447-1836
-
-country United States
-city Lebanon, New Hampshire
 
 nciDesignation Comprehensive Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/dartmouthnorriscotton

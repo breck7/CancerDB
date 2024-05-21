@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id atypical-meningioma
 name Atypical Meningioma
 type cancerType
-mainType CNS Cancer
+subTypes 0
 tissue CNS/Brain
+mainType CNS Cancer
 
 oncoTreeId ATM
 parentOncoTreeId MNGT
 umls C0431122
 nciCode C4723
 oncoTreeLevel 3
-subTypes 0

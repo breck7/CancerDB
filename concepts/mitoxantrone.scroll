@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id mitoxantrone
 name Mitoxantrone
 type chemotherapyDrug anthracycline
 tradenames Novantrone
-
-wikipedia https://en.wikipedia.org/wiki/Mitoxantrone
-
 routesOfAdministration intravenous
+
 kegg D08224
 drugBank DB01204
 medlinePlus a608019
 pubChem 4212
+
+wikipedia https://en.wikipedia.org/wiki/Mitoxantrone

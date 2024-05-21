@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id glioma-nos
 name Glioma, NOS
 type cancerType
-mainType Glioma
+subTypes 0
 tissue CNS/Brain
+mainType Glioma
 
 oncoTreeId GNOS
 parentOncoTreeId DIFG
 oncoTreeLevel 3
-subTypes 0

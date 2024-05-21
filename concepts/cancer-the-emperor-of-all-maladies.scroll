@@ -1,9 +1,10 @@
 import ../code/conceptPage.scroll
+
 id cancer-the-emperor-of-all-maladies
 name Cancer: The Emperor of All Maladies
 type documentary
-appeared 2015
-
 website https://www.pbs.org/kenburns/cancer-emperor-of-all-maladies/
-wikipedia https://en.wikipedia.org/wiki/Cancer_(film)
+appeared 2015
 reference https://www.imdb.com/title/tt4383082/
+
+wikipedia https://en.wikipedia.org/wiki/Cancer_(film)

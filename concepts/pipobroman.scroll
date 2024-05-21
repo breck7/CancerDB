@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id pipobroman
 name Pipobroman
 type chemotherapyDrug alkylatingAgent
 tradenames Vercite && Vercyte
 
-wikipedia https://en.wikipedia.org/wiki/Pipobroman
-
 kegg D00467
 drugBank DB00236
 pubChem 4842
+
+wikipedia https://en.wikipedia.org/wiki/Pipobroman

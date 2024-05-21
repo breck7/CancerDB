@@ -1,10 +1,11 @@
 import ../code/conceptPage.scroll
+
 id camptothecin
 name Camptothecin
 type chemotherapyDrug
 
-wikipedia https://en.wikipedia.org/wiki/Camptothecin
-
 kegg C01897
 drugBank DB04690
 pubChem 2538
+
+wikipedia https://en.wikipedia.org/wiki/Camptothecin

@@ -1,24 +1,23 @@
 import ../code/conceptPage.scroll
+
 id esophagus-stomach
 name Esophagus/Stomach Cancer
 type cancerType
-mainType Esophageal/Stomach Cancer, NOS
-uscsId Esophagus
+subTypes 23
 tissue Esophagus/Stomach
-uscsDeathsPerYear 15918
-uscsCasesPerYear 18872
-uscsMortalityRate 84%
+mainType Esophageal/Stomach Cancer, NOS
+gco https://gco.iarc.fr/today/data/factsheets/cancers/6-Oesophagus-fact-sheet.pdf
 
 oncoTreeId STOMACH
 parentOncoTreeId TISSUE
 umls C0038351
 nciCode C12391
 oncoTreeLevel 1
-subTypes 23
 
-wikipedia https://en.wikipedia.org/wiki/Esophageal_cancer
-gco https://gco.iarc.fr/today/data/factsheets/cancers/6-Oesophagus-fact-sheet.pdf
-
+uscsId Esophagus
+uscsDeathsPerYear 15918
+uscsCasesPerYear 18872
+uscsMortalityRate 84%
 uscsTable 2019
  sex|age|population|cases|deaths
  F|0|1841226|~|~
@@ -59,3 +58,5 @@ uscsTable 2019
  M|75-79|4317707|1846|1750
  M|80-84|2678743|1186|1267
  M|85+|2374207|947|1174
+
+wikipedia https://en.wikipedia.org/wiki/Esophageal_cancer

@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id myeloid-leukemia-associated-with-down-syndrome
 name Myeloid Leukemia Associated with Down Syndrome
 type cancerType
-mainType Leukemia
+subTypes 0
 tissue Myeloid
+mainType Leukemia
 
 oncoTreeId MLADS
 parentOncoTreeId MPRDS
 oncoTreeLevel 5
-subTypes 0

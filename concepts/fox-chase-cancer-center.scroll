@@ -1,10 +1,16 @@
 import ../code/conceptPage.scroll
+
 id fox-chase-cancer-center
 name Fox Chase Cancer Center
 type nciCancerCenter
-
 website https://www.foxchase.org/
+
+phoneNumber 1-888-FOX-CHASE
+country United States
+city Philadelphia, Pennsylvania
+
 wikipedia https://en.wikipedia.org/wiki/Fox_Chase_Cancer_Center
+
 twitter https://twitter.com/FoxChaseCancer
  followers 16200
 facebook https://www.facebook.com/foxchasecancercenter
@@ -15,11 +21,6 @@ youTubeChannel https://www.youtube.com/user/FoxChaseCancerCenter
  followers 1920
 instagram https://www.instagram.com/foxchasecancercenter/
  followers 3176
-
-phoneNumber 1-888-FOX-CHASE
-
-country United States
-city Philadelphia, Pennsylvania
 
 nciDesignation Comprehensive Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/foxchase

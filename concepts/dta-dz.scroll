@@ -1,11 +1,11 @@
 import ../code/conceptPage.scroll
+
 id dta-dz
 name DTA
 type registry
 appeared 2004
 standsFor Des Tumeurs d’Alger
 conceptDescription Seems to have been stationed in two hospitals in the city of Algiers (Aïn Taya and Hussein Dey)
-
 reference http://www.santemaghreb.com/algerie/registre_tumeurs.pdf
 reference https://ghdx.healthdata.org/record/algeria-algiers-cancer-registry-report-2004
 

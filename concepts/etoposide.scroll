@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id etoposide
 name Etoposide
 type chemotherapyDrug
 tradenames Etopophos && Toposar && Vepesid
-
-wikipedia https://en.wikipedia.org/wiki/Etoposide
-
 routesOfAdministration oral intravenous
+
 kegg D00125
 drugBank DB00773
 medlinePlus a684055
 pubChem 36462
+
+wikipedia https://en.wikipedia.org/wiki/Etoposide

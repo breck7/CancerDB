@@ -1,10 +1,11 @@
 import ../code/conceptPage.scroll
+
 id ctca
 name Cancer Treatment Centers of America
 type hospital
 appeared 1988
 closed 2023
 
-wikipedia https://en.wikipedia.org/wiki/Cancer_Treatment_Centers_of_America
-
 country United States
+
+wikipedia https://en.wikipedia.org/wiki/Cancer_Treatment_Centers_of_America

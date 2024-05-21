@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id hepatocellular-carcinoma
 name Hepatocellular Carcinoma
 type cancerType
-mainType Hepatobiliary Cancer
+subTypes 0
 tissue Liver
+mainType Hepatobiliary Cancer
 
 oncoTreeId HCC
 parentOncoTreeId LIVER
 umls C0019204
 nciCode C3099
 oncoTreeLevel 2
-subTypes 0

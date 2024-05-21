@@ -1,17 +1,18 @@
 import ../code/conceptPage.scroll
+
 id breastcancer-dot-org
 name Breastcancer.org
 type website cancerNonProfit
+website https://www.breastcancer.org
 cancerTypes breast
 
-website https://www.breastcancer.org
+country United States
+city Ardmore, PA
+
 twitter https://twitter.com/Breastcancerorg
 facebook https://www.facebook.com/breastcancerorg
 youTubeChannel https://www.youtube.com/c/breastcancerorg
 instagram https://www.instagram.com/breastcancerorg
-
-country United States
-city Ardmore, PA
 
 ein 233082851
 charityNavigator https://www.charitynavigator.org/ein/233082851

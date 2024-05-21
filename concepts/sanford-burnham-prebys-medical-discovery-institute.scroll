@@ -1,20 +1,21 @@
 import ../code/conceptPage.scroll
+
 id sanford-burnham-prebys-medical-discovery-institute
 name Sanford Burnham Prebys Medical Discovery Institute
 type nciCancerCenter
-
 website https://www.sbpdiscovery.org/
+
+phoneNumber 1-858-646-3100
+country United States
+city La Jolla, California
+
 wikipedia https://en.wikipedia.org/wiki/Sanford_Burnham_Prebys_Medical_Discovery_Institute
+
 twitter https://twitter.com/sbpdiscovery
  followers 6641
 facebook https://facebook.com/sbpdiscovery
 linkedin https://linkedin.com/company/sbpdiscovery
 instagram https://instagram.com/sbpdiscovery
-
-phoneNumber 1-858-646-3100
-
-country United States
-city La Jolla, California
 
 nciDesignation Basic Laboratory Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/sanfordburnham

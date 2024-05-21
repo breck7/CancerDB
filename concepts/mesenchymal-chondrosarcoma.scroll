@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id mesenchymal-chondrosarcoma
 name Mesenchymal Chondrosarcoma
 type cancerType
-mainType Bone Cancer
+subTypes 0
 tissue Bone
+mainType Bone Cancer
 
 oncoTreeId MCHS
 parentOncoTreeId CHS
 umls C1708980
 nciCode C53493
 oncoTreeLevel 3
-subTypes 0

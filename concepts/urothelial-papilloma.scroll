@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id urothelial-papilloma
 name Urothelial Papilloma
 type cancerType
-mainType Bladder Cancer
+subTypes 0
 tissue Bladder/Urinary Tract
+mainType Bladder Cancer
 
 oncoTreeId UPA
 parentOncoTreeId BLADDER
 oncoTreeLevel 2
-subTypes 0

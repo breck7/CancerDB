@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id clear-cell-meningioma
 name Clear cell Meningioma
 type cancerType
-mainType CNS Cancer
+subTypes 0
 tissue CNS/Brain
+mainType CNS Cancer
 
 oncoTreeId CCM
 parentOncoTreeId MNGT
 umls C0431121
 nciCode C4722
 oncoTreeLevel 3
-subTypes 0

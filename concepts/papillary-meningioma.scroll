@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id papillary-meningioma
 name Papillary Meningioma
 type cancerType
-mainType CNS Cancer
+subTypes 0
 tissue CNS/Brain
+mainType CNS Cancer
 
 oncoTreeId PPM
 parentOncoTreeId MNGT
 umls C3163622
 nciCode C3904
 oncoTreeLevel 3
-subTypes 0

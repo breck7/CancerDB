@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id medullomyoblastoma
 name Medullomyoblastoma
 type cancerType
-mainType Embryonal Tumor
+subTypes 0
 tissue CNS/Brain
+mainType Embryonal Tumor
 
 oncoTreeId MMB
 parentOncoTreeId EMBT
 umls C0205833
 nciCode C3706
 oncoTreeLevel 3
-subTypes 0

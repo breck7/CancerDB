@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id molar-pregnancy
 name Molar Pregnancy
 type cancerType
-mainType Gestational Trophoblastic Disease
+subTypes 3
 tissue Uterus
+mainType Gestational Trophoblastic Disease
 
 oncoTreeId MP
 parentOncoTreeId GTD
 umls C0020217
 nciCode C3110
 oncoTreeLevel 3
-subTypes 3

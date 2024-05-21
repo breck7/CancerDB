@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id mucinous-cystic-neoplasm
 name Mucinous Cystic Neoplasm
 type cancerType
-mainType Pancreatic Cancer
+subTypes 0
 tissue Pancreas
+mainType Pancreatic Cancer
 
 oncoTreeId MCN
 parentOncoTreeId PACT
 umls C1518872
 nciCode C41247
 oncoTreeLevel 3
-subTypes 0

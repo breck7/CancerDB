@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id anaplastic-ganglioglioma
 name Anaplastic Ganglioglioma
 type cancerType
-mainType Glioma
+subTypes 0
 tissue CNS/Brain
+mainType Glioma
 
 oncoTreeId AGNG
 parentOncoTreeId ENCG
 umls C0431112
 nciCode C4717
 oncoTreeLevel 3
-subTypes 0

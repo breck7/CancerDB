@@ -1,23 +1,23 @@
 import ../code/conceptPage.scroll
+
 id testis
 name Testicular Cancer
 type cancerType
-mainType Testicular Cancer, NOS
+subTypes 11
 tissue Testis
-uscsDeathsPerYear 421
-uscsCasesPerYear 8729
-uscsMortalityRate 5%
+mainType Testicular Cancer, NOS
+cancerDotOrg https://www.cancer.org/cancer/testicular-cancer.html
+gco https://gco.iarc.fr/today/data/factsheets/cancers/28-Testis-fact-sheet.pdf
 
 oncoTreeId TESTIS
 parentOncoTreeId TISSUE
 umls C0039597
 nciCode C12412
 oncoTreeLevel 1
-subTypes 11
 
-cancerDotOrg https://www.cancer.org/cancer/testicular-cancer.html
-gco https://gco.iarc.fr/today/data/factsheets/cancers/28-Testis-fact-sheet.pdf
-
+uscsDeathsPerYear 421
+uscsCasesPerYear 8729
+uscsMortalityRate 5%
 uscsTable 2019
  sex|age|population|cases|deaths
  M|0|1921001|~|~

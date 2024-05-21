@@ -1,4 +1,5 @@
 import ../code/conceptPage.scroll
+
 id gilead-sciences
 name Gilead Sciences
 type publicCompany

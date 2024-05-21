@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id ossifying-fibromyxoid-tumor
 name Ossifying Fibromyxoid Tumor
 type cancerType
-mainType Soft Tissue Sarcoma
+subTypes 0
 tissue Soft Tissue
+mainType Soft Tissue Sarcoma
 
 oncoTreeId OFMT
 parentOncoTreeId MYXO
 umls C1266128
 nciCode C6582
 oncoTreeLevel 3
-subTypes 0

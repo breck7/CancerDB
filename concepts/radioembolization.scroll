@@ -1,7 +1,7 @@
 import ../code/conceptPage.scroll
+
 id radioembolization
 name Radioembolization
 type radiationTherapy
 conceptDescription A type of radiation therapy used to treat liver cancer or cancer that has spread to the liver. A thin, flexible tube is used to inject tiny beads that hold the radioactive substance yttrium Y 90 into the main blood vessel that carries blood to the liver. The beads collect in the tumor and in blood vessels near the tumor, and the yttrium Y 90 gives off radiation. This destroys the blood vessels that the tumor needs to grow and kills the cancer cells. Radioembolization is a type of internal radiation therapy. Also called intra-arterial brachytherapy.
-
 reference https://www.cancer.gov/publications/dictionaries/cancer-terms/def/radioembolization

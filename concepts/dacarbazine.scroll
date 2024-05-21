@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id dacarbazine
 name Dacarbazine
 type chemotherapyDrug alkylatingAgent
 tradenames DTIC-Dome
-
-wikipedia https://en.wikipedia.org/wiki/Dacarbazine
-
 routesOfAdministration intravenous
+
 kegg D00288
 drugBank DB00851
 medlinePlus a682750
 pubChem 2942
+
+wikipedia https://en.wikipedia.org/wiki/Dacarbazine

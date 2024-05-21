@@ -1,16 +1,15 @@
 import ../code/conceptPage.scroll
+
 id laryngeal-cancer
 name Laryngeal cancer
 type cancerType
+gco https://gco.iarc.fr/today/data/factsheets/cancers/14-Larynx-fact-sheet.pdf
+reference https://my.clevelandclinic.org/health/diseases/16611-laryngeal-cancer
+
 uscsId Larynx
 uscsDeathsPerYear 3789
 uscsCasesPerYear 12050
 uscsMortalityRate 31%
-
-wikipedia https://en.wikipedia.org/wiki/Laryngeal_cancer
-gco https://gco.iarc.fr/today/data/factsheets/cancers/14-Larynx-fact-sheet.pdf
-reference https://my.clevelandclinic.org/health/diseases/16611-laryngeal-cancer
-
 uscsTable 2019
  sex|age|population|cases|deaths
  F|0|1841226|~|~
@@ -51,3 +50,5 @@ uscsTable 2019
  M|75-79|4317707|978|371
  M|80-84|2678743|605|294
  M|85+|2374207|493|304
+
+wikipedia https://en.wikipedia.org/wiki/Laryngeal_cancer

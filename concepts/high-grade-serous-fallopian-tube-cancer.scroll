@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id high-grade-serous-fallopian-tube-cancer
 name High-Grade Serous Fallopian Tube Cancer
 type cancerType
-mainType Ovarian Cancer
+subTypes 0
 tissue Ovary/Fallopian Tube
+mainType Ovarian Cancer
 
 oncoTreeId HGSFT
 parentOncoTreeId OOVC
 oncoTreeLevel 3
-subTypes 0

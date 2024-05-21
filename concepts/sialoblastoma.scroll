@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id sialoblastoma
 name Sialoblastoma
 type cancerType
-mainType Sialoblastoma
+subTypes 0
 tissue Head and Neck
+mainType Sialoblastoma
 
 oncoTreeId SBL
 parentOncoTreeId HEAD_NECK
 oncoTreeLevel 2
-subTypes 0

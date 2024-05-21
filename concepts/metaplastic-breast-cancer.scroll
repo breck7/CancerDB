@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id metaplastic-breast-cancer
 name Metaplastic Breast Cancer
 type cancerType
-mainType Breast Cancer
+subTypes 8
 tissue Breast
+mainType Breast Cancer
 
 oncoTreeId MBC
 parentOncoTreeId BREAST
 umls C1334708
 nciCode C5164
 oncoTreeLevel 2
-subTypes 8

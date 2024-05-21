@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id ewing-sarcoma
 name Ewing Sarcoma
 type cancerType
-mainType Bone Cancer
+subTypes 0
 tissue Bone
+mainType Bone Cancer
 
 oncoTreeId ES
 parentOncoTreeId BONE
 umls C0553580
 nciCode C4817
 oncoTreeLevel 2
-subTypes 0

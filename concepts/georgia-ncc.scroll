@@ -1,8 +1,8 @@
 import ../code/conceptPage.scroll
+
 id georgia-ncc
 name National Cancer Center
 type nationalCancerInstitute
-
 website http://ncdc.ge/
 
 country Georgia

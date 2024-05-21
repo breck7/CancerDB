@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id adenosquamous-carcinoma-of-the-pancreas
 name Adenosquamous Carcinoma of the Pancreas
 type cancerType
-mainType Pancreatic Cancer
+subTypes 0
 tissue Pancreas
+mainType Pancreatic Cancer
 
 oncoTreeId PAASC
 parentOncoTreeId PANCREAS
 umls C1335299
 nciCode C5721
 oncoTreeLevel 2
-subTypes 0

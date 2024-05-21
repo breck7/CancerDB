@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id chondrosarcoma
 name Chondrosarcoma
 type cancerType
-mainType Bone Cancer
+subTypes 4
 tissue Bone
+mainType Bone Cancer
 
 oncoTreeId CHS
 parentOncoTreeId BONE
 umls C0008479
 nciCode C2946
 oncoTreeLevel 2
-subTypes 4

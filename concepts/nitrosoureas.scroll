@@ -1,8 +1,9 @@
 import ../code/conceptPage.scroll
+
 id nitrosoureas
 name Nitrosoureas
 type chemotherapyDrug alkylatingAgent
 
-wikipedia https://en.wikipedia.org/wiki/Nitrosoureas
-
 pubChem 105035
+
+wikipedia https://en.wikipedia.org/wiki/Nitrosoureas

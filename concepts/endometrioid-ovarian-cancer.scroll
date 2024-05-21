@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id endometrioid-ovarian-cancer
 name Endometrioid Ovarian Cancer
 type cancerType
-mainType Ovarian Cancer
+subTypes 0
 tissue Ovary/Fallopian Tube
+mainType Ovarian Cancer
 
 oncoTreeId EOV
 parentOncoTreeId OVT
 umls C0346163
 nciCode C7979
 oncoTreeLevel 3
-subTypes 0

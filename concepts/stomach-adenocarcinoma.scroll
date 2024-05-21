@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id stomach-adenocarcinoma
 name Stomach Adenocarcinoma
 type cancerType
-mainType Esophagogastric Cancer
+subTypes 5
 tissue Esophagus/Stomach
+mainType Esophagogastric Cancer
 
 oncoTreeId STAD
 parentOncoTreeId EGC
 umls C0278701
 nciCode C4004
 oncoTreeLevel 3
-subTypes 5

@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id embryonal-tumor
 name Embryonal Tumor
 type cancerType
-mainType Embryonal Tumor
+subTypes 11
 tissue CNS/Brain
+mainType Embryonal Tumor
 
 oncoTreeId EMBT
 parentOncoTreeId BRAIN
 umls C0027654
 nciCode C3264
 oncoTreeLevel 2
-subTypes 11

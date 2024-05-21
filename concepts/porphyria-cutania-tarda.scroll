@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id porphyria-cutania-tarda
 name Porphyria Cutania Tarda
 type cancerType
-mainType Skin Cancer, Non-Melanoma
+subTypes 0
 tissue Skin
+mainType Skin Cancer, Non-Melanoma
 
 oncoTreeId PCT
 parentOncoTreeId SKIN
 umls C0162566
 nciCode C27725
 oncoTreeLevel 2
-subTypes 0

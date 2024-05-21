@@ -1,4 +1,5 @@
 import ../code/conceptPage.scroll
+
 id intramuscular-injection
 name Intramuscular injection
 type routeOfAdministration

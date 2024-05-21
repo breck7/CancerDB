@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id clear-cell-sarcoma
 name Clear Cell Sarcoma
 type cancerType
-mainType Soft Tissue Sarcoma
+subTypes 0
 tissue Soft Tissue
+mainType Soft Tissue Sarcoma
 
 oncoTreeId CCS
 parentOncoTreeId SOFT_TISSUE
 umls C0206651
 nciCode C3745
 oncoTreeLevel 2
-subTypes 0

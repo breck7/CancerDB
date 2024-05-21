@@ -1,9 +1,10 @@
 import ../code/conceptPage.scroll
+
 id daiichi-sankyo
 name Daiichi Sankyo
 type company
-
 website https://www.daiichisankyo.com/
+
 wikipedia https://en.wikipedia.org/wiki/Daiichi_Sankyo
 
 domainName daiichisankyo.com

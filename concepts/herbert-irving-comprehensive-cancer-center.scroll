@@ -1,21 +1,22 @@
 import ../code/conceptPage.scroll
+
 id herbert-irving-comprehensive-cancer-center
 name Herbert Irving Comprehensive Cancer Center
 type nciCancerCenter
-
 website https://www.cancer.columbia.edu/
+
+phoneNumber 1-212-305-2500
+country United States
+city New York, New York
+
 wikipedia https://en.wikipedia.org/wiki/Herbert_Irving_Comprehensive_Cancer_Center
+
 twitter https://twitter.com/columbiacancer
  followers 4139
 facebook https://www.facebook.com/ColumbiaCancer/
  followers 4200
 youTubeChannel https://www.youtube.com/channel/UCzy0w2XPMBMBmzxiw6oueTA
  followers 409
-
-phoneNumber 1-212-305-2500
-
-country United States
-city New York, New York
 
 nciDesignation Comprehensive Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/irvingcolumbia

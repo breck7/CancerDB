@@ -1,15 +1,15 @@
 import ../code/conceptPage.scroll
+
 id kaposi-sarcoma
 name Karposi's Sarcoma
 type cancerType
-uscsId Kaposi Sarcoma
-uscsCasesPerYear 54
-
 cancerDotOrg https://www.cancer.org/cancer/kaposi-sarcoma/about/what-is-kaposi-sarcoma.html
 gco https://gco.iarc.fr/today/data/factsheets/cancers/19-Kaposi-sarcoma-fact-sheet.pdf
 reference https://www.mayoclinic.org/diseases-conditions/kaposis-sarcoma/cdc-20387726
 reference https://www.hopkinsmedicine.org/health/conditions-and-diseases/sarcoma/kaposi-sarcoma
 
+uscsId Kaposi Sarcoma
+uscsCasesPerYear 54
 uscsTable 2019
  sex|age|population|cases|deaths
  F|0|1841226|~|.

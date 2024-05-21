@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id t-lymphoblastic-leukemia-lymphoma
 name T-Lymphoblastic Leukemia/Lymphoma
 type cancerType
-mainType T-Lymphoblastic Leukemia/Lymphoma
+subTypes 2
 tissue Lymphoid
+mainType T-Lymphoblastic Leukemia/Lymphoma
 
 oncoTreeId TLL
 parentOncoTreeId LNM
 oncoTreeLevel 3
-subTypes 2

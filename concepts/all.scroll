@@ -1,12 +1,12 @@
 import ../code/conceptPage.scroll
+
 id all
 name Acute lymphoblastic leukemia
 type cancerType
 aka ALL
-
-wikipedia https://en.wikipedia.org/wiki/Acute_lymphoblastic_leukemia
 cancerDotOrg https://www.cancer.org/cancer/acute-lymphocytic-leukemia/about/what-is-all.html
 reference https://www.mayoclinic.org/diseases-conditions/acute-lymphocytic-leukemia/symptoms-causes/syc-20369077
 reference https://www.lls.org/leukemia/acute-lymphoblastic-leukemia
-
 youTubeVideo https://www.youtube.com/watch?v=_Mls5TViEhg
+
+wikipedia https://en.wikipedia.org/wiki/Acute_lymphoblastic_leukemia

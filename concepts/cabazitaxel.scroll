@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id cabazitaxel
 name Cabazitaxel
 type chemotherapyDrug taxane
 tradenames Jevtana
-
-wikipedia https://en.wikipedia.org/wiki/Cabazitaxel
-
 routesOfAdministration intravenous
+
 kegg D09755
 drugBank DB06772
 medlinePlus a611009
 pubChem 9854073
+
+wikipedia https://en.wikipedia.org/wiki/Cabazitaxel

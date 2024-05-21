@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id lymphocyte-rich-classical-hodgkin-lymphoma
 name Lymphocyte-Rich Classical Hodgkin Lymphoma
 type cancerType
-mainType Hodgkin Lymphoma
+subTypes 0
 tissue Lymphoid
+mainType Hodgkin Lymphoma
 
 oncoTreeId LRCHL
 parentOncoTreeId CHL
 oncoTreeLevel 5
-subTypes 0

@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id bladder-urothelial-carcinoma
 name Bladder Urothelial Carcinoma
 type cancerType
-mainType Bladder Cancer
+subTypes 0
 tissue Bladder/Urinary Tract
+mainType Bladder Cancer
 
 oncoTreeId BLCA
 parentOncoTreeId BLADDER
 umls C0279680
 nciCode C39851
 oncoTreeLevel 2
-subTypes 0

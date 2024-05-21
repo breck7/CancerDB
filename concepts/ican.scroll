@@ -1,10 +1,10 @@
 import ../code/conceptPage.scroll
+
 id ican
 name ICAN
 type cancerNonProfit
-standsFor International Cancer Advocacy Network
-
 website https://askican.org/
+standsFor International Cancer Advocacy Network
 
 country United States
 city Phoenix, AZ

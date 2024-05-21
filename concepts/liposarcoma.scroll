@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id liposarcoma
 name Liposarcoma
 type cancerType
-mainType Soft Tissue Sarcoma
+subTypes 4
 tissue Soft Tissue
+mainType Soft Tissue Sarcoma
 
 oncoTreeId LIPO
 parentOncoTreeId SOFT_TISSUE
 umls C0023827
 nciCode C3194
 oncoTreeLevel 2
-subTypes 4

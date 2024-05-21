@@ -1,10 +1,11 @@
 import ../code/conceptPage.scroll
+
 id hopa
 name HOPA
 type professionalOrganization
+website https://www.hoparx.org/
 standsFor Hematology/Oncology Pharmacy Association
 
-website https://www.hoparx.org/
 twitter https://twitter.com/hoparx?lang=en
  followers 2373
 facebook https://www.facebook.com/HOPARX/

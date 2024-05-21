@@ -1,12 +1,13 @@
 import ../code/conceptPage.scroll
+
 id mesonephric-carcinoma
 name Mesonephric Carcinoma
 type cancerType
-mainType Cervical Cancer
+subTypes 0
 tissue Cervix
+mainType Cervical Cancer
 
 oncoTreeId CEMN
 parentOncoTreeId CEAD
 umls CL329978
 oncoTreeLevel 3
-subTypes 0

@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id diffuse-large-b-cell-lymphoma-nos
 name Diffuse Large B-Cell Lymphoma, NOS
 type cancerType
-mainType Mature B-Cell Neoplasms
+subTypes 2
 tissue Lymphoid
+mainType Mature B-Cell Neoplasms
 
 oncoTreeId DLBCLNOS
 parentOncoTreeId MBN
 oncoTreeLevel 5
-subTypes 2

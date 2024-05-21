@@ -1,7 +1,8 @@
 import ../code/conceptPage.scroll
+
 id journal-of-the-national-cancer-institute
 name Journal of the National Cancer Institute
 type journal
-
 website https://academic.oup.com/jnci
+
 wikipedia https://en.wikipedia.org/wiki/Journal_of_the_National_Cancer_Institute

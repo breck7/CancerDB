@@ -1,10 +1,12 @@
 import ../code/conceptPage.scroll
+
 id bristol-myers-squibb
 name Bristol Myers Squibb
 type publicCompany
-
 website https://www.bms.com/
+
 wikipedia https://en.wikipedia.org/wiki/Bristol_Myers_Squibb
+
 twitter http://twitter.com/BMSNEWS
  followers 157500
 facebook https://www.facebook.com/BristolMyersSquibb

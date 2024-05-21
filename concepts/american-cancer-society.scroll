@@ -1,15 +1,15 @@
 import ../code/conceptPage.scroll
+
 id american-cancer-society
 name American Cancer Society
 type cancerNonProfit
+website https://www.cancer.org/
 appeared 1913
 
-website https://www.cancer.org/
-wikipedia https://en.wikipedia.org/wiki/American_Cancer_Society
-
 phoneNumber 1-800-227-2345
-
 country United States
+
+wikipedia https://en.wikipedia.org/wiki/American_Cancer_Society
 
 domainName cancer.org
  registered 1994

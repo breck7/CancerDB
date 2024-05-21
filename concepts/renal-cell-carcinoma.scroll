@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id renal-cell-carcinoma
 name Renal Cell Carcinoma
 type cancerType
-mainType Renal Cell Carcinoma
+subTypes 16
 tissue Kidney
+mainType Renal Cell Carcinoma
 
 oncoTreeId RCC
 parentOncoTreeId KIDNEY
 umls C0007134
 nciCode C9385
 oncoTreeLevel 2
-subTypes 16

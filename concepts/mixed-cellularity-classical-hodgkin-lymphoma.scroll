@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id mixed-cellularity-classical-hodgkin-lymphoma
 name Mixed Cellularity Classical Hodgkin Lymphoma
 type cancerType
-mainType Hodgkin Lymphoma
+subTypes 0
 tissue Lymphoid
+mainType Hodgkin Lymphoma
 
 oncoTreeId MCCHL
 parentOncoTreeId CHL
 oncoTreeLevel 5
-subTypes 0

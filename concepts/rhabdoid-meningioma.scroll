@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id rhabdoid-meningioma
 name Rhabdoid Meningioma
 type cancerType
-mainType CNS Cancer
+subTypes 0
 tissue CNS/Brain
+mainType CNS Cancer
 
 oncoTreeId RHM
 parentOncoTreeId MNGT
 umls C0259786
 nciCode C6909
 oncoTreeLevel 3
-subTypes 0

@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id monoclonal-immunoglobulin-deposition-diseases-other
 name Monoclonal Immunoglobulin Deposition Diseases, Other
 type cancerType
-mainType Mature B-Cell Neoplasms
+subTypes 0
 tissue Lymphoid
+mainType Mature B-Cell Neoplasms
 
 oncoTreeId MIDDO
 parentOncoTreeId MIDD
 oncoTreeLevel 6
-subTypes 0

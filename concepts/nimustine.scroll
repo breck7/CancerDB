@@ -1,10 +1,11 @@
 import ../code/conceptPage.scroll
+
 id nimustine
 name Nimustine
 type chemotherapyDrug alkylatingAgent
-
-wikipedia https://en.wikipedia.org/wiki/Nimustine
-
 routesOfAdministration intravenous
+
 kegg D08276
 pubChem 39214
+
+wikipedia https://en.wikipedia.org/wiki/Nimustine

@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id histiocytic-dendritic-cell-sarcoma
 name Histiocytic Dendritic Cell Sarcoma
 type cancerType
-mainType Soft Tissue Sarcoma
+subTypes 0
 tissue Soft Tissue
+mainType Soft Tissue Sarcoma
 
 oncoTreeId HDCS
 parentOncoTreeId DCS
 umls C0334663
 nciCode C27349
 oncoTreeLevel 3
-subTypes 0

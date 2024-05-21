@@ -1,16 +1,18 @@
 import ../code/conceptPage.scroll
+
 id nci
 name NCI
 type nationalCancerInstitute
+website https://www.cancer.gov/
 appeared 1937
 standsFor National Cancer Institute
 
-website https://www.cancer.gov/
+country United States
+
 wikipedia https://en.wikipedia.org/wiki/National_Cancer_Institute
+
 twitter https://twitter.com/thenci
  followers 216000
 facebook https://facebook.com/cancer.gov
-
-country United States
 
 domainName cancer.gov

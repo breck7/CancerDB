@@ -1,9 +1,9 @@
 import ../code/conceptPage.scroll
+
 id cervical-cancer-subreddit
 name Cervical Cancer Subreddit
 type subreddit onlineForum
 cancerTypes cervical
-
 subreddit https://www.reddit.com/r/CervicalCancer
  members
   2023 1474

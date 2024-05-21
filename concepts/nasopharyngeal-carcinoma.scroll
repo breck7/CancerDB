@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id nasopharyngeal-carcinoma
 name Nasopharyngeal Carcinoma
 type cancerType
-mainType Head and Neck Cancer
+subTypes 0
 tissue Head and Neck
+mainType Head and Neck Cancer
 
 oncoTreeId NPC
 parentOncoTreeId HEAD_NECK
 umls C2931822
 nciCode C3871
 oncoTreeLevel 2
-subTypes 0

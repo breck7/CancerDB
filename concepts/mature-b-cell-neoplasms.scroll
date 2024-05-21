@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id mature-b-cell-neoplasms
 name Mature B-Cell Neoplasms
 type cancerType
-mainType Mature B-Cell Neoplasms
+subTypes 55
 tissue Lymphoid
+mainType Mature B-Cell Neoplasms
 
 oncoTreeId MBN
 parentOncoTreeId NHL
 umls CL448793
 nciCode C3457
 oncoTreeLevel 4
-subTypes 55

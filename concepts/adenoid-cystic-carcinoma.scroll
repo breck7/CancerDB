@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id adenoid-cystic-carcinoma
 name Adenoid Cystic Carcinoma
 type cancerType
-mainType Salivary Gland Cancer
+subTypes 0
 tissue Head and Neck
+mainType Salivary Gland Cancer
 
 oncoTreeId ACYC
 parentOncoTreeId SACA
 umls C0010606
 nciCode C2970
 oncoTreeLevel 3
-subTypes 0

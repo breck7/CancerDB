@@ -1,16 +1,17 @@
 import ../code/conceptPage.scroll
+
 id damon-runyon-cancer-research-foundation
 name Damon Runyon Cancer Research Foundation
 type cancerNonProfit
-conceptDescription At the Damon Runyon Cancer Research Foundation, we fund high-risk, high-reward cancer research. We identify and enable young scientists who are brilliant, brave and bold enough to go where others haven’t.
-
 website https://www.damonrunyon.org/
-twitter https://twitter.com/damonrunyon
-facebook https://facebook.com/damonrunyon
-linkedin https://linkedin.com/company/damonrunyon
+conceptDescription At the Damon Runyon Cancer Research Foundation, we fund high-risk, high-reward cancer research. We identify and enable young scientists who are brilliant, brave and bold enough to go where others haven’t.
 
 country United States
 city New York, NY
+
+twitter https://twitter.com/damonrunyon
+facebook https://facebook.com/damonrunyon
+linkedin https://linkedin.com/company/damonrunyon
 
 domainName damonrunyon.org
  registered 2008

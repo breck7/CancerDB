@@ -1,9 +1,9 @@
 import ../code/conceptPage.scroll
+
 id dicycloplatin
 name Dicycloplatin
 type chemotherapyDrug
 tradenames Dicycloplatin
+routesOfAdministration intravenous
 
 wikipedia https://en.wikipedia.org/wiki/Dicycloplatin
-
-routesOfAdministration intravenous

@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id ciliated-muconodular-papillary-tumor-of-the-lung
 name Ciliated Muconodular Papillary Tumor of the Lung
 type cancerType
-mainType Non-Small Cell Lung Cancer
+subTypes 0
 tissue Lung
+mainType Non-Small Cell Lung Cancer
 
 oncoTreeId CMPT
 parentOncoTreeId NSCLC
 oncoTreeLevel 3
-subTypes 0

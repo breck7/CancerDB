@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id ampulla-of-vater
 name Ampulla of Vater
 type cancerType
-mainType Ampullary Carcinoma, NOS
+subTypes 4
 tissue Ampulla of Vater
+mainType Ampullary Carcinoma, NOS
 
 oncoTreeId AMPULLA_OF_VATER
 parentOncoTreeId TISSUE
 umls C0042425
 nciCode C13011
 oncoTreeLevel 1
-subTypes 4

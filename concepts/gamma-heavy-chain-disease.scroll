@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id gamma-heavy-chain-disease
 name Gamma Heavy-Chain Disease
 type cancerType
-mainType Mature B-Cell Neoplasms
+subTypes 0
 tissue Lymphoid
+mainType Mature B-Cell Neoplasms
 
 oncoTreeId GHCD
 parentOncoTreeId MBN
 oncoTreeLevel 5
-subTypes 0

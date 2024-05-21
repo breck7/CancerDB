@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id intestinal-type-stomach-adenocarcinoma
 name Intestinal Type Stomach Adenocarcinoma
 type cancerType
-mainType Esophagogastric Cancer
+subTypes 0
 tissue Esophagus/Stomach
+mainType Esophagogastric Cancer
 
 oncoTreeId ISTAD
 parentOncoTreeId STAD
 umls C0279633
 nciCode C9157
 oncoTreeLevel 4
-subTypes 0

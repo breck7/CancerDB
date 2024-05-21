@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id granular-cell-tumor
 name Granular Cell Tumor
 type cancerType
-mainType Sellar Tumor
+subTypes 0
 tissue CNS/Brain
+mainType Sellar Tumor
 
 oncoTreeId GCT
 parentOncoTreeId SELT
 umls C0085167
 nciCode C3474
 oncoTreeLevel 3
-subTypes 0

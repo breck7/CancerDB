@@ -1,10 +1,11 @@
 import ../code/conceptPage.scroll
+
 id elsevier
 name Elsevier
 type company
+website https://www.elsevier.com/
 appeared 1880
 
-website https://www.elsevier.com/
-wikipedia https://www.elsevier.com/
-
 country Netherlands
+
+wikipedia https://www.elsevier.com/

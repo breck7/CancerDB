@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id head-and-neck-mucosal-melanoma
 name Head and Neck Mucosal Melanoma
 type cancerType
-mainType Melanoma
+subTypes 0
 tissue Head and Neck
+mainType Melanoma
 
 oncoTreeId HNMUCM
 parentOncoTreeId HEAD_NECK
 oncoTreeLevel 2
-subTypes 0

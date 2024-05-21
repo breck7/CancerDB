@@ -1,10 +1,16 @@
 import ../code/conceptPage.scroll
+
 id mdanderson
 name The University of Texas MD Anderson Cancer Center
 type nciCancerCenter
-
 website https://www.mdanderson.org/
+
+phoneNumber 1-877-632-6789
+country United States
+city Houston, Texas
+
 wikipedia https://en.wikipedia.org/wiki/MD_Anderson_Cancer_Center
+
 twitter https://twitter.com/mdandersonnews
  followers 131500
 facebook https://facebook.com/mdanderson
@@ -12,11 +18,6 @@ linkedin https://linkedin.com/company/mdandersoncancercenter
 youTubeChannel https://youtube.com/user/mdandersonorg
 instagram https://instagram.com/mdandersoncancercenter
 pinterest https://pinterest.com/mdandersoncc
-
-phoneNumber 1-877-632-6789
-
-country United States
-city Houston, Texas
 
 nciDesignation Comprehensive Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/mdanderson

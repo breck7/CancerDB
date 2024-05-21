@@ -1,16 +1,17 @@
 import ../code/conceptPage.scroll
+
 id the-wistar-institute-cancer-center
 name The Wistar Institute Cancer Center
 type nciCancerCenter
-
 website https://wistar.org/research-discoveries/ellen-and-ronald-caplan-cancer-center
-wikipedia https://en.wikipedia.org/wiki/Wistar_Institute
-linkedin https://linkedin.com/company/the-wistar-institute
 
 phoneNumber 1-215-898-3700
-
 country United States
 city Philadelphia, Pennsylvania
+
+wikipedia https://en.wikipedia.org/wiki/Wistar_Institute
+
+linkedin https://linkedin.com/company/the-wistar-institute
 
 nciDesignation Basic Laboratory Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/wistar

@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id urethral-cancer
 name Urethral Cancer
 type cancerType
-mainType Bladder Cancer
+subTypes 3
 tissue Bladder/Urinary Tract
+mainType Bladder Cancer
 
 oncoTreeId UCA
 parentOncoTreeId BLADDER
 umls C0700101
 nciCode C9106
 oncoTreeLevel 2
-subTypes 3

@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id embryonal-carcinoma-testis
 name Embryonal Carcinoma Testis
 type cancerType
-mainType Germ Cell Tumor
+subTypes 0
 tissue Testis
+mainType Germ Cell Tumor
 
 oncoTreeId EMBCA
 parentOncoTreeId NSGCT
 umls C0238448
 nciCode C6341
 oncoTreeLevel 3
-subTypes 0

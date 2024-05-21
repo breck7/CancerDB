@@ -1,9 +1,10 @@
 import ../code/conceptPage.scroll
+
 id baxter
 name Baxter International
 type publicCompany
-
 website https://www.baxter.com/
+
 wikipedia https://en.wikipedia.org/wiki/Baxter_International
 
 nyse https://www.nyse.com/quote/XNYS:BAX

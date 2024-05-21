@@ -1,4 +1,5 @@
 import ../code/conceptPage.scroll
+
 id microscope-polarizing
 name Polarizing Microscope
 type microscope

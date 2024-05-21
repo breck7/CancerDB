@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id solitary-fibrous-tumor-of-the-central-nervous-system
 name Solitary Fibrous Tumor of the Central Nervous System
 type cancerType
-mainType CNS Cancer
+subTypes 0
 tissue CNS/Brain
+mainType CNS Cancer
 
 oncoTreeId SFTCNS
 parentOncoTreeId MNGT
 oncoTreeLevel 3
-subTypes 0

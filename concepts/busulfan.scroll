@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id busulfan
 name Busulfan
 type chemotherapyDrug alkylatingAgent
 tradenames Myleran && Busilvex && Busulfex IV
-
-wikipedia https://en.wikipedia.org/wiki/Busulfan
-
 routesOfAdministration oral intravenous
+
 kegg D00248
 drugBank DB01008
 medlinePlus a682248
 pubChem 2478
+
+wikipedia https://en.wikipedia.org/wiki/Busulfan

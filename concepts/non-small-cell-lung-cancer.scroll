@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id non-small-cell-lung-cancer
 name Non-Small Cell Lung Cancer
 type cancerType
-mainType Non-Small Cell Lung Cancer
+subTypes 17
 tissue Lung
+mainType Non-Small Cell Lung Cancer
 
 oncoTreeId NSCLC
 parentOncoTreeId LUNG
 umls C0007131
 nciCode C2926
 oncoTreeLevel 2
-subTypes 17

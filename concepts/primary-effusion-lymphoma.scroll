@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id primary-effusion-lymphoma
 name Primary Effusion Lymphoma
 type cancerType
-mainType Mature B-Cell Neoplasms
+subTypes 0
 tissue Lymphoid
+mainType Mature B-Cell Neoplasms
 
 oncoTreeId PEL
 parentOncoTreeId MBN
 umls C1292753
 nciCode C6915
 oncoTreeLevel 5
-subTypes 0

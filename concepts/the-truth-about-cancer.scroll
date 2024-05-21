@@ -1,10 +1,11 @@
 import ../code/conceptPage.scroll
+
 id the-truth-about-cancer
 name The Truth About Cancer
 type website
+website https://thetruthaboutcancer.com/
 aka TTAC
 
-website https://thetruthaboutcancer.com/
 facebook https://www.facebook.com/thetruthaboutcancer/
  followers 1126000
 instagram https://www.instagram.com/thetruthaboutcancerttac/

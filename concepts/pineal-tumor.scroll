@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id pineal-tumor
 name Pineal Tumor
 type cancerType
-mainType Pineal Tumor
+subTypes 4
 tissue CNS/Brain
+mainType Pineal Tumor
 
 oncoTreeId PINT
 parentOncoTreeId BRAIN
 umls C1412004
 nciCode C3328
 oncoTreeLevel 2
-subTypes 4

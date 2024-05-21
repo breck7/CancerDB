@@ -1,10 +1,10 @@
 import ../code/conceptPage.scroll
+
 id crsba-dz
 name CRSBA
 type registry
 standsFor Cancer Registry of Sidi-Bel-Abbès
 conceptDescription The hospital is a specialized center in the fight against cancer. Made up of : Block A: Hospital admissions service Block B: Nuclear medicine service and laboratories. Block C: Service of the central operating theater and resuscitation, medical imaging, pharmacy, catering services and teaching service. Block D: Radiotherapy and brachytherapy department, blood collection and analysis unit.
-
 reference https://www.saraivaeassociados.com/project/oncologic-center/
 reference https://fr.fcm.pt/project/24/centre_anti-cancersidi_bel_abbes
 reference https://www.groupe-hasnaoui.com/prescription/centre-anti-cancer-sidi-bel-abbes/

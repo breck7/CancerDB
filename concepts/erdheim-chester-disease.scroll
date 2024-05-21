@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id erdheim-chester-disease
 name Erdheim-Chester Disease
 type cancerType
-mainType Histiocytosis
+subTypes 0
 tissue Myeloid
+mainType Histiocytosis
 
 oncoTreeId ECD
 parentOncoTreeId HDCN
 umls C0878675
 nciCode C53972
 oncoTreeLevel 4
-subTypes 0

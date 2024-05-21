@@ -1,7 +1,8 @@
 import ../code/conceptPage.scroll
+
 id journal-of-clinical-oncology
 name Journal of Clinical Oncology
 type journal
-
 website https://ascopubs.org/journal/jco
+
 wikipedia https://en.wikipedia.org/wiki/Journal_of_Clinical_Oncology

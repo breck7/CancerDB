@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id iga
 name IgA
 type cancerType
-mainType Mature B-Cell Neoplasms
+subTypes 0
 tissue Lymphoid
+mainType Mature B-Cell Neoplasms
 
 oncoTreeId MGUSIGA
 parentOncoTreeId MGUS
 oncoTreeLevel 6
-subTypes 0

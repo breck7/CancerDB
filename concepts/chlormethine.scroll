@@ -1,10 +1,11 @@
 import ../code/conceptPage.scroll
+
 id chlormethine
 name Chlormethine
 type chemotherapyDrug alkylatingAgent
 
-wikipedia https://en.wikipedia.org/wiki/Chlormethine
-
 kegg D0767
 drugBank DB00888
 pubChem 4033
+
+wikipedia https://en.wikipedia.org/wiki/Chlormethine

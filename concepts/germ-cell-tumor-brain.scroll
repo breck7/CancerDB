@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id germ-cell-tumor-brain
 name Germ Cell Tumor, Brain
 type cancerType
-mainType Germ Cell Tumor
+subTypes 8
 tissue CNS/Brain
+mainType Germ Cell Tumor
 
 oncoTreeId BGCT
 parentOncoTreeId BRAIN
 oncoTreeLevel 2
-subTypes 8

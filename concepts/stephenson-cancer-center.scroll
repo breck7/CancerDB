@@ -1,12 +1,11 @@
 import ../code/conceptPage.scroll
+
 id stephenson-cancer-center
 name Stephenson Cancer Center
 type nciCancerCenter
-
 website https://www.ouhealth.com/stephenson-cancer-center/
 
 phoneNumber 1-855-750-2273
-
 country United States
 city Oklahoma City, Oklahoma
 

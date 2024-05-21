@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id phyllodes-tumor-of-the-breast
 name Phyllodes Tumor of the Breast
 type cancerType
-mainType Breast Sarcoma
+subTypes 3
 tissue Breast
+mainType Breast Sarcoma
 
 oncoTreeId PT
 parentOncoTreeId BFN
 umls C0238031
 nciCode C7575
 oncoTreeLevel 3
-subTypes 3

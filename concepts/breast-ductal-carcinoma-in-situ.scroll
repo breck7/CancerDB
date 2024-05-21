@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id breast-ductal-carcinoma-in-situ
 name Breast Ductal Carcinoma In Situ
 type cancerType
-mainType Breast Cancer
+subTypes 1
 tissue Breast
+mainType Breast Cancer
 
 oncoTreeId DCIS
 parentOncoTreeId BREAST
 umls C0007124
 nciCode C2924
 oncoTreeLevel 2
-subTypes 1

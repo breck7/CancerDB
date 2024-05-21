@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id osteoblastic-osteosarcoma
 name Osteoblastic Osteosarcoma
 type cancerType
-mainType Bone Cancer
+subTypes 0
 tissue Bone
+mainType Bone Cancer
 
 oncoTreeId OSOS
 parentOncoTreeId OS
 umls C1704328
 nciCode C53953
 oncoTreeLevel 3
-subTypes 0

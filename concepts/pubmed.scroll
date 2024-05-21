@@ -1,10 +1,11 @@
 import ../code/conceptPage.scroll
+
 id pubmed
 name PubMed
 type onlineDatabase website
+website https://pubmed.ncbi.nlm.nih.gov/
 appeared 1996
 parentOrganization nlm
 conceptDescription PubMed® comprises more than 35 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full text content from PubMed Central and publisher web sites.
 
-website https://pubmed.ncbi.nlm.nih.gov/
 wikipedia https://en.wikipedia.org/wiki/PubMed

@@ -1,19 +1,20 @@
 import ../code/conceptPage.scroll
+
 id duke-cancer-institute
 name Duke Cancer Institute
 type nciCancerCenter
-
 website http://www.dukecancerinstitute.org/
+
+phoneNumber 1-888-ASK-DUKE
+country United States
+city Durham, North Carolina
+
 wikipedia https://en.wikipedia.org/wiki/Duke_Cancer_Institute
+
 twitter https://twitter.com/dukecancer
  followers 15900
 facebook https://facebook.com/dukecancerinstitute
 youTubeChannel https://youtube.com/user/dukecancerinstitute
-
-phoneNumber 1-888-ASK-DUKE
-
-country United States
-city Durham, North Carolina
 
 nciDesignation Comprehensive Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/dukeci

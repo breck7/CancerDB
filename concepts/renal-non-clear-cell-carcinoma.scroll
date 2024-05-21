@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id renal-non-clear-cell-carcinoma
 name Renal Non-Clear Cell Carcinoma
 type cancerType
-mainType Renal Cell Carcinoma
+subTypes 13
 tissue Kidney
+mainType Renal Cell Carcinoma
 
 oncoTreeId NCCRCC
 parentOncoTreeId RCC
 oncoTreeLevel 3
-subTypes 13

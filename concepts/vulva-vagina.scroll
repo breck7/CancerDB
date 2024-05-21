@@ -1,19 +1,20 @@
 import ../code/conceptPage.scroll
+
 id vulva-vagina
 name Vulva and Vaginal Cancers
 type cancerType
-mainType Vulvar/Vaginal Cancer, NOS
+subTypes 13
 tissue Vulva/Vagina
+mainType Vulvar/Vaginal Cancer, NOS
+reference https://www.cdc.gov/cancer/vagvulv/basic_info/index.htm
+reference https://www.mayoclinic.org/diseases-conditions/vulvar-cancer/symptoms-causes/syc-20368051
+reference https://www.uclahealth.org/medical-services/obgyn/conditions-treated/vulvar-and-vaginal-cancer
+reference https://en.wikipedia.org/wiki/Vaginal_cancer
 
 oncoTreeId VULVA
 parentOncoTreeId TISSUE
 umls C0042993
 nciCode C12408
 oncoTreeLevel 1
-subTypes 13
 
 wikipedia https://en.wikipedia.org/wiki/Vulvar_cancer
-reference https://www.cdc.gov/cancer/vagvulv/basic_info/index.htm
-reference https://www.mayoclinic.org/diseases-conditions/vulvar-cancer/symptoms-causes/syc-20368051
-reference https://www.uclahealth.org/medical-services/obgyn/conditions-treated/vulvar-and-vaginal-cancer
-reference https://en.wikipedia.org/wiki/Vaginal_cancer

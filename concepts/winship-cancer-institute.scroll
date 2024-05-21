@@ -1,17 +1,18 @@
 import ../code/conceptPage.scroll
+
 id winship-cancer-institute
 name Winship Cancer Institute
 type nciCancerCenter
-
 website https://winshipcancer.emory.edu/
-wikipedia https://en.wikipedia.org/wiki/Winship_Cancer_Institute
-linkedin https://linkedin.com/company/winship-cancer-institute
-youTubeChannel https://youtube.com/user/winshipcancer
 
 phoneNumber 1-404-778-1900
-
 country United States
 city Atlanta, Georgia
+
+wikipedia https://en.wikipedia.org/wiki/Winship_Cancer_Institute
+
+linkedin https://linkedin.com/company/winship-cancer-institute
+youTubeChannel https://youtube.com/user/winshipcancer
 
 nciDesignation Comprehensive Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/emorywinship

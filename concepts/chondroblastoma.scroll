@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id chondroblastoma
 name Chondroblastoma
 type cancerType
-mainType Bone Cancer
+subTypes 0
 tissue Bone
+mainType Bone Cancer
 
 oncoTreeId CHBL
 parentOncoTreeId BONE
 umls C0008441
 nciCode C2945
 oncoTreeLevel 2
-subTypes 0

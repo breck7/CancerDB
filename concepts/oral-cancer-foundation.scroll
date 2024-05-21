@@ -1,10 +1,11 @@
 import ../code/conceptPage.scroll
+
 id oral-cancer-foundation
 name Oral Cancer Foundation
 type cancerNonProfit
+website https://oralcancerfoundation.org/
 cancerTypes oral
 
-website https://oralcancerfoundation.org/
 facebook https://facebook.com/oralcancer
 youTubeChannel https://youtube.com/user/oralcancerfoundation
 instagram https://instagram.com/oralcancerfoundation

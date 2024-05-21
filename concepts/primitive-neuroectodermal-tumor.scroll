@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id primitive-neuroectodermal-tumor
 name Primitive Neuroectodermal Tumor
 type cancerType
-mainType Embryonal Tumor
+subTypes 0
 tissue CNS/Brain
+mainType Embryonal Tumor
 
 oncoTreeId PNET
 parentOncoTreeId EMBT
 umls C0206663
 nciCode C3716
 oncoTreeLevel 3
-subTypes 0

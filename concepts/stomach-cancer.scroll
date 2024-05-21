@@ -1,19 +1,18 @@
 import ../code/conceptPage.scroll
+
 id stomach-cancer
 name Stomach Cancer
 type cancerType
-uscsId Stomach
-uscsDeathsPerYear 11071
-uscsCasesPerYear 24359
-uscsMortalityRate 45%
-
-wikipedia https://en.wikipedia.org/wiki/Stomach_cancer
 cancerDotGov https://www.cancer.gov/types/stomach
 cancerDotOrg https://www.cancer.org/cancer/stomach-cancer.html
 gco https://gco.iarc.fr/today/data/factsheets/cancers/7-Stomach-fact-sheet.pdf
 reference https://www.mayoclinic.org/diseases-conditions/stomach-cancer/symptoms-causes/syc-20352438
 reference https://www.cancer.net/cancer-types/stomach-cancer
 
+uscsId Stomach
+uscsDeathsPerYear 11071
+uscsCasesPerYear 24359
+uscsMortalityRate 45%
 uscsTable 2019
  sex|age|population|cases|deaths
  F|0|1841226|~|~
@@ -54,3 +53,5 @@ uscsTable 2019
  M|75-79|4317707|1962|875
  M|80-84|2678743|1372|744
  M|85+|2374207|1167|889
+
+wikipedia https://en.wikipedia.org/wiki/Stomach_cancer

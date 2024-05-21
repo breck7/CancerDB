@@ -1,12 +1,11 @@
 import ../code/conceptPage.scroll
+
 id tisch-cancer-institute
 name Tisch Cancer Institute
 type nciCancerCenter
-
 website https://icahn.mssm.edu/research/tisch
 
 phoneNumber 1-212-659-5600
-
 country United States
 city New York, New York
 

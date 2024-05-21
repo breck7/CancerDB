@@ -1,11 +1,11 @@
 import ../code/conceptPage.scroll
+
 id cocr-ar
 name COCR
 type registry
 appeared 2003
 standsFor Córdoba Cancer Registry Argentina
 conceptDescription One registry covering a whole province of the country exists:the Córdoba Cancer Registry. Córdoba Cancer Registry is a provincial population-based registry which started in 2003 and covers approximately 9% of the Argentinean population. Seems to be located in the University of Córdoba.
-
 reference https://accamargo.phlnet.com.br/applied/ACR201030p.245-52.pdf
 
 country Argentina

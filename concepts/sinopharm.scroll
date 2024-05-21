@@ -1,9 +1,10 @@
 import ../code/conceptPage.scroll
+
 id sinopharm
 name Sinopharm
 type company
-
 website http://www.sinopharm.com
-wikipedia https://en.wikipedia.org/wiki/Sinopharm_(company)
 
 country China
+
+wikipedia https://en.wikipedia.org/wiki/Sinopharm_(company)

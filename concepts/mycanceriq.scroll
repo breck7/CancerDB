@@ -1,10 +1,10 @@
 import ../code/conceptPage.scroll
+
 id mycanceriq
 name My CancerIQ: Cancer Risk Assessment
 type website
-conceptDescription Cancer risk calculator
-
 website https://www.mycanceriq.ca/
+conceptDescription Cancer risk calculator
 
 domainName mycanceriq.ca
  registered 2014

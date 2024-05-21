@@ -1,7 +1,8 @@
 import ../code/conceptPage.scroll
+
 id cancer-cell-journal
 name Cancer Cell
 type journal
-
 website https://www.cell.com/cancer-cell/home
+
 wikipedia https://en.wikipedia.org/wiki/Cancer_Cell_(journal)

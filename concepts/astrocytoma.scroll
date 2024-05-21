@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id astrocytoma
 name Astrocytoma
 type cancerType
-mainType Glioma
+subTypes 0
 tissue CNS/Brain
+mainType Glioma
 
 oncoTreeId ASTR
 parentOncoTreeId DIFG
 umls C0004114
 nciCode C60781
 oncoTreeLevel 3
-subTypes 0

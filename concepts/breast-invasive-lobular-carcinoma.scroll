@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id breast-invasive-lobular-carcinoma
 name Breast Invasive Lobular Carcinoma
 type cancerType
-mainType Breast Cancer
+subTypes 0
 tissue Breast
+mainType Breast Cancer
 
 oncoTreeId ILC
 parentOncoTreeId BRCA
 umls C0279565
 nciCode C7950
 oncoTreeLevel 3
-subTypes 0

@@ -1,16 +1,18 @@
 import ../code/conceptPage.scroll
+
 id cms
 name The Centers for Medicare and Medicaid Services
 type nationalGovernmentAgency
+website https://www.cms.gov/
 appeared 1977
 parentOrganization hhs
 
-website https://www.cms.gov/
+country United States
+
 wikipedia https://en.wikipedia.org/wiki/Centers_for_Medicare_%26_Medicaid_Services
+
 twitter https://twitter.com/cmsgov
  followers 202500
 youTubeChannel https://youtube.com/user/cmshhsgov
-
-country United States
 
 domainName cms.gov

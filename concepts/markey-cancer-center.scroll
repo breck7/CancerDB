@@ -1,12 +1,11 @@
 import ../code/conceptPage.scroll
+
 id markey-cancer-center
 name Markey Cancer Center
 type nciCancerCenter
-
 website https://ukhealthcare.uky.edu/markey-cancer-center
 
 phoneNumber 1-859-257-4500
-
 country United States
 city Lexington, Kentucky
 

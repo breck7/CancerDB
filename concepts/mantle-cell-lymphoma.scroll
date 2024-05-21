@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id mantle-cell-lymphoma
 name Mantle Cell Lymphoma
 type cancerType
-mainType Mature B-Cell Neoplasms
+subTypes 1
 tissue Lymphoid
+mainType Mature B-Cell Neoplasms
 
 oncoTreeId MCL
 parentOncoTreeId MBN
 umls C0334634
 nciCode C4337
 oncoTreeLevel 5
-subTypes 1

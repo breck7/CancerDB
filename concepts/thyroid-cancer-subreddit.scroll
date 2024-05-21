@@ -1,9 +1,9 @@
 import ../code/conceptPage.scroll
+
 id thyroid-cancer-subreddit
 name Thyroid Cancer Subreddit
 type subreddit onlineForum
 cancerTypes thyroid
-
 subreddit https://www.reddit.com/r/thyroidcancer
  members
   2023 4208

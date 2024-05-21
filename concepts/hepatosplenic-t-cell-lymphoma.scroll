@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id hepatosplenic-t-cell-lymphoma
 name Hepatosplenic T-cell Lymphoma
 type cancerType
-mainType Mature T and NK Neoplasms
+subTypes 0
 tissue Lymphoid
+mainType Mature T and NK Neoplasms
 
 oncoTreeId HSTCL
 parentOncoTreeId MTNN
 oncoTreeLevel 5
-subTypes 0

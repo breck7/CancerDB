@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id carcinoma-with-osseous-metaplasia
 name Carcinoma with Osseous Metaplasia
 type cancerType
-mainType Breast Cancer
+subTypes 0
 tissue Breast
+mainType Breast Cancer
 
 oncoTreeId COM
 parentOncoTreeId MMBC
 umls C1711312
 nciCode C47848
 oncoTreeLevel 4
-subTypes 0

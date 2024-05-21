@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id papillary-tumor-of-the-pineal-region
 name Papillary Tumor of the Pineal Region
 type cancerType
-mainType Pineal Tumor
+subTypes 0
 tissue CNS/Brain
+mainType Pineal Tumor
 
 oncoTreeId PTPR
 parentOncoTreeId PINT
 umls C2985219
 nciCode C92624
 oncoTreeLevel 3
-subTypes 0

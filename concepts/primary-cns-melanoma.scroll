@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id primary-cns-melanoma
 name Primary CNS Melanoma
 type cancerType
-mainType Melanoma
+subTypes 0
 tissue CNS/Brain
+mainType Melanoma
 
 oncoTreeId PCNSM
 parentOncoTreeId PCNSMT
 umls C1332888
 nciCode C5505
 oncoTreeLevel 3
-subTypes 0

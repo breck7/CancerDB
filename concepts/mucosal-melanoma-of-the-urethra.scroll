@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id mucosal-melanoma-of-the-urethra
 name Mucosal Melanoma of the Urethra
 type cancerType
-mainType Melanoma
+subTypes 0
 tissue Bladder/Urinary Tract
+mainType Melanoma
 
 oncoTreeId URMM
 parentOncoTreeId BLADDER
 oncoTreeLevel 2
-subTypes 0

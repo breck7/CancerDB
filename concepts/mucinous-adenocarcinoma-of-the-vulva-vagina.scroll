@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id mucinous-adenocarcinoma-of-the-vulva-vagina
 name Mucinous Adenocarcinoma of the Vulva/Vagina
 type cancerType
-mainType Vulvar Carcinoma
+subTypes 0
 tissue Vulva/Vagina
+mainType Vulvar Carcinoma
 
 oncoTreeId VMA
 parentOncoTreeId VULVA
 umls C1519925
 nciCode C40252
 oncoTreeLevel 2
-subTypes 0

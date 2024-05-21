@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id undifferentiated-malignant-neoplasm
 name Undifferentiated Malignant Neoplasm
 type cancerType
-mainType Cancer of Unknown Primary
+subTypes 0
 tissue Other
+mainType Cancer of Unknown Primary
 
 oncoTreeId UDMN
 parentOncoTreeId CUP
 umls C1336860
 nciCode C36051
 oncoTreeLevel 3
-subTypes 0

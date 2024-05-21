@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id chlorambucil
 name Chlorambucil
 type chemotherapyDrug alkylatingAgent
 tradenames Leukeran
-
-wikipedia https://en.wikipedia.org/wiki/Chlorambucil
-
 routesOfAdministration oral
+
 kegg D00266
 drugBank DB00291
 medlinePlus a682899
 pubChem 2708
+
+wikipedia https://en.wikipedia.org/wiki/Chlorambucil

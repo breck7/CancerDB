@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id glioblastoma-multiforme
 name Glioblastoma Multiforme
 type cancerType
-mainType Glioma
+subTypes 0
 tissue CNS/Brain
+mainType Glioma
 
 oncoTreeId GBM
 parentOncoTreeId GB
 oncoTreeLevel 4
-subTypes 0

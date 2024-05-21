@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id serous-ovarian-cancer
 name Serous Ovarian Cancer
 type cancerType
-mainType Ovarian Cancer
+subTypes 2
 tissue Ovary/Fallopian Tube
+mainType Ovarian Cancer
 
 oncoTreeId SOC
 parentOncoTreeId OVT
 umls C1335177
 nciCode C7550
 oncoTreeLevel 3
-subTypes 2

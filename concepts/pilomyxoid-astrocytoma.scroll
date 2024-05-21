@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id pilomyxoid-astrocytoma
 name Pilomyxoid Astrocytoma
 type cancerType
-mainType Glioma
+subTypes 0
 tissue CNS/Brain
+mainType Glioma
 
 oncoTreeId PMA
 parentOncoTreeId ENCG
 umls C1519086
 nciCode C40315
 oncoTreeLevel 3
-subTypes 0

@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id primary-dlbcl-of-the-central-nervous-system
 name Primary DLBCL of the central nervous system
 type cancerType
-mainType Mature B-Cell Neoplasms
+subTypes 0
 tissue Lymphoid
+mainType Mature B-Cell Neoplasms
 
 oncoTreeId PCNSL
 parentOncoTreeId MBN
 umls C0280803
 nciCode C9301
 oncoTreeLevel 5
-subTypes 0

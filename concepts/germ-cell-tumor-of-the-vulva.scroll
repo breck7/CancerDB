@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id germ-cell-tumor-of-the-vulva
 name Germ Cell Tumor of the Vulva
 type cancerType
-mainType Germ Cell Tumor
+subTypes 7
 tissue Vulva/Vagina
+mainType Germ Cell Tumor
 
 oncoTreeId VGCT
 parentOncoTreeId VULVA
 oncoTreeLevel 2
-subTypes 7

@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id fibroblastic-osteosarcoma
 name Fibroblastic Osteosarcoma
 type cancerType
-mainType Bone Cancer
+subTypes 0
 tissue Bone
+mainType Bone Cancer
 
 oncoTreeId FIOS
 parentOncoTreeId OS
 umls C0279602
 nciCode C4020
 oncoTreeLevel 3
-subTypes 0

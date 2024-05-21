@@ -1,10 +1,10 @@
 import ../code/conceptPage.scroll
+
 id french-national-cancer-institute
 name French National Cancer Institute
 type nationalCancerInstitute
-aka Institut National du Cancer
-
 website https://en.e-cancer.fr
+aka Institut National du Cancer
 
 country France
 

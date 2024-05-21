@@ -1,12 +1,11 @@
 import ../code/conceptPage.scroll
+
 id harold-c-simmons-comprehensive-cancer-center
 name Harold C. Simmons Comprehensive Cancer Center
 type nciCancerCenter
-
 website https://www.utsouthwestern.edu/departments/simmons/
 
 phoneNumber 1-214-645-4673
-
 country United States
 city Dallas, Texas
 

@@ -1,15 +1,16 @@
 import ../code/conceptPage.scroll
+
 id aecc
 name Asociación Española Contra el Cancer
 type cancerNonProfit
+website https://www.contraelcancer.es
 appeared 1953
 conceptDescription The Asociación Española Contra el Cáncer (AECC) (Spanish Association Against Cancer) is a non-profit, private social entity founded in 1953.
 
-website https://www.contraelcancer.es
+country Spain
+
 twitter https://twitter.com/ContraCancerEs
 facebook https://facebook.com/contraelcancer.es
 instagram https://instagram.com/contraelcancer.es
-
-country Spain
 
 domainName contraelcancer.es

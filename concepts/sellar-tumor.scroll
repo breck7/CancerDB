@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id sellar-tumor
 name Sellar Tumor
 type cancerType
-mainType Sellar Tumor
+subTypes 8
 tissue CNS/Brain
+mainType Sellar Tumor
 
 oncoTreeId SELT
 parentOncoTreeId BRAIN
 umls C0748616
 nciCode C4944
 oncoTreeLevel 2
-subTypes 8

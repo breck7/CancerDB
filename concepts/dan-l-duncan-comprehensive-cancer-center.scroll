@@ -1,18 +1,18 @@
 import ../code/conceptPage.scroll
+
 id dan-l-duncan-comprehensive-cancer-center
 name Dan L Duncan Comprehensive Cancer Center
 type nciCancerCenter
-
 website https://www.bcm.edu/academic-centers/dan-l-duncan-comprehensive-cancer-center
+
+phoneNumber 1-713-798-1354
+country United States
+city Houston, Texas
+
 twitter https://twitter.com/BCMCancerCenter/
  followers 1380
 facebook https://www.facebook.com/BCMCancerCenter/
  followers 738
-
-phoneNumber 1-713-798-1354
-
-country United States
-city Houston, Texas
 
 nciDesignation Comprehensive Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/baylorduncan

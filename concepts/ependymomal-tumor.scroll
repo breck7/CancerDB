@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id ependymomal-tumor
 name Ependymomal Tumor
 type cancerType
-mainType CNS Cancer
+subTypes 5
 tissue CNS/Brain
+mainType CNS Cancer
 
 oncoTreeId EPMT
 parentOncoTreeId BRAIN
 umls C1333407
 nciCode C6770
 oncoTreeLevel 2
-subTypes 5

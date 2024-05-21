@@ -1,9 +1,10 @@
 import ../code/conceptPage.scroll
+
 id semustine
 name Semustine
 type chemotherapyDrug alkylatingAgent
 
-wikipedia https://en.wikipedia.org/wiki/Semustine
-
 kegg D05822
 pubChem 5198
+
+wikipedia https://en.wikipedia.org/wiki/Semustine

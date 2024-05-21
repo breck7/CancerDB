@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id b-lymphoblastic-leukemia-lymphoma-with-hyperdiploidy
 name B-Lymphoblastic Leukemia/Lymphoma with Hyperdiploidy
 type cancerType
-mainType B-Lymphoblastic Leukemia/Lymphoma
+subTypes 0
 tissue Lymphoid
+mainType B-Lymphoblastic Leukemia/Lymphoma
 
 oncoTreeId BLLHYPER
 parentOncoTreeId BLLRGA
 oncoTreeLevel 5
-subTypes 0

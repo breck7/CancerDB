@@ -1,16 +1,17 @@
 import ../code/conceptPage.scroll
+
 id stanford-cancer-institute-sci
 name Stanford Cancer Institute (SCI)
 type nciCancerCenter
-
 website https://med.stanford.edu/cancer.html
-wikipedia https://en.wikipedia.org/wiki/Stanford_Cancer_Institute
-linkedin https://linkedin.com/company/stanford-cancer
 
 phoneNumber 1-650-736-6170
-
 country United States
 city Stanford, California
+
+wikipedia https://en.wikipedia.org/wiki/Stanford_Cancer_Institute
+
+linkedin https://linkedin.com/company/stanford-cancer
 
 nciDesignation Comprehensive Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/stanfordci

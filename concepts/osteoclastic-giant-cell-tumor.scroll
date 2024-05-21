@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id osteoclastic-giant-cell-tumor
 name Osteoclastic Giant Cell Tumor
 type cancerType
-mainType Pancreatic Cancer
+subTypes 0
 tissue Pancreas
+mainType Pancreatic Cancer
 
 oncoTreeId OSGCT
 parentOncoTreeId UCP
 oncoTreeLevel 3
-subTypes 0

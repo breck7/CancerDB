@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id dedifferentiated-liposarcoma
 name Dedifferentiated Liposarcoma
 type cancerType
-mainType Soft Tissue Sarcoma
+subTypes 0
 tissue Soft Tissue
+mainType Soft Tissue Sarcoma
 
 oncoTreeId DDLS
 parentOncoTreeId LIPO
 umls C0205824
 nciCode C3704
 oncoTreeLevel 3
-subTypes 0

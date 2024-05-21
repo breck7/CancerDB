@@ -1,15 +1,16 @@
 import ../code/conceptPage.scroll
+
 id the-skin-cancer-foundation
 name The Skin Cancer Foundation
 type cancerNonProfit
-cancerTypes skin
-
 website https://www.skincancer.org/
-linkedin https://linkedin.com/company/the-skin-cancer-foundation
-pinterest https://pinterest.com/skincancer
+cancerTypes skin
 
 country United States
 city New York, NY
+
+linkedin https://linkedin.com/company/the-skin-cancer-foundation
+pinterest https://pinterest.com/skincancer
 
 ein 132948778
 charityNavigator https://www.charitynavigator.org/ein/132948778

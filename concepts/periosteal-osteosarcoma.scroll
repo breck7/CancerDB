@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id periosteal-osteosarcoma
 name Periosteal Osteosarcoma
 type cancerType
-mainType Bone Cancer
+subTypes 0
 tissue Bone
+mainType Bone Cancer
 
 oncoTreeId PEOS
 parentOncoTreeId OS
 umls C1377843
 nciCode C8970
 oncoTreeLevel 3
-subTypes 0

@@ -1,10 +1,11 @@
 import ../code/conceptPage.scroll
+
 id becton-dickinson-and-company
 name Becton, Dickinson and Company
 type company
+website https://www.bd.com
 aka BD
 
-website https://www.bd.com
 wikipedia https://en.wikipedia.org/wiki/BD_(company)
 
 domainName bd.com

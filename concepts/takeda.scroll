@@ -1,9 +1,10 @@
 import ../code/conceptPage.scroll
+
 id takeda
 name Takeda Pharmaceutical Company
 type publicCompany
-
 website https://www.takeda.com/
-wikipedia https://en.wikipedia.org/wiki/Takeda_Pharmaceutical_Company
 
 country Japan
+
+wikipedia https://en.wikipedia.org/wiki/Takeda_Pharmaceutical_Company

@@ -1,8 +1,9 @@
 import ../code/conceptPage.scroll
+
 id oropharyngeal-cancer
 name Oropharyngeal cancer
 type cancerType
 aka Tonsil cancer
+reference https://my.clevelandclinic.org/health/diseases/12180-oropharyngeal-cancer
 
 wikipedia https://en.wikipedia.org/wiki/Oropharyngeal_cancer
-reference https://my.clevelandclinic.org/health/diseases/12180-oropharyngeal-cancer

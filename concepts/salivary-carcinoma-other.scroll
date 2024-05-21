@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id salivary-carcinoma-other
 name Salivary Carcinoma, Other
 type cancerType
-mainType Salivary Gland Cancer
+subTypes 0
 tissue Head and Neck
+mainType Salivary Gland Cancer
 
 oncoTreeId OSACA
 parentOncoTreeId SACA
 oncoTreeLevel 3
-subTypes 0

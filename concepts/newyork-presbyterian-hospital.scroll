@@ -1,14 +1,15 @@
 import ../code/conceptPage.scroll
+
 id newyork-presbyterian-hospital
 name NewYork-Presbyterian Hospital
 type hospital
+website https://www.nyp.org/
 appeared 1771
 aka NYP
 
-website https://www.nyp.org/
-wikipedia https://en.wikipedia.org/wiki/NewYork-Presbyterian_Hospital
-
 city New York, NY
+
+wikipedia https://en.wikipedia.org/wiki/NewYork-Presbyterian_Hospital
 
 usNewsRank 12
 

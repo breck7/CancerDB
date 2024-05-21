@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id ampullary-carcinoma
 name Ampullary Carcinoma
 type cancerType
-mainType Ampullary Cancer
+subTypes 3
 tissue Ampulla of Vater
+mainType Ampullary Cancer
 
 oncoTreeId AMPCA
 parentOncoTreeId AMPULLA_OF_VATER
 umls C0262401
 nciCode C3908
 oncoTreeLevel 2
-subTypes 3

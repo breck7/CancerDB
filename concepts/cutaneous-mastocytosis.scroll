@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id cutaneous-mastocytosis
 name Cutaneous Mastocytosis
 type cancerType
-mainType Mastocytosis
+subTypes 0
 tissue Myeloid
+mainType Mastocytosis
 
 oncoTreeId CMCD
 parentOncoTreeId MCD
 oncoTreeLevel 4
-subTypes 0

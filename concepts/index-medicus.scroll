@@ -1,4 +1,5 @@
 import ../code/conceptPage.scroll
+
 id index-medicus
 name Index Medicus
 type journal
@@ -6,6 +7,6 @@ appeared 1879
 closed 2004
 parentOrganization nlm
 
-wikipedia https://en.wikipedia.org/wiki/Index_Medicus
-
 country United States
+
+wikipedia https://en.wikipedia.org/wiki/Index_Medicus

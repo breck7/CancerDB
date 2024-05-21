@@ -1,18 +1,19 @@
 import ../code/conceptPage.scroll
+
 id massey-cancer-center
 name Massey Cancer Center
 type nciCancerCenter
-
 website https://www.masseycancercenter.org/
+
+phoneNumber 1-804-828-0450
+country United States
+city Richmond, Virginia
+
 wikipedia https://en.wikipedia.org/wiki/VCU_Massey_Cancer_Center
+
 twitter https://twitter.com/vcumassey
 linkedin https://linkedin.com/company/vcu-massey-cancer-center
 instagram https://instagram.com/vcumassey
-
-phoneNumber 1-804-828-0450
-
-country United States
-city Richmond, Virginia
 
 nciDesignation Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/vcumassey

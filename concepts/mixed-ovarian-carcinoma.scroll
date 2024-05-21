@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id mixed-ovarian-carcinoma
 name Mixed Ovarian Carcinoma
 type cancerType
-mainType Ovarian Cancer
+subTypes 0
 tissue Ovary/Fallopian Tube
+mainType Ovarian Cancer
 
 oncoTreeId MXOV
 parentOncoTreeId OVT
 umls C0279392
 nciCode C40090
 oncoTreeLevel 3
-subTypes 0

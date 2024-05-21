@@ -1,15 +1,16 @@
 import ../code/conceptPage.scroll
+
 id dutch-cancer-society
 name Dutch Cancer Society
 type cancerNonProfit
+website https://www.kwf.nl
 appeared 1949
 conceptDescription KWF Dutch Cancer Society is a nation-wide organization for cancer related work in the Netherlands.
 aka KWF Kankerbestrijding
 
-website https://www.kwf.nl
-wikipedia https://en.wikipedia.org/wiki/Dutch_Cancer_Society
-
 country Netherlands
+
+wikipedia https://en.wikipedia.org/wiki/Dutch_Cancer_Society
 
 domainName kwf.nl
  registered 1999

@@ -1,11 +1,12 @@
 import ../code/conceptPage.scroll
+
 id alpha-heavy-chain-disease
 name Alpha Heavy-Chain Disease
 type cancerType
-mainType Mature B-Cell Neoplasms
+subTypes 0
 tissue Lymphoid
+mainType Mature B-Cell Neoplasms
 
 oncoTreeId AHCD
 parentOncoTreeId MBN
 oncoTreeLevel 5
-subTypes 0

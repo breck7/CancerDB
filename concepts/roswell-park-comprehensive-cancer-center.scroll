@@ -1,21 +1,22 @@
 import ../code/conceptPage.scroll
+
 id roswell-park-comprehensive-cancer-center
 name Roswell Park Comprehensive Cancer Center
 type nciCancerCenter
-
 website https://www.roswellpark.org/
+
+phoneNumber 1-716-845-2300
+country United States
+city Buffalo, New York
+
 wikipedia https://en.wikipedia.org/wiki/Roswell_Park_Comprehensive_Cancer_Center
+
 twitter https://twitter.com/roswellpark
  followers 19600
 facebook https://facebook.com/roswellpark
 linkedin https://linkedin.com/company/roswellpark
 instagram https://instagram.com/roswellpark
 pinterest https://pinterest.com/roswellpark
-
-phoneNumber 1-716-845-2300
-
-country United States
-city Buffalo, New York
 
 nciDesignation Comprehensive Cancer Center
 nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/roswellpark

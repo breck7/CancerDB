@@ -1,13 +1,14 @@
 import ../code/conceptPage.scroll
+
 id acute-myeloid-leukemia
 name Acute Myeloid Leukemia
 type cancerType
-mainType Leukemia
+subTypes 30
 tissue Myeloid
+mainType Leukemia
 
 oncoTreeId AML
 parentOncoTreeId MNM
 umls C0023467
 nciCode C3171
 oncoTreeLevel 3
-subTypes 30
