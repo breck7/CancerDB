@@ -65,7 +65,6 @@ abstractCodeMeasureParser
  extends abstractStringBlobMeasureParser
  baseParser blobParser
 
-
 // amazon
 amazonParser
  extends abstractUrlMeasureParser
