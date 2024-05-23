@@ -281,12 +281,7 @@ measurementsParser
  description How many measurements do we have about this thing?
  javascript
   computeValue(concept) {
-    let count = 0
-    concept.forEach(node => {
-      if (node.isMeasure)
-        count++
-    })
-    return count
+    return concept.measurements.length
   }
 
 // name
