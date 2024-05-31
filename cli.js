@@ -1,7 +1,7 @@
 #! /usr/bin/env node
 
 const path = require("path")
-const { Utils } = require("jtree/products/Utils.js")
+const { Utils } = require("scrollsdk/products/Utils.js")
 const { ScrollSetCLI } = require("./ScrollSet.js")
 
 class CancerDBCli extends ScrollSetCLI {
