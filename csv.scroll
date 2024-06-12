@@ -1,0 +1,31 @@
+title CancerDB.CSV
+writeConcepts cancerdb.csv cancerdb.json cancerdb.tsv
+ sortBy -measurements
+writeMeasures measures.tsv measures.csv measures.json
+
+import rootHeader.scroll
+printTitle
+
+css
+ .scrollTable td {
+   max-width: 30ch;
+   white-space: nowrap;
+   text-overflow: ellipsis;
+ }
+
+Download the CancerDB ScrollSet as: CSV | TSV | JSON
+ link cancerdb.csv CSV
+ link cancerdb.tsv TSV
+ link cancerdb.json JSON
+
+import code/measures.scroll
+loadConcepts concepts
+
+Statistics on the measures (columns) are below and can be downloaded as: CSV | TSV | JSON
+ link measures.csv CSV
+ link measures.tsv TSV
+ link measures.json JSON
+printMeasures
+tableSearch
+
+import footer.scroll

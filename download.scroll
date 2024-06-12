@@ -1,31 +1,17 @@
 title Download CancerDB
-writeConcepts cancerdb.csv cancerdb.json cancerdb.tsv
- sortBy -measurements
-writeMeasures measures.tsv measures.csv measures.json
 
 import rootHeader.scroll
 printTitle
 
-css
- .scrollTable td {
-   max-width: 30ch;
-   white-space: nowrap;
-   text-overflow: ellipsis;
- }
+thinColumns 1
 
-Download the CancerDB concept dataset as: CSV | TSV | JSON
- link cancerdb.csv CSV
- link cancerdb.tsv TSV
- link cancerdb.json JSON
+In addition to being open source, you can download the built html of CancerDB and browse the site entirely offline.
+ https://github.com/breck7/CancerDB open source
 
-import code/measures.scroll
-loadConcepts concepts
+Download CancerDB
+ https://github.com/breck7/CancerDB/archive/refs/heads/scroll-output.zip
+ class scrollButton
 
-Statistics on the measures (columns) are below and can be downloaded as: CSV | TSV | JSON
- link measures.csv CSV
- link measures.tsv TSV
- link measures.json JSON
-printMeasures
-tableSearch
+endColumns
 
 import footer.scroll

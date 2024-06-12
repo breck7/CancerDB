@@ -24,6 +24,8 @@ stumpNoSnippet
    href BASE_URL/pages/explore.html
   a Search
    href BASE_URL/search.html
+  a CSV
+   href BASE_URL/csv.html
   a Download
    href BASE_URL/download.html
 
