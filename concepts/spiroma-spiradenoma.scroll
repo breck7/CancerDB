@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id spiroma-spiradenoma
+name Spiroma/Spiradenoma
+type cancerType
+subTypes 0
+tissue Skin
+mainType Skin Cancer, Non-Melanoma
+
+oncoTreeId SPIR
+parentOncoTreeId SKIN
+umls C0334347
+nciCode C4170
+oncoTreeLevel 2

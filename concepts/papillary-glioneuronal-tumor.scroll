@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id papillary-glioneuronal-tumor
+name Papillary Glioneuronal Tumor
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Miscellaneous Neuroepithelial Tumor
+
+oncoTreeId PGNT
+parentOncoTreeId MNET
+umls C2985174
+nciCode C92554
+oncoTreeLevel 3

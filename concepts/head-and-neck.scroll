@@ -1,0 +1,17 @@
+import ../code/conceptPage.scroll
+
+id head-and-neck
+name Head and Neck Cancer
+type cancerType
+subTypes 31
+tissue Head and Neck
+mainType Head and Neck Cancer, NOS
+cancerDotOrg https://www.cancer.org/cancer/head-neck-cancer.html
+
+oncoTreeId HEAD_NECK
+parentOncoTreeId TISSUE
+umls C0460004
+nciCode C12418
+oncoTreeLevel 1
+
+wikipedia https://en.wikipedia.org/wiki/Head_and_neck_cancer

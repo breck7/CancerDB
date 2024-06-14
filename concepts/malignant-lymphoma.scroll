@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id malignant-lymphoma
+name Malignant Lymphoma
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Miscellaneous Brain Tumor
+
+oncoTreeId MLYM
+parentOncoTreeId MBT
+umls C0024299
+nciCode C3208
+oncoTreeLevel 3

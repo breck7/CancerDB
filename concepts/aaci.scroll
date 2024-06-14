@@ -1,0 +1,17 @@
+import ../code/conceptPage.scroll
+
+id aaci
+name Association of American Cancer Institutes
+type professionalOrganization
+website https://www.aaci-cancer.org/
+
+phoneNumber 1-412-647-6111
+country United States
+city Pittsburgh, PA
+
+wikipedia https://en.wikipedia.org/wiki/Association_of_American_Cancer_Institutes
+
+twitter https://twitter.com/AACI_Cancer/
+ followers 4604
+facebook https://www.facebook.com/AACICancer
+ followers 613

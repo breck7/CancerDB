@@ -1,0 +1,10 @@
+import ../code/conceptPage.scroll
+
+id emperor-of-all-maladies
+name The Emperor of All Maladies: A Biography of Cancer
+type book
+appeared 2011
+conceptAuthor Siddhartha Mukherjee
+amazon https://www.amazon.com/Emperor-All-Maladies-Biography-Cancer/dp/1439170916
+
+wikipedia https://en.wikipedia.org/wiki/The_Emperor_of_All_Maladies

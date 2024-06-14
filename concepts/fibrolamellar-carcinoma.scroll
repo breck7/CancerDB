@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id fibrolamellar-carcinoma
+name Fibrolamellar Carcinoma
+type cancerType
+subTypes 0
+tissue Liver
+mainType Hepatobiliary Cancer
+
+oncoTreeId FLC
+parentOncoTreeId LIVER
+umls C0334287
+nciCode C4131
+oncoTreeLevel 2

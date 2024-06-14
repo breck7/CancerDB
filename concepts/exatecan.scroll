@@ -1,0 +1,9 @@
+import ../code/conceptPage.scroll
+
+id exatecan
+name Exatecan
+type chemotherapyDrug
+
+pubChem 151115
+
+wikipedia https://en.wikipedia.org/wiki/Exatecan

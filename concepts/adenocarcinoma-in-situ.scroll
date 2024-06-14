@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id adenocarcinoma-in-situ
+name Adenocarcinoma In Situ
+type cancerType
+subTypes 0
+tissue Other
+mainType Adenocarcinoma In Situ
+
+oncoTreeId AIS
+parentOncoTreeId OTHER
+umls C0334276
+nciCode C4123
+oncoTreeLevel 2

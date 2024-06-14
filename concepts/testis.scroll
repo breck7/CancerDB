@@ -1,0 +1,41 @@
+import ../code/conceptPage.scroll
+
+id testis
+name Testicular Cancer
+type cancerType
+subTypes 11
+tissue Testis
+mainType Testicular Cancer, NOS
+cancerDotOrg https://www.cancer.org/cancer/testicular-cancer.html
+gco https://gco.iarc.fr/today/data/factsheets/cancers/28-Testis-fact-sheet.pdf
+
+oncoTreeId TESTIS
+parentOncoTreeId TISSUE
+umls C0039597
+nciCode C12412
+oncoTreeLevel 1
+
+uscsDeathsPerYear 421
+uscsCasesPerYear 8729
+uscsMortalityRate 5%
+uscsTable 2019
+ sex|age|population|cases|deaths
+ M|0|1921001|~|~
+ M|1-4|8080265|22|~
+ M|5-9|10335306|~|~
+ M|10-14|10629162|26|~
+ M|15-19|10752848|345|~
+ M|20-24|11066850|1061|38
+ M|25-29|12020738|1593|73
+ M|30-34|11370500|1601|59
+ M|35-39|10892543|1314|44
+ M|40-44|9906220|906|50
+ M|45-49|10082635|592|32
+ M|50-54|10082296|401|35
+ M|55-59|10639047|357|34
+ M|60-64|9851308|206|16
+ M|65-69|8191801|148|22
+ M|70-74|6499159|72|18
+ M|75-79|4317707|38|~
+ M|80-84|2678743|26|~
+ M|85+|2374207|21|~

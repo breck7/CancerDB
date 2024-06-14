@@ -1,0 +1,12 @@
+date 09-22-2022
+groups Commercials
+openGraphImage https://cancerdb.com/posts/moon.png
+title Moonbathing
+
+import header.scroll
+printTitle
+
+youTube https://www.youtube.com/embed/xahwYBjHc2Y
+
+keyboardNav
+import ../footer.scroll

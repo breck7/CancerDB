@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id polycythaemia-vera-myelofibrosis
+name Polycythaemia Vera Myelofibrosis
+type cancerType
+subTypes 0
+tissue Myeloid
+mainType Myeloproliferative Neoplasms
+
+oncoTreeId PVMF
+parentOncoTreeId PV
+oncoTreeLevel 5

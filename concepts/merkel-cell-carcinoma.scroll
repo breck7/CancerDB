@@ -1,0 +1,16 @@
+import ../code/conceptPage.scroll
+
+id merkel-cell-carcinoma
+name Merkel Cell Carcinoma
+type cancerType
+subTypes 0
+tissue Skin
+mainType Skin Cancer, Non-Melanoma
+reference https://www.mayoclinic.org/diseases-conditions/merkel-cell-carcinoma/symptoms-causes/syc-20351030
+reference https://www.skincancer.org/skin-cancer-information/merkel-cell-carcinoma/
+
+oncoTreeId MCC
+parentOncoTreeId SKIN
+umls C0007129
+nciCode C9231
+oncoTreeLevel 2

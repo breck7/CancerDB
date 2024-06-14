@@ -1,0 +1,17 @@
+import ../code/conceptPage.scroll
+
+id ncbi
+name National Center for Biotechnology Information
+type nationalGovernmentAgency
+website https://www.ncbi.nlm.nih.gov/
+appeared 1988
+parentOrganization nlm
+
+country United States
+
+wikipedia https://en.wikipedia.org/wiki/National_Center_for_Biotechnology_Information
+
+twitter https://twitter.com/ncbi
+ followers 63200
+facebook https://facebook.com/ncbi.nlm
+linkedin https://linkedin.com/company/ncbinlm

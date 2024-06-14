@@ -1,0 +1,7 @@
+import ../code/conceptPage.scroll
+
+id vitamin-b
+name Vitamin B
+type vitamin
+
+wikipedia https://en.wikipedia.org/wiki/Vitamin_B

@@ -1,0 +1,16 @@
+import ../code/conceptPage.scroll
+
+id vitamin-c
+name Vitamin C
+type vitamin
+aka ascorbic acid
+aka ascorbate
+tradenames Ascor && Cevalin
+routesOfAdministration oral intramuscularInjection
+
+kegg D00018
+drugBank DB00126
+medlinePlus a682583
+pubChem 54670067
+
+wikipedia https://en.wikipedia.org/wiki/Vitamin_C

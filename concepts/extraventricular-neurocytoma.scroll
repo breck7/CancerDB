@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id extraventricular-neurocytoma
+name Extraventricular Neurocytoma
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Miscellaneous Neuroepithelial Tumor
+
+oncoTreeId EVN
+parentOncoTreeId MNET
+umls C2985175
+nciCode C92555
+oncoTreeLevel 3

@@ -1,0 +1,23 @@
+import ../code/conceptPage.scroll
+
+id abramson-cancer-center
+name Abramson Cancer Center
+type nciCancerCenter
+website https://www.pennmedicine.org/cancer
+
+phoneNumber 1-800-789-7366
+country United States
+city Philadelphia, Pennsylvania
+
+twitter https://twitter.com/penncancer
+ followers 5367
+facebook https://www.facebook.com/PennCancer
+ followers 14569
+youTubeChannel https://youtube.com/user/pennmedicine
+ followers 52700
+
+nciDesignation Comprehensive Cancer Center
+nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/upennabramson
+nciImage https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/900/300/files/upennabramson-article.jpg
+hostSchool University of Pennsylvania
+usNewsRank 8

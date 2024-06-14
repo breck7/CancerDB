@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id mds-with-multilineage-dysplasia
+name MDS with Multilineage Dysplasia
+type cancerType
+subTypes 0
+tissue Myeloid
+mainType Myelodysplastic Syndromes
+
+oncoTreeId MDSMD
+parentOncoTreeId MDS
+oncoTreeLevel 4

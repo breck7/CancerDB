@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id clear-cell-odontogenic-carcinoma
+name Clear Cell Odontogenic Carcinoma
+type cancerType
+subTypes 0
+tissue Head and Neck
+mainType Head and Neck Cancer
+
+oncoTreeId CCOC
+parentOncoTreeId ODGC
+umls C0475829
+nciCode C54300
+oncoTreeLevel 4

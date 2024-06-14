@@ -1,0 +1,17 @@
+import ../code/conceptPage.scroll
+
+id viatris
+name Viatris
+type publicCompany
+website https://www.viatris.com
+
+wikipedia https://en.wikipedia.org/wiki/Viatris
+
+twitter https://twitter.com/viatrisinc
+ followers 8220
+linkedin https://linkedin.com/company/viatris
+
+nasdaq https://www.nasdaq.com/market-activity/stocks/vtrs
+
+domainName viatris.com
+ registered 1998

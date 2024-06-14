@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id lymphoid-atypical
+name Lymphoid Atypical
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Lymphatic Cancer, NOS
+
+oncoTreeId LATL
+parentOncoTreeId LYMPH
+oncoTreeLevel 2

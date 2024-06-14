@@ -1,0 +1,27 @@
+import ../code/conceptPage.scroll
+
+id alvin-j-siteman-cancer-center
+name Alvin J. Siteman Cancer Center
+type nciCancerCenter
+website https://siteman.wustl.edu/
+
+phoneNumber 1-800-600-3606
+country United States
+city St. Louis, Missouri
+
+wikipedia https://en.wikipedia.org/wiki/Alvin_J._Siteman_Cancer_Center
+
+twitter https://twitter.com/SitemanCenter
+ followers 35100
+facebook https://www.facebook.com/SitemanCancerCenter
+ followers 168000
+youTubeChannel https://www.youtube.com/user/SitemanCancerCenter
+ followers 2390
+pinterest https://www.pinterest.com/sitemancenter/
+ followers 1100
+
+nciDesignation Comprehensive Cancer Center
+nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/washingtonsiteman
+nciImage https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/2019-10/Siteman_Parkview%20Tower_exterior%20shot_night%5B1%5D%5B1%5D.jpg
+hostSchool Washington University School of Medicine and Barnes-Jewish Hospital
+usNewsRank 10

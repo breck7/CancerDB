@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id blastic-plasmacytoid-dendritic-cell-neoplasm
+name Blastic Plasmacytoid Dendritic Cell Neoplasm
+type cancerType
+subTypes 0
+tissue Myeloid
+mainType Blastic Plasmacytoid Dendritic Cell Neoplasm
+
+oncoTreeId BPDCN
+parentOncoTreeId MNM
+umls C1301363
+nciCode C7203
+oncoTreeLevel 3

@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id myeloid-atypical
+name Myeloid Atypical
+type cancerType
+subTypes 0
+tissue Myeloid
+mainType Blood Cancer, NOS
+
+oncoTreeId MATPL
+parentOncoTreeId MYELOID
+oncoTreeLevel 2

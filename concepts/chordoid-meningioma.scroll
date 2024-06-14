@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id chordoid-meningioma
+name Chordoid Meningioma
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType CNS Cancer
+
+oncoTreeId CHOM
+parentOncoTreeId MNGT
+umls C1370510
+nciCode C6908
+oncoTreeLevel 3

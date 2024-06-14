@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id pleomorphic-carcinoma-of-the-lung
+name Pleomorphic Carcinoma of the Lung
+type cancerType
+subTypes 0
+tissue Lung
+mainType Non-Small Cell Lung Cancer
+
+oncoTreeId LUPC
+parentOncoTreeId NSCLC
+umls C1711397
+nciCode C45542
+oncoTreeLevel 3

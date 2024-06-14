@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id marginal-zone-lymphoma
+name Marginal Zone Lymphoma
+type cancerType
+subTypes 3
+tissue Lymphoid
+mainType Mature B-Cell Neoplasms
+
+oncoTreeId MZL
+parentOncoTreeId MBN
+umls C1367654
+nciCode C4341
+oncoTreeLevel 5

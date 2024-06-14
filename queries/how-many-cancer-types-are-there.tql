@@ -1,0 +1,4 @@
+title How many cancer types are there?
+where type = cancerType
+select mainType tissue subTypes nciCode umls oncoTreeId parentOncoTreeId
+sortBy oncoTreeLevel

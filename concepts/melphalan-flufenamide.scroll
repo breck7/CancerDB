@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id melphalan-flufenamide
+name Melphalan flufenamide
+type chemotherapyDrug alkylatingAgent
+tradenames Pepaxto && Pepaxti
+routesOfAdministration intravenous
+
+drugBank DB16627
+pubChem 9935639
+
+wikipedia https://en.wikipedia.org/wiki/Melphalan_flufenamide

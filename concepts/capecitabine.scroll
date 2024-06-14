@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id capecitabine
+name Capecitabine
+type chemotherapyDrug
+tradenames Xeloda && Xitabin && Kapetral
+routesOfAdministration oral
+
+kegg D01223
+drugBank DB01101
+medlinePlus a699003
+pubChem 60953
+
+wikipedia https://en.wikipedia.org/wiki/Capecitabine

@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id acute-megakaryoblastic-leukemia
+name Acute Megakaryoblastic Leukemia
+type cancerType
+subTypes 0
+tissue Myeloid
+mainType Leukemia
+
+oncoTreeId AMKL
+parentOncoTreeId AMLNOS
+oncoTreeLevel 5

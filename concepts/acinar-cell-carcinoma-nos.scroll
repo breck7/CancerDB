@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id acinar-cell-carcinoma-nos
+name Acinar Cell Carcinoma, NOS
+type cancerType
+subTypes 0
+tissue Other
+mainType Cancer of Unknown Primary
+
+oncoTreeId ACN
+parentOncoTreeId CUP
+oncoTreeLevel 3

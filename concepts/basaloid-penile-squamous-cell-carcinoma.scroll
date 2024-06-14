@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id basaloid-penile-squamous-cell-carcinoma
+name Basaloid Penile Squamous Cell Carcinoma
+type cancerType
+subTypes 0
+tissue Penis
+mainType Penile Cancer
+
+oncoTreeId BPSCC
+parentOncoTreeId PSCC
+umls C1332462
+nciCode C6980
+oncoTreeLevel 3

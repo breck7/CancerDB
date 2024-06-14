@@ -1,0 +1,19 @@
+import ../code/conceptPage.scroll
+
+id moffitt-cancer-center
+name Moffitt Cancer Center
+type nciCancerCenter
+website https://moffitt.org/
+
+phoneNumber 1-888-663-3488
+country United States
+city Tampa, Florida
+
+wikipedia https://en.wikipedia.org/wiki/H._Lee_Moffitt_Cancer_Center_%26_Research_Institute
+
+linkedin https://linkedin.com/company/moffitt-cancer-center
+
+nciDesignation Comprehensive Cancer Center
+nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/moffitt
+nciImage https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/2019-10/Moffitt-NCI%20photo.jpg
+usNewsRank 25

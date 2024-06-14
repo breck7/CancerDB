@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id b-cell-prolymphocytic-leukemia
+name B-Cell Prolymphocytic Leukemia
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Mature B-Cell Neoplasms
+
+oncoTreeId BPLL
+parentOncoTreeId MBN
+oncoTreeLevel 5

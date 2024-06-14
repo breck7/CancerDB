@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id mds-with-excess-blasts
+name MDS with Excess Blasts
+type cancerType
+subTypes 2
+tissue Myeloid
+mainType Myelodysplastic Syndromes
+
+oncoTreeId MDSEB
+parentOncoTreeId MDS
+oncoTreeLevel 4

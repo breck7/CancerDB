@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id amyloidosis
+name Amyloidosis
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Mature B-Cell Neoplasms
+
+oncoTreeId MIDDA
+parentOncoTreeId MIDD
+oncoTreeLevel 6

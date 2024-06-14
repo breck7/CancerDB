@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id pancreatobiliary-ampullary-carcinoma
+name Pancreatobiliary Ampullary Carcinoma
+type cancerType
+subTypes 0
+tissue Ampulla of Vater
+mainType Ampullary Cancer
+
+oncoTreeId PAMPCA
+parentOncoTreeId AMPCA
+oncoTreeLevel 3

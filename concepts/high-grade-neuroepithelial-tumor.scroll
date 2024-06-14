@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id high-grade-neuroepithelial-tumor
+name High-Grade Neuroepithelial Tumor
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Miscellaneous Brain Tumor
+
+oncoTreeId HGNET
+parentOncoTreeId MBT
+oncoTreeLevel 3

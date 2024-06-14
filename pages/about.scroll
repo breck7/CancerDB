@@ -1,0 +1,43 @@
+groups index
+replaceJs BUILT_ON_DAY dayjs().format("MM/DD/YYYY")
+title About
+
+import header.scroll
+printTitle
+
+thinColumns 2
+
+# _never ever give up_
+CancerDB is a public domain blog assembling key datasets on cancer for dependable models. The focus is on *cancer, cancer preventions and treatments*, but the database also includes datasets on closely connected things--from cancer types to organizations and more.
+
+CancerDB is for two groups of people:
+1. *Cancer researchers.* CancerDB is organized big data to help you create great new preventions and treatments and improve existing ones. Benefit from the experiences of millions that have gone before you. If you are researching something and can't find what you need here, open an issue and explain what you need.
+ https://github.com/breck7/CancerDB/issues/new open an issue
+2. *Those battling cancer right now.* CancerDB provides a data-driven view of the cancer universe, to demystify the world of cancer for you, and provide sound strategic and tactical advice to help you get and stay healthy. If you have a question not answered by the data here, open an issue and explain what you need.
+ https://github.com/breck7/CancerDB/issues/new open an issue
+
+##  Open source
+All data and source code used to generate this site are on GitHub and public domain.
+ https://github.com/breck7/CancerDB GitHub
+
+##  History
+CancerDB.com was purchased by Breck Yunits on September 3, 2022.
+
+## To cite CancerDB
+CancerDB content is published to the public domain and you can use it freely. If needed, here are 3 options for citing CancerDB:
+code
+ https://cancerdb.com
+code
+ CancerDB team. (2024) - "CancerDB: a public domain blog assembling key datasets on cancer for dependable models.". Retrieved from: 'https://cancerdb.com' [Online Resource]
+code
+ @article{cancerdb,
+  author = {CancerDB team},
+  title = {CancerDB: a public domain blog assembling key datasets on cancer for dependable models.},
+  journal = {CancerDB},
+  year = {2022},
+  note = {https://cancerdb.com}
+ }
+
+endColumns
+
+import ../footer.scroll

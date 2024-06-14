@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id testicular-mesothelioma
+name Testicular Mesothelioma
+type cancerType
+subTypes 0
+tissue Testis
+mainType Mesothelioma
+
+oncoTreeId TMESO
+parentOncoTreeId TESTIS
+oncoTreeLevel 2

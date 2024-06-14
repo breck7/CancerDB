@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id dermatofibrosarcoma-protuberans
+name Dermatofibrosarcoma Protuberans
+type cancerType
+subTypes 0
+tissue Skin
+mainType Skin Cancer, Non-Melanoma
+
+oncoTreeId DFSP
+parentOncoTreeId SKIN
+umls C0392784
+nciCode C4683
+oncoTreeLevel 2

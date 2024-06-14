@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id rhabdoid-cancer
+name Rhabdoid Cancer
+type cancerType
+subTypes 0
+tissue Kidney
+mainType Rhabdoid Cancer
+
+oncoTreeId MRT
+parentOncoTreeId KIDNEY
+umls C0206743
+nciCode C3808
+oncoTreeLevel 2

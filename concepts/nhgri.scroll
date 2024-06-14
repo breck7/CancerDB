@@ -1,0 +1,15 @@
+import ../code/conceptPage.scroll
+
+id nhgri
+name NHGRI
+type nationalGovernmentAgency
+website https://www.genome.gov/
+parentOrganization nih
+standsFor National Human Genome Research Institute
+conceptDescription The National Human Genome Research Institute (NHGRI) is an institute of the National Institutes of Health, located in Bethesda, Maryland.
+
+wikipedia https://en.wikipedia.org/wiki/National_Human_Genome_Research_Institute
+
+facebook https://facebook.com/genome.gov
+
+domainName genome.gov

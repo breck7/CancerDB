@@ -1,0 +1,15 @@
+import ../code/conceptPage.scroll
+
+id incan
+name Instituto Nacional de Cancerología (Mexico)
+type hospital
+website https://www.incan-mexico.org/
+appeared 1946
+aka INCan
+
+country Mexico
+
+wikipedia https://en.wikipedia.org/wiki/Instituto_Nacional_de_Cancerolog%C3%ADa_(Mexico)
+
+domainName incan-mexico.org
+ registered 2013

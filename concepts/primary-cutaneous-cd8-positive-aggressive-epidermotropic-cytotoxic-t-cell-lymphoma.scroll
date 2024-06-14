@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id primary-cutaneous-cd8-positive-aggressive-epidermotropic-cytotoxic-t-cell-lymphoma
+name Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Mature T and NK Neoplasms
+
+oncoTreeId PCAECTCL
+parentOncoTreeId MTNN
+oncoTreeLevel 5

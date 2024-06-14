@@ -1,0 +1,10 @@
+import ../code/conceptPage.scroll
+
+id mastectomy
+name Mastectomy
+type surgery
+conceptDescription A surgery that involves removing the entire breast tissue.
+
+medlinePlus 002919
+
+wikipedia https://en.wikipedia.org/wiki/Mastectomy

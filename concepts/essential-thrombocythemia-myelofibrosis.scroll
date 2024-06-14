@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id essential-thrombocythemia-myelofibrosis
+name Essential Thrombocythemia Myelofibrosis
+type cancerType
+subTypes 0
+tissue Myeloid
+mainType Myeloproliferative Neoplasms
+
+oncoTreeId ETMF
+parentOncoTreeId ET
+oncoTreeLevel 5

@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id disseminated-juvenile-xanthogranuloma
+name Disseminated Juvenile Xanthogranuloma
+type cancerType
+subTypes 0
+tissue Myeloid
+mainType Histiocytosis
+
+oncoTreeId JXG
+parentOncoTreeId HDCN
+oncoTreeLevel 4

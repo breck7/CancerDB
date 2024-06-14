@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id mixed-germ-cell-tumor
+name Mixed Germ Cell Tumor
+type cancerType
+subTypes 0
+tissue Ovary/Fallopian Tube
+mainType Germ Cell Tumor
+
+oncoTreeId OMGCT
+parentOncoTreeId OGCT
+umls C0280135
+nciCode C8114
+oncoTreeLevel 3

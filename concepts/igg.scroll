@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id igg
+name IgG
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Mature B-Cell Neoplasms
+
+oncoTreeId MGUSIGG
+parentOncoTreeId MGUS
+oncoTreeLevel 6

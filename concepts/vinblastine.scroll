@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id vinblastine
+name Vinblastine
+type chemotherapyDrug
+tradenames Velban && Velbe
+routesOfAdministration intravenous
+
+kegg D08675
+drugBank DB00570
+medlinePlus a682848
+pubChem 241903
+
+wikipedia https://en.wikipedia.org/wiki/Vinblastine

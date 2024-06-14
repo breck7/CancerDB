@@ -1,0 +1,13 @@
+import ../code/conceptPage.scroll
+
+id europa-donna-armenia
+name Europa Donna Armenia
+type cancerNonProfit
+appeared 2015
+conceptDescription Armenian representation of the European Breast Cancer Coalition.
+reference https://www.uicc.org/sites/main/files/atoms/files/Declaration-Report-2016_Armenia.pdf
+
+country Armenia
+
+twitter https://twitter.com/europadonnaarm
+facebook https://www.facebook.com/www.europadonna.am

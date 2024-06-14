@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id embryonal-carcinoma
+name Embryonal Carcinoma
+type cancerType
+subTypes 0
+tissue Ovary/Fallopian Tube
+mainType Germ Cell Tumor
+
+oncoTreeId OEC
+parentOncoTreeId OGCT
+umls C0346183
+nciCode C8108
+oncoTreeLevel 3

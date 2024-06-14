@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id hepatocellular-adenoma
+name Hepatocellular Adenoma
+type cancerType
+subTypes 0
+tissue Liver
+mainType Hepatobiliary Cancer
+
+oncoTreeId LIAD
+parentOncoTreeId LIVER
+umls C0206669
+nciCode C3758
+oncoTreeLevel 2

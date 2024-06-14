@@ -1,0 +1,19 @@
+import ../code/conceptPage.scroll
+
+id leukemia-and-lymphoma-society
+name Leukemia & Lymphoma Society
+type cancerNonProfit
+website https://www.lls.org/
+cancerTypes leukemia
+
+phoneNumber 1-800-955-4572
+country United States
+city Rye Brook, NY
+
+ein 135644916
+charityNavigator https://www.charitynavigator.org/ein/135644916
+guideStar https://www.guidestar.org/profile/shared/40d84a97-8b7b-4b09-9feb-b93994d2003d
+greatNonProfits https://greatnonprofits.org/org/the-leukemia-lymphoma-society
+
+domainName lls.org
+ registered 1997

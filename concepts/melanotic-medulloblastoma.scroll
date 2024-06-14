@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id melanotic-medulloblastoma
+name Melanotic Medulloblastoma
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Embryonal Tumor
+
+oncoTreeId MMBL
+parentOncoTreeId EMBT
+umls C1275668
+nciCode C9497
+oncoTreeLevel 3

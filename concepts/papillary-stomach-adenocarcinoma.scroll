@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id papillary-stomach-adenocarcinoma
+name Papillary Stomach Adenocarcinoma
+type cancerType
+subTypes 0
+tissue Esophagus/Stomach
+mainType Esophagogastric Cancer
+
+oncoTreeId PSTAD
+parentOncoTreeId STAD
+umls C1333785
+nciCode C5472
+oncoTreeLevel 4

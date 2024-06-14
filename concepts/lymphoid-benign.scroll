@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id lymphoid-benign
+name Lymphoid Benign
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Lymphatic Cancer, NOS
+
+oncoTreeId LBGN
+parentOncoTreeId LYMPH
+oncoTreeLevel 2

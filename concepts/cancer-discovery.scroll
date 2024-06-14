@@ -1,0 +1,11 @@
+import ../code/conceptPage.scroll
+
+id cancer-discovery
+name Cancer Discovery
+type journal
+website https://cancerdiscovery.aacrjournals.org/
+parentOrganization aacr
+
+wikipedia https://en.wikipedia.org/wiki/Cancer_Discovery
+
+domainName cancerdiscovery.aacrjournals.org

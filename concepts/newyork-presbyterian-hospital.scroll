@@ -1,0 +1,17 @@
+import ../code/conceptPage.scroll
+
+id newyork-presbyterian-hospital
+name NewYork-Presbyterian Hospital
+type hospital
+website https://www.nyp.org/
+appeared 1771
+aka NYP
+
+city New York, NY
+
+wikipedia https://en.wikipedia.org/wiki/NewYork-Presbyterian_Hospital
+
+usNewsRank 12
+
+domainName nyp.org
+ registered 1998

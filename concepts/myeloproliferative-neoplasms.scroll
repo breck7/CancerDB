@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id myeloproliferative-neoplasms
+name Myeloproliferative Neoplasms
+type cancerType
+subTypes 12
+tissue Myeloid
+mainType Myeloproliferative Neoplasms
+
+oncoTreeId MPN
+parentOncoTreeId MNM
+umls C1292778
+nciCode C4345
+oncoTreeLevel 3

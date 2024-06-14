@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id mucinous-borderline-ovarian-tumor
+name Mucinous Borderline Ovarian Tumor
+type cancerType
+subTypes 0
+tissue Ovary/Fallopian Tube
+mainType Ovarian Cancer
+
+oncoTreeId MBOV
+parentOncoTreeId OVT
+umls C0279664
+nciCode C40036
+oncoTreeLevel 3

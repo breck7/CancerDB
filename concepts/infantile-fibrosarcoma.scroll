@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id infantile-fibrosarcoma
+name Infantile Fibrosarcoma
+type cancerType
+subTypes 0
+tissue Soft Tissue
+mainType Infantile Fibrosarcoma
+
+oncoTreeId IFS
+parentOncoTreeId SOFT_TISSUE
+oncoTreeLevel 2

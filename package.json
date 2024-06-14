@@ -1,0 +1,31 @@
+{
+  "name": "cancerdb",
+  "version": "2.0.0",
+  "description": "Datasets about Cancer.",
+  "scripts": {
+    "build": "scroll list | scroll build",
+    "test": "scroll list | scroll test",
+    "format": "scroll list | scroll format",
+    "fetchContributors": "wget -O pages/contributors.json https://api.github.com/repos/breck7/CancerDB/contributors",
+    "open": "open index.html",
+    "up": "npm install scroll-cli@latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breck7/CancerDB.git"
+  },
+  "prettier": {
+    "semi": false
+  },
+  "keywords": [
+    "cancer",
+    "data"
+  ],
+  "author": "Breck Yunits et al.",
+  "homepage": "https://cancerdb.com",
+  "devDependencies": {
+    "lodash": "^4.17.21",
+    "scroll-cli": "^95.0.0",
+    "scrollsdk": "^78.0.0"
+  }
+}

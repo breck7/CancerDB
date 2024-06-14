@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id basaloid-large-cell-carcinoma-of-the-lung
+name Basaloid Large Cell Carcinoma of the Lung
+type cancerType
+subTypes 0
+tissue Lung
+mainType Non-Small Cell Lung Cancer
+
+oncoTreeId BLCLC
+parentOncoTreeId LCLC
+umls C1332463
+nciCode C7266
+oncoTreeLevel 4

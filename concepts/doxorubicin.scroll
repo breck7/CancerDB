@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id doxorubicin
+name Doxorubicin
+type chemotherapyDrug anthracycline
+tradenames Adriamycin && Caelyx && Myocet
+routesOfAdministration intravenous intravesical
+
+kegg D03899
+drugBank DB00997
+medlinePlus a682221
+pubChem 31703
+
+wikipedia https://en.wikipedia.org/wiki/Doxorubicin

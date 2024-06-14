@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id embryonal-carcinoma-cns-brain
+name Embryonal Carcinoma CNS/Brain
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Germ Cell Tumor
+
+oncoTreeId BEC
+parentOncoTreeId BGCT
+umls C1333377
+nciCode C7010
+oncoTreeLevel 3

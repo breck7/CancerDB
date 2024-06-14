@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id gliosarcoma
+name Gliosarcoma
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Glioma
+
+oncoTreeId GSARC
+parentOncoTreeId GB
+umls C0206726
+nciCode C3796
+oncoTreeLevel 4

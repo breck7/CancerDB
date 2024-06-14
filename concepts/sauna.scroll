@@ -1,0 +1,7 @@
+import ../code/conceptPage.scroll
+
+id sauna
+name Sauna
+type breathTreatment
+
+wikipedia https://en.wikipedia.org/wiki/Sauna

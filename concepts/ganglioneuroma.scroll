@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id ganglioneuroma
+name Ganglioneuroma
+type cancerType
+subTypes 0
+tissue Peripheral Nervous System
+mainType Peripheral Nervous System
+
+oncoTreeId GN
+parentOncoTreeId PNS
+oncoTreeLevel 2

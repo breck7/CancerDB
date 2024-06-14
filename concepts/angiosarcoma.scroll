@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id angiosarcoma
+name Angiosarcoma
+type cancerType
+subTypes 0
+tissue Soft Tissue
+mainType Soft Tissue Sarcoma
+
+oncoTreeId ANGS
+parentOncoTreeId SOFT_TISSUE
+umls C0018923
+nciCode C3088
+oncoTreeLevel 2

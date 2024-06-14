@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id pineoblastoma
+name Pineoblastoma
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Pineal Tumor
+
+oncoTreeId PBL
+parentOncoTreeId PINT
+umls C0205898
+nciCode C9344
+oncoTreeLevel 3

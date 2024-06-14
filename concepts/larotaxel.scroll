@@ -1,0 +1,9 @@
+import ../code/conceptPage.scroll
+
+id larotaxel
+name Larotaxel
+type chemotherapyDrug taxane
+
+pubChem 6918260
+
+wikipedia https://en.wikipedia.org/wiki/Larotaxel

@@ -1,0 +1,13 @@
+import ../code/conceptPage.scroll
+
+id carmustine
+name Carmustine
+type chemotherapyDrug alkylatingAgent
+tradenames BiCNU && Gliadel
+
+kegg D00254
+drugBank DB00262
+medlinePlus a682060
+pubChem 2578
+
+wikipedia https://en.wikipedia.org/wiki/Carmustine

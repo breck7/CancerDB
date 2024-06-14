@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id immature-teratoma-vulva-vagina
+name Immature Teratoma Vulva/Vagina
+type cancerType
+subTypes 0
+tissue Vulva/Vagina
+mainType Germ Cell Tumor
+
+oncoTreeId VIMT
+parentOncoTreeId VGCT
+umls C0334520
+nciCode C4286
+oncoTreeLevel 3

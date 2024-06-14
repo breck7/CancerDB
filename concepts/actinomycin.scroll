@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id actinomycin
+name Actinomycin
+type chemotherapyDrug
+tradenames Cosmegen
+routesOfAdministration intravenous
+
+kegg C06770
+drugBank DB00970
+medlinePlus a682224
+pubChem 2019
+
+wikipedia https://en.wikipedia.org/wiki/Actinomycin

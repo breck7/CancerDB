@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id odontogenic-carcinoma
+name Odontogenic Carcinoma
+type cancerType
+subTypes 1
+tissue Head and Neck
+mainType Head and Neck Cancer
+
+oncoTreeId ODGC
+parentOncoTreeId OHNCA
+umls C0334558
+nciCode C4812
+oncoTreeLevel 3

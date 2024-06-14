@@ -1,0 +1,16 @@
+import ../code/conceptPage.scroll
+
+id university-of-virginia-cancer-center
+name University of Virginia Cancer Center
+type nciCancerCenter
+website https://uvahealth.com/services/cancer
+
+phoneNumber 1-434-924-9333
+country United States
+city Charlottesville, Virginia
+
+wikipedia https://en.wikipedia.org/wiki/University_of_Virginia_Cancer_Center
+
+nciDesignation Comprehensive Cancer Center
+nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/uvacc
+nciImage https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/2022-04/University%20of%20Virginia%20Cancer%20Center.jpg

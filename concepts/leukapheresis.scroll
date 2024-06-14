@@ -1,0 +1,8 @@
+import ../code/conceptPage.scroll
+
+id leukapheresis
+name Leukapheresis
+type procedure
+conceptDescription A laboratory procedure in which white blood cells are separated from a sample of blood.
+
+wikipedia https://en.wikipedia.org/wiki/Leukapheresis

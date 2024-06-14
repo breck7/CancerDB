@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id primary-mediastinal-thymic-large-b-cell-lymphoma
+name Primary Mediastinal (Thymic) Large B-Cell Lymphoma
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Mature B-Cell Neoplasms
+
+oncoTreeId PMBL
+parentOncoTreeId MBN
+umls C1292754
+nciCode C9280
+oncoTreeLevel 5

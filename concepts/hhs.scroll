@@ -1,0 +1,19 @@
+import ../code/conceptPage.scroll
+
+id hhs
+name United States Department of Health and Human Services
+type nationalGovernmentAgency
+website https://www.hhs.gov/
+
+phoneNumber 1-877-696-6775
+country United States
+
+wikipedia https://en.wikipedia.org/wiki/United_States_Department_of_Health_and_Human_Services
+
+twitter https://twitter.com/hhsgov
+ followers 1400000
+facebook https://facebook.com/hhs
+youTubeChannel https://youtube.com/user/usgovhhs
+instagram https://instagram.com/hhsgov
+
+domainName hhs.gov

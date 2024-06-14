@@ -1,0 +1,13 @@
+import ../code/conceptPage.scroll
+
+id gemcitabine
+name Gemcitabine
+type chemotherapyDrug
+tradenames Gemzar
+routesOfAdministration intravenous
+
+kegg D02368
+drugBank DB00441
+pubChem 60750
+
+wikipedia https://en.wikipedia.org/wiki/Gemcitabine

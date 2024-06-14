@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id breast-invasive-carcinosarcoma-nos
+name Breast Invasive Carcinosarcoma, NOS
+type cancerType
+subTypes 0
+tissue Breast
+mainType Breast Cancer
+
+oncoTreeId CSNOS
+parentOncoTreeId BRCA
+oncoTreeLevel 3

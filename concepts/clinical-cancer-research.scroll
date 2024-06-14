@@ -1,0 +1,11 @@
+import ../code/conceptPage.scroll
+
+id clinical-cancer-research
+name Clinical Cancer Research
+type journal
+website https://clincancerres.aacrjournals.org/
+parentOrganization aacr
+
+wikipedia https://en.wikipedia.org/wiki/Clinical_Cancer_Research
+
+domainName clincancerres.aacrjournals.org

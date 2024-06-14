@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id eye
+name Eye Cancer
+type cancerType
+subTypes 4
+tissue Eye
+mainType Eye Cancer, NOS
+
+oncoTreeId EYE
+parentOncoTreeId TISSUE
+umls C0015392
+nciCode C12401
+oncoTreeLevel 1

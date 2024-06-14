@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id hemangioblastoma
+name Hemangioblastoma
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Miscellaneous Brain Tumor
+
+oncoTreeId HMBL
+parentOncoTreeId MBT
+umls C0206734
+nciCode C3801
+oncoTreeLevel 3

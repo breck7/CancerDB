@@ -1,0 +1,7 @@
+importOnly
+baseUrl https://cancerdb.com/pages/
+replace BASE_URL ..
+viewSourceBaseUrl https://github.com/breck7/CancerDB/blob/main/pages/
+
+keyboardNav
+import ../header.scroll

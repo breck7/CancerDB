@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id idarubicin
+name Idarubicin
+type chemotherapyDrug anthracycline
+
+kegg D08062
+drugBank DB01177
+medlinePlus a691004
+pubChem 42890
+
+wikipedia https://en.wikipedia.org/wiki/Idarubicin

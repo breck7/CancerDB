@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id spitzoid-melanoma
+name Spitzoid Melanoma
+type cancerType
+subTypes 0
+tissue Skin
+mainType Melanoma
+
+oncoTreeId SPZM
+parentOncoTreeId MEL
+oncoTreeLevel 3

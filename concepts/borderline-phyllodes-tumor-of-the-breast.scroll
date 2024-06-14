@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id borderline-phyllodes-tumor-of-the-breast
+name Borderline Phyllodes Tumor of the Breast
+type cancerType
+subTypes 0
+tissue Breast
+mainType Breast Sarcoma
+
+oncoTreeId BLPT
+parentOncoTreeId PT
+umls C1332592
+nciCode C5316
+oncoTreeLevel 4

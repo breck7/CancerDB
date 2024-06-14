@@ -1,0 +1,9 @@
+import ../code/conceptPage.scroll
+
+id serene-hospice-care
+name Serene Hospice Care
+type caregiverService hospiceCareService
+website https://serenehospicecare.com/
+
+domainName serenehospicecare.com
+ registered 2017

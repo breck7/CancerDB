@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id mucinous-adenocarcinoma-of-the-appendix
+name Mucinous Adenocarcinoma of the Appendix
+type cancerType
+subTypes 0
+tissue Bowel
+mainType Appendiceal Cancer
+
+oncoTreeId MAAP
+parentOncoTreeId APAD
+umls C1706832
+nciCode C43558
+oncoTreeLevel 3

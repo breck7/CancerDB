@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id teniposide
+name Teniposide
+type chemotherapyDrug
+tradenames Vumon
+routesOfAdministration intravenous
+
+kegg D02698
+drugBank DB00444
+medlinePlus a692045
+pubChem 34698
+
+wikipedia https://en.wikipedia.org/wiki/Teniposide

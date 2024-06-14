@@ -1,0 +1,9 @@
+import ../code/conceptPage.scroll
+
+id uscs
+name USCS
+type nationalGovernmentAgency
+website https://www.cdc.gov/cancer/uscs/index.htm
+appeared 1992
+standsFor United States Cancer Statistics
+conceptDescription The United States Cancer Statistics are the official federal cancer statistics. These statistics include cancer registry data from CDC’s National Program of Cancer Registries (NPCR) and the National Cancer Institute’s (NCI) Surveillance, Epidemiology, and End Results (SEER) Program, as well as mortality data from CDC’s National Center for Health Statistics. The statistics provide information on newly diagnosed cancer cases and cancer deaths for the whole U.S. population.

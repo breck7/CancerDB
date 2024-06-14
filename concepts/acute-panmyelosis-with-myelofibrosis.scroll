@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id acute-panmyelosis-with-myelofibrosis
+name Acute Panmyelosis with Myelofibrosis
+type cancerType
+subTypes 0
+tissue Myeloid
+mainType Leukemia
+
+oncoTreeId APMF
+parentOncoTreeId AMLNOS
+oncoTreeLevel 5

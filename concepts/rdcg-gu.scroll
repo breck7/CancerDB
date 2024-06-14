@@ -1,0 +1,10 @@
+import ../code/conceptPage.scroll
+
+id rdcg-gu
+name RDCG
+type registry
+standsFor Registre de Cancer de Guinée
+conceptDescription The cancer registry of Guinea was established in 1990 and is located in the Department of Pathology at the National Hospital of Donka, Conakry. It aims to be population based for the city of Conakry. A six-month duration of stay is used as the criterion to distinguish cancer patients who are usual residents of the city from temporary visitors (cases domiciled with their families for the purpose of receiving medical care).The Registry Director provides overall supervision, but the work of registration is all carried out by the registry manager, Mr Ibrahim Kabba.
+reference https://afcrn.org/index.php/membership/membership-list/91-guineecr
+
+country Republic of Guinea

@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id mds-with-ring-sideroblasts-and-multilineage-dysplasia
+name MDS with Ring Sideroblasts and Multilineage Dysplasia
+type cancerType
+subTypes 0
+tissue Myeloid
+mainType Myelodysplastic Syndromes
+
+oncoTreeId MDSRSMD
+parentOncoTreeId MDSRS
+oncoTreeLevel 5

@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id metaplastic-carcinosarcoma
+name Metaplastic Carcinosarcoma
+type cancerType
+subTypes 0
+tissue Breast
+mainType Breast Cancer
+
+oncoTreeId MCS
+parentOncoTreeId MMBC
+oncoTreeLevel 4

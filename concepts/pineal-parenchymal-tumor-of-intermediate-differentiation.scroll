@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id pineal-parenchymal-tumor-of-intermediate-differentiation
+name Pineal Parenchymal Tumor of Intermediate Differentiation
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Pineal Tumor
+
+oncoTreeId PPTID
+parentOncoTreeId PINT
+umls C1367859
+nciCode C6967
+oncoTreeLevel 3

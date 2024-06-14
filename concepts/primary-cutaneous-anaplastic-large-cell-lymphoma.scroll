@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id primary-cutaneous-anaplastic-large-cell-lymphoma
+name Primary Cutaneous Anaplastic Large Cell Lymphoma
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Mature T and NK Neoplasms
+
+oncoTreeId PCALCL
+parentOncoTreeId PCLPD
+oncoTreeLevel 6

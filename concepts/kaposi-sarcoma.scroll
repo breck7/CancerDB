@@ -1,0 +1,52 @@
+import ../code/conceptPage.scroll
+
+id kaposi-sarcoma
+name Karposi's Sarcoma
+type cancerType
+cancerDotOrg https://www.cancer.org/cancer/kaposi-sarcoma/about/what-is-kaposi-sarcoma.html
+gco https://gco.iarc.fr/today/data/factsheets/cancers/19-Kaposi-sarcoma-fact-sheet.pdf
+reference https://www.mayoclinic.org/diseases-conditions/kaposis-sarcoma/cdc-20387726
+reference https://www.hopkinsmedicine.org/health/conditions-and-diseases/sarcoma/kaposi-sarcoma
+
+uscsId Kaposi Sarcoma
+uscsCasesPerYear 54
+uscsTable 2019
+ sex|age|population|cases|deaths
+ F|0|1841226|~|.
+ F|1-4|7728847|~|.
+ F|5-9|9886447|~|.
+ F|10-14|10190891|~|.
+ F|15-19|10313575|~|.
+ F|20-24|10577124|~|.
+ F|25-29|11518714|~|.
+ F|30-34|11093732|~|.
+ F|35-39|10861340|~|.
+ F|40-44|10014341|~|.
+ F|45-49|10307804|~|.
+ F|50-54|10387588|~|.
+ F|55-59|11232044|~|.
+ F|60-64|10708826|~|.
+ F|65-69|9252566|~|.
+ F|70-74|7527818|~|.
+ F|75-79|5333117|~|.
+ F|80-84|3636357|~|.
+ F|85+|4225260|21|.
+ M|0|1921001|~|.
+ M|1-4|8080265|~|.
+ M|5-9|10335306|~|.
+ M|10-14|10629162|~|.
+ M|15-19|10752848|~|.
+ M|20-24|11066850|+|.
+ M|25-29|12020738|+|.
+ M|30-34|11370500|+|.
+ M|35-39|10892543|+|.
+ M|40-44|9906220|+|.
+ M|45-49|10082635|+|.
+ M|50-54|10082296|+|.
+ M|55-59|10639047|+|.
+ M|60-64|9851308|+|.
+ M|65-69|8191801|+|.
+ M|70-74|6499159|+|.
+ M|75-79|4317707|+|.
+ M|80-84|2678743|+|.
+ M|85+|2374207|33|.

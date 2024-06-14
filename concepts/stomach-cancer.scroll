@@ -1,0 +1,57 @@
+import ../code/conceptPage.scroll
+
+id stomach-cancer
+name Stomach Cancer
+type cancerType
+cancerDotGov https://www.cancer.gov/types/stomach
+cancerDotOrg https://www.cancer.org/cancer/stomach-cancer.html
+gco https://gco.iarc.fr/today/data/factsheets/cancers/7-Stomach-fact-sheet.pdf
+reference https://www.mayoclinic.org/diseases-conditions/stomach-cancer/symptoms-causes/syc-20352438
+reference https://www.cancer.net/cancer-types/stomach-cancer
+
+uscsId Stomach
+uscsDeathsPerYear 11071
+uscsCasesPerYear 24359
+uscsMortalityRate 45%
+uscsTable 2019
+ sex|age|population|cases|deaths
+ F|0|1841226|~|~
+ F|1-4|7728847|~|~
+ F|5-9|9886447|~|~
+ F|10-14|10190891|~|~
+ F|15-19|10313575|~|~
+ F|20-24|10577124|26|~
+ F|25-29|11518714|37|19
+ F|30-34|11093732|99|44
+ F|35-39|10861340|213|83
+ F|40-44|10014341|298|120
+ F|45-49|10307804|486|201
+ F|50-54|10387588|659|222
+ F|55-59|11232044|853|326
+ F|60-64|10708826|1151|409
+ F|65-69|9252566|1237|496
+ F|70-74|7527818|1296|541
+ F|75-79|5333117|1142|531
+ F|80-84|3636357|932|546
+ F|85+|4225260|1068|922
+ M|0|1921001|~|~
+ M|1-4|8080265|~|~
+ M|5-9|10335306|~|~
+ M|10-14|10629162|~|~
+ M|15-19|10752848|~|~
+ M|20-24|11066850|21|~
+ M|25-29|12020738|71|29
+ M|30-34|11370500|104|33
+ M|35-39|10892543|217|94
+ M|40-44|9906220|323|133
+ M|45-49|10082635|549|240
+ M|50-54|10082296|886|358
+ M|55-59|10639047|1495|542
+ M|60-64|9851308|2024|791
+ M|65-69|8191801|2337|907
+ M|70-74|6499159|2334|976
+ M|75-79|4317707|1962|875
+ M|80-84|2678743|1372|744
+ M|85+|2374207|1167|889
+
+wikipedia https://en.wikipedia.org/wiki/Stomach_cancer

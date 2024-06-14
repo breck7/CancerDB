@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id craniopharyngioma-adamantinomatous-type
+name Craniopharyngioma, Adamantinomatous Type
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Sellar Tumor
+
+oncoTreeId ACPG
+parentOncoTreeId SELT
+oncoTreeLevel 3

@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id chordoma
+name Chordoma
+type cancerType
+subTypes 2
+tissue Bone
+mainType Bone Cancer
+
+oncoTreeId CHDM
+parentOncoTreeId BONE
+umls C0008487
+nciCode C2947
+oncoTreeLevel 2

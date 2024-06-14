@@ -1,0 +1,9 @@
+import ../code/conceptPage.scroll
+
+id radiofrequency-ablation
+name Radiofrequency ablation
+type ablationProcedure
+aka RFA
+aka fulguration
+
+wikipedia https://en.wikipedia.org/wiki/Radiofrequency_ablation

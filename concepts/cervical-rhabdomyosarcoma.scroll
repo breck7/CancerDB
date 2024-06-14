@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id cervical-rhabdomyosarcoma
+name Cervical Rhabdomyosarcoma
+type cancerType
+subTypes 0
+tissue Cervix
+mainType Cervical Cancer
+
+oncoTreeId CERMS
+parentOncoTreeId CERVIX
+oncoTreeLevel 2

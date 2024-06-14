@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id chronic-eosinophilic-leukemia-nos
+name Chronic Eosinophilic Leukemia, NOS
+type cancerType
+subTypes 0
+tissue Myeloid
+mainType Myeloproliferative Neoplasms
+
+oncoTreeId CELNOS
+parentOncoTreeId MPN
+oncoTreeLevel 4

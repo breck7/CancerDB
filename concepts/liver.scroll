@@ -1,0 +1,64 @@
+import ../code/conceptPage.scroll
+
+id liver
+name Liver Cancer
+type cancerType
+subTypes 9
+tissue Liver
+mainType Liver Cancer, NOS
+gco https://gco.iarc.fr/today/data/factsheets/cancers/11-Liver-fact-sheet.pdf
+annualDeathsReport US https://www.cdc.gov/cancer/dcpc/research/update-on-cancer-deaths/index.htm
+ 2020 28227
+
+oncoTreeId LIVER
+parentOncoTreeId TISSUE
+umls C0023884
+nciCode C12392
+oncoTreeLevel 1
+
+uscsId Liver and Intrahepatic Bile Duct
+uscsDeathsPerYear 27882
+uscsCasesPerYear 35443
+uscsMortalityRate 79%
+uscsTable 2019
+ sex|age|population|cases|deaths
+ F|0|1841226|34|~
+ F|1-4|7728847|38|~
+ F|5-9|9886447|~|~
+ F|10-14|10190891|~|~
+ F|15-19|10313575|+|~
+ F|20-24|10577124|+|~
+ F|25-29|11518714|28|~
+ F|30-34|11093732|44|23
+ F|35-39|10861340|87|41
+ F|40-44|10014341|118|78
+ F|45-49|10307804|216|148
+ F|50-54|10387588|445|298
+ F|55-59|11232044|956|653
+ F|60-64|10708826|1551|1135
+ F|65-69|9252566|1897|1355
+ F|70-74|7527818|1701|1427
+ F|75-79|5333117|1395|1389
+ F|80-84|3636357|1052|1119
+ F|85+|4225260|1090|1566
+ M|0|1921001|25|~
+ M|1-4|8080265|65|~
+ M|5-9|10335306|~|~
+ M|10-14|10629162|~|~
+ M|15-19|10752848|~|~
+ M|20-24|11066850|~|~
+ M|25-29|12020738|47|22
+ M|30-34|11370500|92|54
+ M|35-39|10892543|138|70
+ M|40-44|9906220|203|130
+ M|45-49|10082635|480|310
+ M|50-54|10082296|1257|732
+ M|55-59|10639047|3200|1920
+ M|60-64|9851308|4962|3444
+ M|65-69|8191801|5328|3781
+ M|70-74|6499159|3663|3007
+ M|75-79|4317707|2508|2133
+ M|80-84|2678743|1606|1562
+ M|85+|2374207|1217|1485
+
+wikipedia https://en.wikipedia.org/wiki/Liver_cancer

@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id chronic-lymphoproliferative-disorder-of-nk-cells
+name Chronic Lymphoproliferative Disorder of NK Cells
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Mature T and NK Neoplasms
+
+oncoTreeId CLPDNK
+parentOncoTreeId MTNN
+oncoTreeLevel 5

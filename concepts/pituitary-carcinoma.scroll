@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id pituitary-carcinoma
+name Pituitary Carcinoma
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Sellar Tumor
+
+oncoTreeId PTCA
+parentOncoTreeId SELT
+umls C0346300
+nciCode C4536
+oncoTreeLevel 3

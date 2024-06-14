@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id myeloproliferative-neoplasms-unclassifiable
+name Myeloproliferative Neoplasms, Unclassifiable
+type cancerType
+subTypes 0
+tissue Myeloid
+mainType Myeloproliferative Neoplasms
+
+oncoTreeId MPNU
+parentOncoTreeId MPN
+oncoTreeLevel 4

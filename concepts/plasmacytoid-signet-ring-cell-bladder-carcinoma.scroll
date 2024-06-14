@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id plasmacytoid-signet-ring-cell-bladder-carcinoma
+name Plasmacytoid/Signet Ring Cell Bladder Carcinoma
+type cancerType
+subTypes 0
+tissue Bladder/Urinary Tract
+mainType Bladder Cancer
+
+oncoTreeId SRCBC
+parentOncoTreeId BLADDER
+umls C1512742
+nciCode C39823
+oncoTreeLevel 2

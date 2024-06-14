@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id urachal-carcinoma
+name Urachal Carcinoma
+type cancerType
+subTypes 1
+tissue Bladder/Urinary Tract
+mainType Bladder Cancer
+
+oncoTreeId URCA
+parentOncoTreeId BLADDER
+umls C1511205
+nciCode C39842
+oncoTreeLevel 2

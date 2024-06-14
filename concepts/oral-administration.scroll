@@ -1,0 +1,7 @@
+import ../code/conceptPage.scroll
+
+id oral-administration
+name Oral administration
+type routeOfAdministration
+
+wikipedia https://en.wikipedia.org/wiki/Oral_administration

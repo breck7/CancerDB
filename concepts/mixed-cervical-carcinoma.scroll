@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id mixed-cervical-carcinoma
+name Mixed Cervical Carcinoma
+type cancerType
+subTypes 0
+tissue Cervix
+mainType Cervical Cancer
+
+oncoTreeId MCCE
+parentOncoTreeId CERVIX
+oncoTreeLevel 2

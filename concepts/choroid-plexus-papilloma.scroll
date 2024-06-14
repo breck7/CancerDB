@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id choroid-plexus-papilloma
+name Choroid Plexus Papilloma
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Choroid Plexus Tumor
+
+oncoTreeId CPP
+parentOncoTreeId CPT
+umls C0205770
+nciCode C3698
+oncoTreeLevel 3

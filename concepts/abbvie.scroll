@@ -1,0 +1,20 @@
+import ../code/conceptPage.scroll
+
+id abbvie
+name AbbVie
+type publicCompany
+website https://www.abbvie.com/
+
+wikipedia https://en.wikipedia.org/wiki/AbbVie
+
+twitter https://twitter.com/abbvie
+ followers 78500
+facebook https://facebook.com/abbvieglobal
+linkedin https://linkedin.com/company/abbvie
+youTubeChannel https://youtube.com/user/abbvie
+instagram https://instagram.com/abbvie
+
+nyse https://www.nyse.com/quote/XNYS:ABBV
+
+domainName abbvie.com
+ registered 2012

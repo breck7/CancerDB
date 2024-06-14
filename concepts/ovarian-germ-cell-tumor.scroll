@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id ovarian-germ-cell-tumor
+name Ovarian Germ Cell Tumor
+type cancerType
+subTypes 7
+tissue Ovary/Fallopian Tube
+mainType Germ Cell Tumor
+
+oncoTreeId OGCT
+parentOncoTreeId OVARY
+umls C0238324
+nciCode C3873
+oncoTreeLevel 2

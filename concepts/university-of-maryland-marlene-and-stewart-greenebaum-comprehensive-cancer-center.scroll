@@ -1,0 +1,20 @@
+import ../code/conceptPage.scroll
+
+id university-of-maryland-marlene-and-stewart-greenebaum-comprehensive-cancer-center
+name University of Maryland Marlene and Stewart Greenebaum Comprehensive Cancer Center
+type nciCancerCenter
+website https://www.umms.org/umgccc
+
+phoneNumber 1-410-328-7904
+country United States
+city Baltimore, Maryland
+
+wikipedia https://en.wikipedia.org/wiki/University_of_Maryland_Marlene_and_Stewart_Greenebaum_Comprehensive_Cancer_Center
+
+twitter https://twitter.com/umgccc
+ followers 8674
+facebook https://facebook.com/umgccc
+
+nciDesignation Comprehensive Cancer Center
+nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/umdgreenebaum
+nciImage https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/900/300/files/umdgreenebaum-article.jpg

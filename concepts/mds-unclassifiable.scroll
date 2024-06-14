@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id mds-unclassifiable
+name MDS, Unclassifiable
+type cancerType
+subTypes 0
+tissue Myeloid
+mainType Myelodysplastic Syndromes
+
+oncoTreeId MDSU
+parentOncoTreeId MDS
+oncoTreeLevel 4

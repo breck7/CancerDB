@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id uterine-sarcoma-mesenchymal
+name Uterine Sarcoma/Mesenchymal
+type cancerType
+subTypes 13
+tissue Uterus
+mainType Uterine Sarcoma
+
+oncoTreeId USARC
+parentOncoTreeId UTERUS
+umls C0338113
+nciCode C6339
+oncoTreeLevel 2

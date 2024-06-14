@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id acute-myelomonocytic-leukemia
+name Acute Myelomonocytic Leukemia
+type cancerType
+subTypes 0
+tissue Myeloid
+mainType Leukemia
+
+oncoTreeId AMML
+parentOncoTreeId AMLNOS
+oncoTreeLevel 5

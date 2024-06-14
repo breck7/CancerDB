@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id bexarotene
+name Bexarotene
+type chemotherapyDrug
+tradenames Targretin
+routesOfAdministration oral
+
+kegg D03106
+drugBank DB00307
+medlinePlus a608006
+pubChem 82146
+
+wikipedia https://en.wikipedia.org/wiki/Bexarotene

@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id nut-carcinoma-of-the-lung
+name NUT Carcinoma of the Lung
+type cancerType
+subTypes 0
+tissue Lung
+mainType Non-Small Cell Lung Cancer
+
+oncoTreeId NUTCL
+parentOncoTreeId NSCLC
+oncoTreeLevel 3

@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id cervical-serous-carcinoma
+name Cervical Serous Carcinoma
+type cancerType
+subTypes 0
+tissue Cervix
+mainType Cervical Cancer
+
+oncoTreeId CESE
+parentOncoTreeId CEAD
+oncoTreeLevel 3

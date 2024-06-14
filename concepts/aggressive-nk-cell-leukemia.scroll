@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id aggressive-nk-cell-leukemia
+name Aggressive NK-Cell Leukemia
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Mature T and NK Neoplasms
+
+oncoTreeId ANKL
+parentOncoTreeId MTNN
+oncoTreeLevel 5

@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id high-grade-neuroendocrine-carcinoma-of-the-esophagus
+name High-Grade Neuroendocrine Carcinoma of the Esophagus
+type cancerType
+subTypes 0
+tissue Esophagus/Stomach
+mainType Gastrointestinal Neuroendocrine Tumors of the Esophagus/Stomach
+
+oncoTreeId HGNEE
+parentOncoTreeId GINETES
+oncoTreeLevel 3

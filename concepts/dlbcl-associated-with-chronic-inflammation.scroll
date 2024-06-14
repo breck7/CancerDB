@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id dlbcl-associated-with-chronic-inflammation
+name DLBCL Associated with Chronic Inflammation
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Mature B-Cell Neoplasms
+
+oncoTreeId DLBCLCI
+parentOncoTreeId MBN
+oncoTreeLevel 5

@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id hurthle-cell-thyroid-cancer
+name Hurthle Cell Thyroid Cancer
+type cancerType
+subTypes 0
+tissue Thyroid
+mainType Thyroid Cancer
+
+oncoTreeId THHC
+parentOncoTreeId THYROID
+umls C0749424
+nciCode C4946
+oncoTreeLevel 2

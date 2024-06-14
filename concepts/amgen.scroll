@@ -1,0 +1,10 @@
+import ../code/conceptPage.scroll
+
+id amgen
+name Amgen
+type publicCompany
+website https://www.amgen.com/
+
+wikipedia https://en.wikipedia.org/wiki/Amgen
+
+nasdaq https://www.nasdaq.com/symbol/amgn

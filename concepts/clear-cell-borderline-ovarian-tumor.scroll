@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id clear-cell-borderline-ovarian-tumor
+name Clear Cell Borderline Ovarian Tumor
+type cancerType
+subTypes 0
+tissue Ovary/Fallopian Tube
+mainType Ovarian Cancer
+
+oncoTreeId CCBOV
+parentOncoTreeId OVT
+umls C0279676
+nciCode C40080
+oncoTreeLevel 3

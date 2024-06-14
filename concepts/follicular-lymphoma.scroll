@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id follicular-lymphoma
+name Follicular Lymphoma
+type cancerType
+subTypes 2
+tissue Lymphoid
+mainType Mature B-Cell Neoplasms
+
+oncoTreeId FL
+parentOncoTreeId MBN
+umls C0024301
+nciCode C3209
+oncoTreeLevel 5

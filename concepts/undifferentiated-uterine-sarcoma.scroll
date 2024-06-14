@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id undifferentiated-uterine-sarcoma
+name Undifferentiated Uterine Sarcoma
+type cancerType
+subTypes 0
+tissue Uterus
+mainType Uterine Sarcoma
+
+oncoTreeId UUS
+parentOncoTreeId USARC
+umls CL033042
+nciCode C8972
+oncoTreeLevel 3

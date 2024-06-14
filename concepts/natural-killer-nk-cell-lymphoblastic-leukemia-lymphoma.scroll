@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id natural-killer-nk-cell-lymphoblastic-leukemia-lymphoma
+name Natural Killer (NK) Cell Lymphoblastic Leukemia/Lymphoma
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType T-Lymphoblastic Leukemia/Lymphoma
+
+oncoTreeId NKCLL
+parentOncoTreeId TLL
+oncoTreeLevel 4

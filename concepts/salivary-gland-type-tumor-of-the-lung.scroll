@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id salivary-gland-type-tumor-of-the-lung
+name Salivary Gland-Type Tumor of the Lung
+type cancerType
+subTypes 2
+tissue Lung
+mainType Non-Small Cell Lung Cancer
+
+oncoTreeId SGTTL
+parentOncoTreeId NSCLC
+oncoTreeLevel 3

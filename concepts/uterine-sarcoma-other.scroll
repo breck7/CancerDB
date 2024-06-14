@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id uterine-sarcoma-other
+name Uterine Sarcoma, Other
+type cancerType
+subTypes 0
+tissue Uterus
+mainType Uterine Sarcoma
+
+oncoTreeId OUSARC
+parentOncoTreeId USARC
+oncoTreeLevel 3

@@ -1,0 +1,15 @@
+import ../code/conceptPage.scroll
+
+id aad
+name American Academy of Dermatology
+type professionalOrganization
+website https://www.aad.org/
+cancerTypes skin
+aka AAD
+
+twitter https://twitter.com/aadskin
+facebook https://facebook.com/aadskin
+instagram https://instagram.com/aadskin1
+
+domainName aad.org
+ registered 1996

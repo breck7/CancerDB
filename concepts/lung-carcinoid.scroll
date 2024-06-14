@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id lung-carcinoid
+name Lung Carcinoid
+type cancerType
+subTypes 0
+tissue Lung
+mainType Non-Small Cell Lung Cancer
+
+oncoTreeId LUCA
+parentOncoTreeId LNET
+umls C0280089
+nciCode C4038
+oncoTreeLevel 3

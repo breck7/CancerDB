@@ -1,0 +1,16 @@
+import ../code/conceptPage.scroll
+
+id canadian-partnership-against-cancer
+name Canadian Partnership Against Cancer
+type cancerNonProfit governmentFundedNonProfit
+website https://www.partnershipagainstcancer.ca/
+
+phoneNumber 1-888-939-3333
+country Canada
+
+wikipedia https://en.wikipedia.org/wiki/Canadian_Partnership_Against_Cancer
+
+linkedin https://linkedin.com/company/canadian-partnership-against-cancer
+
+domainName partnershipagainstcancer.ca
+ registered 2006

@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id breast-mixed-ductal-and-lobular-carcinoma
+name Breast Mixed Ductal and Lobular Carcinoma
+type cancerType
+subTypes 0
+tissue Breast
+mainType Breast Cancer
+
+oncoTreeId MDLC
+parentOncoTreeId BRCA
+umls CL007210
+nciCode C5160
+oncoTreeLevel 3

@@ -1,0 +1,10 @@
+import ../code/conceptPage.scroll
+
+id mitobronitol
+name Mitobronitol
+type chemotherapyDrug alkylatingAgent
+
+kegg D02020
+pubChem 4208
+
+wikipedia https://en.wikipedia.org/wiki/Mitobronitol

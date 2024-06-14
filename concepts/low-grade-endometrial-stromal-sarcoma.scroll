@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id low-grade-endometrial-stromal-sarcoma
+name Low-Grade Endometrial Stromal Sarcoma
+type cancerType
+subTypes 0
+tissue Uterus
+mainType Uterine Sarcoma
+
+oncoTreeId LGESS
+parentOncoTreeId ESS
+umls C0334486
+nciCode C4263
+oncoTreeLevel 4

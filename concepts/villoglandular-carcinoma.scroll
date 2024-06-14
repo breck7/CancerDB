@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id villoglandular-carcinoma
+name Villoglandular Carcinoma
+type cancerType
+subTypes 0
+tissue Cervix
+mainType Cervical Cancer
+
+oncoTreeId CEVG
+parentOncoTreeId CEAD
+umls C1516425
+nciCode C40208
+oncoTreeLevel 3

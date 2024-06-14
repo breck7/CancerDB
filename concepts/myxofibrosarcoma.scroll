@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id myxofibrosarcoma
+name Myxofibrosarcoma
+type cancerType
+subTypes 0
+tissue Soft Tissue
+mainType Soft Tissue Sarcoma
+
+oncoTreeId MFS
+parentOncoTreeId SOFT_TISSUE
+umls C0334454
+nciCode C6496
+oncoTreeLevel 2

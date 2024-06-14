@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id adamantinoma
+name Adamantinoma
+type cancerType
+subTypes 0
+tissue Bone
+mainType Bone Cancer
+
+oncoTreeId ADMA
+parentOncoTreeId BONE
+oncoTreeLevel 2

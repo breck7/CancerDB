@@ -1,0 +1,7 @@
+import ../code/conceptPage.scroll
+
+id cancerbuddy
+name CancerBuddy
+type app
+website https://apps.apple.com/us/app/cancerbuddy/id1610149676
+conceptDescription The first social support network for people facing cancer.

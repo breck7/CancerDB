@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id embryonal-tumor-with-abundant-neuropil-and-true-rosettes
+name Embryonal Tumor with Abundant Neuropil and True Rosettes
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Embryonal Tumor
+
+oncoTreeId ETANTR
+parentOncoTreeId EMBT
+umls C0700367
+nciCode C4915
+oncoTreeLevel 3

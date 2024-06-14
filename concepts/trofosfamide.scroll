@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id trofosfamide
+name Trofosfamide
+type chemotherapyDrug alkylatingAgent
+tradenames Ixoten
+routesOfAdministration oral
+
+kegg D07252
+pubChem 65702
+
+wikipedia https://en.wikipedia.org/wiki/Trofosfamide

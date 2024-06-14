@@ -1,0 +1,5 @@
+title What are the oldest cancer non-profits?
+select appeared country
+notMissing appeared
+sortBy appeared
+where type includes cancerNonProfit

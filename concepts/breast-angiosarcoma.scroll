@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id breast-angiosarcoma
+name Breast Angiosarcoma
+type cancerType
+subTypes 0
+tissue Breast
+mainType Breast Sarcoma
+
+oncoTreeId BA
+parentOncoTreeId PBS
+umls C1332614
+nciCode C5184
+oncoTreeLevel 3

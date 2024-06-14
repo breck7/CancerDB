@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id bladder-squamous-cell-carcinoma
+name Bladder Squamous Cell Carcinoma
+type cancerType
+subTypes 0
+tissue Bladder/Urinary Tract
+mainType Bladder Cancer
+
+oncoTreeId BLSC
+parentOncoTreeId BLADDER
+umls C0279681
+nciCode C4031
+oncoTreeLevel 2

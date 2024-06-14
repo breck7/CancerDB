@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id dermatofibroma
+name Dermatofibroma
+type cancerType
+subTypes 0
+tissue Skin
+mainType Skin Cancer, Non-Melanoma
+
+oncoTreeId DF
+parentOncoTreeId SKIN
+umls C0002991
+nciCode C6801
+oncoTreeLevel 2

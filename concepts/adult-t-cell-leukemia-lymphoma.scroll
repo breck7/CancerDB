@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id adult-t-cell-leukemia-lymphoma
+name Adult T-Cell Leukemia/Lymphoma
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Mature T and NK Neoplasms
+
+oncoTreeId ATLL
+parentOncoTreeId MTNN
+oncoTreeLevel 5

@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id chordoid-glioma-of-the-third-ventricle
+name Chordoid Glioma of the Third Ventricle
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Miscellaneous Neuroepithelial Tumor
+
+oncoTreeId CHGL
+parentOncoTreeId MNET
+umls C1322252
+nciCode C5592
+oncoTreeLevel 3

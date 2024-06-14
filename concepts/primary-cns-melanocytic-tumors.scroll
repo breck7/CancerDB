@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id primary-cns-melanocytic-tumors
+name Primary CNS Melanocytic Tumors
+type cancerType
+subTypes 2
+tissue CNS/Brain
+mainType Primary CNS Melanocytic Tumors
+
+oncoTreeId PCNSMT
+parentOncoTreeId BRAIN
+oncoTreeLevel 2

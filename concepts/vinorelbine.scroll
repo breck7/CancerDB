@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id vinorelbine
+name Vinorelbine
+type chemotherapyDrug
+tradenames Navelbine
+routesOfAdministration intravenous oral
+
+kegg D08680
+drugBank DB00361
+medlinePlus a695013
+pubChem 5311497
+
+wikipedia https://en.wikipedia.org/wiki/Vinorelbine

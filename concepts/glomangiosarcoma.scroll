@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id glomangiosarcoma
+name Glomangiosarcoma
+type cancerType
+subTypes 0
+tissue Soft Tissue
+mainType Soft Tissue Sarcoma
+
+oncoTreeId GS
+parentOncoTreeId SOFT_TISSUE
+umls C1266111
+nciCode C4221
+oncoTreeLevel 2

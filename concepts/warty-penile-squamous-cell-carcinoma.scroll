@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id warty-penile-squamous-cell-carcinoma
+name Warty Penile Squamous Cell Carcinoma
+type cancerType
+subTypes 0
+tissue Penis
+mainType Penile Cancer
+
+oncoTreeId WPSCC
+parentOncoTreeId PSCC
+umls C1337009
+nciCode C6981
+oncoTreeLevel 3

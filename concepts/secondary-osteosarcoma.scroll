@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id secondary-osteosarcoma
+name Secondary Osteosarcoma
+type cancerType
+subTypes 0
+tissue Bone
+mainType Bone Cancer
+
+oncoTreeId SECOS
+parentOncoTreeId OS
+umls C1710042
+nciCode C53704
+oncoTreeLevel 3

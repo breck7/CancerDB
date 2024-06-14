@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id ebv-positive-mucocutaneous-ulcer
+name EBV Positive Mucocutaneous Ulcer
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Mature B-Cell Neoplasms
+
+oncoTreeId EBVMCU
+parentOncoTreeId MBN
+oncoTreeLevel 5

@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id primary-myelofibrosis
+name Primary Myelofibrosis
+type cancerType
+subTypes 2
+tissue Myeloid
+mainType Myeloproliferative Neoplasms
+
+oncoTreeId PMF
+parentOncoTreeId MPN
+oncoTreeLevel 4

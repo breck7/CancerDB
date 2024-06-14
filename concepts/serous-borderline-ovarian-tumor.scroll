@@ -1,0 +1,13 @@
+import ../code/conceptPage.scroll
+
+id serous-borderline-ovarian-tumor
+name Serous Borderline Ovarian Tumor
+type cancerType
+subTypes 0
+tissue Ovary/Fallopian Tube
+mainType Ovarian Cancer
+
+oncoTreeId SBOV
+parentOncoTreeId OVT
+umls C0279662
+oncoTreeLevel 3

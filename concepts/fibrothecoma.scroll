@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id fibrothecoma
+name Fibrothecoma
+type cancerType
+subTypes 0
+tissue Ovary/Fallopian Tube
+mainType Sex Cord Stromal Tumor
+
+oncoTreeId FT
+parentOncoTreeId SCST
+oncoTreeLevel 3

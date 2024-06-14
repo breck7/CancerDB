@@ -1,0 +1,7 @@
+import ../code/conceptPage.scroll
+
+id liver-transplant
+name Liver transplant
+type organTransplant
+
+wikipedia https://en.wikipedia.org/wiki/Liver_transplantation

@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id uterine-smooth-muscle-tumor
+name Uterine Smooth Muscle Tumor
+type cancerType
+subTypes 5
+tissue Uterus
+mainType Uterine Sarcoma
+
+oncoTreeId USMT
+parentOncoTreeId USARC
+umls C1519863
+nciCode C40176
+oncoTreeLevel 3

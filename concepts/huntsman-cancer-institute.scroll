@@ -1,0 +1,27 @@
+import ../code/conceptPage.scroll
+
+id huntsman-cancer-institute
+name Huntsman Cancer Institute
+type nciCancerCenter
+website https://healthcare.utah.edu/huntsmancancerinstitute/
+
+phoneNumber 1-877-585-0303
+country United States
+city Salt Lake City, Utah
+
+wikipedia https://en.wikipedia.org/wiki/Huntsman_Cancer_Institute
+
+twitter https://twitter.com/huntsmancancer
+ followers 11800
+facebook https://www.facebook.com/HuntsmanCancerInstitute
+ followers 84000
+youTubeChannel https://www.youtube.com/user/huntsmancancervideos
+ followers 3260
+instagram https://www.instagram.com/huntsmancancerinstitute/#
+ followers 8817
+
+nciDesignation Comprehensive Cancer Center
+nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/utahhuntsman
+nciImage https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_article/public/cgov_image/media_image/900/300/files/utahhuntsman-article.jpg
+hostSchool University of Utah
+usNewsRank 33

@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id mds-with-ring-sideroblasts
+name MDS with Ring Sideroblasts
+type cancerType
+subTypes 2
+tissue Myeloid
+mainType Myelodysplastic Syndromes
+
+oncoTreeId MDSRS
+parentOncoTreeId MDS
+oncoTreeLevel 4

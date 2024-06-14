@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id burkitt-like-lymphoma-with-11q-aberration
+name Burkitt-Like Lymphoma with 11q Aberration
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Mature B-Cell Neoplasms
+
+oncoTreeId BLL11Q
+parentOncoTreeId MBN
+oncoTreeLevel 5

@@ -1,0 +1,11 @@
+title Search CancerDB
+
+import rootHeader.scroll
+
+printTitle
+
+wideColumns 2
+printSearchTable All concepts/All
+tableSearch
+
+import footer.scroll

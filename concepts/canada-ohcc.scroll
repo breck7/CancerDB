@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id canada-ohcc
+name The Ottawa Hospital Cancer Centre
+type hospital
+website https://www.ottawahospital.on.ca/en/clinical-services/deptpgrmcs/programs/cancer-care-ontario/
+
+country Canada
+
+twitter https://twitter.com/ottawahospital
+facebook https://facebook.com/ottawahospital
+instagram https://instagram.com/ottawahospital

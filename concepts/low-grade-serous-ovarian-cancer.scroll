@@ -1,0 +1,13 @@
+import ../code/conceptPage.scroll
+
+id low-grade-serous-ovarian-cancer
+name Low-Grade Serous Ovarian Cancer
+type cancerType
+subTypes 0
+tissue Ovary/Fallopian Tube
+mainType Ovarian Cancer
+
+oncoTreeId LGSOC
+parentOncoTreeId SOC
+umls CL446432
+oncoTreeLevel 4

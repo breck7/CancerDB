@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id brenner-tumor
+name Brenner Tumor
+type cancerType
+subTypes 3
+tissue Ovary/Fallopian Tube
+mainType Ovarian Cancer
+
+oncoTreeId BTOV
+parentOncoTreeId OVT
+umls CL323981
+nciCode C39954
+oncoTreeLevel 3

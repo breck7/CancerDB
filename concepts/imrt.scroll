@@ -1,0 +1,7 @@
+import ../code/conceptPage.scroll
+
+id imrt
+name Intensity-Modulated Radiation Therapy
+type radiationTherapy
+aka IMRT
+reference https://www.mayoclinic.org/tests-procedures/intensity-modulated-radiation-therapy/about/pac-20385147

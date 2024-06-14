@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id pediatric-type-follicular-lymphoma
+name Pediatric-Type Follicular Lymphoma
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Mature B-Cell Neoplasms
+
+oncoTreeId PTFL
+parentOncoTreeId MBN
+oncoTreeLevel 5

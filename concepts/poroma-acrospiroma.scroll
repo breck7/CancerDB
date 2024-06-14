@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id poroma-acrospiroma
+name Poroma/Acrospiroma
+type cancerType
+subTypes 0
+tissue Skin
+mainType Skin Cancer, Non-Melanoma
+
+oncoTreeId PORO
+parentOncoTreeId SKIN
+umls C1533161
+nciCode C27273
+oncoTreeLevel 2

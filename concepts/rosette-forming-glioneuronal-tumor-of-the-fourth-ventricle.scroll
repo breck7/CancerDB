@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id rosette-forming-glioneuronal-tumor-of-the-fourth-ventricle
+name Rosette-forming Glioneuronal Tumor of the Fourth Ventricle
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Miscellaneous Neuroepithelial Tumor
+
+oncoTreeId RGNT
+parentOncoTreeId MNET
+umls C2347979
+nciCode C67559
+oncoTreeLevel 3

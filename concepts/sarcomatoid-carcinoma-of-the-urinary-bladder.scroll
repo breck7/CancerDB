@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id sarcomatoid-carcinoma-of-the-urinary-bladder
+name Sarcomatoid Carcinoma of the Urinary Bladder
+type cancerType
+subTypes 0
+tissue Bladder/Urinary Tract
+mainType Bladder Cancer
+
+oncoTreeId SCB
+parentOncoTreeId BLADDER
+umls C1512743
+nciCode C39824
+oncoTreeLevel 2

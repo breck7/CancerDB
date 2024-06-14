@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id telangiectatic-osteosarcoma
+name Telangiectatic Osteosarcoma
+type cancerType
+subTypes 0
+tissue Bone
+mainType Bone Cancer
+
+oncoTreeId TEOS
+parentOncoTreeId OS
+umls C0259782
+nciCode C3902
+oncoTreeLevel 3

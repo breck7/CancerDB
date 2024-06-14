@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id small-cell-bladder-cancer
+name Small Cell Bladder Cancer
+type cancerType
+subTypes 0
+tissue Bladder/Urinary Tract
+mainType Bladder Cancer
+
+oncoTreeId SCBC
+parentOncoTreeId BLADDER
+umls C1332564
+nciCode C9461
+oncoTreeLevel 2

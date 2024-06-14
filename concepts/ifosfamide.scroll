@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id ifosfamide
+name Ifosfamide
+type chemotherapyDrug alkylatingAgent
+tradenames Ifex
+routesOfAdministration intravenous
+
+kegg D00343
+drugBank DB01181
+medlinePlus a695023
+pubChem 3690
+
+wikipedia https://en.wikipedia.org/wiki/Ifosfamide

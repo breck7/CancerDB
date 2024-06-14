@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id medullary-thyroid-cancer
+name Medullary Thyroid Cancer
+type cancerType
+subTypes 0
+tissue Thyroid
+mainType Thyroid Cancer
+
+oncoTreeId THME
+parentOncoTreeId THYROID
+umls C0238462
+nciCode C3879
+oncoTreeLevel 2

@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id mixed-type-metaplastic-breast-cancer
+name Mixed Type Metaplastic Breast Cancer
+type cancerType
+subTypes 3
+tissue Breast
+mainType Breast Cancer
+
+oncoTreeId MMBC
+parentOncoTreeId MBC
+umls C1513365
+nciCode C40364
+oncoTreeLevel 3

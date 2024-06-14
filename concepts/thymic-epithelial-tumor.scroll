@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id thymic-epithelial-tumor
+name Thymic Epithelial Tumor
+type cancerType
+subTypes 2
+tissue Thymus
+mainType Thymic Tumor
+
+oncoTreeId TET
+parentOncoTreeId THYMUS
+umls C1266101
+nciCode C6450
+oncoTreeLevel 2

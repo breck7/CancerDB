@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id lymphomatoid-granulomatosis
+name Lymphomatoid Granulomatosis
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Mature B-Cell Neoplasms
+
+oncoTreeId LYG
+parentOncoTreeId MBN
+oncoTreeLevel 5

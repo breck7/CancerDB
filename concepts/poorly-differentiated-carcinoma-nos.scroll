@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id poorly-differentiated-carcinoma-nos
+name Poorly Differentiated Carcinoma, NOS
+type cancerType
+subTypes 0
+tissue Other
+mainType Cancer of Unknown Primary
+
+oncoTreeId PDC
+parentOncoTreeId CUP
+oncoTreeLevel 3

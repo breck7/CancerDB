@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id indeterminate-dendritic-cell-tumor
+name Indeterminate Dendritic Cell Tumor
+type cancerType
+subTypes 0
+tissue Myeloid
+mainType Histiocytosis
+
+oncoTreeId IDCT
+parentOncoTreeId HDCN
+oncoTreeLevel 4

@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id encapsulated-glioma
+name Encapsulated Glioma
+type cancerType
+subTypes 9
+tissue CNS/Brain
+mainType Glioma
+
+oncoTreeId ENCG
+parentOncoTreeId BRAIN
+oncoTreeLevel 2

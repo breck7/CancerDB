@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id mature-teratoma
+name Mature Teratoma
+type cancerType
+subTypes 0
+tissue Ovary/Fallopian Tube
+mainType Germ Cell Tumor
+
+oncoTreeId OMT
+parentOncoTreeId OGCT
+umls C1334637
+nciCode C8112
+oncoTreeLevel 3

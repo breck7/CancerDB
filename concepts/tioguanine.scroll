@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id tioguanine
+name Tioguanine
+type chemotherapyDrug
+tradenames Lanvis && Tabloid
+routesOfAdministration oral
+
+kegg D08603
+drugBank DB00352
+medlinePlus a682099
+pubChem 2723601
+
+wikipedia https://en.wikipedia.org/wiki/Tioguanine

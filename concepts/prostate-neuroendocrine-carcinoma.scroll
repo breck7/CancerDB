@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id prostate-neuroendocrine-carcinoma
+name Prostate Neuroendocrine Carcinoma
+type cancerType
+subTypes 0
+tissue Prostate
+mainType Prostate Cancer
+
+oncoTreeId PRNE
+parentOncoTreeId PROSTATE
+umls C1335515
+nciCode C5545
+oncoTreeLevel 2

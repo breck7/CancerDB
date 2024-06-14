@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id urethral-squamous-cell-carcinoma
+name Urethral Squamous Cell Carcinoma
+type cancerType
+subTypes 0
+tissue Bladder/Urinary Tract
+mainType Bladder Cancer
+
+oncoTreeId USCC
+parentOncoTreeId UCA
+umls C1336890
+nciCode C6165
+oncoTreeLevel 3

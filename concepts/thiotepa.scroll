@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id thiotepa
+name Thiotepa
+type chemotherapyDrug alkylatingAgent
+tradenames Tepadina
+routesOfAdministration intravenous
+
+kegg D00583
+drugBank DB04572
+medlinePlus a682821
+pubChem 5453
+
+wikipedia https://en.wikipedia.org/wiki/Thiotepa

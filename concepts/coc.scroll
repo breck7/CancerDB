@@ -1,0 +1,9 @@
+import ../code/conceptPage.scroll
+
+id coc
+name CoC
+type consortium
+website https://www.facs.org/quality-programs/cancer-programs/commission-on-cancer/
+parentOrganization acs
+standsFor Commission on Cancer
+conceptDescription The Commission on Cancer (CoC) is a consortium of professional organizations dedicated to improving survival and quality of life for patients with cancer by setting and raising standards. They promote cancer prevention, research, education, and monitoring of comprehensive quality care.

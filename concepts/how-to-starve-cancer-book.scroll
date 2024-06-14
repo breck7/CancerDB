@@ -1,0 +1,10 @@
+import ../code/conceptPage.scroll
+
+id how-to-starve-cancer-book
+name How to Starve Cancer: ...and Then Kill It With Ferroptosis
+type book
+website https://www.howtostarvecancer.com/
+appeared 2021
+conceptAuthor Jane McLelland
+conceptDescription Second edition
+amazon https://www.amazon.com/How-Starve-Cancer-Starving-Yourself/dp/0951951742

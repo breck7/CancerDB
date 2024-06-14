@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id uterine-myxoid-leiomyosarcoma
+name Uterine Myxoid Leiomyosarcoma
+type cancerType
+subTypes 0
+tissue Uterus
+mainType Uterine Sarcoma
+
+oncoTreeId UMLMS
+parentOncoTreeId USMT
+umls C1519861
+nciCode C40175
+oncoTreeLevel 4

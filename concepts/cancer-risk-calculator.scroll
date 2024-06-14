@@ -1,0 +1,8 @@
+import ../code/conceptPage.scroll
+
+id cancer-risk-calculator
+name Cancer Risk Calculator
+type website
+website https://cancerqld.org.au/cancer-prevention/crc/calculator
+conceptDescription Cancer risk calculator
+relatedConcepts mycanceriq

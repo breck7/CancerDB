@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id germinoma
+name Germinoma
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Germ Cell Tumor
+
+oncoTreeId GMN
+parentOncoTreeId BGCT
+umls C0206660
+nciCode C3753
+oncoTreeLevel 3

@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id altretamine
+name Altretamine
+type chemotherapyDrug alkylatingAgent
+tradenames Hexalen
+routesOfAdministration oral
+
+kegg D02841
+drugBank DB00488
+medlinePlus a601200
+pubChem 2123
+
+wikipedia https://en.wikipedia.org/wiki/Altretamine

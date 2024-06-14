@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id spindle-cell-oncocytoma-of-the-adenohypophysis
+name Spindle Cell Oncocytoma of the Adenohypophysis
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Sellar Tumor
+
+oncoTreeId SCOAH
+parentOncoTreeId SELT
+umls C2986561
+nciCode C94537
+oncoTreeLevel 3

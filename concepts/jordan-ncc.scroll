@@ -1,0 +1,8 @@
+import ../code/conceptPage.scroll
+
+id jordan-ncc
+name King Hussein Cancer Center
+type nationalCancerInstitute
+website https://www.khcc.jo/en
+
+country Jordan

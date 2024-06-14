@@ -1,0 +1,15 @@
+import ../code/conceptPage.scroll
+
+id tamoxifen
+name Tamoxifen
+type drug
+cancerTypes breast
+tradenames Nolvadex && Genox && Tamifen
+routesOfAdministration oral
+
+kegg D08559
+drugBank DB00675
+medlinePlus a682414
+pubChem 2733526
+
+wikipedia https://en.wikipedia.org/wiki/Tamoxifen

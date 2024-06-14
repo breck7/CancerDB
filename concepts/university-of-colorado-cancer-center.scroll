@@ -1,0 +1,16 @@
+import ../code/conceptPage.scroll
+
+id university-of-colorado-cancer-center
+name University of Colorado Cancer Center
+type nciCancerCenter
+website https://medschool.cuanschutz.edu/colorado-cancer-center
+
+phoneNumber 1-720-848-0300
+country United States
+city Aurora, Colorado
+
+linkedin https://linkedin.com/company/university-of-colorado-cancer-center
+
+nciDesignation Comprehensive Cancer Center
+nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/ucolorado
+nciImage https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/900/300/files/ucolorado-article.jpg

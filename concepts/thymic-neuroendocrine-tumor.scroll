@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id thymic-neuroendocrine-tumor
+name Thymic Neuroendocrine Tumor
+type cancerType
+subTypes 0
+tissue Thymus
+mainType Thymic Tumor
+
+oncoTreeId TNET
+parentOncoTreeId THYMUS
+oncoTreeLevel 2

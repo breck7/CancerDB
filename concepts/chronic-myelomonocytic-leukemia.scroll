@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id chronic-myelomonocytic-leukemia
+name Chronic Myelomonocytic Leukemia
+type cancerType
+subTypes 3
+tissue Myeloid
+mainType Myelodysplastic/Myeloproliferative Neoplasms
+
+oncoTreeId CMML
+parentOncoTreeId MDS/MPN
+umls C0023480
+nciCode C3178
+oncoTreeLevel 4

@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id ganglioglioma
+name Ganglioglioma
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Glioma
+
+oncoTreeId GNG
+parentOncoTreeId ENCG
+umls C0206716
+nciCode C3788
+oncoTreeLevel 3

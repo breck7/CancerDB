@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id primary-myelofibrosis-prefibrotic-early-stage
+name Primary Myelofibrosis, Prefibrotic/Early Stage
+type cancerType
+subTypes 0
+tissue Myeloid
+mainType Myeloproliferative Neoplasms
+
+oncoTreeId PMFPES
+parentOncoTreeId PMF
+oncoTreeLevel 5

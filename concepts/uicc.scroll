@@ -1,0 +1,18 @@
+import ../code/conceptPage.scroll
+
+id uicc
+name UICC
+type cancerNonProfit
+website https://www.uicc.org
+appeared 1933
+standsFor Union for International Cancer Control
+
+city Geneva, Switzerland
+
+wikipedia https://en.wikipedia.org/wiki/Union_for_International_Cancer_Control
+
+twitter https://twitter.com/uicc
+ followers 22500
+
+domainName uicc.org
+ registered 1995

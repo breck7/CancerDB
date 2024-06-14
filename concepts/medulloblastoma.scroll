@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id medulloblastoma
+name Medulloblastoma
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Embryonal Tumor
+
+oncoTreeId MBL
+parentOncoTreeId EMBT
+umls C0025149
+nciCode C3222
+oncoTreeLevel 3

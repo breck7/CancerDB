@@ -1,0 +1,11 @@
+import ../code/conceptPage.scroll
+
+id mammogram
+name Mammogram
+type imagingProcedure
+cancerTypes breast
+aka Mammography
+
+medlinePlus 003380
+
+wikipedia https://en.wikipedia.org/wiki/Mammography

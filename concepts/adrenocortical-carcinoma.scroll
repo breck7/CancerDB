@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id adrenocortical-carcinoma
+name Adrenocortical Carcinoma
+type cancerType
+subTypes 0
+tissue Adrenal Gland
+mainType Adrenocortical Carcinoma
+
+oncoTreeId ACC
+parentOncoTreeId ADRENAL_GLAND
+umls C0206686
+nciCode C9325
+oncoTreeLevel 2

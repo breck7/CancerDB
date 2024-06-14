@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id villoglandular-adenocarcinoma-of-the-cervix
+name Villoglandular Adenocarcinoma of the Cervix
+type cancerType
+subTypes 0
+tissue Cervix
+mainType Cervical Cancer
+
+oncoTreeId VGCE
+parentOncoTreeId CERVIX
+umls C1516425
+nciCode C40208
+oncoTreeLevel 2

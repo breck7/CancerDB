@@ -1,0 +1,9 @@
+import ../code/conceptPage.scroll
+
+id kidney-cancer-subreddit
+name Kidney Cancer Subreddit
+type subreddit onlineForum
+cancerTypes kidney
+subreddit https://www.reddit.com/r/kidneycancer
+ members
+  2023 185

@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id choroid-plexus-tumor
+name Choroid Plexus Tumor
+type cancerType
+subTypes 3
+tissue CNS/Brain
+mainType Choroid Plexus Tumor
+
+oncoTreeId CPT
+parentOncoTreeId BRAIN
+umls C0085138
+nciCode C3473
+oncoTreeLevel 2

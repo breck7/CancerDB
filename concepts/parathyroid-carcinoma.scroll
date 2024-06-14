@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id parathyroid-carcinoma
+name Parathyroid Carcinoma
+type cancerType
+subTypes 0
+tissue Head and Neck
+mainType Parathyroid Cancer
+
+oncoTreeId PTHC
+parentOncoTreeId PTH
+oncoTreeLevel 3

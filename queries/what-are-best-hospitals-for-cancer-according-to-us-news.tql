@@ -1,0 +1,5 @@
+select usNewsRank type city website
+notMissing usNewsRank
+sortBy usNewsRank
+title What are the best hospitals for cancer according to U.S. News & World Report?
+description Source: https://health.usnews.com/best-hospitals/rankings/cancer

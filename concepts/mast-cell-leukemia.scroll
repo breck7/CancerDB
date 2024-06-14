@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id mast-cell-leukemia
+name Mast Cell Leukemia
+type cancerType
+subTypes 0
+tissue Myeloid
+mainType Mastocytosis
+
+oncoTreeId SMMCL
+parentOncoTreeId SM
+oncoTreeLevel 5

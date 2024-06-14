@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id primary-myelofibrosisovert-fibrotic-stage
+name Primary Myelofibrosis,Overt Fibrotic Stage
+type cancerType
+subTypes 0
+tissue Myeloid
+mainType Myeloproliferative Neoplasms
+
+oncoTreeId PMFOFS
+parentOncoTreeId PMF
+oncoTreeLevel 5

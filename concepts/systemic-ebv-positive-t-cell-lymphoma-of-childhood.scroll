@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id systemic-ebv-positive-t-cell-lymphoma-of-childhood
+name Systemic EBV Positive T-Cell Lymphoma of Childhood
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Mature T and NK Neoplasms
+
+oncoTreeId SEBVTLC
+parentOncoTreeId MTNN
+oncoTreeLevel 5

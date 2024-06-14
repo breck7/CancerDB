@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id high-grade-neuroendocrine-carcinoma-of-the-ovary
+name High-Grade Neuroendocrine Carcinoma of the Ovary
+type cancerType
+subTypes 0
+tissue Ovary/Fallopian Tube
+mainType Ovarian Cancer
+
+oncoTreeId HGONEC
+parentOncoTreeId OOVC
+oncoTreeLevel 3

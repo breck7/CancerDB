@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id yolk-sac-tumor-cns-brain
+name Yolk Sac Tumor CNS/Brain
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Germ Cell Tumor
+
+oncoTreeId BYST
+parentOncoTreeId BGCT
+oncoTreeLevel 3

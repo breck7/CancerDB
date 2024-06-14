@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id extranodal-marginal-zone-lymphoma-of-mucosa-associated-lymphoid-tissue-malt-lymphoma
+name Extranodal Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue (MALT lymphoma)
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Mature B-Cell Neoplasms
+
+oncoTreeId EMALT
+parentOncoTreeId MZL
+umls C0242647
+nciCode C3898
+oncoTreeLevel 6

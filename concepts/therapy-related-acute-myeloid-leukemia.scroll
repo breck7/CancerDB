@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id therapy-related-acute-myeloid-leukemia
+name Therapy-Related Acute Myeloid Leukemia
+type cancerType
+subTypes 0
+tissue Myeloid
+mainType Leukemia
+
+oncoTreeId TAML
+parentOncoTreeId TMN
+oncoTreeLevel 5

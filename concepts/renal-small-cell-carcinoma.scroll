@@ -1,0 +1,13 @@
+import ../code/conceptPage.scroll
+
+id renal-small-cell-carcinoma
+name Renal Small Cell Carcinoma
+type cancerType
+subTypes 0
+tissue Kidney
+mainType Renal Cell Carcinoma
+
+oncoTreeId RSCC
+parentOncoTreeId NCCRCC
+umls CL473652
+oncoTreeLevel 4

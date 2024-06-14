@@ -1,0 +1,16 @@
+import ../code/conceptPage.scroll
+
+id tisch-cancer-institute
+name Tisch Cancer Institute
+type nciCancerCenter
+website https://icahn.mssm.edu/research/tisch
+
+phoneNumber 1-212-659-5600
+country United States
+city New York, New York
+
+nciDesignation Cancer Center
+nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/tischmountsinai
+nciImage https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_article/public/cgov_image/media_image/900/900/files/Hess_building_article.png
+hostSchool Icahn School of Medicine at Mount Sinai
+usNewsRank 28

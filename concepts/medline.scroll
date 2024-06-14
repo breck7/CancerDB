@@ -1,0 +1,11 @@
+import ../code/conceptPage.scroll
+
+id medline
+name MEDLINE
+type onlineDatabase
+website https://www.nlm.nih.gov/medline/medline_overview.html
+appeared 1971
+parentOrganization nlm
+relatedConcepts pubmed
+
+wikipedia https://en.wikipedia.org/wiki/MEDLINE

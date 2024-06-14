@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id intraductal-papillary-mucinous-neoplasm
+name Intraductal Papillary Mucinous Neoplasm
+type cancerType
+subTypes 0
+tissue Pancreas
+mainType Pancreatic Cancer
+
+oncoTreeId IPMN
+parentOncoTreeId PACT
+umls C1518869
+nciCode C38342
+oncoTreeLevel 3

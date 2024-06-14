@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id schwannoma
+name Schwannoma
+type cancerType
+subTypes 2
+tissue Peripheral Nervous System
+mainType Nerve Sheath Tumor
+
+oncoTreeId SCHW
+parentOncoTreeId NST
+umls C0027809
+nciCode C3269
+oncoTreeLevel 3

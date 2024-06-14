@@ -1,0 +1,68 @@
+import ../code/conceptPage.scroll
+
+id skin
+name Skin Cancer
+type cancerType
+subTypes 29
+tissue Skin
+mainType Skin Cancer, NOS
+cancerDotGov https://www.cancer.gov/types/skin
+cancerDotOrg https://www.cancer.org/cancer/skin-cancer.html
+gco https://gco.iarc.fr/today/data/factsheets/cancers/16-Melanoma-of-skin-fact-sheet.pdf
+reference https://www.aad.org/media/stats-skin-cancer
+wolframAlpha https://www.wolframalpha.com/input?i=skin+cancer
+youTubeVideo https://www.youtube.com/watch?v=oPtGeHBSly4
+youTubeVideo https://www.youtube.com/watch?v=YWppfk2Np6A
+
+oncoTreeId SKIN
+parentOncoTreeId TISSUE
+umls C1123023
+nciCode C12470
+oncoTreeLevel 1
+
+uscsId Melanomas of the Skin
+uscsDeathsPerYear 8059
+uscsCasesPerYear 88001
+uscsMortalityRate 9%
+uscsTable 2019
+ sex|age|population|cases|deaths
+ F|0|1841226|~|~
+ F|1-4|7728847|~|~
+ F|5-9|9886447|~|~
+ F|10-14|10190891|27|~
+ F|15-19|10313575|98|~
+ F|20-24|10577124|319|~
+ F|25-29|11518714|745|~
+ F|30-34|11093732|1372|36
+ F|35-39|10861340|1676|53
+ F|40-44|10014341|1916|78
+ F|45-49|10307804|2474|105
+ F|50-54|10387588|3034|133
+ F|55-59|11232044|3722|232
+ F|60-64|10708826|4432|300
+ F|65-69|9252566|4457|301
+ F|70-74|7527818|4024|340
+ F|75-79|5333117|3025|314
+ F|80-84|3636357|2156|309
+ F|85+|4225260|2560|576
+ M|0|1921001|~|~
+ M|1-4|8080265|~|~
+ M|5-9|10335306|~|~
+ M|10-14|10629162|19|~
+ M|15-19|10752848|58|~
+ M|20-24|11066850|160|~
+ M|25-29|12020738|329|23
+ M|30-34|11370500|708|41
+ M|35-39|10892543|1016|63
+ M|40-44|9906220|1338|101
+ M|45-49|10082635|1988|145
+ M|50-54|10082296|3061|224
+ M|55-59|10639047|4815|404
+ M|60-64|9851308|6388|534
+ M|65-69|8191801|7580|714
+ M|70-74|6499159|8082|708
+ M|75-79|4317707|6849|713
+ M|80-84|2678743|4929|731
+ M|85+|2374207|4644|881
+
+wikipedia https://en.wikipedia.org/wiki/Skin_cancer

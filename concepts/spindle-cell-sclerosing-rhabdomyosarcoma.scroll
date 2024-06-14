@@ -1,0 +1,13 @@
+import ../code/conceptPage.scroll
+
+id spindle-cell-sclerosing-rhabdomyosarcoma
+name Spindle Cell/Sclerosing Rhabdomyosarcoma
+type cancerType
+subTypes 0
+tissue Soft Tissue
+mainType Soft Tissue Sarcoma
+
+oncoTreeId SCSRMS
+parentOncoTreeId RMS
+umls CL494117
+oncoTreeLevel 3

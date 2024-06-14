@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id liver-angiosarcoma
+name Liver Angiosarcoma
+type cancerType
+subTypes 0
+tissue Liver
+mainType Hepatobiliary Cancer
+
+oncoTreeId LIAS
+parentOncoTreeId LIVER
+umls C0345907
+nciCode C4438
+oncoTreeLevel 2

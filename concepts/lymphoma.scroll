@@ -1,0 +1,18 @@
+import ../code/conceptPage.scroll
+
+id lymphoma
+name Lymphoma
+type cancerType
+subTypes 120
+tissue Lymphoid
+mainType Lymphatic Cancer, NOS
+aka Lymphatic Cancer
+cancerDotGov https://www.cancer.gov/types/lymphoma
+
+oncoTreeId LYMPH
+parentOncoTreeId TISSUE
+umls C0024202
+nciCode C13252
+oncoTreeLevel 1
+
+wikipedia https://en.wikipedia.org/wiki/Lymphoma

@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id neurofibroma
+name Neurofibroma
+type cancerType
+subTypes 0
+tissue Peripheral Nervous System
+mainType Nerve Sheath Tumor
+
+oncoTreeId NFIB
+parentOncoTreeId NST
+umls C0027830
+nciCode C3272
+oncoTreeLevel 3

@@ -1,0 +1,39 @@
+groups index
+replaceNodejs
+ const fs = require("fs")
+ const path = require("path")
+ module.exports = {
+   CONTRIBUTORS_TABLE: JSON.parse(
+     fs.readFileSync(path.join(__dirname, "contributors.json"), "utf8")
+   )
+     .filter(item => item.login !== "breck7")
+     .map(item => `- ${item.login}\n ${item.html_url}`)
+     .join("\n")
+ }
+title Acknowledgements
+
+import header.scroll
+printTitle
+// IMPORTS
+
+thinColumns 4
+
+## Contributors
+Thank you to everyone who has contributed directly to the CancerDB repo:
+ https://github.com/breck7/CancerDB CancerDB repo
+ https://api.github.com/repos/breck7/CancerDB/contributors everyone
+CONTRIBUTORS_TABLE
+
+## Sources
+The vast majority of the information on this site comes from other websites and projects and should always include a link back to the `source`.
+ wrap ` span title="And if there's a link missing somewhere, please report a bug!"
+
+## Doctors, Nurses, Researchers
+Thank you to everyone working on the preventions and treatments that are the subject of this site.
+
+## Patients and their familes
+And of course, thank you to everyone suffering from cancer who are striving to understand it and beat it. This site is for you.
+
+endColumns
+
+import ../footer.scroll

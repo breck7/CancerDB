@@ -1,0 +1,8 @@
+import ../code/conceptPage.scroll
+
+id smoking-cessation
+name Smoking Cessation
+type toxinAvoidance
+cancerTypes lung
+
+wikipedia https://en.wikipedia.org/wiki/Smoking_cessation

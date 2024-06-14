@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id pleomorphic-rhabdomyosarcoma
+name Pleomorphic Rhabdomyosarcoma
+type cancerType
+subTypes 0
+tissue Soft Tissue
+mainType Soft Tissue Sarcoma
+
+oncoTreeId PLRMS
+parentOncoTreeId RMS
+umls C0334480
+nciCode C4258
+oncoTreeLevel 3

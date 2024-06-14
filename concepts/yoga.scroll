@@ -1,0 +1,7 @@
+import ../code/conceptPage.scroll
+
+id yoga
+name Yoga
+type exercise breathTreatment
+
+wikipedia https://en.wikipedia.org/wiki/Yoga

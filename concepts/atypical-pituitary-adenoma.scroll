@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id atypical-pituitary-adenoma
+name Atypical Pituitary Adenoma
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Sellar Tumor
+
+oncoTreeId APTAD
+parentOncoTreeId SELT
+oncoTreeLevel 3

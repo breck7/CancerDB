@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id cisplatin
+name Cisplatin
+type chemotherapyDrug
+tradenames Platinol
+routesOfAdministration intravenous
+
+kegg D00275
+drugBank DB00515
+medlinePlus a684036
+pubChem 84691
+
+wikipedia https://en.wikipedia.org/wiki/Cisplatin

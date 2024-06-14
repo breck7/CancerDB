@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id langerhans-cell-sarcoma
+name Langerhans Cell Sarcoma
+type cancerType
+subTypes 0
+tissue Myeloid
+mainType Histiocytosis
+
+oncoTreeId LCS
+parentOncoTreeId HDCN
+oncoTreeLevel 4

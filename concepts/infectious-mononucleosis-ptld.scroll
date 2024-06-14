@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id infectious-mononucleosis-ptld
+name Infectious Mononucleosis PTLD
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Posttransplant Lymphoproliferative Disorders
+
+oncoTreeId IMPTLD
+parentOncoTreeId PTLD
+oncoTreeLevel 4

@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id meningothelial-tumor
+name Meningothelial Tumor
+type cancerType
+subTypes 9
+tissue CNS/Brain
+mainType CNS Cancer
+
+oncoTreeId MNGT
+parentOncoTreeId BRAIN
+umls C0025284
+nciCode C3229
+oncoTreeLevel 2

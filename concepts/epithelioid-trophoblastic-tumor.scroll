@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id epithelioid-trophoblastic-tumor
+name Epithelioid Trophoblastic Tumor
+type cancerType
+subTypes 0
+tissue Uterus
+mainType Gestational Trophoblastic Disease
+
+oncoTreeId ETT
+parentOncoTreeId GTD
+umls C1266159
+nciCode C6900
+oncoTreeLevel 3

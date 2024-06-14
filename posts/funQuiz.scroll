@@ -1,0 +1,12 @@
+date 12-09-2022
+groups Commercials
+openGraphImage https://cancerdb.com/posts/funQuiz.jpg
+title Fun quiz
+
+import header.scroll
+printTitle
+
+youTube https://www.youtube.com/embed/b4VE9cx8bhQ
+
+keyboardNav
+import ../footer.scroll

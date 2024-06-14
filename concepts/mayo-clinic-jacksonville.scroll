@@ -1,0 +1,17 @@
+import ../code/conceptPage.scroll
+
+id mayo-clinic-jacksonville
+name Mayo Clinic Jacksonville
+type nciCancerCenter
+website https://www.mayoclinic.org/patient-visitor-guide/florida
+aka Mayo Clinic Florida
+
+phoneNumber 1-507-284-2511
+country United States
+city Jacksonville, Florida
+
+wikipedia https://en.wikipedia.org/wiki/Mayo_Clinic_Florida
+
+nciDesignation Comprehensive Cancer Center
+nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/mayoclinic
+nciImage https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/900/300/files/mayoclinic-article.jpg

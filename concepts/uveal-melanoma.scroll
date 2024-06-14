@@ -1,0 +1,16 @@
+import ../code/conceptPage.scroll
+
+id uveal-melanoma
+name Uveal Melanoma
+type cancerType
+subTypes 0
+tissue Eye
+mainType Melanoma
+
+oncoTreeId UM
+parentOncoTreeId OM
+umls C0220633
+nciCode C7712
+oncoTreeLevel 3
+
+wikipedia https://en.wikipedia.org/wiki/Uveal_melanoma

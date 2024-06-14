@@ -1,0 +1,22 @@
+import ../code/conceptPage.scroll
+
+id the-university-of-kansas-cancer-center
+name The University of Kansas Cancer Center
+type nciCancerCenter
+website https://www.kucancercenter.org/
+
+phoneNumber 1-844-323-1227
+country United States
+city Kansas City, Kansas
+
+twitter https://twitter.com/kucancercenter
+facebook https://facebook.com/kucancercenter
+linkedin https://linkedin.com/company/the-university-of-kansas-cancer-center
+youTubeChannel https://youtube.com/user/kucancercenter
+instagram https://instagram.com/kucancercenter
+
+nciDesignation Comprehensive Cancer Center
+nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/kucc
+nciImage https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/900/300/files/kucc-article.jpg
+hostSchool The University of Kansas
+usNewsRank 46

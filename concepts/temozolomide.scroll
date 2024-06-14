@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id temozolomide
+name Temozolomide
+type chemotherapyDrug alkylatingAgent
+tradenames Temodar && Temodal && Temcad
+routesOfAdministration oral intravenous
+
+kegg D06067
+drugBank DB00853
+medlinePlus a601250
+pubChem 5394
+
+wikipedia https://en.wikipedia.org/wiki/Temozolomide

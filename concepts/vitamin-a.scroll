@@ -1,0 +1,10 @@
+import ../code/conceptPage.scroll
+
+id vitamin-a
+name Vitamin A
+type vitamin
+routesOfAdministration oral
+
+pubChem 1071
+
+wikipedia https://en.wikipedia.org/wiki/Vitamin_A

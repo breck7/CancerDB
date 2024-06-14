@@ -1,0 +1,17 @@
+import ../code/conceptPage.scroll
+
+id novartis
+name Novartis
+type publicCompany
+website https://www.novartis.com
+
+twitter https://twitter.com/novartis
+facebook https://facebook.com/novartis
+linkedin https://linkedin.com/company/novartis
+youTubeChannel https://youtube.com/user/novartis
+instagram https://instagram.com/novartis
+
+nyse https://www.nyse.com/quote/XNYS:NVS
+
+domainName novartis.com
+ registered 1996

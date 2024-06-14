@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id leiomyosarcoma
+name Leiomyosarcoma
+type cancerType
+subTypes 0
+tissue Soft Tissue
+mainType Soft Tissue Sarcoma
+
+oncoTreeId LMS
+parentOncoTreeId SOFT_TISSUE
+umls C0023269
+nciCode C3158
+oncoTreeLevel 2

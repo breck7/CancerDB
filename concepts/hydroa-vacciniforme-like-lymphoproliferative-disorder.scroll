@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id hydroa-vacciniforme-like-lymphoproliferative-disorder
+name Hydroa Vacciniforme Like Lymphoproliferative Disorder
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Mature T and NK Neoplasms
+
+oncoTreeId HVLL
+parentOncoTreeId MTNN
+oncoTreeLevel 5

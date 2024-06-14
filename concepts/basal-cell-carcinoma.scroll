@@ -1,0 +1,21 @@
+import ../code/conceptPage.scroll
+
+id basal-cell-carcinoma
+name Basal Cell Carcinoma
+type cancerType
+subTypes 0
+tissue Skin
+mainType Skin Cancer, Non-Melanoma
+cancerDotOrg https://www.cancer.org/cancer/basal-and-squamous-cell-skin-cancer.html
+reference https://www.skincancer.org/skin-cancer-information/basal-cell-carcinoma/
+reference https://www.mayoclinic.org/diseases-conditions/basal-cell-carcinoma/symptoms-causes/syc-20354187
+reference https://my.clevelandclinic.org/health/diseases/4581-basal-cell-carcinoma
+reference https://www.aad.org/public/diseases/skin-cancer/types/common/bcc
+
+oncoTreeId BCC
+parentOncoTreeId SKIN
+umls C0007117
+nciCode C2921
+oncoTreeLevel 2
+
+wikipedia https://en.wikipedia.org/wiki/Basal-cell_carcinoma

@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id colon-adenocarcinoma-in-situ
+name Colon Adenocarcinoma In Situ
+type cancerType
+subTypes 0
+tissue Bowel
+mainType Colorectal Cancer
+
+oncoTreeId CAIS
+parentOncoTreeId COADREAD
+oncoTreeLevel 3

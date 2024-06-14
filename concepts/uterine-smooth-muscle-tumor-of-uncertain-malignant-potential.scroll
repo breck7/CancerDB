@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id uterine-smooth-muscle-tumor-of-uncertain-malignant-potential
+name Uterine Smooth Muscle Tumor of Uncertain Malignant Potential
+type cancerType
+subTypes 0
+tissue Uterus
+mainType Uterine Sarcoma
+
+oncoTreeId USTUMP
+parentOncoTreeId USMT
+umls C1519864
+nciCode C40177
+oncoTreeLevel 4

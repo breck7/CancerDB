@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id acral-melanoma
+name Acral Melanoma
+type cancerType
+subTypes 0
+tissue Skin
+mainType Melanoma
+
+oncoTreeId ACRM
+parentOncoTreeId MEL
+umls C0346037
+nciCode C4022
+oncoTreeLevel 3

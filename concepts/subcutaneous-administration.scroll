@@ -1,0 +1,7 @@
+import ../code/conceptPage.scroll
+
+id subcutaneous-administration
+name Subcutaneous administration
+type routeOfAdministration
+
+wikipedia https://en.wikipedia.org/wiki/Subcutaneous_administration

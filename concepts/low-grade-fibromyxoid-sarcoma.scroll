@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id low-grade-fibromyxoid-sarcoma
+name Low-Grade Fibromyxoid Sarcoma
+type cancerType
+subTypes 0
+tissue Soft Tissue
+mainType Soft Tissue Sarcoma
+
+oncoTreeId LGFMS
+parentOncoTreeId SOFT_TISSUE
+umls C1275282
+nciCode C45202
+oncoTreeLevel 2

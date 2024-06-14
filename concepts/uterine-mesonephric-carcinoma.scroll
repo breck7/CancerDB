@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id uterine-mesonephric-carcinoma
+name Uterine Mesonephric Carcinoma
+type cancerType
+subTypes 0
+tissue Uterus
+mainType Endometrial Cancer
+
+oncoTreeId UMNC
+parentOncoTreeId UCEC
+oncoTreeLevel 3

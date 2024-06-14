@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id central-neurocytoma
+name Central Neurocytoma
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Miscellaneous Neuroepithelial Tumor
+
+oncoTreeId CNC
+parentOncoTreeId MNET
+umls C0206719
+nciCode C3791
+oncoTreeLevel 3

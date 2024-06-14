@@ -1,0 +1,9 @@
+import ../code/conceptPage.scroll
+
+id carboquone
+name Carboquone
+type chemotherapyDrug alkylatingAgent
+
+pubChem 2569
+
+wikipedia https://en.wikipedia.org/wiki/Carboquone

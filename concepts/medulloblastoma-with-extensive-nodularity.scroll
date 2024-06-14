@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id medulloblastoma-with-extensive-nodularity
+name Medulloblastoma with Extensive Nodularity
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Embryonal Tumor
+
+oncoTreeId MBEN
+parentOncoTreeId EMBT
+umls C1334970
+nciCode C5407
+oncoTreeLevel 3

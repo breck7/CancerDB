@@ -1,0 +1,11 @@
+import ../code/conceptPage.scroll
+
+id regeneron
+name Regeneron
+type publicCompany
+website https://www.regeneron.com/
+appeared 1988
+
+wikipedia https://en.wikipedia.org/wiki/Regeneron_Pharmaceuticals
+
+nasdaq https://www.nasdaq.com/symbol/regn

@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id large-cell-lung-carcinoma
+name Large Cell Lung Carcinoma
+type cancerType
+subTypes 5
+tissue Lung
+mainType Non-Small Cell Lung Cancer
+
+oncoTreeId LCLC
+parentOncoTreeId NSCLC
+umls C0345958
+nciCode C4450
+oncoTreeLevel 3

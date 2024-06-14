@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id well-differentiated-thyroid-cancer
+name Well-Differentiated Thyroid Cancer
+type cancerType
+subTypes 2
+tissue Thyroid
+mainType Thyroid Cancer
+
+oncoTreeId WDTC
+parentOncoTreeId THYROID
+umls C1337013
+nciCode C7153
+oncoTreeLevel 2

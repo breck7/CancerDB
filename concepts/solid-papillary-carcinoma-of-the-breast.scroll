@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id solid-papillary-carcinoma-of-the-breast
+name Solid Papillary Carcinoma of the Breast
+type cancerType
+subTypes 0
+tissue Breast
+mainType Breast Cancer
+
+oncoTreeId SPC
+parentOncoTreeId BRCA
+umls C1336027
+nciCode C6870
+oncoTreeLevel 3

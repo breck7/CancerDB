@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id cholangiocarcinoma
+name Cholangiocarcinoma
+type cancerType
+subTypes 3
+tissue Biliary Tract
+mainType Hepatobiliary Cancer
+
+oncoTreeId CHOL
+parentOncoTreeId BILIARY_TRACT
+umls C0206698
+nciCode C4436
+oncoTreeLevel 2

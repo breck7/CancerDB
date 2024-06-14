@@ -1,0 +1,10 @@
+import ../code/conceptPage.scroll
+
+id eli-lilly-and-company
+name Eli Lilly and Company
+type publicCompany
+website https://www.lilly.com/
+
+wikipedia https://en.wikipedia.org/wiki/Eli_Lilly_and_Company
+
+nyse https://www.nyse.com/quote/XNYS:LLY

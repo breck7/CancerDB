@@ -1,0 +1,33 @@
+importOnly
+replaceJs DAYS_SINCE_INITIAL_COMMIT Math.floor(dayjs().diff(dayjs("2022-9-05"), "day", true))
+
+viewSource
+
+stumpNoSnippet
+ div
+  class trueBaseThemeFooter
+  a CancerDB
+   href BASE_URL/index.html
+   class trueBaseThemeLogo
+  span ·
+  a #CancerMoonshot
+   href https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/12/remarks-by-president-biden-on-the-cancer-moonshot-initiative/
+  span ·
+  a About
+   href BASE_URL/pages/about.html
+  span ·
+  a Blog
+   href BASE_URL/posts/index.html
+  span ·
+  a Humor
+   href BASE_URL/posts/humor.html
+  span ·
+  a Acknowledgements
+   href BASE_URL/pages/acknowledgements.html
+  span ·
+  a Day DAYS_SINCE_INITIAL_COMMIT
+   href https://github.com/breck7/CancerDB/commit/9cf883c9573176207842fbbb3180a08656401b1a
+   title Initial commit on September 5th, 2022
+  span ·
+  a Published by Breck's Lab
+   href https://breckyunits.com/lab.html

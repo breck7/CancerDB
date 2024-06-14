@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id cervical-leiomyosarcoma
+name Cervical Leiomyosarcoma
+type cancerType
+subTypes 0
+tissue Cervix
+mainType Cervical Cancer
+
+oncoTreeId CELI
+parentOncoTreeId CERVIX
+oncoTreeLevel 2

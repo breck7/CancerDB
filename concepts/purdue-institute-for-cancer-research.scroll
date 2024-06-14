@@ -1,0 +1,16 @@
+import ../code/conceptPage.scroll
+
+id purdue-institute-for-cancer-research
+name Purdue Institute for Cancer Research
+type nciCancerCenter
+website https://www.purdue.edu/cancer-research/
+
+phoneNumber 1-765-494-9129
+country United States
+city West Lafayette, Indiana
+
+linkedin https://linkedin.com/company/purdue-institute-for-cancer-research
+
+nciDesignation Basic Laboratory Cancer Center
+nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/purdueccr
+nciImage https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/900/300/files/purdueccr-article.jpg

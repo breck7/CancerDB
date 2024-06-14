@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id monoclonal-b-cell-lymphocytosis
+name Monoclonal B-Cell Lymphocytosis
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Mature B-Cell Neoplasms
+
+oncoTreeId MCBCL
+parentOncoTreeId MBN
+oncoTreeLevel 5

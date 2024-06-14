@@ -1,0 +1,10 @@
+import ../code/conceptPage.scroll
+
+id triethylenemelamine
+name Triethylenemelamine
+type chemotherapyDrug alkylatingAgent
+
+kegg C07642
+pubChem 5799
+
+wikipedia https://en.wikipedia.org/wiki/Triethylenemelamine

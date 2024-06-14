@@ -1,0 +1,8 @@
+import ../code/conceptPage.scroll
+
+id national-cancer-grid-india
+name National Cancer Grid India
+type nationalCancerInstitute
+website https://tmc.gov.in/ncg/
+
+country India

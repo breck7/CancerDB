@@ -1,0 +1,9 @@
+import ../code/conceptPage.scroll
+
+id multiplemyeloma-subreddit
+name Multiplemyeloma Subreddit
+type subreddit onlineForum
+cancerTypes multiplemyeloma
+subreddit https://www.reddit.com/r/multiplemyeloma
+ members
+  2023 2254

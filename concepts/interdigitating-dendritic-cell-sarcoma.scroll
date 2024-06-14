@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id interdigitating-dendritic-cell-sarcoma
+name Interdigitating Dendritic Cell Sarcoma
+type cancerType
+subTypes 0
+tissue Myeloid
+mainType Soft Tissue Sarcoma
+
+oncoTreeId IDCS
+parentOncoTreeId HDCN
+umls C1260326
+nciCode C9282
+oncoTreeLevel 4

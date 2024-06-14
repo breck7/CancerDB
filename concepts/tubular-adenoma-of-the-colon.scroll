@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id tubular-adenoma-of-the-colon
+name Tubular Adenoma of the Colon
+type cancerType
+subTypes 0
+tissue Bowel
+mainType Tubular Adenoma of the Colon
+
+oncoTreeId TAC
+parentOncoTreeId BOWEL
+oncoTreeLevel 2

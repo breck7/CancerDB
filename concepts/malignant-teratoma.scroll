@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id malignant-teratoma
+name Malignant Teratoma
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Germ Cell Tumor
+
+oncoTreeId BMGT
+parentOncoTreeId BGCT
+umls C1336704
+nciCode C7015
+oncoTreeLevel 3

@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id atypical-nevus
+name Atypical Nevus
+type cancerType
+subTypes 0
+tissue Skin
+mainType Skin Cancer, Non-Melanoma
+
+oncoTreeId AN
+parentOncoTreeId SKIN
+oncoTreeLevel 2

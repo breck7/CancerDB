@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id pleuropulmonary-blastoma
+name Pleuropulmonary Blastoma
+type cancerType
+subTypes 0
+tissue Lung
+mainType Non-Small Cell Lung Cancer
+
+oncoTreeId PPB
+parentOncoTreeId LUNG
+umls C1266144
+nciCode C5669
+oncoTreeLevel 2

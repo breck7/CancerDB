@@ -1,0 +1,9 @@
+import ../code/conceptPage.scroll
+
+id national-cancer-center-korea
+name National Cancer Center Korea
+type nationalCancerInstitute
+website https://www.ncc.re.kr/indexEn.ncc
+aka NCCK
+
+country South Korea

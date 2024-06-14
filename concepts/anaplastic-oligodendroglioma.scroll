@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id anaplastic-oligodendroglioma
+name Anaplastic Oligodendroglioma
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Glioma
+
+oncoTreeId AODG
+parentOncoTreeId DIFG
+umls C0334590
+nciCode C4326
+oncoTreeLevel 3

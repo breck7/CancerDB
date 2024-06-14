@@ -1,0 +1,16 @@
+import ../code/conceptPage.scroll
+
+id ccan
+name C/Can
+type cancerNonProfit
+website https://citycancerchallenge.org/
+appeared 2017
+conceptDescription We support city-led cancer solutions to improve and sustain access to equitable, quality cancer care. Spun out of UICC
+relatedConcepts uicc
+
+country Switzerland
+city Geneva
+
+twitter https://twitter.com/CCan_org
+facebook https://www.facebook.com/CCan.org/
+linkedin https://www.linkedin.com/company/citycancerchallenge/

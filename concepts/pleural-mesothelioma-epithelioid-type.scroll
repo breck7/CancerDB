@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id pleural-mesothelioma-epithelioid-type
+name Pleural Mesothelioma, Epithelioid Type
+type cancerType
+subTypes 0
+tissue Pleura
+mainType Mesothelioma
+
+oncoTreeId PLEMESO
+parentOncoTreeId PLMESO
+oncoTreeLevel 3

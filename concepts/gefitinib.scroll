@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id gefitinib
+name Gefitinib
+type chemotherapyDrug
+tradenames Iressa
+routesOfAdministration oral
+
+kegg D01977
+drugBank DB00317
+medlinePlus a607002
+pubChem 123631
+
+wikipedia https://en.wikipedia.org/wiki/Gefitinib

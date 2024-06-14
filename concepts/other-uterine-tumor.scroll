@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id other-uterine-tumor
+name Other Uterine Tumor
+type cancerType
+subTypes 0
+tissue Uterus
+mainType Endometrial Cancer
+
+oncoTreeId OUTT
+parentOncoTreeId UTERUS
+oncoTreeLevel 2

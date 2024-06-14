@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id plasmablastic-lymphoma
+name Plasmablastic Lymphoma
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Mature B-Cell Neoplasms
+
+oncoTreeId PLBL
+parentOncoTreeId MBN
+oncoTreeLevel 5

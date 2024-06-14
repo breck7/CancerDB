@@ -1,0 +1,18 @@
+import ../code/conceptPage.scroll
+
+id fda
+name FDA
+type nationalGovernmentAgency
+website https://www.fda.gov/
+parentOrganization hhs
+standsFor Food & Drug Administration
+
+phoneNumber 1-888-463-6332
+country United States
+
+twitter https://twitter.com/us_fda
+facebook https://facebook.com/fda
+linkedin https://linkedin.com/company/fda
+instagram https://instagram.com/fda
+
+domainName fda.gov

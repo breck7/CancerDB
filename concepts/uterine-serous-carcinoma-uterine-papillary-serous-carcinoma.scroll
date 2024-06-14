@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id uterine-serous-carcinoma-uterine-papillary-serous-carcinoma
+name Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma
+type cancerType
+subTypes 0
+tissue Uterus
+mainType Endometrial Cancer
+
+oncoTreeId USC
+parentOncoTreeId UCEC
+umls C0854924
+nciCode C27838
+oncoTreeLevel 3

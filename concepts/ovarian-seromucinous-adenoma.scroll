@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id ovarian-seromucinous-adenoma
+name Ovarian Seromucinous Adenoma
+type cancerType
+subTypes 0
+tissue Ovary/Fallopian Tube
+mainType Ovarian Cancer
+
+oncoTreeId OSMAD
+parentOncoTreeId OVT
+oncoTreeLevel 3

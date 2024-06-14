@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id enteropathy-associated-t-cell-lymphoma
+name Enteropathy-Associated T-Cell Lymphoma
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Mature T and NK Neoplasms
+
+oncoTreeId EATL
+parentOncoTreeId MTNN
+oncoTreeLevel 5

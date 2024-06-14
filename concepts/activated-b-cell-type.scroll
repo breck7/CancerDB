@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id activated-b-cell-type
+name Activated B-cell Type
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Mature B-Cell Neoplasms
+
+oncoTreeId ABC
+parentOncoTreeId DLBCLNOS
+oncoTreeLevel 6

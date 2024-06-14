@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id uterine-dedifferentiated-carcinoma
+name Uterine Dedifferentiated Carcinoma
+type cancerType
+subTypes 0
+tissue Uterus
+mainType Endometrial Cancer
+
+oncoTreeId UDDC
+parentOncoTreeId UCEC
+oncoTreeLevel 3

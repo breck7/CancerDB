@@ -1,0 +1,18 @@
+import ../code/conceptPage.scroll
+
+id susan-g-komen
+name Susan G. Komen Breast Cancer Foundation
+type cancerNonProfit
+website https://www.komen.org/
+cancerTypes breast
+
+phoneNumber 1-877-465-6636
+country United States
+city Dallas, TX
+
+ein 751835298
+charityNavigator https://www.charitynavigator.org/ein/751835298
+greatNonProfits https://greatnonprofits.org/org/susan-g-komen-breast-cancer-foundation-inc-4
+
+domainName komen.org
+ registered 1997

@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id large-cell-neuroendocrine-carcinoma
+name Large Cell Neuroendocrine Carcinoma
+type cancerType
+subTypes 0
+tissue Lung
+mainType Non-Small Cell Lung Cancer
+
+oncoTreeId LUNE
+parentOncoTreeId LNET
+umls C1265996
+nciCode C6875
+oncoTreeLevel 3

@@ -1,0 +1,11 @@
+import ../code/conceptPage.scroll
+
+id annals-of-oncology
+name Annals of Oncology
+type journal
+website https://www.annalsofoncology.org/
+
+wikipedia https://en.wikipedia.org/wiki/Annals_of_Oncology
+
+domainName annalsofoncology.org
+ registered 2019

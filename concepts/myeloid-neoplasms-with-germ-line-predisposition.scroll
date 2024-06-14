@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id myeloid-neoplasms-with-germ-line-predisposition
+name Myeloid Neoplasms with Germ Line Predisposition
+type cancerType
+subTypes 0
+tissue Myeloid
+mainType Myeloid Neoplasms with Germ Line Predisposition
+
+oncoTreeId MNGLP
+parentOncoTreeId MNM
+oncoTreeLevel 3

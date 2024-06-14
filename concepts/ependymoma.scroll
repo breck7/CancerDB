@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id ependymoma
+name Ependymoma
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Glioma
+
+oncoTreeId EPM
+parentOncoTreeId EPMT
+umls C0014474
+nciCode C3017
+oncoTreeLevel 3

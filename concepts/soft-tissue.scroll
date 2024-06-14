@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id soft-tissue
+name Soft Tissue
+type cancerType
+subTypes 53
+tissue Soft Tissue
+mainType Soft Tissue Cancer, NOS
+
+oncoTreeId SOFT_TISSUE
+parentOncoTreeId TISSUE
+umls C0225317
+nciCode C12471
+oncoTreeLevel 1

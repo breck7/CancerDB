@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id adenomyoepithelioma-of-the-breast
+name Adenomyoepithelioma of the Breast
+type cancerType
+subTypes 0
+tissue Breast
+mainType Breast Cancer
+
+oncoTreeId BRAME
+parentOncoTreeId BREAST
+umls C1510795
+nciCode C6899
+oncoTreeLevel 2

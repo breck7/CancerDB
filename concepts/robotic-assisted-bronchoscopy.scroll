@@ -1,0 +1,7 @@
+import ../code/conceptPage.scroll
+
+id robotic-assisted-bronchoscopy
+name Robotic-Assisted Bronchoscopy
+type imagingProcedure surgery
+conceptDescription Bronchoscopy is a technique used to look at your air passages with a small camera that is located at the end of a flexible tube. The camera connects to a video screen where your doctor can view photos of your air passages. The tube also has a small channel to collect tissue samples (a biopsy) from your lung that can be used for disease diagnosis.
+reference https://www.lung.org/lung-health-diseases/lung-procedures-and-tests/rab

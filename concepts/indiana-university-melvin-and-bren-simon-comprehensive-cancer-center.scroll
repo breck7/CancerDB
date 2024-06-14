@@ -1,0 +1,25 @@
+import ../code/conceptPage.scroll
+
+id indiana-university-melvin-and-bren-simon-comprehensive-cancer-center
+name Indiana University Melvin and Bren Simon Comprehensive Cancer Center
+type nciCancerCenter
+website https://cancer.iu.edu/
+
+phoneNumber 1-317-944-5000
+country United States
+city Indianapolis, Indiana
+
+twitter https://twitter.com/IUCancerCenter
+ followers 817
+facebook https://www.facebook.com/iusimoncancercenter
+ followers 3000
+linkedin https://www.linkedin.com/company/iucancercenter/
+ followers 648
+youTubeChannel https://www.youtube.com/user/IUSimonCancerCenter
+ followers 93
+instagram https://www.instagram.com/iusimoncancercenter/
+ followers 831
+
+nciDesignation Comprehensive Cancer Center
+nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/indianasimon
+nciImage https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/900/700/files/indianasimon-article.jpg

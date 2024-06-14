@@ -1,0 +1,10 @@
+import ../code/conceptPage.scroll
+
+id pirarubicin
+name Pirarubicin
+type chemotherapyDrug anthracycline
+
+kegg D01885
+pubChem 3033521
+
+wikipedia https://en.wikipedia.org/wiki/Pirarubicin

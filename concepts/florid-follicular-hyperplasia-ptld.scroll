@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id florid-follicular-hyperplasia-ptld
+name Florid Follicular Hyperplasia PTLD
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Posttransplant Lymphoproliferative Disorders
+
+oncoTreeId FHPTLD
+parentOncoTreeId PTLD
+oncoTreeLevel 4

@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id gastric-remnant-adenocarcinoma
+name Gastric Remnant Adenocarcinoma
+type cancerType
+subTypes 0
+tissue Esophagus/Stomach
+mainType Esophagogastric Cancer
+
+oncoTreeId GRC
+parentOncoTreeId EGC
+oncoTreeLevel 3

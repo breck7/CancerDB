@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id mycosis-fungoides
+name Mycosis Fungoides
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Mature T and NK Neoplasms
+
+oncoTreeId MYCF
+parentOncoTreeId MTNN
+umls C0026948
+nciCode C3246
+oncoTreeLevel 5

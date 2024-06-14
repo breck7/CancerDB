@@ -1,0 +1,7 @@
+import ../code/conceptPage.scroll
+
+id regorafenib
+name Regorafenib
+type drug tyrosineKinaseInhibitor
+
+wikipedia https://en.wikipedia.org/wiki/Regorafenib

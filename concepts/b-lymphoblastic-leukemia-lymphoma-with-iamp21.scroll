@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id b-lymphoblastic-leukemia-lymphoma-with-iamp21
+name B-Lymphoblastic Leukemia/Lymphoma with iAMP21
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType B-Lymphoblastic Leukemia/Lymphoma
+
+oncoTreeId BLLIAMP21
+parentOncoTreeId BLLRGA
+oncoTreeLevel 5

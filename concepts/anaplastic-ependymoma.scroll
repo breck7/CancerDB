@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id anaplastic-ependymoma
+name Anaplastic Ependymoma
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType CNS Cancer
+
+oncoTreeId APE
+parentOncoTreeId EPMT
+umls C0280788
+nciCode C4049
+oncoTreeLevel 3

@@ -1,0 +1,13 @@
+import ../code/conceptPage.scroll
+
+id moderna
+name Moderna
+type publicCompany
+website http://modernatx.com/
+
+country United States
+city Cambridge, Massachusetts
+
+wikipedia https://en.wikipedia.org/wiki/Moderna
+
+nasdaq https://www.nasdaq.com/symbol/mrna

@@ -1,0 +1,13 @@
+import ../code/conceptPage.scroll
+
+id chris-beat-cancer
+name Chris Beat Cancer
+type website
+website https://chrisbeatcancer.com
+
+twitter https://twitter.com/chrisbeatcancer
+ followers 7682
+facebook https://www.facebook.com/chrisbeatcancer
+ followers 389000
+youTubeChannel https://www.youtube.com/@chrisbeatcancer
+ followers 165000

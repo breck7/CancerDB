@@ -1,0 +1,62 @@
+import ../code/conceptPage.scroll
+
+id esophagus-stomach
+name Esophagus/Stomach Cancer
+type cancerType
+subTypes 23
+tissue Esophagus/Stomach
+mainType Esophageal/Stomach Cancer, NOS
+gco https://gco.iarc.fr/today/data/factsheets/cancers/6-Oesophagus-fact-sheet.pdf
+
+oncoTreeId STOMACH
+parentOncoTreeId TISSUE
+umls C0038351
+nciCode C12391
+oncoTreeLevel 1
+
+uscsId Esophagus
+uscsDeathsPerYear 15918
+uscsCasesPerYear 18872
+uscsMortalityRate 84%
+uscsTable 2019
+ sex|age|population|cases|deaths
+ F|0|1841226|~|~
+ F|1-4|7728847|~|~
+ F|5-9|9886447|~|~
+ F|10-14|10190891|~|~
+ F|15-19|10313575|~|~
+ F|20-24|10577124|~|~
+ F|25-29|11518714|~|~
+ F|30-34|11093732|~|~
+ F|35-39|10861340|20|~
+ F|40-44|10014341|41|24
+ F|45-49|10307804|100|50
+ F|50-54|10387588|201|143
+ F|55-59|11232044|420|250
+ F|60-64|10708826|577|422
+ F|65-69|9252566|624|426
+ F|70-74|7527818|619|440
+ F|75-79|5333117|516|419
+ F|80-84|3636357|396|416
+ F|85+|4225260|498|525
+ M|0|1921001|~|~
+ M|1-4|8080265|~|~
+ M|5-9|10335306|~|~
+ M|10-14|10629162|~|~
+ M|15-19|10752848|~|~
+ M|20-24|11066850|~|~
+ M|25-29|12020738|~|~
+ M|30-34|11370500|+|25
+ M|35-39|10892543|87|57
+ M|40-44|9906220|183|139
+ M|45-49|10082635|399|276
+ M|50-54|10082296|850|653
+ M|55-59|10639047|1579|1227
+ M|60-64|9851308|2443|1909
+ M|65-69|8191801|2760|2138
+ M|70-74|6499159|2580|2188
+ M|75-79|4317707|1846|1750
+ M|80-84|2678743|1186|1267
+ M|85+|2374207|947|1174
+
+wikipedia https://en.wikipedia.org/wiki/Esophageal_cancer

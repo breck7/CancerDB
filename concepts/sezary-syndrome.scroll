@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id sezary-syndrome
+name Sezary Syndrome
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Mature T and NK Neoplasms
+
+oncoTreeId SS
+parentOncoTreeId MTNN
+oncoTreeLevel 5

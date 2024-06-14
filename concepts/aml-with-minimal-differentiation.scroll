@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id aml-with-minimal-differentiation
+name AML with Minimal Differentiation
+type cancerType
+subTypes 0
+tissue Myeloid
+mainType Leukemia
+
+oncoTreeId AMLMD
+parentOncoTreeId AMLNOS
+oncoTreeLevel 5

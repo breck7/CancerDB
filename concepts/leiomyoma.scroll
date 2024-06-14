@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id leiomyoma
+name Leiomyoma
+type cancerType
+subTypes 0
+tissue Soft Tissue
+mainType Soft Tissue Cancer
+
+oncoTreeId LM
+parentOncoTreeId SOFT_TISSUE
+oncoTreeLevel 2

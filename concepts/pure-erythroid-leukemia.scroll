@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id pure-erythroid-leukemia
+name Pure Erythroid Leukemia
+type cancerType
+subTypes 0
+tissue Myeloid
+mainType Leukemia
+
+oncoTreeId PERL
+parentOncoTreeId AMLNOS
+oncoTreeLevel 5

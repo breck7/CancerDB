@@ -1,0 +1,15 @@
+import ../code/conceptPage.scroll
+
+id hope4cancer
+name Hope4Cancer
+type treatmentCenter
+website https://hope4cancer.com/
+appeared 2000
+
+phoneNumber 1-888-544-5993
+country Mexico
+
+facebook https://www.facebook.com/Hope4CancerMexico/
+ followers 46000
+instagram https://www.instagram.com/hope4cancermexico/
+ followers 40800

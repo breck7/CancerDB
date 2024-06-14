@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id duodenal-type-follicular-lymphoma
+name Duodenal-Type Follicular Lymphoma
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Mature B-Cell Neoplasms
+
+oncoTreeId DFL
+parentOncoTreeId FL
+oncoTreeLevel 6

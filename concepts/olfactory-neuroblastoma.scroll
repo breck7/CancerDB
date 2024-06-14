@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id olfactory-neuroblastoma
+name Olfactory Neuroblastoma
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Embryonal Tumor
+
+oncoTreeId ONBL
+parentOncoTreeId EMBT
+umls C0206717
+nciCode C3789
+oncoTreeLevel 3

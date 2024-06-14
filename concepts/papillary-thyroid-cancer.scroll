@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id papillary-thyroid-cancer
+name Papillary Thyroid Cancer
+type cancerType
+subTypes 0
+tissue Thyroid
+mainType Thyroid Cancer
+
+oncoTreeId THPA
+parentOncoTreeId WDTC
+umls C0238463
+nciCode C4035
+oncoTreeLevel 3

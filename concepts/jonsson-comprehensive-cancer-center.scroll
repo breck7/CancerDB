@@ -1,0 +1,29 @@
+import ../code/conceptPage.scroll
+
+id jonsson-comprehensive-cancer-center
+name Jonsson Comprehensive Cancer Center
+type nciCancerCenter
+website https://cancer.ucla.edu/
+
+phoneNumber 1-310-825-5268
+country United States
+city Los Angeles, California
+
+wikipedia https://en.wikipedia.org/wiki/Jonsson_Comprehensive_Cancer_Center
+
+twitter https://twitter.com/uclajccc
+ followers 9993
+facebook https://www.facebook.com/UCLAJonssonComprehensiveCancerCenter/
+ followers 14000
+linkedin https://www.linkedin.com/company/jonsson-cancer-center/
+ followers 868
+youTubeChannel https://www.youtube.com/UCLAJCCC
+ followers 1890
+instagram https://www.instagram.com/uclajonssoncancercenter/
+ followers 2232
+
+nciDesignation Comprehensive Cancer Center
+nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/uclajonsson
+nciImage https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/900/300/files/uclajonsson-article.jpg
+hostSchool University of California at Los Angeles
+usNewsRank 5

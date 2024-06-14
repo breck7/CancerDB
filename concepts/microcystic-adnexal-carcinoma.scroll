@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id microcystic-adnexal-carcinoma
+name Microcystic Adnexal Carcinoma
+type cancerType
+subTypes 0
+tissue Skin
+mainType Skin Cancer, Non-Melanoma
+
+oncoTreeId MAC
+parentOncoTreeId SKIN
+umls C0346027
+nciCode C7581
+oncoTreeLevel 2

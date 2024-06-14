@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id tlcr-dz
+name TLCR
+type registry
+website https://cancerlab.univ-tlemcen.dz/en
+appeared 1999
+standsFor Tlemcen Cancer Registry
+conceptDescription Could also be referred to as West Algerian cancer regsitry in some literature.
+reference https://academic.oup.com/ije/article/44/suppl_1/i250/2573481
+
+country Algeria

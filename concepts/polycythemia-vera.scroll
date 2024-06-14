@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id polycythemia-vera
+name Polycythemia Vera
+type cancerType
+subTypes 1
+tissue Myeloid
+mainType Myeloproliferative Neoplasms
+
+oncoTreeId PV
+parentOncoTreeId MPN
+oncoTreeLevel 4

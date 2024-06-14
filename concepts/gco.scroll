@@ -1,0 +1,11 @@
+import ../code/conceptPage.scroll
+
+id gco
+name GCO
+type organizationDivision
+website https://gco.iarc.fr
+parentOrganization iarc
+standsFor Global Cancer Observatory
+conceptDescription The Global Cancer Observatory (GCO) is an interactive web-based platform presenting global cancer statistics to inform cancer control and cancer research.
+
+domainName gco.iarc.fr

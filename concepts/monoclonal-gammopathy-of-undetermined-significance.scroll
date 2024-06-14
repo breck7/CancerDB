@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id monoclonal-gammopathy-of-undetermined-significance
+name Monoclonal Gammopathy of Undetermined Significance
+type cancerType
+subTypes 3
+tissue Lymphoid
+mainType Mature B-Cell Neoplasms
+
+oncoTreeId MGUS
+parentOncoTreeId MBN
+oncoTreeLevel 5

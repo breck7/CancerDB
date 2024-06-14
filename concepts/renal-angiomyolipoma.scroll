@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id renal-angiomyolipoma
+name Renal Angiomyolipoma
+type cancerType
+subTypes 0
+tissue Kidney
+mainType Renal Cell Carcinoma
+
+oncoTreeId RAML
+parentOncoTreeId NCCRCC
+umls C0241961
+nciCode C3888
+oncoTreeLevel 4

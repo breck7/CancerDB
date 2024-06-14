@@ -1,0 +1,7 @@
+import ../code/conceptPage.scroll
+
+id pulmonary-metastasectomy
+name Pulmonary metastasectomy
+type surgery
+reference https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653506/
+reference https://stanfordhealthcare.org/medical-treatments/p/pulmonary-metastasectomy.html

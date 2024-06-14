@@ -1,0 +1,60 @@
+import ../code/conceptPage.scroll
+
+id hodgkin-lymphoma
+name Hodgkin Lymphoma
+type cancerType
+subTypes 6
+tissue Lymphoid
+mainType Hodgkin Lymphoma
+gco https://gco.iarc.fr/today/data/factsheets/cancers/33-Hodgkin-lymphoma-fact-sheet.pdf
+
+oncoTreeId HL
+parentOncoTreeId LNM
+umls C0019829
+nciCode C9357
+oncoTreeLevel 3
+
+uscsId Hodgkin Lymphoma
+uscsDeathsPerYear 873
+uscsCasesPerYear 8515
+uscsMortalityRate 10%
+uscsTable 2019
+ sex|age|population|cases|deaths
+ F|0|1841226|~|~
+ F|1-4|7728847|~|~
+ F|5-9|9886447|24|~
+ F|10-14|10190891|103|~
+ F|15-19|10313575|324|~
+ F|20-24|10577124|442|~
+ F|25-29|11518714|424|~
+ F|30-34|11093732|371|~
+ F|35-39|10861340|315|~
+ F|40-44|10014341|216|~
+ F|45-49|10307804|214|~
+ F|50-54|10387588|187|17
+ F|55-59|11232044|193|25
+ F|60-64|10708826|198|26
+ F|65-69|9252566|223|40
+ F|70-74|7527818|170|42
+ F|75-79|5333117|165|51
+ F|80-84|3636357|119|57
+ F|85+|4225260|98|79
+ M|0|1921001|~|~
+ M|1-4|8080265|~|~
+ M|5-9|10335306|46|~
+ M|10-14|10629162|149|~
+ M|15-19|10752848|345|~
+ M|20-24|11066850|471|~
+ M|25-29|12020738|466|~
+ M|30-34|11370500|421|17
+ M|35-39|10892543|308|18
+ M|40-44|9906220|298|19
+ M|45-49|10082635|272|22
+ M|50-54|10082296|273|36
+ M|55-59|10639047|354|42
+ M|60-64|9851308|333|63
+ M|65-69|8191801|310|70
+ M|70-74|6499159|270|62
+ M|75-79|4317707|200|61
+ M|80-84|2678743|124|64
+ M|85+|2374207|89|62

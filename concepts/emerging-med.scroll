@@ -1,0 +1,10 @@
+import ../code/conceptPage.scroll
+
+id emerging-med
+name EmergingMed.com
+type website onlineDatabase
+website https://emergingmed.com
+conceptDescription Clinical trial finder.
+
+domainName emergingmed.com
+ registered 2000

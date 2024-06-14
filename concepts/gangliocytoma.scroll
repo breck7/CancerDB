@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id gangliocytoma
+name Gangliocytoma
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Glioma
+
+oncoTreeId GNC
+parentOncoTreeId ENCG
+umls CL378224
+nciCode C6934
+oncoTreeLevel 3

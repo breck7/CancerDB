@@ -1,0 +1,11 @@
+import ../code/conceptPage.scroll
+
+id astrazeneca
+name AstraZeneca
+type publicCompany
+website https://www.astrazeneca.com/
+
+wikipedia https://en.wikipedia.org/wiki/AstraZeneca
+
+domainName astrazeneca.com
+ registered 1998

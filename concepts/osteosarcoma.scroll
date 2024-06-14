@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id osteosarcoma
+name Osteosarcoma
+type cancerType
+subTypes 10
+tissue Bone
+mainType Bone Cancer
+
+oncoTreeId OS
+parentOncoTreeId BONE
+umls C0029463
+nciCode C9145
+oncoTreeLevel 2

@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id cervical-squamous-cell-carcinoma
+name Cervical Squamous Cell Carcinoma
+type cancerType
+subTypes 0
+tissue Cervix
+mainType Cervical Cancer
+
+oncoTreeId CESC
+parentOncoTreeId CERVIX
+umls C0279671
+nciCode C4028
+oncoTreeLevel 2

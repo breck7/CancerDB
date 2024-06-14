@@ -1,0 +1,9 @@
+import ../code/conceptPage.scroll
+
+id transarterial-embolization
+name Transarterial Embolization
+type surgery
+cancerTypes liver kidney neuroendocrine
+conceptDescription A procedure in which the blood supply to a tumor or an abnormal area of tissue is blocked. Small particles made of tiny gelatin sponges or beads are injected via catheter. This blocks the artery and stops the flow of blood to the tumor or abnormal area of tissue. Transarterial embolization is used to treat some types of liver cancer, kidney cancer, and neuroendocrine tumors.
+aka TAE
+reference https://www.cancer.gov/publications/dictionaries/cancer-terms/def/transarterial-embolization

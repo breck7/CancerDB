@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id intimal-sarcoma
+name Intimal Sarcoma
+type cancerType
+subTypes 0
+tissue Soft Tissue
+mainType Soft Tissue Sarcoma
+
+oncoTreeId INTS
+parentOncoTreeId SOFT_TISSUE
+umls C1708550
+nciCode C53677
+oncoTreeLevel 2

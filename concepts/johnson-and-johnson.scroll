@@ -1,0 +1,10 @@
+import ../code/conceptPage.scroll
+
+id johnson-and-johnson
+name Johnson & Johnson
+type publicCompany
+website https://www.jnj.com/
+
+wikipedia https://en.wikipedia.org/wiki/Johnson_%26_Johnson
+
+nyse https://www.nyse.com/quote/XNYS:JNJ

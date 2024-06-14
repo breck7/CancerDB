@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id clear-cell-ependymoma
+name Clear Cell Ependymoma
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType CNS Cancer
+
+oncoTreeId CCE
+parentOncoTreeId EPMT
+umls C1384404
+nciCode C4714
+oncoTreeLevel 3

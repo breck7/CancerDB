@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id aml-nos
+name AML, NOS
+type cancerType
+subTypes 9
+tissue Myeloid
+mainType Leukemia
+
+oncoTreeId AMLNOS
+parentOncoTreeId AML
+oncoTreeLevel 4

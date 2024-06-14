@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id indolent-t-cell-lymphoproliferative-disorder-of-the-gi-tract
+name Indolent T-Cell Lymphoproliferative Disorder of the GI Tract
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Mature T and NK Neoplasms
+
+oncoTreeId ITLPDGI
+parentOncoTreeId MTNN
+oncoTreeLevel 5

@@ -1,0 +1,18 @@
+import ../code/conceptPage.scroll
+
+id ucsf-helen-diller-family-comprehensive-cancer-center
+name UCSF Helen Diller Family Comprehensive Cancer Center
+type nciCancerCenter
+website https://cancer.ucsf.edu/
+
+phoneNumber 1-888-689-8273
+country United States
+city San Francisco, California
+
+wikipedia https://en.wikipedia.org/wiki/UCSF_Helen_Diller_Family_Comprehensive_Cancer_Center
+
+nciDesignation Comprehensive Cancer Center
+nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/ucsfhelendiller
+nciImage https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/2019-10/UCSF%20Photo%20update.png
+hostSchool University of California at San Francisco
+usNewsRank 15

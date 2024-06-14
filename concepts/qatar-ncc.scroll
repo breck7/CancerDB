@@ -1,0 +1,8 @@
+import ../code/conceptPage.scroll
+
+id qatar-ncc
+name National Center for Cancer Care and Research
+type nationalCancerInstitute
+website https://www.hamad.qa/EN/Hospitals-and-services/Physiotherapy/Facilities/Pages/NCCCR.aspx
+
+country Qatar

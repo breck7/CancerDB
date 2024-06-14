@@ -1,0 +1,19 @@
+import ../code/conceptPage.scroll
+
+id wcrf-uk
+name World Cancer Research Fund UK
+type cancerNonProfit
+website https://www.wcrf-uk.org/
+appeared 1990
+parentOrganization wcrf
+conceptDescription World Cancer Research Fund examines how diet, weight and physical activity affect your risk of developing and surviving cancer.
+
+wikipedia https://en.wikipedia.org/wiki/World_Cancer_Research_Fund_UK
+
+twitter https://twitter.com/WCRF_UK
+ followers 9859
+
+englandAndWalesCharityDetails https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/1000739
+
+domainName wcrf-uk.org
+ registered 2000

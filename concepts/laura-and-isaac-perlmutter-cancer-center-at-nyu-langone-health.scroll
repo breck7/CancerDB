@@ -1,0 +1,15 @@
+import ../code/conceptPage.scroll
+
+id laura-and-isaac-perlmutter-cancer-center-at-nyu-langone-health
+name Laura and Isaac Perlmutter Cancer Center at NYU Langone Health
+type nciCancerCenter
+website https://nyulangone.org/locations/perlmutter-cancer-center
+
+phoneNumber 1-212-731-6000
+country United States
+city New York, New York
+
+nciDesignation Comprehensive Cancer Center
+nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/nyuci
+nciImage https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/2019-11/NYU%20photo%20update%20%281%29.jpg
+usNewsRank 19

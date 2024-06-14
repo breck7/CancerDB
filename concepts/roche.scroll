@@ -1,0 +1,25 @@
+import ../code/conceptPage.scroll
+
+id roche
+name Roche
+type company
+website https://www.roche.com/
+appeared 1896
+
+country Switzerland
+city Basel
+
+wikipedia https://en.wikipedia.org/wiki/Roche
+
+twitter https://twitter.com/roche
+ followers 247700
+facebook https://www.facebook.com/roche
+ followers 80235
+linkedin https://www.linkedin.com/company/roche/
+ followers 2897584
+youTubeChannel https://www.youtube.com/roche
+ followers 53300
+instagram https://www.instagram.com/roche/
+ followers 62700
+
+investorRelationsPage https://www.roche.com/investors/

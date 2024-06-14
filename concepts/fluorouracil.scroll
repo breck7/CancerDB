@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id fluorouracil
+name Fluorouracil
+type chemotherapyDrug
+tradenames Adrucil && Carac && Efudex
+routesOfAdministration intravenous topical
+
+kegg D00584
+drugBank DB00544
+medlinePlus a682708
+pubChem 3385
+
+wikipedia https://en.wikipedia.org/wiki/Fluorouracil

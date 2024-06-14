@@ -1,0 +1,9 @@
+import ../code/conceptPage.scroll
+
+id navigational-bronchoscopy
+name Navigational Bronchoscopy
+type imagingProcedure
+cancerTypes lung
+conceptDescription A navigational bronchoscopy uses a special bronchoscope to examine and treat lesions in areas of the lungs that are inaccessible using a regular bronchoscope. Navigational bronchoscopy combines electromagnetic navigation with real-time computed tomography (CT) images to create a three-dimensional map of the lungs. Doctors are then able to use this map to guide the navigational bronchoscope, which includes an extended working channel and guide wire, to difficult-to-access areas of the lungs to take a biopsy or help guide radiation therapy directly to a hard-to-reach lesion.
+relatedConcepts ebus
+reference https://weillcornell.org/news/what-to-know-about-navigational-bronchoscopy

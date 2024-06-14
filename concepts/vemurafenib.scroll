@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id vemurafenib
+name Vemurafenib
+type chemotherapyDrug
+tradenames Zelboraf
+routesOfAdministration oral
+
+kegg D09996
+drugBank DB08881
+medlinePlus a612009
+pubChem 42611257
+
+wikipedia https://en.wikipedia.org/wiki/Vemurafenib

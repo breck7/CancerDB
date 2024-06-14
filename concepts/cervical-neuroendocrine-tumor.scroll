@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id cervical-neuroendocrine-tumor
+name Cervical Neuroendocrine Tumor
+type cancerType
+subTypes 0
+tissue Cervix
+mainType Cervical Cancer
+
+oncoTreeId CENE
+parentOncoTreeId CERVIX
+umls C1516417
+nciCode C40214
+oncoTreeLevel 2

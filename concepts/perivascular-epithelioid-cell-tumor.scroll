@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id perivascular-epithelioid-cell-tumor
+name Perivascular Epithelioid Cell Tumor
+type cancerType
+subTypes 0
+tissue Soft Tissue
+mainType Soft Tissue Sarcoma
+
+oncoTreeId PECOMA
+parentOncoTreeId SOFT_TISSUE
+umls C1300127
+nciCode C38150
+oncoTreeLevel 2

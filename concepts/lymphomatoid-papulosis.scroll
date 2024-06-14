@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id lymphomatoid-papulosis
+name Lymphomatoid Papulosis
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Mature T and NK Neoplasms
+
+oncoTreeId LYP
+parentOncoTreeId PCLPD
+oncoTreeLevel 6

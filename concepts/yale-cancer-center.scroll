@@ -1,0 +1,22 @@
+import ../code/conceptPage.scroll
+
+id yale-cancer-center
+name Yale Cancer Center
+type nciCancerCenter
+website https://www.yalecancercenter.org/
+
+phoneNumber 1-866-YALECANCER
+country United States
+city New Haven, Connecticut
+
+wikipedia https://en.wikipedia.org/wiki/Yale_Cancer_Center
+
+twitter https://twitter.com/yalecancer
+ followers 13800
+linkedin https://linkedin.com/company/yale-cancer-center
+youTubeChannel https://youtube.com/user/yalecancercenter
+
+nciDesignation Comprehensive Cancer Center
+nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/yalecc
+nciImage https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/900/300/files/yalecc-article.jpg
+hostSchool Yale University School of Medicine

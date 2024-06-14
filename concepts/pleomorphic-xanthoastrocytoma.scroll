@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id pleomorphic-xanthoastrocytoma
+name Pleomorphic Xanthoastrocytoma
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Glioma
+
+oncoTreeId PXA
+parentOncoTreeId ENCG
+umls C0334586
+nciCode C4323
+oncoTreeLevel 3

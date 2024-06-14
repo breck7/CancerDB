@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id brenner-tumor-benign
+name Brenner Tumor, Benign
+type cancerType
+subTypes 0
+tissue Ovary/Fallopian Tube
+mainType Ovarian Cancer
+
+oncoTreeId BTBEOV
+parentOncoTreeId BTOV
+oncoTreeLevel 4

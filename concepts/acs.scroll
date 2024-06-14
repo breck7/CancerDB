@@ -1,0 +1,24 @@
+import ../code/conceptPage.scroll
+
+id acs
+name American College of Surgeons
+type professionalOrganization
+website https://www.facs.org/
+aka ACS
+members
+ 2023 84000
+
+country United States
+city Chicago, IL
+
+wikipedia https://en.wikipedia.org/wiki/American_College_of_Surgeons
+
+twitter https://twitter.com/amcollsurgeons
+ followers 82200
+facebook https://www.facebook.com/AmCollSurgeons
+linkedin https://linkedin.com/company/american-college-of-surgeons
+youTubeChannel https://www.youtube.com/user/AmCollegeofSurgeons
+instagram https://www.instagram.com/amcollsurgeons/
+
+domainName facs.org
+ registered 1995

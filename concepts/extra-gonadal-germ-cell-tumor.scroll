@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id extra-gonadal-germ-cell-tumor
+name Extra Gonadal Germ Cell Tumor
+type cancerType
+subTypes 0
+tissue Other
+mainType Germ Cell Tumor
+
+oncoTreeId EGCT
+parentOncoTreeId OTHER
+oncoTreeLevel 2

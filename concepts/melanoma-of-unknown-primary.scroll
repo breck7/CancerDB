@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id melanoma-of-unknown-primary
+name Melanoma of Unknown Primary
+type cancerType
+subTypes 0
+tissue Skin
+mainType Melanoma
+
+oncoTreeId MUP
+parentOncoTreeId MEL
+oncoTreeLevel 3

@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id b-lymphoblastic-leukemia-lymphoma-with-recurrent-genetic-abnormalities
+name B-Lymphoblastic Leukemia/Lymphoma with Recurrent Genetic Abnormalities
+type cancerType
+subTypes 9
+tissue Lymphoid
+mainType B-Lymphoblastic Leukemia/Lymphoma
+
+oncoTreeId BLLRGA
+parentOncoTreeId BLL
+oncoTreeLevel 4

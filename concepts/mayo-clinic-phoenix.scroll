@@ -1,0 +1,18 @@
+import ../code/conceptPage.scroll
+
+id mayo-clinic-phoenix
+name Mayo Clinic Phoenix
+type nciCancerCenter
+website https://www.mayoclinic.org/patient-visitor-guide/arizona
+aka Mayo Clinic Arizona
+
+phoneNumber 1-507-284-2511
+country United States
+city Phoenix, Arizona
+
+wikipedia https://en.wikipedia.org/wiki/Mayo_Clinic_Arizona
+
+nciDesignation Comprehensive Cancer Center
+nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/mayoclinic
+nciImage https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/900/300/files/mayoclinic-article.jpg
+usNewsRank 23

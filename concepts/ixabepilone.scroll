@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id ixabepilone
+name Ixabepilone
+type chemotherapyDrug
+tradenames Ixempra
+routesOfAdministration intravenous
+
+kegg D04645
+drugBank DB04845
+medlinePlus a608042
+pubChem 6445540
+
+wikipedia https://en.wikipedia.org/wiki/Ixabepilone

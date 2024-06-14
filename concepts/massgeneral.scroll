@@ -1,0 +1,21 @@
+import ../code/conceptPage.scroll
+
+id massgeneral
+name Massachusetts General Hospital
+type hospital
+website https://www.massgeneral.org/
+
+city Boston, MA
+
+wikipedia https://en.wikipedia.org/wiki/Massachusetts_General_Hospital
+
+twitter https://twitter.com/massgeneralnews
+ followers 58200
+facebook https://facebook.com/massgeneral
+youTubeChannel https://youtube.com/user/massgeneralhospital
+instagram https://instagram.com/massgeneral
+
+usNewsRank 21
+
+domainName massgeneral.org
+ registered 1999

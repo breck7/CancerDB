@@ -1,0 +1,16 @@
+import ../code/conceptPage.scroll
+
+id montefiore-einstein-cancer-center
+name Montefiore Einstein Cancer Center
+type nciCancerCenter
+website https://cancer.montefioreeinstein.org/
+
+phoneNumber 1-718-862-8840
+country United States
+city Bronx, New York
+
+nciDesignation Cancer Center
+nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/alberteinstein
+nciImage https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/900/000/files/alberteinstein-article.jpg
+hostSchool Albert Einstein College of Medicine
+usNewsRank 35

@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id cytarabine
+name Cytarabine
+type chemotherapyDrug
+tradenames Cytosar-U && Depocyt
+routesOfAdministration intravenous
+
+kegg D00168
+drugBank DB00987
+medlinePlus a682222
+pubChem 6253
+
+wikipedia https://en.wikipedia.org/wiki/Cytarabine

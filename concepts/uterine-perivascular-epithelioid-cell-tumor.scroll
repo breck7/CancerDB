@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id uterine-perivascular-epithelioid-cell-tumor
+name Uterine Perivascular Epithelioid Cell Tumor
+type cancerType
+subTypes 0
+tissue Uterus
+mainType Uterine Sarcoma
+
+oncoTreeId UPECOMA
+parentOncoTreeId USARC
+umls C1519862
+nciCode C40180
+oncoTreeLevel 3

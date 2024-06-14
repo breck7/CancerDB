@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id mixed-germ-cell-tumor-testis
+name Mixed Germ Cell Tumor Testis
+type cancerType
+subTypes 0
+tissue Testis
+mainType Germ Cell Tumor
+
+oncoTreeId MGCT
+parentOncoTreeId NSGCT
+umls C1336720
+nciCode C6347
+oncoTreeLevel 3

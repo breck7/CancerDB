@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id ganglioneuroblastoma
+name Ganglioneuroblastoma
+type cancerType
+subTypes 0
+tissue Peripheral Nervous System
+mainType Peripheral Nervous System
+
+oncoTreeId GNBL
+parentOncoTreeId PNS
+umls C0206718
+nciCode C3790
+oncoTreeLevel 2

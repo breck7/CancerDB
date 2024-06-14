@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id vincristine
+name Vincristine
+type chemotherapyDrug
+tradenames Oncovin && Vincasar && Marqibo
+routesOfAdministration intravenous
+
+kegg D08679
+drugBank DB00541
+medlinePlus a682822
+pubChem 5978
+
+wikipedia https://en.wikipedia.org/wiki/Vincristine

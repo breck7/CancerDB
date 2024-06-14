@@ -1,0 +1,11 @@
+import ../code/conceptPage.scroll
+
+id belotecan
+name Belotecan
+type chemotherapyDrug
+
+kegg D03225
+drugBank DB12459
+pubChem 6456014
+
+wikipedia https://en.wikipedia.org/wiki/Belotecan

@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id vaginal-adenocarcinoma
+name Vaginal Adenocarcinoma
+type cancerType
+subTypes 0
+tissue Vulva/Vagina
+mainType Vaginal Cancer
+
+oncoTreeId VA
+parentOncoTreeId VULVA
+umls C0279668
+nciCode C7981
+oncoTreeLevel 2

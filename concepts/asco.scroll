@@ -1,0 +1,13 @@
+import ../code/conceptPage.scroll
+
+id asco
+name ASCO
+type professionalOrganization
+website https://www.asco.org/
+appeared 1964
+standsFor American Society of Clinical Oncology
+
+wikipedia https://en.wikipedia.org/wiki/American_Society_of_Clinical_Oncology
+
+domainName asco.org
+ registered 1995

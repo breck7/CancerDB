@@ -1,0 +1,15 @@
+import ../code/conceptPage.scroll
+
+id fred-and-pamela-buffett-cancer-center
+name Fred and Pamela Buffett Cancer Center
+type nciCancerCenter
+website https://www.nebraskamed.com/nebraska-medical-center/fred-pamela-buffett-cancer-center
+
+phoneNumber 1-402-559-6500
+country United States
+city Omaha, Nebraska
+
+nciDesignation Cancer Center
+nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/nebraska
+nciImage https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/900/300/files/nebraska-article.jpg
+hostSchool Nebraska Medicine and the University of Nebraska Medical Center (UNMC)

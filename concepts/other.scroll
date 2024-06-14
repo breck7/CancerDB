@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id other
+name Other
+type cancerType
+subTypes 13
+tissue Other
+mainType Other Cancer, NOS
+
+oncoTreeId OTHER
+parentOncoTreeId TISSUE
+umls C0205394
+nciCode C17649
+oncoTreeLevel 1

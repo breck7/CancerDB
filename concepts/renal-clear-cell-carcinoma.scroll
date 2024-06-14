@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id renal-clear-cell-carcinoma
+name Renal Clear Cell Carcinoma
+type cancerType
+subTypes 1
+tissue Kidney
+mainType Renal Cell Carcinoma
+
+oncoTreeId CCRCC
+parentOncoTreeId RCC
+umls C0279702
+nciCode C4033
+oncoTreeLevel 3

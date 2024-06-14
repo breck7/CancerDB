@@ -1,0 +1,16 @@
+import ../code/conceptPage.scroll
+
+id seattle-childrens-hospital
+name Seattle Children's Hospital
+type hospital childrensHospital
+website https://www.seattlechildrens.org/
+
+phoneNumber 1-206-987-2000
+country United States
+city Seattle, WA
+
+twitter https://twitter.com/seattlechildren
+facebook https://facebook.com/seattlechildrens
+linkedin https://linkedin.com/company/seattle-childrens
+youTubeChannel https://youtube.com/user/seattlechildrens
+instagram https://instagram.com/seattlechildrens

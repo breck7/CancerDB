@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id valrubicin
+name Valrubicin
+type chemotherapyDrug anthracycline
+routesOfAdministration intravesical
+
+drugBank DB00385
+medlinePlus a611021
+pubChem 454216
+
+wikipedia https://en.wikipedia.org/wiki/Valrubicin

@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id small-cell-carcinoma-of-the-stomach
+name Small Cell Carcinoma of the Stomach
+type cancerType
+subTypes 0
+tissue Esophagus/Stomach
+mainType Esophagogastric Cancer
+
+oncoTreeId STSC
+parentOncoTreeId EGC
+umls C1333788
+nciCode C6764
+oncoTreeLevel 3

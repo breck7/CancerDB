@@ -1,0 +1,9 @@
+import ../code/conceptPage.scroll
+
+id who
+name World Health Organization
+type internationalOrganization
+appeared 1948
+parentOrganization un
+
+wikipedia https://en.wikipedia.org/wiki/World_Health_Organization

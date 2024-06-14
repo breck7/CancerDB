@@ -1,0 +1,15 @@
+import ../code/conceptPage.scroll
+
+id gallbladder-cancer
+name Gallbladder Cancer
+type cancerType
+subTypes 3
+tissue Biliary Tract
+mainType Hepatobiliary Cancer
+gco https://gco.iarc.fr/today/data/factsheets/cancers/12-Gallbladder-fact-sheet.pdf
+
+oncoTreeId GBC
+parentOncoTreeId BILIARY_TRACT
+umls C0235782
+nciCode C3844
+oncoTreeLevel 2

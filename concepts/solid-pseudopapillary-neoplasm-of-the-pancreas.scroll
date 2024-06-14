@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id solid-pseudopapillary-neoplasm-of-the-pancreas
+name Solid Pseudopapillary Neoplasm of the Pancreas
+type cancerType
+subTypes 0
+tissue Pancreas
+mainType Pancreatic Cancer
+
+oncoTreeId SPN
+parentOncoTreeId PANCREAS
+umls C1336030
+nciCode C37212
+oncoTreeLevel 2

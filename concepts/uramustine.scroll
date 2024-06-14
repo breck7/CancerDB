@@ -1,0 +1,11 @@
+import ../code/conceptPage.scroll
+
+id uramustine
+name Uramustine
+type chemotherapyDrug alkylatingAgent
+
+kegg D06265
+drugBank DB00791
+pubChem 6194
+
+wikipedia https://en.wikipedia.org/wiki/Uramustine

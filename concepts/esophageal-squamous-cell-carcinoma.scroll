@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id esophageal-squamous-cell-carcinoma
+name Esophageal Squamous Cell Carcinoma
+type cancerType
+subTypes 0
+tissue Esophagus/Stomach
+mainType Esophagogastric Cancer
+
+oncoTreeId ESCC
+parentOncoTreeId STOMACH
+umls C0279626
+nciCode C4024
+oncoTreeLevel 2

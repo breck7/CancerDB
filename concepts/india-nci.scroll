@@ -1,0 +1,17 @@
+import ../code/conceptPage.scroll
+
+id india-nci
+name Rajiv Gandhi Cancer Institute and Research Centre
+type cancerNonProfit researchCenter
+website https://www.rgcirc.org/
+
+country India
+
+wikipedia https://en.wikipedia.org/wiki/Rajiv_Gandhi_Cancer_Institute_and_Research_Centre
+
+twitter https://twitter.com/rgcirc
+ followers 126
+facebook https://facebook.com/rgcirc
+
+domainName rgcirc.org
+ registered 2011

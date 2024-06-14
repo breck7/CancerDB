@@ -1,0 +1,17 @@
+title Download CancerDB
+
+import rootHeader.scroll
+printTitle
+
+thinColumns 1
+
+In addition to being open source, you can download the built html of CancerDB and browse the site entirely offline.
+ https://github.com/breck7/CancerDB open source
+
+Download CancerDB
+ https://github.com/breck7/CancerDB/archive/refs/heads/wws.zip
+ class scrollButton
+
+endColumns
+
+import footer.scroll

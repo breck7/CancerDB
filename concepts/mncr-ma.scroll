@@ -1,0 +1,10 @@
+import ../code/conceptPage.scroll
+
+id mncr-ma
+name MNCR
+type registry
+standsFor Mauritius National Cancer Registry
+conceptDescription The National Cancer Registry of Mauritius was established in 1993 following a study tour of Dr S. S. Manraj, Pathologist at University of Bordeaux II with French Cooperation assistance. Since then, data on cancer incidence and mortality have been collected on a continuous basis as from 1989. The registry has reached population-based level since 2000 and has been maintained with WHO assistance.Mauritius has excellent vital statistics and 100% of deaths are medically certified and ICD-10 coded. There is a unique Radiotherapy Unit and a centralized Pathology department covering the needs of the entire Health Care Delivery System, which greatly facilitate the activities of the registry.
+reference https://afcrn.org/index.php/membership/membership-list/103-mauritius
+
+country Mauritius

@@ -1,0 +1,22 @@
+import ../code/conceptPage.scroll
+
+id arizona-cancer-center
+name Arizona Cancer Center
+type nciCancerCenter
+website https://cancercenter.arizona.edu/
+
+phoneNumber 1-520-626-2548
+country United States
+city Tucson, Arizona
+
+twitter https://twitter.com/UAZCancer
+ followers 9203
+facebook https://www.facebook.com/UAZCancer/
+ followers 3179
+youTubeChannel https://www.youtube.com/user/arizonacancercenter
+ followers 56
+
+nciDesignation Comprehensive Cancer Center
+nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/arizonacc
+nciImage https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/900/700/files/arizonacc-article.jpg
+hostSchool University of Arizona

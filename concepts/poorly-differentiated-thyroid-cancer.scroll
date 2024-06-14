@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id poorly-differentiated-thyroid-cancer
+name Poorly Differentiated Thyroid Cancer
+type cancerType
+subTypes 0
+tissue Thyroid
+mainType Thyroid Cancer
+
+oncoTreeId THPD
+parentOncoTreeId THYROID
+umls C1266050
+nciCode C6040
+oncoTreeLevel 2

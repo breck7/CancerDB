@@ -1,0 +1,48 @@
+import ../code/conceptPage.scroll
+
+id breast
+name Breast Cancer
+type cancerType
+subTypes 35
+tissue Breast
+mainType Breast Cancer, NOS
+cancerDotGov https://www.cancer.gov/types/breast
+cancerDotOrg https://www.cancer.org/cancer/breast-cancer.html
+gco https://gco.iarc.fr/today/data/factsheets/cancers/20-Breast-fact-sheet.pdf
+reference https://www.wolframalpha.com/input?i=breast+cancer
+annualDeathsReport US https://www.cdc.gov/cancer/dcpc/research/update-on-cancer-deaths/index.htm
+ 2020 42275
+
+oncoTreeId BREAST
+parentOncoTreeId TISSUE
+umls C0006141
+nciCode C12971
+oncoTreeLevel 1
+
+uscsId Female Breast
+uscsDeathsPerYear 42269
+uscsCasesPerYear 264115
+uscsMortalityRate 16%
+uscsTable 2019
+ sex|age|population|cases|deaths
+ F|0|1841226|~|~
+ F|1-4|7728847|~|~
+ F|5-9|9886447|~|~
+ F|10-14|10190891|~|~
+ F|15-19|10313575|24|~
+ F|20-24|10577124|184|~
+ F|25-29|11518714|1192|90
+ F|30-34|11093732|3305|341
+ F|35-39|10861340|6964|759
+ F|40-44|10014341|13064|1152
+ F|45-49|10307804|20518|1835
+ F|50-54|10387588|24768|2762
+ F|55-59|11232044|30422|3978
+ F|60-64|10708826|36064|4898
+ F|65-69|9252566|38975|5123
+ F|70-74|7527818|35472|5300
+ F|75-79|5333117|24628|4553
+ F|80-84|3636357|15175|4142
+ F|85+|4225260|13360|7336
+
+wikipedia https://en.wikipedia.org/wiki/Breast_cancer

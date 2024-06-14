@@ -1,0 +1,15 @@
+import ../code/conceptPage.scroll
+
+id beth-israel
+name Beth Israel Deaconess Medical Center
+type hospital
+website https://www.bidmc.org/
+
+city Boston, MA
+
+wikipedia https://en.wikipedia.org/wiki/Beth_Israel_Deaconess_Medical_Center
+
+usNewsRank 31
+
+domainName bidmc.org
+ registered 2002

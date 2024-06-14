@@ -1,0 +1,17 @@
+import ../code/conceptPage.scroll
+
+id upmc-hillman-cancer-center
+name UPMC Hillman Cancer Center
+type nciCancerCenter
+website https://hillman.upmc.com/
+
+phoneNumber 1-412-647-2811
+country United States
+city Pittsburgh, Pennsylvania
+
+wikipedia https://en.wikipedia.org/wiki/UPMC_Hillman_Cancer_Center
+
+nciDesignation Comprehensive Cancer Center
+nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/upci
+nciImage https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/900/300/files/upci-article.jpg
+usNewsRank 16

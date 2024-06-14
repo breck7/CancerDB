@@ -1,0 +1,10 @@
+import ../code/conceptPage.scroll
+
+id norwegian-cancer-society
+name Norwegian Cancer Society
+type cancerNonProfit
+appeared 1938
+
+country Norway
+
+wikipedia https://en.wikipedia.org/wiki/Norwegian_Cancer_Society

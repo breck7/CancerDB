@@ -1,0 +1,7 @@
+import ../code/conceptPage.scroll
+
+id the-cancer-journals
+name The Cancer Journals
+type book
+appeared 1980
+conceptAuthor Audre Lorde

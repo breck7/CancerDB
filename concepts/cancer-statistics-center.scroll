@@ -1,0 +1,9 @@
+import ../code/conceptPage.scroll
+
+id cancer-statistics-center
+name Cancer Statistics Center
+type website
+website https://cancerstatisticscenter.cancer.org
+parentOrganization american-cancer-society
+
+domainName cancerstatisticscenter.cancer.org

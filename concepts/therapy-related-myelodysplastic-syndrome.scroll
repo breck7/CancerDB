@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id therapy-related-myelodysplastic-syndrome
+name Therapy-Related Myelodysplastic Syndrome
+type cancerType
+subTypes 0
+tissue Myeloid
+mainType Leukemia
+
+oncoTreeId TMDS
+parentOncoTreeId TMN
+oncoTreeLevel 5

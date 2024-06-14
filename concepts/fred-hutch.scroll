@@ -1,0 +1,23 @@
+import ../code/conceptPage.scroll
+
+id fred-hutch
+name Fred Hutchinson Cancer Center
+type hospital researchCenter
+website https://www.fredhutch.org/
+appeared 1975
+aka Fred Hutch
+
+country United States
+city Seattle, WA
+
+wikipedia https://en.wikipedia.org/wiki/Fred_Hutchinson_Cancer_Research_Center
+
+twitter https://twitter.com/fredhutch
+ followers 38200
+linkedin https://linkedin.com/company/fredhutch
+instagram https://instagram.com/fredhutch
+
+usNewsRank 27
+
+ein 237156071
+guideStar https://www.guidestar.org/profile/23-7156071

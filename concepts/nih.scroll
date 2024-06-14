@@ -1,0 +1,20 @@
+import ../code/conceptPage.scroll
+
+id nih
+name NIH
+type nationalGovernmentAgency
+website https://www.nih.gov/
+parentOrganization hhs
+standsFor National Institutes of Health
+
+country United States
+
+wikipedia https://en.wikipedia.org/wiki/National_Institutes_of_Health
+
+twitter https://twitter.com/nih
+ followers 1600000
+facebook https://facebook.com/nih.gov
+youTubeChannel https://youtube.com/user/nihod
+instagram https://instagram.com/nihgov
+
+domainName nih.gov

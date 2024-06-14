@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id myeloid-lymphoid-neoplasms-with-pdgfra-rearrangement
+name Myeloid/Lymphoid Neoplasms with PDGFRA Rearrangement
+type cancerType
+subTypes 0
+tissue Myeloid
+mainType Leukemia
+
+oncoTreeId MLNPDGFRA
+parentOncoTreeId MLNER
+oncoTreeLevel 4

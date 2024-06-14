@@ -1,0 +1,7 @@
+import ../code/conceptPage.scroll
+
+id vitamin-d
+name Vitamin D
+type vitamin
+
+wikipedia https://en.wikipedia.org/wiki/Vitamin_D

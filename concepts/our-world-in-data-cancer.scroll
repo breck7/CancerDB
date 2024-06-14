@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id our-world-in-data-cancer
+name Our World in Data Cancer Page
+type website
+website https://ourworldindata.org/cancer
+
+country United Kingdom
+
+twitter https://twitter.com/ourworldindata
+facebook https://facebook.com/ourworldindata
+instagram https://instagram.com/ourworldindata
+
+englandAndWalesCharityDetails https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/5140507

@@ -1,0 +1,24 @@
+import ../code/conceptPage.scroll
+
+id cleveland-clinic
+name Cleveland Clinic
+type hospital
+website https://clevelandclinic.org/
+
+country United States
+city Cleveland, Ohio
+
+wikipedia https://en.wikipedia.org/wiki/Cleveland_Clinic
+
+twitter https://twitter.com/clevelandclinic
+ followers 1800000
+facebook https://facebook.com/clevelandclinic
+linkedin https://linkedin.com/company/cleveland-clinic
+youTubeChannel https://youtube.com/user/clevelandclinic
+instagram https://instagram.com/clevelandclinic
+pinterest https://pinterest.com/clevelandclinic
+
+usNewsRank 6
+
+domainName clevelandclinic.org
+ registered 1998

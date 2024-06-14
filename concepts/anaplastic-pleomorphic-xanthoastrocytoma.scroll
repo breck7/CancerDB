@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id anaplastic-pleomorphic-xanthoastrocytoma
+name Anaplastic Pleomorphic Xanthoastrocytoma
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Glioma
+
+oncoTreeId APXA
+parentOncoTreeId ENCG
+oncoTreeLevel 3

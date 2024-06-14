@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id adenocarcinoma-nos
+name Adenocarcinoma, NOS
+type cancerType
+subTypes 0
+tissue Other
+mainType Cancer of Unknown Primary
+
+oncoTreeId ADNOS
+parentOncoTreeId CUP
+oncoTreeLevel 3

@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id peritoneal-serous-carcinoma
+name Peritoneal Serous Carcinoma
+type cancerType
+subTypes 0
+tissue Peritoneum
+mainType Peritoneal Cancer, NOS
+
+oncoTreeId PSEC
+parentOncoTreeId PERITONEUM
+oncoTreeLevel 2

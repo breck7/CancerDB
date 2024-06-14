@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id cutaneous-squamous-cell-carcinoma
+name Cutaneous Squamous Cell Carcinoma
+type cancerType
+subTypes 0
+tissue Skin
+mainType Skin Cancer, Non-Melanoma
+
+oncoTreeId CSCC
+parentOncoTreeId SKIN
+umls C0553723
+nciCode C4819
+oncoTreeLevel 2

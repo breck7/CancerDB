@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id renal-oncocytoma
+name Renal Oncocytoma
+type cancerType
+subTypes 0
+tissue Kidney
+mainType Renal Cell Carcinoma
+
+oncoTreeId ROCY
+parentOncoTreeId NCCRCC
+umls C0346255
+nciCode C4526
+oncoTreeLevel 4

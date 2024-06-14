@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id dysgerminoma-vulva-vagina
+name Dysgerminoma Vulva/Vagina
+type cancerType
+subTypes 0
+tissue Vulva/Vagina
+mainType Germ Cell Tumor
+
+oncoTreeId VDYS
+parentOncoTreeId VGCT
+umls C0346185
+nciCode C8106
+oncoTreeLevel 3

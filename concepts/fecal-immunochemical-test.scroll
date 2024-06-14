@@ -1,0 +1,8 @@
+import ../code/conceptPage.scroll
+
+id fecal-immunochemical-test
+name Fecal immunochemical test
+type diagnosticTest
+cancerTypes colon
+
+wikipedia https://en.wikipedia.org/wiki/Fecal_immunochemical_test

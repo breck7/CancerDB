@@ -1,0 +1,17 @@
+import ../code/conceptPage.scroll
+
+id masonic-cancer-center
+name Masonic Cancer Center
+type nciCancerCenter
+website https://cancer.umn.edu/
+
+phoneNumber 1-612-624-2620
+country United States
+city Minneapolis, Minnesota
+
+wikipedia https://en.wikipedia.org/wiki/Masonic_Cancer_Center
+
+nciDesignation Comprehensive Cancer Center
+nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/minnesotamasonic
+nciImage https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/900/300/files/minnesotamasonic-article.jpg
+hostSchool University of Minnesota

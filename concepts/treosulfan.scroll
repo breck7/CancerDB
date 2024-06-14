@@ -1,0 +1,13 @@
+import ../code/conceptPage.scroll
+
+id treosulfan
+name Treosulfan
+type chemotherapyDrug alkylatingAgent
+tradenames Trecondi && Ovastat
+routesOfAdministration oral intravenous
+
+kegg C19557
+drugBank DB11678
+pubChem 9882105
+
+wikipedia https://en.wikipedia.org/wiki/Treosulfan

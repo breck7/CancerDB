@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id head-and-neck-squamous-cell-carcinoma
+name Head and Neck Squamous Cell Carcinoma
+type cancerType
+subTypes 6
+tissue Head and Neck
+mainType Head and Neck Cancer
+
+oncoTreeId HNSC
+parentOncoTreeId HEAD_NECK
+umls C1168401
+nciCode C34447
+oncoTreeLevel 2

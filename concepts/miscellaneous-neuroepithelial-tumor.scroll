@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id miscellaneous-neuroepithelial-tumor
+name Miscellaneous Neuroepithelial Tumor
+type cancerType
+subTypes 11
+tissue CNS/Brain
+mainType Miscellaneous Neuroepithelial Tumor
+
+oncoTreeId MNET
+parentOncoTreeId BRAIN
+umls C1332889
+nciCode C7172
+oncoTreeLevel 2

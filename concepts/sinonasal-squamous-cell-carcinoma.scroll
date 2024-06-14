@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id sinonasal-squamous-cell-carcinoma
+name Sinonasal Squamous Cell Carcinoma
+type cancerType
+subTypes 0
+tissue Head and Neck
+mainType Head and Neck Cancer
+
+oncoTreeId SNSC
+parentOncoTreeId HNSC
+umls C0334270
+nciCode C54287
+oncoTreeLevel 3

@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id cervical-adenoid-cystic-carcinoma
+name Cervical Adenoid Cystic Carcinoma
+type cancerType
+subTypes 0
+tissue Cervix
+mainType Cervical Cancer
+
+oncoTreeId CACC
+parentOncoTreeId CERVIX
+umls C1332911
+nciCode C6346
+oncoTreeLevel 2

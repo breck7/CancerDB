@@ -1,0 +1,11 @@
+import ../code/conceptPage.scroll
+
+id tocr-dz
+name TOCR
+type registry
+standsFor Tizi-Ouzou Cancer Registry
+conceptDescription Unknown
+reference http://www.dsp-tiziouzou.dz/index.php/ncer
+reference https://gco.iarc.fr/today/data/factsheets/populations/12-algeria-fact-sheets.pdf
+
+country Algeria

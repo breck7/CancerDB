@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id endometrial-carcinoma
+name Endometrial Carcinoma
+type cancerType
+subTypes 12
+tissue Uterus
+mainType Endometrial Cancer
+
+oncoTreeId UCEC
+parentOncoTreeId UTERUS
+umls C0476089
+nciCode C7558
+oncoTreeLevel 2

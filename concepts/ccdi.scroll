@@ -1,0 +1,11 @@
+import ../code/conceptPage.scroll
+
+id ccdi
+name CCDI
+type nationalGovernmentAgency
+website https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative
+parentOrganization nci
+standsFor Childhood Cancer Data Initiative
+
+phoneNumber 1-800-422-6237
+country United States

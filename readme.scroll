@@ -1,0 +1,51 @@
+# CancerDB: Key data about cancer in one table.
+
+CancerDB is a public domain database and website containing structured data on key concepts on cancer integrated into one model.
+
+Someone's new treatment could by just 2 insights away from being the next great cure. CancerDB can help them figure out what those 2 missing insights are.
+
+For cancer patients and their loved ones, we want to provide you with the _absolute_ best data on cancer. We will deliver that information to you quickly, freely, and you will be able to trust it 100%.
+
+This repo contains the entire database and website for https://cancerdb.com.
+
+## To analyze the data
+The CancerDB database is freely available:
+- As CSV: https://cancerdb.com/cancerdb.csv
+- As JSON: https://cancerdb.com/cancerdb.json
+Documentation for the CSV is available here: https://cancerdb.com/download.html.
+
+## To add a new concept
+Advanced method: Create a new file in `concepts` with a unique URL friendly filename ending in `.scroll` and send a pull request.
+
+## To update a concept
+Advanced method: Edit the corresponding `concepts/*.scroll` file and send a pull request.
+
+## To add a new measure
+Advanced method: Add your measure to `code/measures.scroll` and add at least 1 example to a concept in `concepts` and send a pull request.
+
+## To run the site locally
+code
+ git clone https://github.com/breck7/CancerDB
+ cd CancerDB
+ npm install .
+ npm run build
+
+## To explore this repo
+The most important folder is `concepts`, which contains a file for each concept. The folder `measures` contains the grammar files (schema) for the ScrollSet.
+
+## To cite CancerDB
+CancerDB content is published to the public domain and you can use it freely. If needed, here are 3 options for citing CancerDB:
+code
+ https://cancerdb.com
+code
+ CancerDB team. (2022) - "CancerDB: A public domain database and website containing structured data on key concepts in cancer integrated into one model". Retrieved from: 'https://cancerdb.com' [Online Resource]
+code
+ @article{cancerdb,
+  author = {CancerDB team},
+  title = {CancerDB: A public domain database and website containing structured data on key concepts in cancer integrated into one model.},
+  journal = {CancerDB},
+  year = {2022},
+  note = {https://cancerdb.com}
+ }
+
+All sources for CancerDB can be found here: https://cancerdb.com/pages/acknowledgements.html

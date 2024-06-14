@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id melanocytoma
+name Melanocytoma
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Melanocytoma
+
+oncoTreeId MELC
+parentOncoTreeId PCNSMT
+oncoTreeLevel 3

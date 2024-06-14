@@ -1,0 +1,17 @@
+import ../code/conceptPage.scroll
+
+id cedars-sinai
+name Cedars-Sinai Medical Center
+type hospital
+website https://www.cedars-sinai.org
+
+city Los Angeles, CA
+
+wikipedia https://en.wikipedia.org/wiki/Cedars-Sinai_Medical_Center
+
+linkedin https://linkedin.com/company/cedars-sinai-medical-center
+
+usNewsRank 11
+
+domainName cedars-sinai.org
+ registered 1998

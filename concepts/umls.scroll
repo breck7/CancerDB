@@ -1,0 +1,10 @@
+import ../code/conceptPage.scroll
+
+id umls
+name Unified Medical Language System
+type onlineDatabase ontology
+appeared 1986
+parentOrganization nlm
+conceptDescription A comprehensive thesaurus and ontology of biomedical concepts.
+
+wikipedia https://en.wikipedia.org/wiki/Unified_Medical_Language_System

@@ -1,0 +1,11 @@
+import ../code/conceptPage.scroll
+
+id french-national-cancer-institute
+name French National Cancer Institute
+type nationalCancerInstitute
+website https://en.e-cancer.fr
+aka Institut National du Cancer
+
+country France
+
+domainName en.e-cancer.fr

@@ -1,0 +1,17 @@
+import ../code/conceptPage.scroll
+
+id mays-cancer-center-at-ut-health-san-antonio
+name Mays Cancer Center at UT Health San Antonio
+type nciCancerCenter
+website https://cancer.uthscsa.edu/
+
+phoneNumber 1-210-450-1000
+country United States
+city San Antonio, Texas
+
+wikipedia https://en.wikipedia.org/wiki/UT_Health_San_Antonio_Cancer_Center
+
+nciDesignation Cancer Center
+nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/utsanantonio
+nciImage https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/900/300/files/utsanantonio-article.jpg
+hostSchool University of Texas Health Science Center

@@ -1,0 +1,11 @@
+import ../code/conceptPage.scroll
+
+id un
+name United Nations
+type internationalOrganization
+website https://www.un.org
+
+wikipedia https://en.wikipedia.org/wiki/United_Nations
+
+domainName un.org
+ registered 1995

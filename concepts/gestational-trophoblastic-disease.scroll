@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id gestational-trophoblastic-disease
+name Gestational Trophoblastic Disease
+type cancerType
+subTypes 7
+tissue Uterus
+mainType Gestational Trophoblastic Disease
+
+oncoTreeId GTD
+parentOncoTreeId UTERUS
+umls C1135868
+nciCode C4699
+oncoTreeLevel 2

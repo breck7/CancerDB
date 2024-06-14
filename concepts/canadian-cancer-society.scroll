@@ -1,0 +1,11 @@
+import ../code/conceptPage.scroll
+
+id canadian-cancer-society
+name Canadian Cancer Society
+type cancerNonProfit
+website https://cancer.ca/en/
+appeared 1938
+
+country Canada
+
+wikipedia https://en.wikipedia.org/wiki/Canadian_Cancer_Society

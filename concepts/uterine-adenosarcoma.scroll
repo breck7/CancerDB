@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id uterine-adenosarcoma
+name Uterine Adenosarcoma
+type cancerType
+subTypes 0
+tissue Uterus
+mainType Uterine Sarcoma
+
+oncoTreeId UAS
+parentOncoTreeId USARC
+umls C1336917
+nciCode C6336
+oncoTreeLevel 3

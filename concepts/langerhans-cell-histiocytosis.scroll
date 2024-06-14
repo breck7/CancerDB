@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id langerhans-cell-histiocytosis
+name Langerhans Cell Histiocytosis
+type cancerType
+subTypes 0
+tissue Myeloid
+mainType Histiocytosis
+
+oncoTreeId LCH
+parentOncoTreeId HDCN
+umls C0019621
+nciCode C3107
+oncoTreeLevel 4

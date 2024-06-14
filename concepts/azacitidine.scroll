@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id azacitidine
+name Azacitidine
+type chemotherapyDrug
+tradenames Vidaza && Azadine && Onureg
+routesOfAdministration subcutaneousInjection intravenous oral
+
+kegg D03021
+drugBank DB00928
+medlinePlus a607068
+pubChem 9444
+
+wikipedia https://en.wikipedia.org/wiki/Azacitidine

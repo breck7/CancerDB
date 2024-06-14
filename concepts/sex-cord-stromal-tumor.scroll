@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id sex-cord-stromal-tumor
+name Sex Cord Stromal Tumor
+type cancerType
+subTypes 5
+tissue Ovary/Fallopian Tube
+mainType Sex Cord Stromal Tumor
+
+oncoTreeId SCST
+parentOncoTreeId OVARY
+umls C0600113
+nciCode C4862
+oncoTreeLevel 2

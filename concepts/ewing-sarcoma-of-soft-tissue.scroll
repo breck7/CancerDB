@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id ewing-sarcoma-of-soft-tissue
+name Ewing Sarcoma of Soft Tissue
+type cancerType
+subTypes 0
+tissue Soft Tissue
+mainType Soft Tissue Sarcoma
+
+oncoTreeId ESST
+parentOncoTreeId SOFT_TISSUE
+oncoTreeLevel 2

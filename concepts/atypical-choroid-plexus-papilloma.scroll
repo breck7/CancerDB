@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id atypical-choroid-plexus-papilloma
+name Atypical Choroid Plexus Papilloma
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType Choroid Plexus Tumor
+
+oncoTreeId ACPP
+parentOncoTreeId CPT
+umls C1266176
+nciCode C53686
+oncoTreeLevel 3

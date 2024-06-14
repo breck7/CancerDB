@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id classical-hodgkin-lymphoma-ptld
+name Classical Hodgkin Lymphoma PTLD
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Posttransplant Lymphoproliferative Disorders
+
+oncoTreeId CHLPTLD
+parentOncoTreeId PTLD
+oncoTreeLevel 4

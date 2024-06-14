@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id imatinib
+name Imatinib
+type chemotherapyDrug
+tradenames Gleevec && Glivec
+routesOfAdministration oral
+
+kegg D08066
+drugBank DB00619
+medlinePlus a606018
+pubChem 5291
+
+wikipedia https://en.wikipedia.org/wiki/Imatinib

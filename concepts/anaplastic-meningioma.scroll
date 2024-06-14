@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id anaplastic-meningioma
+name Anaplastic Meningioma
+type cancerType
+subTypes 0
+tissue CNS/Brain
+mainType CNS Cancer
+
+oncoTreeId ANM
+parentOncoTreeId MNGT
+umls C0259785
+nciCode C4051
+oncoTreeLevel 3

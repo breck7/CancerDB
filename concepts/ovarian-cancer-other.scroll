@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id ovarian-cancer-other
+name Ovarian Cancer, Other
+type cancerType
+subTypes 3
+tissue Ovary/Fallopian Tube
+mainType Ovarian Cancer
+
+oncoTreeId OOVC
+parentOncoTreeId OVARY
+oncoTreeLevel 2

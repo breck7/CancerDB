@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id hepatoblastoma
+name Hepatoblastoma
+type cancerType
+subTypes 0
+tissue Liver
+mainType Hepatobiliary Cancer
+
+oncoTreeId LIHB
+parentOncoTreeId LIVER
+umls C0206624
+nciCode C3728
+oncoTreeLevel 2

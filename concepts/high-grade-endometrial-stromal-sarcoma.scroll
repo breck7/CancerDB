@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id high-grade-endometrial-stromal-sarcoma
+name High-Grade Endometrial Stromal Sarcoma
+type cancerType
+subTypes 0
+tissue Uterus
+mainType Uterine Sarcoma
+
+oncoTreeId HGESS
+parentOncoTreeId ESS
+oncoTreeLevel 4

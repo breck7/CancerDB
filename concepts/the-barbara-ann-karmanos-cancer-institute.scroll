@@ -1,0 +1,17 @@
+import ../code/conceptPage.scroll
+
+id the-barbara-ann-karmanos-cancer-institute
+name The Barbara Ann Karmanos Cancer Institute
+type nciCancerCenter
+website https://www.karmanos.org/karmanos/karmanos-home
+
+phoneNumber 1-800-KARMANOS
+country United States
+city Detroit, Michigan
+
+wikipedia https://en.wikipedia.org/wiki/Karmanos_Cancer_Institute
+
+nciDesignation Comprehensive Cancer Center
+nciLink https://www.cancer.gov/research/infrastructure/cancer-centers/find/waynestatekarmanos
+nciImage https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/900/300/files/waynestatekarmanos-article.jpg
+hostSchool Wayne State University School of Medicine

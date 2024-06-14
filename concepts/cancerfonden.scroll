@@ -1,0 +1,18 @@
+import ../code/conceptPage.scroll
+
+id cancerfonden
+name Cancerfonden
+type cancerNonProfit
+website https://www.cancerfonden.se/
+aka Swedish Cancer Society
+
+country Sweden
+
+wikipedia https://en.wikipedia.org/wiki/Cancerfonden
+
+twitter https://twitter.com/cancerfonden
+ followers 4948
+facebook https://facebook.com/cancerfonden
+instagram https://instagram.com/cancerfonden
+
+domainName cancerfonden.se

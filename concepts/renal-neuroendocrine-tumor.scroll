@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id renal-neuroendocrine-tumor
+name Renal Neuroendocrine Tumor
+type cancerType
+subTypes 0
+tissue Kidney
+mainType Renal Neuroendocrine Tumor
+
+oncoTreeId RNET
+parentOncoTreeId KIDNEY
+oncoTreeLevel 2

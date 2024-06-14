@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id conventional-type-chordoma
+name Conventional Type Chordoma
+type cancerType
+subTypes 0
+tissue Bone
+mainType Bone Cancer
+
+oncoTreeId CCHDM
+parentOncoTreeId CHDM
+oncoTreeLevel 3

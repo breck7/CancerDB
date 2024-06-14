@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id salivary-adenocarcinoma
+name Salivary Adenocarcinoma
+type cancerType
+subTypes 0
+tissue Head and Neck
+mainType Salivary Gland Cancer
+
+oncoTreeId SAAD
+parentOncoTreeId SACA
+umls C0279746
+nciCode C8021
+oncoTreeLevel 3

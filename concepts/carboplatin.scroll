@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id carboplatin
+name Carboplatin
+type chemotherapyDrug
+tradenames Paraplatin
+routesOfAdministration intravenous
+
+kegg D01363
+drugBank DB00958
+medlinePlus a695017
+pubChem 498142
+
+wikipedia https://en.wikipedia.org/wiki/Carboplatin

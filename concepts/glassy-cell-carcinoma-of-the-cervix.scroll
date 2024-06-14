@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id glassy-cell-carcinoma-of-the-cervix
+name Glassy Cell Carcinoma of the Cervix
+type cancerType
+subTypes 0
+tissue Cervix
+mainType Cervical Cancer
+
+oncoTreeId CEGCC
+parentOncoTreeId CERVIX
+umls C1516407
+nciCode C40212
+oncoTreeLevel 2

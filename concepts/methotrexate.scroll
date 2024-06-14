@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id methotrexate
+name Methotrexate
+type chemotherapyDrug
+tradenames Trexall && Rheumatrex && Otrexup
+routesOfAdministration oral intravenous
+
+kegg D00142
+drugBank DB00563
+medlinePlus a682019
+pubChem 126941
+
+wikipedia https://en.wikipedia.org/wiki/Methotrexate

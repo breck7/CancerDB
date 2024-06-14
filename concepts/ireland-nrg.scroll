@@ -1,0 +1,8 @@
+import ../code/conceptPage.scroll
+
+id ireland-nrg
+name National Cancer Control Programme
+type nationalCancerInstitute
+website https://www.hse.ie/eng/services/list/5/cancer/
+
+country Ireland

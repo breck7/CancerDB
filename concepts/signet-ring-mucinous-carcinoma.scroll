@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id signet-ring-mucinous-carcinoma
+name Signet Ring Mucinous Carcinoma
+type cancerType
+subTypes 0
+tissue Cervix
+mainType Cervical Cancer
+
+oncoTreeId SCEMU
+parentOncoTreeId CEMU
+umls C1516424
+nciCode C40205
+oncoTreeLevel 4

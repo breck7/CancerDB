@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id mastocytosis
+name Mastocytosis
+type cancerType
+subTypes 8
+tissue Myeloid
+mainType Mastocytosis
+
+oncoTreeId MCD
+parentOncoTreeId MNM
+oncoTreeLevel 3

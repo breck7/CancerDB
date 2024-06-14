@@ -1,0 +1,17 @@
+import ../code/conceptPage.scroll
+
+id penis
+name Penile Cancer
+type cancerType
+subTypes 4
+tissue Penis
+mainType Penile Cancer, NOS
+gco https://gco.iarc.fr/today/data/factsheets/cancers/26-Penis-fact-sheet.pdf
+
+oncoTreeId PENIS
+parentOncoTreeId TISSUE
+umls C0030851
+nciCode C12409
+oncoTreeLevel 1
+
+wikipedia https://en.wikipedia.org/wiki/Penile_cancer

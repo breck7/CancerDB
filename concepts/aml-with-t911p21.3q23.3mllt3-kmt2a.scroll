@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id aml-with-t911p21.3q23.3mllt3-kmt2a
+name AML with t(9;11)(p21.3;q23.3);MLLT3-KMT2A
+type cancerType
+subTypes 0
+tissue Myeloid
+mainType Leukemia
+
+oncoTreeId AMLMLLT3KMT2A
+parentOncoTreeId AMLRGA
+oncoTreeLevel 5

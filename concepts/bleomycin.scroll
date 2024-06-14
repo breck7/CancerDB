@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id bleomycin
+name Bleomycin
+type chemotherapyDrug
+tradenames Blenoxane
+routesOfAdministration intravenous intramuscularInjection subcutaneousInjection
+
+kegg D07535
+drugBank DB00290
+medlinePlus a682125
+pubChem 5460769
+
+wikipedia https://en.wikipedia.org/wiki/Bleomycin

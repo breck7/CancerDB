@@ -1,0 +1,8 @@
+import ../code/conceptPage.scroll
+
+id kegg
+name KEGG
+type onlineDatabase ontology
+standsFor Kyoto Encyclopedia of Genes and Genomes
+
+wikipedia https://en.wikipedia.org/wiki/KEGG

@@ -1,0 +1,9 @@
+import ../code/conceptPage.scroll
+
+id cancer-journal
+name Cancer
+type journal
+website https://acsjournals.onlinelibrary.wiley.com/journal/10970142
+parentOrganization american-cancer-society
+
+wikipedia https://en.wikipedia.org/wiki/Cancer_(journal)

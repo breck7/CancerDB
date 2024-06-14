@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id adenocarcinoma-of-the-gastroesophageal-junction
+name Adenocarcinoma of the Gastroesophageal Junction
+type cancerType
+subTypes 0
+tissue Esophagus/Stomach
+mainType Esophagogastric Cancer
+
+oncoTreeId GEJ
+parentOncoTreeId EGC
+umls C1332166
+nciCode C9296
+oncoTreeLevel 3

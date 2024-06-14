@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id inflammatory-myofibroblastic-lung-tumor
+name Inflammatory Myofibroblastic Lung Tumor
+type cancerType
+subTypes 0
+tissue Lung
+mainType Non-Small Cell Lung Cancer
+
+oncoTreeId IMTL
+parentOncoTreeId LUNG
+umls C1518038
+nciCode C39740
+oncoTreeLevel 2

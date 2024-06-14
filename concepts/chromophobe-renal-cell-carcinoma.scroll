@@ -1,0 +1,14 @@
+import ../code/conceptPage.scroll
+
+id chromophobe-renal-cell-carcinoma
+name Chromophobe Renal Cell Carcinoma
+type cancerType
+subTypes 0
+tissue Kidney
+mainType Renal Cell Carcinoma
+
+oncoTreeId CHRCC
+parentOncoTreeId NCCRCC
+umls C1266042
+nciCode C4146
+oncoTreeLevel 4

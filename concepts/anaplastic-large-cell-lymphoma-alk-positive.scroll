@@ -1,0 +1,12 @@
+import ../code/conceptPage.scroll
+
+id anaplastic-large-cell-lymphoma-alk-positive
+name Anaplastic Large-Cell Lymphoma ALK Positive
+type cancerType
+subTypes 0
+tissue Lymphoid
+mainType Mature T and NK Neoplasms
+
+oncoTreeId ALCLALKP
+parentOncoTreeId ALCL
+oncoTreeLevel 6
