@@ -6,7 +6,7 @@ const { ScrollSetCLI } = require("./ScrollSet.js")
 
 class CancerDBCli extends ScrollSetCLI {
   conceptsFolder = path.join(__dirname, "concepts")
-  grammarFile = "code/measures.scroll"
+  grammarFile = "code/measures.parsers"
   scrollSetName = "cancerdb"
   compiledConcepts = "./cancerdb.json"
 }
