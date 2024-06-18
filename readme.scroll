@@ -21,7 +21,7 @@ Advanced method: Create a new file in `concepts` with a unique URL friendly file
 Advanced method: Edit the corresponding `concepts/*.scroll` file and send a pull request.
 
 ## To add a new measure
-Advanced method: Add your measure to `code/measures.scroll` and add at least 1 example to a concept in `concepts` and send a pull request.
+Advanced method: Add your measure to `code/measures.parsers` and add at least 1 example to a concept in `concepts` and send a pull request.
 
 ## To run the site locally
 code

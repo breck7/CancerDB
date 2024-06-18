@@ -15,7 +15,7 @@ printAuthor
 
 endSnippet
 
-import ../magicSquares.scroll
+import ../magicSquares.parsers
 
 <center>
 Cancer deaths per year in the USA by cancer type and age
