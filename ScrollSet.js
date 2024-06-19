@@ -4,6 +4,8 @@ const lodash = require("lodash")
 const { TreeNode } = require("scrollsdk/products/TreeNode.js")
 const { Utils } = require("scrollsdk/products/Utils.js")
 const { Disk } = require("scrollsdk/products/Disk.node.js")
+const { ScrollFile, ScrollFileSystem } = require("scroll-cli")
+const scrollFs = new ScrollFileSystem()
 
 class ScrollSetCLI {
   constructor() {
@@ -48,12 +50,15 @@ class ScrollSetCLI {
   setAndSave(file, measurementPath, measurementValue) {
     const tree = this.getTree(file)
     tree.set(measurementPath, measurementValue)
-    return this.save(file, tree)
+    return this.formatAndSave(file, tree)
   }
 
-  save(file, tree) {
-    const dest = this.makeFilePath(file.id)
-    return Disk.write(dest, tree.toString())
+  formatAndSave(file, tree) {
+    return new ScrollFile(
+      tree.toString(),
+      this.makeFilePath(file.id),
+      scrollFs
+    ).formatAndSave()
   }
 
   makeNameSearchIndex(files = this.concepts.slice(0).reverse()) {
@@ -84,7 +89,7 @@ class ScrollSetCLI {
     console.log(lodash.pickBy(this.searchForConcept(query), lodash.identity))
   }
 
-  grammarFile = ""
+  parsersFile = ""
   scrollSetName = "myScrollSet"
 
   get concepts() {
@@ -93,7 +98,8 @@ class ScrollSetCLI {
 
   async updateIdsCommand() {
     this.concepts.forEach((file) => {
-      const tree = this.getTree(file)
+      const dest = path.join(this.conceptsFolder, file.filename)
+      const tree = new TreeNode(Disk.read(dest))
       const newTree = tree.toString().replace(
         `import ../code/conceptPage.scroll
 id `,
@@ -101,19 +107,19 @@ id `,
 id ${file.filename.replace(".scroll", "")}
 name `
       )
-      this.save(file, newTree.toString())
+      Disk.write(dest, newTree.toString())
     })
   }
 
-  buildGrammarFileCommand() {
-    const code = `node_modules/scroll-cli/grammar/cellTypes.grammar
-node_modules/scroll-cli/grammar/root.grammar
-node_modules/scroll-cli/grammar/comments.grammar
-node_modules/scroll-cli/grammar/blankLine.grammar
-node_modules/scroll-cli/grammar/measures.grammar
-node_modules/scroll-cli/grammar/import.grammar
-node_modules/scroll-cli/grammar/errors.grammar
-${this.grammarFile}`
+  buildParsersFile() {
+    const code = `node_modules/scroll-cli/parsers/cellTypes.parsers
+node_modules/scroll-cli/parsers/root.parsers
+node_modules/scroll-cli/parsers/comments.parsers
+node_modules/scroll-cli/parsers/blankLine.parsers
+node_modules/scroll-cli/parsers/measures.parsers
+node_modules/scroll-cli/parsers/import.parsers
+node_modules/scroll-cli/parsers/errors.parsers
+${this.parsersFile}`
       .trim()
       .split("\n")
       .map((filepath) => Disk.read(path.join(__dirname, filepath)))
@@ -124,7 +130,7 @@ ${this.grammarFile}`
       )
       .replace(/^importOnly\n/gm, "")
       .replace(/^import .+/gm, "")
-    Disk.write(path.join(__dirname, `${this.scrollSetName}.grammar`), code)
+    Disk.write(path.join(__dirname, `${this.scrollSetName}.parsers`), code)
   }
 }
 

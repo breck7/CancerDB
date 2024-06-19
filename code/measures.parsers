@@ -460,7 +460,7 @@ rumbleParser
 // socialMedia
 abstractSocialMediaParser
  extends abstractUrlMeasureParser
- // todo remove the need for the below from grammar
+ // todo remove the need for the below from parsers
  string sortKey abstractSocialMediaParser
  contentKey url
  float sortIndex 10
