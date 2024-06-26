@@ -17,10 +17,10 @@ stumpNoSnippet
    href BASE_URL/pages/about.html
   span ·
   a Blog
-   href BASE_URL/posts/index.html
+   href BASE_URL/blog/index.html
   span ·
   a Humor
-   href BASE_URL/posts/humor.html
+   href BASE_URL/blog/humor.html
   span ·
   a Acknowledgements
    href BASE_URL/pages/acknowledgements.html

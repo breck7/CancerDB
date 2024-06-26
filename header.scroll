@@ -16,8 +16,8 @@ stumpNoSnippet
   a CancerDB
    href BASE_URL/index.html
    class trueBaseThemeLogo
-  a Posts
-   href BASE_URL/posts/index.html
+  a Blog
+   href BASE_URL/blog/index.html
   a Concepts
    href BASE_URL/list.html
   a Explore

@@ -1,7 +1,7 @@
 author https://github.com/breck7 Breck Yunits
 date 03-15-2023
 groups All
-openGraphImage https://cancerdb.com/posts/cancerHeatmap.jpg
+openGraphImage https://cancerdb.com/blog/cancerHeatmap.jpg
 replaceNodejs
  module.exports = require(`./heatmap.json`)
 title Cancer in the United States
