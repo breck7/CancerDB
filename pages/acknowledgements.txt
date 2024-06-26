@@ -1,0 +1,30 @@
+Acknowledgements
+================
+
+Contributors
+============
+Thank you to everyone who has contributed directly to the CancerDB repo:
+ https://github.com/breck7/CancerDB
+ https://api.github.com/repos/breck7/CancerDB/contributors
+- hassamalhajaji
+ https://github.com/hassamalhajaji
+- rkimera94
+ https://github.com/rkimera94
+- mahadwaseem123
+ https://github.com/mahadwaseem123
+- w9
+ https://github.com/w9
+- LambertLeong
+ https://github.com/LambertLeong
+
+Sources
+=======
+The vast majority of the information on this site comes from other websites and projects and should always include a link back to the `source`.
+
+Doctors, Nurses, Researchers
+============================
+Thank you to everyone working on the preventions and treatments that are the subject of this site.
+
+Patients and their familes
+==========================
+And of course, thank you to everyone suffering from cancer who are striving to understand it and beat it. This site is for you.

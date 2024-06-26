@@ -1,7 +1,7 @@
-title CancerDB.CSV
-writeConcepts cancerdb.csv cancerdb.json cancerdb.tsv
+buildConcepts cancerdb.csv cancerdb.json cancerdb.tsv
  sortBy -measurements
-writeMeasures measures.tsv measures.csv measures.json
+buildMeasures measures.tsv measures.csv measures.json
+title CancerDB.CSV
 
 import rootHeader.scroll
 printTitle

@@ -7,13 +7,13 @@ import rootHeader.scroll
 <center>
 
 Newest posts
- link posts/index.html
+ link blog/index.html
  class headerLink
 
 Cancer in the United States: Heatmap visualizations
  style text-align:center;
- link posts/cancer-heatmaps.html
-<a href="posts/cancer-heatmaps.html"><img src="posts/cancerHeatmap.jpg" width="300px"/></a>
+ link blog/cancer-heatmaps.html
+<a href="blog/cancer-heatmaps.html"><img src="blog/cancerHeatmap.jpg" width="300px"/></a>
 
 </center>
 
