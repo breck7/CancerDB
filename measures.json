@@ -8,7 +8,32 @@
     "Type": "string",
     "SortIndex": 1,
     "IsComputed": false,
-    "IsRequired": true
+    "IsRequired": true,
+    "IsConceptDelimiter": true
+  },
+  {
+    "Name": "id",
+    "Values": 5812,
+    "Coverage": "400%",
+    "Question": "What is the ID of this concept?",
+    "Example": "3d-crt",
+    "Type": "string",
+    "SortIndex": 1,
+    "IsComputed": false,
+    "IsRequired": true,
+    "IsConceptDelimiter": true
+  },
+  {
+    "Name": "id",
+    "Values": 5812,
+    "Coverage": "400%",
+    "Question": "What is the ID of this concept?",
+    "Example": "3d-crt",
+    "Type": "string",
+    "SortIndex": 1,
+    "IsComputed": false,
+    "IsRequired": true,
+    "IsConceptDelimiter": true
   },
   {
     "Name": "name",
