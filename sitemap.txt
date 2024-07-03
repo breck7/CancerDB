@@ -1,7 +1,7 @@
-https://cancerdb.com/style.html
 https://cancerdb.com/search.html
 https://cancerdb.com/readme.html
 https://cancerdb.com/list.html
 https://cancerdb.com/index.html
+https://cancerdb.com/gazette.html
 https://cancerdb.com/download.html
 https://cancerdb.com/csv.html

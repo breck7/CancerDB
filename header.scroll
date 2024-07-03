@@ -8,7 +8,7 @@ stumpNoSnippet
  link
   rel stylesheet
   type text/css
-  href BASE_URL/style.css
+  href BASE_URL/gazette.css
  link
   rel stylesheet
   type text/css
