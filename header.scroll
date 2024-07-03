@@ -4,9 +4,11 @@ import settings.scroll
 
 metaTags
 
-gazetteCss
-
 stumpNoSnippet
+ link
+  rel stylesheet
+  type text/css
+  href BASE_URL/style.css
  link
   rel stylesheet
   type text/css
