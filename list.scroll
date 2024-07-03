@@ -3,6 +3,6 @@ title CancerDB - All Concepts
 import rootHeader.scroll
 printTitle
 
-snippets concepts/All
+printSnippets concepts/All
 
 import footer.scroll

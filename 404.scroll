@@ -1,5 +1,6 @@
-permalink 404.html
 title Page not found
+
+buildHtml
 
 import rootHeader.scroll
 printTitle
