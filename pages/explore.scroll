@@ -3,7 +3,7 @@ replaceNodejs
  const lodash = require("lodash")
  const data = lodash.chain(require("../cancerdb.json"))
   .orderBy(['measurements'], ['desc'])
-  .map(row => lodash.pick(row, "id measurements type tissue  mainType wikipedia website country conceptDescription appeared twitter".split(" ")))
+  .map(row => lodash.pick(row, "id measurements type tissue  mainType wikipedia website country description appeared twitter".split(" ")))
   .value()
  const header = lodash.keys(data[0]).join('\t');
  const rows = lodash.map(data, row => lodash.values(row).join('\t'));

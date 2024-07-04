@@ -4,4 +4,4 @@ id mychart
 name MyChart
 type software
 company Epic
-conceptDescription Patient portal software from Epic.
+description Patient portal software from Epic.

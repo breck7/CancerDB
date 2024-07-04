@@ -148,7 +148,7 @@ courseraParser
  string sourceDomain coursera.com
 
 // description
-conceptDescriptionParser
+descriptionParser
  extends abstractStringMeasureParser
  description What is a short description of this thing?
 

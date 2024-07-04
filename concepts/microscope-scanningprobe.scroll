@@ -3,6 +3,6 @@ import ../code/conceptPage.scroll
 id microscope-scanningprobe
 name Scanning Probe Microscope
 type microscope
-conceptDescription Uses a physical probe to create high-resolution images of surface features at the atomic or molecular scale.
+description Uses a physical probe to create high-resolution images of surface features at the atomic or molecular scale.
 
 wikipedia https://en.wikipedia.org/wiki/Scanning_probe_microscopy

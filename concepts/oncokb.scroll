@@ -5,7 +5,7 @@ name OncoKB
 type onlineDatabase ontology
 website https://www.oncokb.org/
 parentOrganization memorial-sloan-kettering-cancer-center
-conceptDescription SK's Precision Oncology Knowledge Base
+description SK's Precision Oncology Knowledge Base
 
 domainName oncokb.org
  registered 2014

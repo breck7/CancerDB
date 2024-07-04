@@ -6,6 +6,6 @@ type registry
 website https://www.health.wa.gov.au/Articles/U_Z/Western-Australian-Cancer-Registry
 appeared 1982
 standsFor Western Australian Cancer Registry
-conceptDescription The Western Australian Cancer Registry collects information about cancer diagnoses across the State. This information is required to be collected by law from pathology reports and radiation oncology treatment records.A separate register records asbestos exposure and other history for all cases of malignant mesothelioma.
+description The Western Australian Cancer Registry collects information about cancer diagnoses across the State. This information is required to be collected by law from pathology reports and radiation oncology treatment records.A separate register records asbestos exposure and other history for all cases of malignant mesothelioma.
 
 country Australia

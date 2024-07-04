@@ -3,6 +3,6 @@ import ../code/conceptPage.scroll
 id oophorectomy
 name Oophorectomy
 type surgery
-conceptDescription A surgery that involves the removal of one or both ovaries. It may be used to treat ovarian cancer.
+description A surgery that involves the removal of one or both ovaries. It may be used to treat ovarian cancer.
 
 wikipedia https://en.wikipedia.org/wiki/Oophorectomy

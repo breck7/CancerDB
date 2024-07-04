@@ -3,6 +3,6 @@ import ../code/conceptPage.scroll
 id aromatherapy
 name Aromatherapy
 type breathTreatment
-conceptDescription Aromatherapy is based on the usage of aromatic materials including essential oils and other aroma compounds, with claims for improving psychological and physical well-being.
+description Aromatherapy is based on the usage of aromatic materials including essential oils and other aroma compounds, with claims for improving psychological and physical well-being.
 
 wikipedia https://en.wikipedia.org/wiki/Aromatherapy

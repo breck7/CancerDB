@@ -6,6 +6,6 @@ type onlineDatabase website
 website https://www.ncbi.nlm.nih.gov/pmc/
 appeared 2000
 parentOrganization nlm
-conceptDescription PubMed Central (PMC) is a free digital repository that archives open access full-text scholarly articles that have been published in biomedical and life sciences journals.
+description PubMed Central (PMC) is a free digital repository that archives open access full-text scholarly articles that have been published in biomedical and life sciences journals.
 
 wikipedia https://en.wikipedia.org/wiki/PubMed_Central

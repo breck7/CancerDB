@@ -4,7 +4,7 @@ id the-hyve
 name The Hyve
 type company
 website https://thehyve.nl
-conceptDescription We enable open science by developing and implementing open source solutions and FAIRifying data in life sciences.
+description We enable open science by developing and implementing open source solutions and FAIRifying data in life sciences.
 github https://github.com/thehyve
 
 country Netherlands

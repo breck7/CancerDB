@@ -6,6 +6,6 @@ type registry
 website https://www.cdc.gov/NFR
 appeared 2018
 standsFor National Firefighter Registry
-conceptDescription The National Firefighter Registry (NFR) is the largest effort ever undertaken to understand and reduce risk of cancer among U.S. firefighters.
+description The National Firefighter Registry (NFR) is the largest effort ever undertaken to understand and reduce risk of cancer among U.S. firefighters.
 
 country United States

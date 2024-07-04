@@ -4,5 +4,5 @@ id ct-colonoscopy
 name CT Colonoscopy
 type imagingProcedure diagnosticTest
 cancerTypes colon
-conceptDescription Unlike traditional colonoscopy, which requires a scope to be inserted into your rectum and advanced through your colon, virtual colonoscopy uses a CT scan to produce hundreds of cross-sectional images of your abdominal organs. The images are combined and digitally manipulated to provide a detailed view of the inside of the colon and rectum. Virtual colonoscopy requires the same bowel preparation as traditional colonoscopy.
+description Unlike traditional colonoscopy, which requires a scope to be inserted into your rectum and advanced through your colon, virtual colonoscopy uses a CT scan to produce hundreds of cross-sectional images of your abdominal organs. The images are combined and digitally manipulated to provide a detailed view of the inside of the colon and rectum. Virtual colonoscopy requires the same bowel preparation as traditional colonoscopy.
 aka Virtual Colonoscopy

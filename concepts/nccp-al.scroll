@@ -5,7 +5,7 @@ name NCCP-AL
 type registry
 appeared 2011
 standsFor The National Cancer Control Program Albania
-conceptDescription The cancer registry is based on hospital records of the “Mother Teresa” University Hospital Center in Tirana (TUHC). The computerization of data has started in 2008. The data collected from 36 districts are then sent to TUHC. The cancer and risk factors surveillance is based on the institutional collaboration between TUHC and the Institute of Public Health. The incidence estimates for this country have a high degree of uncertainty because they are not based on population based cancer registry.
+description The cancer registry is based on hospital records of the “Mother Teresa” University Hospital Center in Tirana (TUHC). The computerization of data has started in 2008. The data collected from 36 districts are then sent to TUHC. The cancer and risk factors surveillance is based on the institutional collaboration between TUHC and the Institute of Public Health. The incidence estimates for this country have a high degree of uncertainty because they are not based on population based cancer registry.
 reference https://www.iccp-portal.org/system/files/plans/ALB_2020.pdf
 reference https://extranet.who.int/ncdccs/Data/ALB_B5_NCCP%20Albania%20English.pdf
 
