@@ -3,6 +3,6 @@ import ../code/conceptPage.scroll
 id colectomy
 name Colectomy
 type surgery
-conceptDescription A surgery that involves the removal of all or part of the colon.
+description A surgery that involves the removal of all or part of the colon.
 
 wikipedia https://en.wikipedia.org/wiki/Colectomy

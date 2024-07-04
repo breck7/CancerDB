@@ -3,4 +3,4 @@ import ../code/conceptPage.scroll
 id microscope-inverted
 name Inverted Microscope
 type microscope
-conceptDescription Allows observation of cells and tissues in culture, with the light source and objective lenses below the stage.
+description Allows observation of cells and tissues in culture, with the light source and objective lenses below the stage.

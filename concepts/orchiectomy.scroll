@@ -3,6 +3,6 @@ import ../code/conceptPage.scroll
 id orchiectomy
 name Orchiectomy
 type surgery
-conceptDescription A surgery that involves the removal of one or both testicles. It may be used to treat testicular cancer.
+description A surgery that involves the removal of one or both testicles. It may be used to treat testicular cancer.
 
 wikipedia https://en.wikipedia.org/wiki/Orchiectomy

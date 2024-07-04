@@ -3,6 +3,6 @@ import ../code/conceptPage.scroll
 id nephrectomy
 name Nephrectomy
 type surgery
-conceptDescription A surgery that involves the removal of one or both kidneys.
+description A surgery that involves the removal of one or both kidneys.
 
 wikipedia https://en.wikipedia.org/wiki/Nephrectomy

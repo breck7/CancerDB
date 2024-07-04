@@ -3,6 +3,6 @@ import ../code/conceptPage.scroll
 id microscope-darkfield
 name Darkfield Microscope
 type microscope
-conceptDescription illuminates specimens from the side to produce a bright image of objects against a dark background.
+description illuminates specimens from the side to produce a bright image of objects against a dark background.
 
 wikipedia https://en.wikipedia.org/wiki/Darkfield_microscopy

@@ -4,5 +4,5 @@ id your-disease-risk
 name Your Disease Risk
 type website
 website https://siteman.wustl.edu/prevention/ydr/
-conceptDescription Cancer risk calculator
+description Cancer risk calculator
 relatedConcepts mycanceriq

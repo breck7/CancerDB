@@ -4,5 +4,5 @@ id vats
 name VATS
 type surgery
 standsFor Video-assisted thoracoscopic surgery
-conceptDescription Video-assisted thoracoscopic surgery (VATS) is a minimally invasive surgical technique used to diagnose and treat problems in the chest.
+description Video-assisted thoracoscopic surgery (VATS) is a minimally invasive surgical technique used to diagnose and treat problems in the chest.
 reference https://www.mayoclinic.org/tests-procedures/video-assisted-thoracic-surgery/about/pac-20384922
