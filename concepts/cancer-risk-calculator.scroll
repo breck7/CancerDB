@@ -5,4 +5,4 @@ name Cancer Risk Calculator
 type website
 website https://cancerqld.org.au/cancer-prevention/crc/calculator
 description Cancer risk calculator
-relatedConcepts mycanceriq
+related mycanceriq

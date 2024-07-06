@@ -108,6 +108,17 @@
     "IsComputed": false
   },
   {
+    "Name": "related",
+    "Values": 32,
+    "Coverage": "2%",
+    "Question": "What concepts are related?",
+    "Example": "mycanceriq",
+    "Type": "string",
+    "SortIndex": 1.9,
+    "IsComputed": false,
+    "Crux": "related"
+  },
+  {
     "Name": "amazon",
     "Values": 68,
     "Coverage": "4%",
@@ -365,14 +376,15 @@
     "IsComputed": false
   },
   {
-    "Name": "relatedConcepts",
+    "Name": "related",
     "Values": 32,
     "Coverage": "2%",
     "Question": "What concepts are related?",
     "Example": "mycanceriq",
     "Type": "string",
     "SortIndex": 1.9,
-    "IsComputed": false
+    "IsComputed": false,
+    "Crux": "related"
   },
   {
     "Name": "parentOrganization",
