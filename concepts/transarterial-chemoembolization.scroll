@@ -5,4 +5,4 @@ name Transarterial Chemoembolization
 type surgery
 description Transarterial embolization along with chemotherapy injected via catheter.
 aka TACE
-relatedConcepts transarterial-embolization
+related transarterial-embolization

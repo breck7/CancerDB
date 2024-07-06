@@ -6,6 +6,6 @@ type onlineDatabase
 website https://www.nlm.nih.gov/medline/medline_overview.html
 appeared 1971
 parentOrganization nlm
-relatedConcepts pubmed
+related pubmed
 
 wikipedia https://en.wikipedia.org/wiki/MEDLINE

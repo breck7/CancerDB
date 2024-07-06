@@ -1,5 +1,5 @@
-description CancerDB: a knowledge graph on Cancer that compiles to a public domain CSV file. #AccelerateTheCures
 buildRss feed.xml
+description CancerDB: a knowledge graph on Cancer that compiles to a public domain CSV file. #AccelerateTheCures
 replace BASE_URL ..
 
 import ../settings.scroll

@@ -442,7 +442,8 @@ referenceParser
 // relationships
 abstractRelationshipParser
  extends abstractConceptIdsMeasureParser
-relatedConceptsParser
+relatedParser
+ crux related
  extends abstractRelationshipParser
  description What concepts are related?
 parentOrganizationParser

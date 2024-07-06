@@ -1,6 +1,5 @@
-title Page not found
-
 buildHtml
+title Page not found
 
 import rootHeader.scroll
 printTitle
