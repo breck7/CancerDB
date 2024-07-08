@@ -1,7 +1,5 @@
 Name	Values	Coverage	Question	Example	Type	Source	SortIndex	IsComputed	IsRequired	IsConceptDelimiter	Crux
 id	1453	100%	What is the ID of this concept?	3d-crt	string		1	false	true	true	
-id	1453	100%	What is the ID of this concept?	3d-crt	string		1	false	true	true	
-id	1453	100%	What is the ID of this concept?	3d-crt	string		1	false	true	true	
 name	1453	100%	What is the name of this concept?	3D-CRT	string		1.1	false			
 measurements	1453	100%	How many measurements do we have about this thing?	5	number		1.11	true			
 type	1453	100%	What kind of concept is this?	radiationTherapy	string		1.123	false			
@@ -35,10 +33,8 @@ eventsPage	1	0%	What is the URL to this entity's events page?	https://www.iarc.w
 wolframAlpha	1	0%	What is the URL to this concept on WolframAlpha?	https://www.wolframalpha.com/input?i=skin+cancer	string	wolframalpha.com	1.9	false			
 youTubeVideo	3	0%	What is the URL to a YouTube video about this thing?	https://www.youtube.com/watch?v=_Mls5TViEhg	string	youtube.com	1.9	false			
 domainName_registered	74	5%	What year was this domain first purchased?	1996	number		1.9	false			
-related	8	0%	What concepts are related?	mycanceriq	string		1.9	false			related
 parentOrganization	43	2%	What is the parent concept(s)?	american-cancer-society	string		1.9	false			
 company	3	0%	What is the name of the company that makes this product?	Dilon Technologies	string		1.9	false			
-description	175	12%	What is a short description of this thing?	A procedure that uses a computer to create a 3-dimensional picture of the tumor. This allows doctors to give the highest possible dose of radiation to the tumor, while sparing the normal tissue as much as possible. Also called 3-dimensional conformal radiation therapy and 3-dimensional radiation therapy.	string		1.9	false			
 nextDate	1	0%	When will this event take place next?	March 24, 2023	string		1.9	false			
 originCommunity	2	0%	What community did this originate in?	Medical University of Lublin, Poland	string		1.9	false			
 standsFor	97	6%	If the title is an acronym what does/did it stand for?	Addis Ababa City Cancer Registry	string		1.9	false			
