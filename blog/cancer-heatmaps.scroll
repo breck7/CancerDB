@@ -1,4 +1,5 @@
-author https://github.com/breck7 Breck Yunits
+authors Breck Yunits
+ https://github.com/breck7
 date 03-15-2023
 groups All
 openGraphImage https://cancerdb.com/blog/cancerHeatmap.jpg
@@ -9,7 +10,7 @@ title Cancer in the United States
 import header.scroll
 
 printTitle
-printAuthor
+printAuthors
 
 # Heatmap visualizations
 
