@@ -25,7 +25,7 @@
   "homepage": "https://cancerdb.com",
   "devDependencies": {
     "lodash": "^4.17.21",
-    "scroll-cli": "^105.1.0",
+    "scroll-cli": "^109.1.0",
     "scrollsdk": "^80.0.0"
   }
 }
