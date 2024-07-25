@@ -1,4 +1,4 @@
-groups index
+tags index
 replaceNodejs
  const lodash = require("lodash")
  const data = lodash.chain(require("../cancerdb.json"))
