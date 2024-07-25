@@ -7,7 +7,6 @@ subTypes,854,58%,How many subtypes of this cancer type in OncoTree?,0,number,onc
 tissue,855,58%,What is the tissue type for this cancer type?,Other,string,oncotree.mskcc.org,1.3,false,,,
 website,293,20%,What is the URL to this entity's website?,https://www.aaci-cancer.org/,string,,1.4,false,,,
 description,175,12%,What is a short description of this thing?,"A procedure that uses a computer to create a 3-dimensional picture of the tumor. This allows doctors to give the highest possible dose of radiation to the tumor, while sparing the normal tissue as much as possible. Also called 3-dimensional conformal radiation therapy and 3-dimensional radiation therapy.",string,,1.9,false,,,
-related,8,0%,What concepts are related?,mycanceriq,string,,1.9,false,,,related
 amazon,17,1%,What is the Amazon product URL for this item?,https://www.amazon.com/New-War-Cancer-Revolutionizing-Prevention/dp/1642832197,string,,1.9,false,,,
 cancerDotGov,13,0%,What is the URL for this cancer type on cancer.gov?,https://www.cancer.gov/types/bladder,string,cancer.gov,1.9,false,,,
 cancerDotOrg,20,1%,What is the URL for this cancer type on cancer.org?,https://www.cancer.org/cancer/adrenal-cancer.html,string,cancer.org,1.9,false,,,
@@ -33,6 +32,7 @@ eventsPage,1,0%,What is the URL to this entity's events page?,https://www.iarc.w
 wolframAlpha,1,0%,What is the URL to this concept on WolframAlpha?,https://www.wolframalpha.com/input?i=skin+cancer,string,wolframalpha.com,1.9,false,,,
 youTubeVideo,3,0%,What is the URL to a YouTube video about this thing?,https://www.youtube.com/watch?v=_Mls5TViEhg,string,youtube.com,1.9,false,,,
 domainName_registered,74,5%,What year was this domain first purchased?,1996,number,,1.9,false,,,
+related,8,0%,What concepts are related?,mycanceriq,string,,1.9,false,,,related
 parentOrganization,43,2%,What is the parent concept(s)?,american-cancer-society,string,,1.9,false,,,
 company,3,0%,What is the name of the company that makes this product?,Dilon Technologies,string,,1.9,false,,,
 nextDate,1,0%,When will this event take place next?,"March 24, 2023",string,,1.9,false,,,

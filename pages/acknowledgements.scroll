@@ -1,4 +1,4 @@
-groups index
+tags index
 replaceNodejs
  const fs = require("fs")
  const path = require("path")

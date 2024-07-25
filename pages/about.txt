@@ -7,14 +7,14 @@ CancerDB is a public domain blog assembling key datasets on cancer for dependabl
 
 CancerDB is for two groups of people:
 1. *Cancer researchers.* CancerDB is organized big data to help you create great new preventions and treatments and improve existing ones. Benefit from the experiences of millions that have gone before you. If you are researching something and can't find what you need here, open an issue and explain what you need.
- https://github.com/breck7/CancerDB/issues/new
+ https://github.com/breck7/CancerDB/issues/new open an issue
 2. *Those battling cancer right now.* CancerDB provides a data-driven view of the cancer universe, to demystify the world of cancer for you, and provide sound strategic and tactical advice to help you get and stay healthy. If you have a question not answered by the data here, open an issue and explain what you need.
- https://github.com/breck7/CancerDB/issues/new
+ https://github.com/breck7/CancerDB/issues/new open an issue
 
  Open source
 ============
 All data and source code used to generate this site are on GitHub and public domain.
- https://github.com/breck7/CancerDB
+ https://github.com/breck7/CancerDB GitHub
 
  History
 ========
