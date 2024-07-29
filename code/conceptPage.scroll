@@ -1,5 +1,6 @@
 importOnly
 tags All
+testStrict
 replace BASE_URL ..
 replaceJs TEMPLATE
  {
