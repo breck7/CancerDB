@@ -4,7 +4,7 @@ testStrict
 replace BASE_URL ..
 replaceJs TEMPLATE
  {
-  const code = originalScrollCode.replace("import ../code/conceptPage.scroll\n", "");
+  const code = codeAtStart.replace("import ../code/conceptPage.scroll\n", "");
   const template = `title ${tree.get("name")}\nprintTitle\ncode\n ${code.replace(/\n/g, "\n ")}`;
   template;
  }
