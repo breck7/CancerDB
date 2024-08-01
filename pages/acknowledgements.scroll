@@ -25,8 +25,8 @@ Thank you to everyone who has contributed directly to the CancerDB repo:
 CONTRIBUTORS_TABLE
 
 ## Sources
-The vast majority of the information on this site comes from other websites and projects and should always include a link back to the `source`.
- wrap ` span title="And if there's a link missing somewhere, please report a bug!"
+The vast majority of the information on this site comes from other websites and projects and should always include a link back to the #source#.
+ inlineMarkup # u title="And if there's a link missing somewhere, please report a bug!"
 
 ## Doctors, Nurses, Researchers
 Thank you to everyone working on the preventions and treatments that are the subject of this site.
