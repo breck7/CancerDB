@@ -12,4 +12,6 @@ helpfulNotFound
 If you think there's a bug on our site, please email help@cancerdb.com or open an issue to let us know. Thank you!
  https://github.com/breck7/CancerDB/issues open an issue
 
-pageFooter
+center
+viewSourceButton
+scrollVersionLink
