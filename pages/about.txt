@@ -1,3 +1,5 @@
+printViewSourceBadge
+
 About
 =====
 
@@ -32,3 +34,5 @@ CancerDB team. (2024) - "CancerDB: a public domain blog assembling key datasets 
  year = {2022},
  note = {https://cancerdb.com}
 }
+
+printViewSource

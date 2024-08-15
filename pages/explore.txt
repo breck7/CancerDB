@@ -1,3 +1,5 @@
+printViewSourceBadge
+
 Explore CancerDB
 ================
 
@@ -1455,3 +1457,5 @@ nutrition,3,lifestyle
 sleep,3,lifestyle
 stress-management,3,lifestyle
 toxin-avoidance,3,lifestyle
+
+printViewSource

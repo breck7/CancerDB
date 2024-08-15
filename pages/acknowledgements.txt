@@ -1,3 +1,5 @@
+printViewSourceBadge
+
 Acknowledgements
 ================
 
@@ -28,3 +30,5 @@ Thank you to everyone working on the preventions and treatments that are the sub
 Patients and their familes
 ==========================
 And of course, thank you to everyone suffering from cancer who are striving to understand it and beat it. This site is for you.
+
+printViewSource
