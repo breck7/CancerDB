@@ -1,11 +1,10 @@
-<p class="scrollParagraph">downloadUrl <a href="https://github.com/breck7/CancerDB/archive/refs/heads/wws.zip" target="_blank">https://github.com/breck7/CancerDB/archive/refs/heads/wws.zip</a></p>
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <rss version="2.0">
 <channel>
  <title>Feed</title>
  <link>https://cancerdb.com/</link>
  <description>CancerDB: Datasets about Cancer</description>
- <lastBuildDate>Sun, 25 Aug 2024 13:24:26 +0000</lastBuildDate>
+ <lastBuildDate>Sun, 25 Aug 2024 19:38:10 +0000</lastBuildDate>
  <language>en-us</language>
 
 </channel>

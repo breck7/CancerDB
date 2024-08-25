@@ -1,7 +1,3 @@
-downloadUrl https://github.com/breck7/CancerDB/archive/refs/heads/wws.zip
-
-printViewSourceBadge
-
 Acknowledgements
 ================
 
@@ -33,4 +29,4 @@ Patients and their familes
 ==========================
 And of course, thank you to everyone suffering from cancer who are striving to understand it and beat it. This site is for you.
 
-printViewSource
+View source

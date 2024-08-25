@@ -1,7 +1,3 @@
-downloadUrl https://github.com/breck7/CancerDB/archive/refs/heads/wws.zip
-
-printViewSourceBadge
-
 Explore CancerDB
 ================
 
@@ -1460,4 +1456,4 @@ sleep,3,lifestyle
 stress-management,3,lifestyle
 toxin-avoidance,3,lifestyle
 
-printViewSource
+View source
