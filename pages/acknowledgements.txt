@@ -1,3 +1,5 @@
+downloadUrl https://github.com/breck7/CancerDB/archive/refs/heads/wws.zip
+
 printViewSourceBadge
 
 Acknowledgements
