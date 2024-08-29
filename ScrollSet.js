@@ -1,7 +1,7 @@
 const path = require("path")
 const lodash = require("lodash")
 
-const { TreeNode } = require("scrollsdk/products/TreeNode.js")
+const { Particle } = require("scrollsdk/products/Particle.js")
 const { Utils } = require("scrollsdk/products/Utils.js")
 const { Disk } = require("scrollsdk/products/Disk.node.js")
 const { ScrollFile, ScrollFileSystem } = require("scroll-cli")
@@ -13,24 +13,20 @@ class ScrollSetCLI {
   }
 
   importCommand(filename) {
-    // todo: add support for updating as well
-    const processEntry = (node, index) => {
-      const id = node.get("id")
-      node.delete("id")
-      const target = this.makeFilePath(id)
-      Disk.write(target, new TreeNode(Disk.read(target)).patch(node).toString())
-      console.log(`Processed ${filename}`)
-    }
-
     const extension = filename.split(".").pop()
 
     if (extension === "csv")
-      TreeNode.fromCsv(Disk.read(filename)).forEach(processEntry)
+      Particle.fromCsv(Disk.read(filename)).forEach((patch) =>
+        this.patchAndSave(patch)
+      )
 
     if (extension === "tsv")
-      TreeNode.fromTsv(Disk.read(filename)).forEach(processEntry)
+      Particle.fromTsv(Disk.read(filename)).forEach((patch) =>
+        this.patchAndSave(patch)
+      )
 
-    if (extension === "tree") TreeNode.fromDisk(filename).forEach(processEntry)
+    if (extension === "particles")
+      Particle.fromDisk(filename).forEach((patch) => this.patchAndSave(patch))
   }
 
   get searchIndex() {
@@ -43,22 +39,40 @@ class ScrollSetCLI {
     return path.join(this.conceptsFolder, id + ".scroll")
   }
 
-  getTree(file) {
-    return new TreeNode(Disk.read(this.makeFilePath(file.id)))
+  getParticle(file) {
+    return new Particle(Disk.read(this.makeFilePath(file.id)))
+  }
+
+  patchAndSave(patch) {
+    const id = patch.get("id")
+    patch.delete("id")
+    const target = this.makeFilePath(id)
+    if (!Disk.exists(target)) {
+      console.log(`Now match for ${id}`)
+      return
+    }
+    console.log(`Patching ${id}`)
+    return new ScrollFile(
+      new Particle(Disk.read(target)).patch(patch).toString(),
+      target,
+      scrollFs
+    ).formatAndSave()
   }
 
   setAndSave(file, measurementPath, measurementValue) {
-    const tree = this.getTree(file)
-    tree.set(measurementPath, measurementValue)
-    return this.formatAndSave(file, tree)
+    const particle = this.getParticle(file)
+    particle.set(measurementPath, measurementValue)
+    return this.formatAndSave(file, particle)
   }
 
-  formatAndSave(file, tree) {
-    return new ScrollFile(
-      tree.toString(),
+  formatAndSave(file, particle = this.getParticle(file)) {
+    const formatted = new ScrollFile(
+      particle.toString(),
       this.makeFilePath(file.id),
       scrollFs
-    ).formatAndSave()
+    ).formatted
+    // force a write
+    return scrollFs.write(this.makeFilePath(file.id), formatted)
   }
 
   makeNameSearchIndex(files = this.concepts.slice(0).reverse()) {
@@ -76,7 +90,7 @@ class ScrollSetCLI {
   }
 
   searchForConcept(query) {
-    if (query === undefined || query === "") return
+    if (query === undefined || query === "" || !query.toLowerCase) return
     const { searchIndex } = this
     return (
       searchIndex.get(query) ||
@@ -99,21 +113,22 @@ class ScrollSetCLI {
   async updateIdsCommand() {
     this.concepts.forEach((file) => {
       const dest = path.join(this.conceptsFolder, file.filename)
-      const tree = new TreeNode(Disk.read(dest))
-      const newTree = tree.toString().replace(
+      const particle = new Particle(Disk.read(dest))
+      const newParticle = particle.toString().replace(
         `import ../code/conceptPage.scroll
 id `,
         `import ../code/conceptPage.scroll
 id ${file.filename.replace(".scroll", "")}
 name `
       )
-      Disk.write(dest, newTree.toString())
+      Disk.write(dest, newParticle.toString())
     })
   }
 
-  buildParsersFile() {
+  buildParsersFileCommand() {
     const code = `node_modules/scroll-cli/parsers/cellTypes.parsers
 node_modules/scroll-cli/parsers/root.parsers
+node_modules/scroll-cli/parsers/build.parsers
 node_modules/scroll-cli/parsers/comments.parsers
 node_modules/scroll-cli/parsers/blankLine.parsers
 node_modules/scroll-cli/parsers/measures.parsers
