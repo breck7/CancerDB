@@ -51,7 +51,7 @@ quote
 ****
 
 ## Notes
-^1 Technically the thing we are building is a Graph, using Tree Notation. A few small transformations can turn it into CSV, so I use that term to emphasize that the technology is quite simple and well known. It's the scale of the dataset needed that is the challenge.
+^1 Technically the thing we are building is a Graph, using Particles. A few small transformations can turn it into CSV, so I use that term to emphasize that the technology is quite simple and well known. It's the scale of the dataset needed that is the challenge.
 
 endColumns
 
