@@ -1,4 +1,3 @@
-tags index
 replaceNodejs
  const lodash = require("lodash")
  const data = lodash.chain(require("../cancerdb.json"))
@@ -9,6 +8,7 @@ replaceNodejs
  const rows = lodash.map(data, row => lodash.values(row).join(','));
  const csv = [header, ...rows].join('\n  ');
  module.exports = {ALL : 'table\n printTable\n delimiter ,\n data\n  ' + csv}
+tags index
 title Explore CancerDB
 
 import header.scroll
