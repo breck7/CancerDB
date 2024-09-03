@@ -6,3 +6,4 @@ https://cancerdb.com/index.html
 https://cancerdb.com/gazette.html
 https://cancerdb.com/download.html
 https://cancerdb.com/csv.html
+https://cancerdb.com/add.html

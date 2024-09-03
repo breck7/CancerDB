@@ -26,7 +26,7 @@ github	1	0%	What is the URL to the organization's GitHub page?	https://github.co
 githubRepo	2	0%	What is the URL to this project on GitHub?	https://github.com/cBioPortal/cbioportal	string	github.com	1.9	false			
 pdf	2	0%	What is the URL of the PDF file?	https://journals.viamedica.pl/ginekologia_polska/article/download/GP.a2021.0003/55497	string		1.9	false			
 subreddit	13	0%	What is the URL of a subreddit(s) for this thing?	https://www.reddit.com/r/BladderCancer	string	reddit.com	1.9	false			
-subreddit_members	0	0%	How many members in this subreddit?				1.9	false			
+subreddit_members	0	0%	How many members in this subreddit?		multilineStringMap		1.9	false			
 reference	100	6%	What is a URL to a reference about this thing?	https://www.cancer.gov/publications/dictionaries/cancer-terms/def/3d-crt	string		1.9	false			
 eventsPage	1	0%	What is the URL to this entity's events page?	https://www.iarc.who.int/events/	string		1.9	false			
 wolframAlpha	1	0%	What is the URL to this concept on WolframAlpha?	https://www.wolframalpha.com/input?i=skin+cancer	string	wolframalpha.com	1.9	false			
@@ -52,7 +52,7 @@ publicationFrequency	1	0%	How often does the publication come out?	quarterly	str
 isOpenSource	2	0%	Is this an open source project?	false	boolean		1.9	false			
 isPublicDomain	1	0%	Is this a public domain project?	false	boolean		1.9	false			
 annualDeathsReport	6	0%	Data from an annual report on cancer deaths for a particular country.	US https://www.cdc.gov/cancer/dcpc/research/update-on-cancer-deaths/index.htm	string		1.9	false			
-members	0	0%	How many members does this organization have?				1.9	false			
+members	0	0%	How many members does this organization have?		multilineStringMap		1.9	false			
 nciCode	526	36%	What is the NCI code for this concept?	C7977	string	ncithesaurus.nci.nih.gov	2	false			
 oncoTreeId	854	58%	What is the OncoTree ID for this cancer type?	ACN	string	oncotree.mskcc.org	2	false			
 parentOncoTreeId	854	58%	What is the OncoTree ID for the parent of this cancer type?	CUP	string	oncotree.mskcc.org	2	false			

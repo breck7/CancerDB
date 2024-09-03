@@ -8,7 +8,7 @@ nameParser
 // common measures
 // Hashmap parsers
 abstractHashMapMeasureParser
- string typeForCsvDocs multilineStringMap
+ string typeForWebForms multilineStringMap
  extends abstractMeasureParser
  javascript
   get measureValue() {
@@ -37,7 +37,7 @@ abstractAnnualPopulationCountMapParser
 abstractConceptIdsMeasureParser
  description Link one concept to other concepts.
  catchAllCellType stringCell
- string typeForCsvDocs conceptId[]
+ string typeForWebForms conceptId[]
  extends abstractStringMeasureParser
  javascript
   get conceptIds() {
@@ -47,7 +47,7 @@ abstractConceptIdsMeasureParser
 
 // Common blob parsers
 abstractStringBlobMeasureParser
- string typeForCsvDocs multilineString
+ string typeForWebForms multilineString
  extends abstractMeasureParser
  baseParser blobParser
  javascript

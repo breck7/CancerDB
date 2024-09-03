@@ -285,6 +285,7 @@
     "Values": 0,
     "Coverage": "0%",
     "Question": "How many members in this subreddit?",
+    "Type": "multilineStringMap",
     "SortIndex": 1.9,
     "IsComputed": false
   },
@@ -547,6 +548,7 @@
     "Values": 0,
     "Coverage": "0%",
     "Question": "How many members does this organization have?",
+    "Type": "multilineStringMap",
     "SortIndex": 1.9,
     "IsComputed": false
   },
