@@ -1,0 +1,41 @@
+authors Breck Yunits
+ https://github.com/breck7
+date 9-2-2024
+tags All
+openGraphImage https://cancerdb.com/blog/cancerHeatmap.jpg
+title On Our Slow Pace
+
+import header.scroll
+
+printTitle
+printAuthors
+printDate
+
+mediumColumns 1
+
+## A brief update on the slower pace than I'd like
+
+? Who has funded CancerDB so far?
+To date, I have provided all the funding, along with a generous $100 donation from a kind supporter in memory of his sister. I am eternally grateful for that funding, and every penny was used wisely.
+
+? Why isn't CancerDB moving faster?
+The simple reason is we don't have the cash flow to move faster.
+
+We are moving as fast as we can, and have made _breakthrough_ progress on the technology. We simply don't have any revenue model yet to move at the speed I would like.
+
+***
+
+? How much would it take?
+I think we could probably "cure" cancer [the dry lab part] in under 3 years for $1M.
+
+? How will we get that?
+It would be great if a donor stepped up, but if not I'm confident I will eventually earn enough from my other ventures so I can fund it myself.
+
+? Will we give up?
+Never, ever.
+
+For G,M,G,B, and F, and all those suffering today, we will never give up.
+
+endColumns
+
+import ../footer.scroll
