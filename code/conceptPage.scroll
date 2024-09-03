@@ -1,6 +1,4 @@
 importOnly
-tags All
-testStrict
 replace BASE_URL ..
 replaceJs TEMPLATE
  {
@@ -8,6 +6,8 @@ replaceJs TEMPLATE
   const template = `title ${particle.get("name")}\nprintTitle\ncode\n ${code.replace(/\n/g, "\n ")}`;
   template;
  }
+tags All
+testStrict
 viewSourceBaseUrl https://github.com/breck7/CancerDB/blob/main/concepts/
 
 import measures.parsers
