@@ -1,4 +1,4 @@
-import ../code/conceptPage.scroll
+../code/conceptPage.scroll
 
 id microscope-ultraviolet
 name Ultraviolet Microscope

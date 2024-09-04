@@ -1,4 +1,4 @@
-import ../code/conceptPage.scroll
+../code/conceptPage.scroll
 
 id aml-with-biallelic-mutations-of-cebpa
 name AML with Biallelic Mutations of CEBPA

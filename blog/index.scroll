@@ -1,6 +1,6 @@
 title The CancerDB Blog
 
-import header.scroll
+header.scroll
 printTitle
 printSnippets All
-import ../footer.scroll
+../footer.scroll

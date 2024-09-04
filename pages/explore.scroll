@@ -11,7 +11,7 @@ replaceNodejs
 tags index
 title Explore CancerDB
 
-import header.scroll
+header.scroll
 
 <div class="singleColumn">
 printTitle
@@ -22,5 +22,5 @@ ALL
 
 </div>
 
-import ../footer.scroll
+../footer.scroll
 tableSearch

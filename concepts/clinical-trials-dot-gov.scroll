@@ -1,4 +1,4 @@
-import ../code/conceptPage.scroll
+../code/conceptPage.scroll
 
 id clinical-trials-dot-gov
 name ClinicalTrials.gov

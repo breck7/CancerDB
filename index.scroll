@@ -1,6 +1,6 @@
 title CancerDB
 
-import rootHeader.scroll
+rootHeader.scroll
 
 # CancerDB: Datasets about Cancer
 
@@ -17,4 +17,4 @@ Cancer in the United States: Heatmap visualizations
 
 </center>
 
-import footer.scroll
+footer.scroll

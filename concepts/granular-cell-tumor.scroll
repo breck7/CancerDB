@@ -1,4 +1,4 @@
-import ../code/conceptPage.scroll
+../code/conceptPage.scroll
 
 id granular-cell-tumor
 name Granular Cell Tumor

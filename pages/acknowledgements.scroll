@@ -12,7 +12,7 @@ replaceNodejs
 tags index
 title Acknowledgements
 
-import header.scroll
+header.scroll
 printTitle
 // IMPORTS
 
@@ -36,4 +36,4 @@ And of course, thank you to everyone suffering from cancer who are striving to u
 
 endColumns
 
-import ../footer.scroll
+../footer.scroll

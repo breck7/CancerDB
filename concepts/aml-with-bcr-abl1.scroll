@@ -1,4 +1,4 @@
-import ../code/conceptPage.scroll
+../code/conceptPage.scroll
 
 id aml-with-bcr-abl1
 name AML with BCR-ABL1

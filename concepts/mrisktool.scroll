@@ -1,4 +1,4 @@
-import ../code/conceptPage.scroll
+../code/conceptPage.scroll
 
 id mrisktool
 name The Melanoma Risk Assessment Tool
