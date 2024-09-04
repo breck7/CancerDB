@@ -5,7 +5,7 @@ openGraphImage https://cancerdb.com/blog/cancerHeatmap.jpg
 tags All
 title Cancer in the United States
 
-import header.scroll
+header.scroll
 
 printTitle
 printAuthors
@@ -150,4 +150,4 @@ table
   70-80 0.62 0.38 0.86 0.16 0.14 0.86 0.52 0.30 1.02 0.18 0.86 0.24 0.88 0.47 0.27 0.43 0.26 0.09 0.58 0.36 0.79 0.12 0.27 0.16
   80+ 0.88 0.60 1.04 0.40 0.79 1.15 0.90 0.60 1.14 0.40 1.12 0.53 1.25 0.85 0.55 0.68 0.44 0.17 0.73 0.55 1.06 0.44 0.61 0.00
 
-import ../footer.scroll
+../footer.scroll

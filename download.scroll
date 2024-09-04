@@ -1,6 +1,6 @@
 title Download CancerDB
 
-import rootHeader.scroll
+rootHeader.scroll
 printTitle
 
 thinColumns 1
@@ -14,4 +14,4 @@ Download CancerDB
 
 endColumns
 
-import footer.scroll
+footer.scroll

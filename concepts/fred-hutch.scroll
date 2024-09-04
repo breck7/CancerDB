@@ -1,4 +1,4 @@
-import ../code/conceptPage.scroll
+../code/conceptPage.scroll
 
 id fred-hutch
 name Fred Hutchinson Cancer Center

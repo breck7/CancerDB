@@ -1,7 +1,7 @@
 buildHtml
 title Page not found
 
-import rootHeader.scroll
+rootHeader.scroll
 printTitle
 thinColumns 1
 

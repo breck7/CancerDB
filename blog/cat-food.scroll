@@ -3,10 +3,10 @@ openGraphImage https://cancerdb.com/blog/catfood.png
 tags Commercials
 title Cat food
 
-import header.scroll
+header.scroll
 printTitle
 
 youTube https://www.youtube.com/embed/e0fPvvDBY6s
 
 keyboardNav
-import ../footer.scroll
+../footer.scroll

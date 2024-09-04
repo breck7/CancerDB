@@ -1,4 +1,4 @@
-import ../code/conceptPage.scroll
+../code/conceptPage.scroll
 
 id aml-with-mutated-npm1
 name AML with Mutated NPM1

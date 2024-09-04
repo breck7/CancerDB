@@ -1,8 +1,8 @@
 title CancerDB - All Concepts
 
-import rootHeader.scroll
+rootHeader.scroll
 printTitle
 
 printSnippets concepts/All
 
-import footer.scroll
+footer.scroll

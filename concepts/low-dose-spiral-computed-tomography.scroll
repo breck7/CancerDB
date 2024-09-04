@@ -1,4 +1,4 @@
-import ../code/conceptPage.scroll
+../code/conceptPage.scroll
 
 id low-dose-spiral-computed-tomography
 name LDCT

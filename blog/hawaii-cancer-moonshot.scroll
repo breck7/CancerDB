@@ -5,7 +5,7 @@ openGraphImage https://cancerdb.com/blog/japan.jpeg
 tags All cancer
 title The Hawai'i #CancerMoonshot
 
-import header.scroll
+header.scroll
 printTitle
 printAuthors
 
@@ -56,4 +56,4 @@ quote
 endColumns
 
 keyboardNav
-import ../footer.scroll
+../footer.scroll

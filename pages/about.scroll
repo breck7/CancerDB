@@ -2,7 +2,7 @@ replaceJs BUILT_ON_DAY dayjs().format("MM/DD/YYYY")
 tags index
 title About
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -40,4 +40,4 @@ code
 
 endColumns
 
-import ../footer.scroll
+../footer.scroll

@@ -1,4 +1,4 @@
-import ../code/conceptPage.scroll
+../code/conceptPage.scroll
 
 id activated-b-cell-type
 name Activated B-cell Type

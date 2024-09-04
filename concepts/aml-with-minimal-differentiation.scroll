@@ -1,4 +1,4 @@
-import ../code/conceptPage.scroll
+../code/conceptPage.scroll
 
 id aml-with-minimal-differentiation
 name AML with Minimal Differentiation

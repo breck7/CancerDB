@@ -3,10 +3,10 @@ openGraphImage https://cancerdb.com/blog/sayCheese.jpg
 tags Commercials
 title Say cheese
 
-import header.scroll
+header.scroll
 printTitle
 
 youTube https://www.youtube.com/embed/cGXILXiMpJI
 
 keyboardNav
-import ../footer.scroll
+../footer.scroll

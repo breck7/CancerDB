@@ -1,6 +1,6 @@
 title CancerDB Commercials
 
-import header.scroll
+header.scroll
 printTitle
 printSnippets commercials
-import ../footer.scroll
+../footer.scroll
