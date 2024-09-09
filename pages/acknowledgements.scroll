@@ -1,14 +1,3 @@
-replaceNodejs
- const fs = require("fs")
- const path = require("path")
- module.exports = {
-   CONTRIBUTORS_TABLE: JSON.parse(
-     fs.readFileSync(path.join(__dirname, "contributors.json"), "utf8")
-   )
-     .filter(item => item.login !== "breck7")
-     .map(item => `- ${item.login}\n ${item.html_url}`)
-     .join("\n")
- }
 tags index
 title Acknowledgements
 
@@ -22,7 +11,12 @@ thinColumns 4
 Thank you to everyone who has contributed directly to the CancerDB repo:
  https://github.com/breck7/CancerDB CancerDB repo
  https://api.github.com/repos/breck7/CancerDB/contributors everyone
-CONTRIBUTORS_TABLE
+<ul>
+table contributors.json
+ where login != breck7
+  loop
+   javascript `<li><a href="${item.html_url}">${item.login}</a></li>`
+</ul>
 
 ## Sources
 The vast majority of the information on this site comes from other websites and projects and should always include a link back to the #source#.

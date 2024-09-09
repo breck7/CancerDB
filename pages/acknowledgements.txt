@@ -6,16 +6,6 @@ Contributors
 Thank you to everyone who has contributed directly to the CancerDB repo:
  https://github.com/breck7/CancerDB CancerDB repo
  https://api.github.com/repos/breck7/CancerDB/contributors everyone
-- hassamalhajaji
- https://github.com/hassamalhajaji hassamalhajaji
-- rkimera94
- https://github.com/rkimera94 rkimera94
-- mahadwaseem123
- https://github.com/mahadwaseem123 mahadwaseem123
-- w9
- https://github.com/w9 w9
-- LambertLeong
- https://github.com/LambertLeong LambertLeong
 
 Sources
 =======
