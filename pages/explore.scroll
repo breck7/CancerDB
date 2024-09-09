@@ -1,13 +1,3 @@
-replaceNodejs
- const lodash = require("lodash")
- const data = lodash.chain(require("../cancerdb.json"))
-  .orderBy(['measurements'], ['desc'])
-  .map(row => lodash.pick(row, "id measurements type tissue  mainType wikipedia website country description appeared twitter".split(" ")))
-  .value()
- const header = lodash.keys(data[0]).join(',');
- const rows = lodash.map(data, row => lodash.values(row).join(','));
- const csv = [header, ...rows].join('\n  ');
- module.exports = {ALL : 'table\n printTable\n delimiter ,\n data\n  ' + csv}
 tags index
 title Explore CancerDB
 
@@ -18,7 +8,10 @@ printTitle
 
 endSnippet
 
-ALL
+table ../cancerdb.json
+ orderBy -measurements
+  select id measurements type wikipedia website
+   printTable
 
 </div>
 
