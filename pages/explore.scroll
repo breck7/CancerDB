@@ -3,7 +3,6 @@ title Explore CancerDB
 
 header.scroll
 
-<div class="singleColumn">
 printTitle
 
 endSnippet
@@ -12,8 +11,6 @@ table ../cancerdb.json
  orderBy -measurements
   select id measurements type wikipedia website
    printTable
-
-</div>
 
 ../footer.scroll
 tableSearch
