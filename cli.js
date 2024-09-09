@@ -2,7 +2,7 @@
 
 const path = require("path")
 const { Utils } = require("scrollsdk/products/Utils.js")
-const { ScrollSetCLI } = require("./ScrollSet.js")
+const { ScrollSetCLI } = require("scroll-cli/ScrollSetCLI.js")
 
 class CancerDBCli extends ScrollSetCLI {
   conceptsFolder = path.join(__dirname, "concepts")
