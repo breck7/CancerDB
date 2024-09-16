@@ -17,31 +17,31 @@ abstractHashMapMeasureParser
 
 abstractCountMeasureParser
  description A positive count of something. People, for example. Min is 0.
- cells measureNameCell countCell
+ atoms measureNameAtom countAtom
  extends abstractIntegerMeasureParser
 
 abstractYearMeasureParser
- cells measureNameCell yearCell
+ atoms measureNameAtom yearAtom
  extends abstractIntegerMeasureParser
 
 abstractAnnualPopulationCountParser
- cells yearCell countCell
- uniqueFirstWord
+ atoms yearAtom countAtom
+ uniqueFirstAtom
 abstractAnnualPopulationCountMapParser
  catchAllParser abstractAnnualPopulationCountParser
  description A map of counts, one per year.
  extends abstractHashMapMeasureParser
 
-// todo: idCell
+// todo: idAtom
 // Links between concepts
 abstractConceptIdsMeasureParser
  description Link one concept to other concepts.
- catchAllCellType stringCell
+ catchAllAtomType stringAtom
  string typeForWebForms textarea
  extends abstractStringMeasureParser
  javascript
   get conceptIds() {
-    return this.getWordsFrom(1)
+    return this.getAtomsFrom(1)
   }
   // todo: re-add the method to update these foreign keys if an ID changes.
 
@@ -61,7 +61,7 @@ amazonParser
 
 // annualDeathsReport
 annualDeathsReportParser
- cells measureNameCell stringCell urlCell
+ atoms measureNameAtom stringAtom urlAtom
  description Data from an annual report on cancer deaths for a particular country.
  extends abstractAnnualPopulationCountMapParser
 
@@ -78,13 +78,13 @@ cancerDotOrgParser
  description What is the URL for this cancer type on cancer.org?
 
 // cancerTypes
- // cancerTypeCell
+ // cancerTypeAtom
   enum breast prostate cervical colon lung skin bladder kidney lymphoma multiplemyeloma ovarian thyroid endometrial neuroendocrine liver leukemia oral
  paint constant.language
 cancerTypesParser
  description Which cancer type(s) does this entity specialize in?
- cells measureNameCell stringCell
- catchAllCellType stringCell
+ atoms measureNameAtom stringAtom
+ catchAllAtomType stringAtom
  extends abstractEnumMeasureParser
 
 // charityRegistries
@@ -110,7 +110,7 @@ greatNonProfitsParser
 
 // chemistry
 abstractChemicalGuidParser
- extends abstractWordMeasureParser
+ extends abstractAtomMeasureParser
  float sortIndex 6
 
 // company
@@ -151,12 +151,12 @@ drugBankParser
  description What is the DrugBank ID of this drug?
 
 // drugs
- // Todo: support custom cell types in Scroll?
- routesOfAdministrationCell
+ // Todo: support custom atom types in Scroll?
+ routesOfAdministrationAtom
   enum oral topical intravenous subcutaneousInjection intramuscularInjection intravesical
 routesOfAdministrationParser
- cells measureNameCell stringCell
- catchAllCellType stringCell
+ atoms measureNameAtom stringAtom
+ catchAllAtomType stringAtom
  extends abstractEnumMeasureParser
  description What is the route of administration for this drug?
 
@@ -219,7 +219,7 @@ instagramParser
 // irs
 einParser
  description What is their U.S. Employer Identification Number?
- extends abstractWordMeasureParser
+ extends abstractAtomMeasureParser
  float sortIndex 60
 
 // kegg
@@ -238,21 +238,21 @@ linkedinParser
 
 // location
 //
- countryCodeCell
-  extends stringCell
- countryNameCell
-  extends stringCell
- cityStateCell
-  extends stringCell
+ countryCodeAtom
+  extends stringAtom
+ countryNameAtom
+  extends stringAtom
+ cityStateAtom
+  extends stringAtom
 countryParser
  description In what country is this?
- catchAllCellType stringCell
+ catchAllAtomType stringAtom
  // todo make country a wwc kind
  extends abstractStringMeasureParser
  float sortIndex 8
 cityParser
  description What city and state is this in?
- catchAllCellType stringCell
+ catchAllAtomType stringAtom
  extends abstractStringMeasureParser
  float sortIndex 8
 
@@ -327,7 +327,7 @@ usNewsRankParser
 
 nciCodeParser
  description What is the NCI code for this concept?
- extends abstractWordMeasureParser
+ extends abstractAtomMeasureParser
  string sourceDomain ncithesaurus.nci.nih.gov
  float sortIndex 2
 
@@ -338,12 +338,12 @@ mainTypeParser
  string sourceDomain oncotree.mskcc.org
 oncoTreeIdParser
  description What is the OncoTree ID for this cancer type?
- extends abstractWordMeasureParser
+ extends abstractAtomMeasureParser
  string sourceDomain oncotree.mskcc.org
  float sortIndex 2
 parentOncoTreeIdParser
  description What is the OncoTree ID for the parent of this cancer type?
- extends abstractWordMeasureParser
+ extends abstractAtomMeasureParser
  string sourceDomain oncotree.mskcc.org
  float sortIndex 2
 oncoTreeLevelParser
@@ -376,12 +376,12 @@ membersParser
  description How many members does this organization have?
 
 // periodicals
- publicationFrequencyCell
+ publicationFrequencyAtom
   enum daily weekly biweekly monthly quarterly semiannually annually
 publicationFrequencyParser
  extends abstractEnumMeasureParser
  description How often does the publication come out?
- cells measureNameCell stringCell
+ atoms measureNameAtom stringAtom
 
 // phoneNumber
 phoneNumberParser
@@ -481,13 +481,13 @@ twitterParser
   extends abstractFollowersParser
 
 // type
- // typeCell
+ // typeAtom
   enum cancerType book company publicCompany drug chemotherapyDrug journal nationalCancerInstitute intergovernmentalCancerOrganization nationalGovernmentAgency stateGovernmentOrganization researchCenter paper anthracycline alkylatingAgent taxane researchHospital nciCancerCenter registry website cancerNonProfit nonProfit breathTreatment exercise mentalTreatment vitamin touchTreatment surgery organTransplant documentary lifestyle diet hospital childrensHospital professionalOrganization app caregiverService software lotion device clothing prosthetic subreddit toxinAvoidance hospiceCareService immunotherapy ctScan ultrasound imagingProcedure herbal diagnosticTest onlineForum majorResearchEffort onlineDatabase organizationDivision internationalOrganization consortium governmentFundedNonProfit awarenessEvent recurringEvent routeOfAdministration magazine procedure onlineCourse ontology microscope ablationProcedure tyrosineKinaseInhibitor radiationTherapy chemotherapyProcedure treatmentCenter
  paint constant.language
 typeParser
  description What kind of concept is this?
- cells measureNameCell stringCell
- catchAllCellType stringCell
+ atoms measureNameAtom stringAtom
+ catchAllAtomType stringAtom
  extends abstractEnumMeasureParser
  required
  float sortIndex 1.123
@@ -495,7 +495,7 @@ typeParser
 // umls
 umlsParser
  description What is the Unified Medical Language System ID for this?
- extends abstractWordMeasureParser
+ extends abstractAtomMeasureParser
  string sourceDomain www.nlm.nih.gov
  float sortIndex 2
 
@@ -506,7 +506,7 @@ uscsIdParser
  string sourceDomain cdc.gov
  float sortIndex 4
 uscsTableParser
- cells measureNameCell yearCell
+ atoms measureNameAtom yearAtom
  description What is the data for this year from https://www.cdc.gov/cancer/uscs/dataviz/download_data.htm?
  extends abstractDelimitedValuesBlobMeasureParser
  string sourceDomain cdc.gov
@@ -542,7 +542,7 @@ eventsPageParser
  description What is the URL to this entity's events page?
 domainNameParser
  description What is the domain name owned by this entity, if any?
- extends abstractWordMeasureParser
+ extends abstractAtomMeasureParser
  inScope registeredParser
  contentKey domain
  float sortIndex 110
