@@ -4,19 +4,14 @@ rootHeader.scroll
 
 # CancerDB: Datasets about Cancer
 
-Newest posts
- center
- link blog/index.html
- class headerLink
-
-Cancer in the United States: Heatmap visualizations
- style text-align:center;
- link blog/cancer-heatmaps.html
- center
-
 center
+Newest posts
+ blog/index.html
+ class headerLink
+Cancer in the United States: Heatmap visualizations
+ blog/cancer-heatmaps.html
 blog/cancerHeatmap.jpg
  width 300px
- link blog/cancer-heatmaps.html
+ blog/cancer-heatmaps.html
 
 footer.scroll
