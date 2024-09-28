@@ -2,7 +2,8 @@ importOnly
 replace BASE_URL ..
 replaceJs TEMPLATE
  {
-  const code = codeAtStart.replace("import ../code/conceptPage.scroll\n", "");
+  const code = codeAtStart.replace("../code/conceptPage.scroll\n", "");
+  const particle = new Particle(codeAtStart)
   const template = `title ${particle.get("name")}\nprintTitle\ncode\n ${code.replace(/\n/g, "\n ")}`;
   template;
  }
