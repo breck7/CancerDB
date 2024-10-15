@@ -26,7 +26,7 @@ abstractYearMeasureParser
 
 abstractAnnualPopulationCountParser
  atoms yearAtom countAtom
- uniqueFirstAtom
+ uniqueCue
 abstractAnnualPopulationCountMapParser
  catchAllParser abstractAnnualPopulationCountParser
  description A map of counts, one per year.
@@ -435,7 +435,7 @@ referenceParser
 abstractRelationshipParser
  extends abstractConceptIdsMeasureParser
 relatedParser
- crux related
+ cue related
  extends abstractRelationshipParser
  description What concepts are related?
 parentOrganizationParser
