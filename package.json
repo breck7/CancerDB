@@ -24,7 +24,6 @@
   "author": "Breck Yunits et al.",
   "homepage": "https://cancerdb.com",
   "devDependencies": {
-    "lodash": "^4.17.21",
     "scroll-cli": "^142.0.1",
     "scrollsdk": "^87.0.0"
   }
