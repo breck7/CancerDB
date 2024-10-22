@@ -2,7 +2,7 @@ importOnly
 buildHtml
 replaceJs DAYS_SINCE_INITIAL_COMMIT Math.floor(dayjs().diff(dayjs("2022-9-05"), "day", true))
 
-editLink
+center
 stumpNoSnippet
  div
   class trueBaseThemeFooter
@@ -28,6 +28,5 @@ stumpNoSnippet
   a Day DAYS_SINCE_INITIAL_COMMIT
    href https://github.com/breck7/CancerDB/commit/9cf883c9573176207842fbbb3180a08656401b1a
    title Initial commit on September 5th, 2022
-  span ·
-  a Part of the World Wide Scroll
-   href https://wws.scroll.pub/
+
+scrollVersionLink
