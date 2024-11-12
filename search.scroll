@@ -5,7 +5,8 @@ rootHeader.scroll
 printTitle
 
 wideColumns 2
-printSearchTable All concepts/All
+posts All concepts/All
+ printTable
 tableSearch
 
 footer.scroll

@@ -14,8 +14,8 @@ Thank you to everyone who has contributed directly to the CancerDB repo:
 <ul>
 table contributors.json
  where login != breck7
-  loop
-   javascript `<li><a href="${item.html_url}">${item.login}</a></li>`
+  compose row <li><a href="{html_url}">{login}</a></li>
+   printColumn row
 </ul>
 
 ## Sources
