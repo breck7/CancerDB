@@ -1,6 +1,6 @@
 importOnly
 buildHtml
-replaceJs DAYS_SINCE_INITIAL_COMMIT Math.floor(dayjs().diff(dayjs("2022-9-05"), "day", true))
+replaceJs DAYS_SINCE_INITIAL_COMMIT Math.floor(require("dayjs")().diff(dayjs("2022-9-05"), "day", true))
 
 center
 stumpNoSnippet

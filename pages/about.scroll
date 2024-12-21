@@ -1,4 +1,3 @@
-replaceJs BUILT_ON_DAY dayjs().format("MM/DD/YYYY")
 tags index
 title About
 
