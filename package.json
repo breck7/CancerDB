@@ -26,5 +26,8 @@
   "devDependencies": {
     "scroll-cli": "^148.0.0",
     "scrollsdk": "^87.0.0"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.13"
   }
 }
