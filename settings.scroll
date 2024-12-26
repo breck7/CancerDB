@@ -2,3 +2,4 @@ importOnly
 baseUrl https://cancerdb.com/
 description CancerDB: Datasets about Cancer
 email help@cancerdb.com
+editBaseUrl /edit.html?fileName=
