@@ -2,16 +2,9 @@ authors Breck Yunits
  https://github.com/breck7
 date 9-2-2024
 openGraphImage https://cancerdb.com/blog/cancerHeatmap.jpg
-tags All
 title On Our Slow Pace
 
-header.scroll
-
-
-printTitle
-printAuthors
-printDate
-
+postHeader.scroll
 mediumColumns 1
 
 ## A brief update on the slower pace than I'd like
