@@ -7,6 +7,8 @@ title The Hawai'i #CancerMoonshot
 
 header.scroll
 printTitle
+
+center
 printAuthors
 
 thinColumns 2
