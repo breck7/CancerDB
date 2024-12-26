@@ -2,13 +2,9 @@ authors Breck Yunits
  https://github.com/breck7
 date 03-15-2023
 openGraphImage https://cancerdb.com/blog/cancerHeatmap.jpg
-tags All
 title Cancer in the United States
 
-header.scroll
-
-printTitle
-printAuthors
+postHeader.scroll
 
 # Heatmap visualizations
 
