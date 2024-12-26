@@ -1,2 +1,6 @@
 importOnly
 tags All
+header.scroll
+printTitle
+printAuthors
+printDate
