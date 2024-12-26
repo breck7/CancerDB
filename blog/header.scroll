@@ -2,7 +2,7 @@ importOnly
 baseUrl https://cancerdb.com/blog/
 replace BASE_URL ..
 rssFeedUrl feed.xml
-editBaseUrl /edit.html?fileName=blog/
 
 ../header.scroll
+editBaseUrl /edit.html?fileName=blog/
 keyboardNav
