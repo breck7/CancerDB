@@ -6,7 +6,7 @@ title The Hawai'i #CancerMoonshot
 
 postHeader.scroll
 
-thinColumns 2
+container 600px
 
 # Theory
 The pen is mightier than the sword. _The CSV is mightier than the pen_.
@@ -27,7 +27,7 @@ We've done this once before. We are the team behind PLDB.io. We are applying wha
 ***
 
 # Attention Programmers: how you can help
-image japan.jpeg
+japan.jpeg
  caption In case we fail, we need people to organize other efforts around the world. Fork our repo: https://github.com/breck7/CancerDB
 
 # Unwilling to postpone
@@ -49,8 +49,6 @@ quote
 
 ## Notes
 ^1 Technically the thing we are building is a Graph, using Particles. A few small transformations can turn it into CSV, so I use that term to emphasize that the technology is quite simple and well known. It's the scale of the dataset needed that is the challenge.
-
-endColumns
 
 keyboardNav
 ../footer.scroll
