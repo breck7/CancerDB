@@ -104,7 +104,7 @@ css .visNotes { font-size: 80%; opacity: .8;}
 
 # Tables used to generate the visualizations above
 
-table
+datatable
  printTable
  data
   Age Lung Colon Pancreatic Breast Prostate Liver Leukemia Non-HodgkinLymphoma Brain Bladder Esophagus/Stomach Kidney Ovarian MultipleMyeloma Uterine Stomach Oral Skin Cervical LaryngealCancer Mesothelioma Thyroid HodgkinLymphoma Testicular
@@ -118,7 +118,7 @@ table
   70-80 47990 12756 14504 9853 9456 7956 6813 6054 4450 4754 4797 4086 3873 4072 3545 2923 2774 2075 659 1079 871 627 216 18
   80+ 36781 16328 12454 11478 15656 5732 8903 8070 2727 8200 3382 4135 3313 4534 2559 3101 2316 2497 438 733 939 677 262 0
 
-table
+datatable
  printTable
  data
   Age Lung Colon Pancreatic Breast Prostate Liver Leukemia Non-HodgkinLymphoma Brain Bladder Esophagus/Stomach Kidney Ovarian MultipleMyeloma Uterine Stomach Oral Skin Cervical LaryngealCancer Mesothelioma Thyroid HodgkinLymphoma Testicular
@@ -132,7 +132,7 @@ table
   70-80 77806 33622 16853 60100 68586 9267 13130 20049 4380 25793 5561 16850 4425 8588 13180 6734 10628 21980 1139 3000 1097 5142 805 110
   80+ 41985 27290 11974 28535 19867 4965 9889 13468 2386 20320 3027 7793 2660 5337 4668 4539 5309 14289 599 1329 888 1542 430 47
 
-table
+datatable
  printTable
  data
   Age Lung Colon Pancreatic Breast Prostate Liver Leukemia Non-HodgkinLymphoma Brain Bladder Esophagus/Stomach Kidney Ovarian MultipleMyeloma Uterine Stomach Oral Skin Cervical LaryngealCancer Mesothelioma Thyroid HodgkinLymphoma Testicular

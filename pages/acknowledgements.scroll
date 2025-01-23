@@ -12,7 +12,7 @@ Thank you to everyone who has contributed directly to the CancerDB repo:
  https://github.com/breck7/CancerDB CancerDB repo
  https://api.github.com/repos/breck7/CancerDB/contributors everyone
 <ul>
-table contributors.json
+contributors.json
  where login != breck7
   compose row <li><a href="{html_url}">{login}</a></li>
    printColumn row
