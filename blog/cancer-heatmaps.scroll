@@ -15,7 +15,7 @@ Cancer deaths per year in the USA by cancer type and age
  center
 
 heatrixAdvanced
- table
+ datatable
   w40;h40;f10
    Age Lung;../concepts/lung.html Colon;../concepts/colon.html Pancreatic;../concepts/pancreas.html Breast;../concepts/breast.html Prostate;../concepts/prostate.html Liver;../concepts/liver.html Leukemia;../concepts/leukemia.html Non-HodgkinLymphoma;../concepts/non-hodgkin-lymphoma.html Brain;../concepts/brain.html Bladder;../concepts/bladder-cancer.html Esophagus/Stomach;../concepts/esophagus-stomach.html Kidney;../concepts/kidney.html Ovarian;../concepts/ovarian-cancer.html MultipleMyeloma;../concepts/multiple-myeloma.html Uterine;../concepts/uterus.html Stomach;../concepts/stomach-cancer.html Oral;../concepts/oral-cancer.html Skin;../concepts/skin.html Cervical;../concepts/cervix.html LaryngealCancer;../concepts/laryngeal-cancer.html Mesothelioma;../concepts/mesothelioma.html Thyroid;../concepts/thyroid.html HodgkinLymphoma;../concepts/hodgkin-lymphoma.html Testicular;../concepts/testis.html
    '0-10 0 0 0 0 0 0 170 0 223 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
@@ -44,7 +44,7 @@ Cancer cases per year in the USA by cancer type and age
  center
 
 heatrixAdvanced
- table
+ datatable
   w40;h40;f10
    Age Lung;../concepts/lung.html Colon;../concepts/colon.html Pancreatic;../concepts/pancreas.html Breast;../concepts/breast.html Prostate;../concepts/prostate.html Liver;../concepts/liver.html Leukemia;../concepts/leukemia.html Non-HodgkinLymphoma;../concepts/non-hodgkin-lymphoma.html Brain;../concepts/brain.html Bladder;../concepts/bladder-cancer.html Esophagus/Stomach;../concepts/esophagus-stomach.html Kidney;../concepts/kidney.html Ovarian;../concepts/ovarian-cancer.html MultipleMyeloma;../concepts/multiple-myeloma.html Uterine;../concepts/uterus.html Stomach;../concepts/stomach-cancer.html Oral;../concepts/oral-cancer.html Skin;../concepts/skin.html Cervical;../concepts/cervix.html LaryngealCancer;../concepts/laryngeal-cancer.html Mesothelioma;../concepts/mesothelioma.html Thyroid;../concepts/thyroid.html HodgkinLymphoma;../concepts/hodgkin-lymphoma.html Testicular;../concepts/testis.html
    '0-10 0 0 0 0 0 162 2196 293 1350 0 0 447 32 0 0 0 0 0 0 0 0 0 70 22
@@ -73,7 +73,7 @@ Crude mortality rate in the USA by cancer type and age.
  center
 
 heatrixAdvanced
- table
+ datatable
   w40;h40;f10
    Age Lung;../concepts/lung.html Colon;../concepts/colon.html Pancreatic;../concepts/pancreas.html Breast;../concepts/breast.html Prostate;../concepts/prostate.html Liver;../concepts/liver.html Leukemia;../concepts/leukemia.html Non-HodgkinLymphoma;../concepts/non-hodgkin-lymphoma.html Brain;../concepts/brain.html Bladder;../concepts/bladder-cancer.html Esophagus/Stomach;../concepts/esophagus-stomach.html Kidney;../concepts/kidney.html Ovarian;../concepts/ovarian-cancer.html MultipleMyeloma;../concepts/multiple-myeloma.html Uterine;../concepts/uterus.html Stomach;../concepts/stomach-cancer.html Oral;../concepts/oral-cancer.html Skin;../concepts/skin.html Cervical;../concepts/cervix.html LaryngealCancer;../concepts/laryngeal-cancer.html Mesothelioma;../concepts/mesothelioma.html Thyroid;../concepts/thyroid.html HodgkinLymphoma;../concepts/hodgkin-lymphoma.html Testicular;../concepts/testis.html
    '0-10 0.00 0.00 0.00 0.00 0.00 0.00 0.08 0.00 0.17 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
