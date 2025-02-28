@@ -4,27 +4,25 @@ settings.scroll
 
 metaTags
 
-stumpNoSnippet
- link
-  rel stylesheet
-  type text/css
-  href BASE_URL/allStyles.css
- div
-  class trueBaseThemeHeader
-  a CancerDB
-   href BASE_URL/index.html
-   class trueBaseThemeLogo
-  a Blog
-   href BASE_URL/blog/index.html
-  a Concepts
-   href BASE_URL/list.html
-  a Explore
-   href BASE_URL/pages/explore.html
-  a Search
-   href BASE_URL/search.html
-  a CSV
-   href BASE_URL/csv.html
-  a Download
-   href BASE_URL/download.html
+BASE_URL/allStyles.css
+
+div
+ noSnippet
+ class trueBaseThemeHeader
+ a CancerDB
+  href BASE_URL/index.html
+  class trueBaseThemeLogo
+ a Blog
+  href BASE_URL/blog/index.html
+ a Concepts
+  href BASE_URL/list.html
+ a Explore
+  href BASE_URL/pages/explore.html
+ a Search
+  href BASE_URL/search.html
+ a CSV
+  href BASE_URL/csv.html
+ a Download
+  href BASE_URL/download.html
 
 editButton
