@@ -45,7 +45,6 @@ abstractConceptIdsMeasureParser
   }
   // todo: re-add the method to update these foreign keys if an ID changes.
 
-
 abstractDelimitedValuesBlobMeasureParser
  description A CSV, TSV, or other delimited blob of text.
  // todo: figure out how we want to dump these in CSV export.
@@ -53,6 +52,20 @@ abstractDelimitedValuesBlobMeasureParser
 abstractCodeMeasureParser
  extends abstractTextareaMeasureParser
  baseParser blobParser
+
+// socialMedia
+abstractSocialMediaParser
+ extends abstractUrlMeasureParser
+ // todo remove the need for the below from parsers
+ string sortKey abstractSocialMediaParser
+ contentKey url
+ float sortIndex 10
+abstractFollowersParser
+ // todo: clarify that 1 columnParser definition will equate to a max of 1 column in a TrueBase CSV.
+ // Extending an abstract parser with inScope parsers will not create new columns for each of those inScope parsers.
+ // We should either fix this or throw a warning or something if it occurs.
+ extends abstractIntegerMeasureParser
+ description How many followers on this platform does this account have?
 
 // amazon
 amazonParser
@@ -449,20 +462,6 @@ rumbleParser
  string sourceDomain rumble.com
  followersParser
   extends abstractFollowersParser
-
-// socialMedia
-abstractSocialMediaParser
- extends abstractUrlMeasureParser
- // todo remove the need for the below from parsers
- string sortKey abstractSocialMediaParser
- contentKey url
- float sortIndex 10
-abstractFollowersParser
- // todo: clarify that 1 columnParser definition will equate to a max of 1 column in a TrueBase CSV.
- // Extending an abstract parser with inScope parsers will not create new columns for each of those inScope parsers.
- // We should either fix this or throw a warning or something if it occurs.
- extends abstractIntegerMeasureParser
- description How many followers on this platform does this account have?
 
 // telegram
 telegramParser
