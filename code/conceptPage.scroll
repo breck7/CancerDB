@@ -1,12 +1,5 @@
 importOnly
 replace BASE_URL ..
-replaceJs TEMPLATE
- {
-  const code = codeAtStart.replace("../code/conceptPage.scroll\n", "");
-  const particle = new Particle(codeAtStart)
-  const template = `title ${particle.get("name")}\nprintTitle\ncode\n ${code.replace(/\n/g, "\n ")}`;
-  template;
- }
 tags All
 testStrict
 editBaseUrl https://github.com/breck7/CancerDB/blob/main/concepts/
@@ -17,6 +10,13 @@ keyboardNav
 
 ../header.scroll
 
-TEMPLATE
+container
+conceptTemplate
+ title {name}
+ printTitle
+ 
+ endSnippet
+ 
+ dumpConcept
 
 ../footer.scroll

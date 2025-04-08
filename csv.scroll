@@ -1,7 +1,6 @@
 buildConcepts cancerdb.csv cancerdb.json cancerdb.tsv
  sortBy -measurements
 buildMeasures measures.tsv measures.csv measures.json
-loadConcepts concepts
 title CancerDB.CSV
 
 rootHeader.scroll
@@ -20,6 +19,7 @@ Download the CancerDB ScrollSet as: CSV | TSV | JSON
  link cancerdb.json JSON
 
 code/measures.parsers
+loadConcepts concepts
 
 Statistics on the measures (columns) are below and can be downloaded as: CSV | TSV | JSON
  link measures.csv CSV
