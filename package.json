@@ -24,7 +24,7 @@
   "author": "Breck Yunits et al.",
   "homepage": "https://cancerdb.com",
   "devDependencies": {
-    "scroll-cli": "^177.0.0"
+    "scroll-cli": "^178.2.3"
   },
   "dependencies": {
     "dayjs": "^1.11.13"
